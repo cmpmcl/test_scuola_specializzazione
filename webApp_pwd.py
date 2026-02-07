@@ -9,7 +9,7 @@ from datetime import datetime
 # ===============================
 # Configurazione Pagina
 # ===============================
-st.set_page_config(page_title="🧠 Quiz Web Pro v4.0", layout="centered")
+st.set_page_config(page_title="🧠 Test Scuola di Specializzazione", layout="centered")
 
 # CSS per styling avanzato
 st.markdown("""
@@ -289,4 +289,5 @@ elif st.session_state.stato_quiz == 'fine':
         st.session_state.indice = 0
         st.session_state.risposte_date = {}
         st.session_state.mostra_feedback = False
+
         st.rerun()
