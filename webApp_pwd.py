@@ -43,7 +43,7 @@ def check_password():
     st.title("🔐 Accesso Riservato")
     st.write("Inserisci la password giornaliera per utilizzare l'applicazione.")
     
-    pwd_input = st.text_input("Password", type="password", placeholder="cucXXXX")
+    pwd_input = st.text_input("Password", type="password", placeholder="🖕🖕🖕🖕🖕🖕")
     
     if st.button("Sblocca Applicazione"):
         if pwd_input == password_corretta:
@@ -291,3 +291,4 @@ elif st.session_state.stato_quiz == 'fine':
         st.session_state.mostra_feedback = False
 
         st.rerun()
+
