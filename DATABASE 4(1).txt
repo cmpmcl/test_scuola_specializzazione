@@ -1,0 +1,2449 @@
+DOMANDA: 1 Quali dei seguenti esami di laboratorio possono essere considerati di prima istanza nella pancreatite acuta ?
+A) tripsinogeno
+B) elastasi e fosfolipasi
+C) amilasi e lipasi *
+D) colesterolo-esterasi
+E) insulinemia
+
+DOMANDA: 2 La clearance renale di una sostanza può essere calcolata conoscendo:
+A) la sua concentrazione urinaria, peso, età
+B) solo la sua concentrazione plasmatici
+C) le sue concentrazioni nel plasma e nelle urine ed il volume urinario (ml/min) *
+D) solo la sua composizione chimica
+E) concentrazione plasmatica, sesso, età
+
+DOMANDA: 3 I test di laboratorio utili per la valutazione del rischio cardiovascolare sono i seguenti eccetto:
+A) colesterolo totale
+B) acidi grassi liberi *
+C) trigliceridi
+D) colesterolo HDL
+E) colesterolo LDL
+
+DOMANDA: 4 La misura di quale componente lipidica è maggiormente inflenzata dal prelievo non a digiuno
+A) colesterolo totale
+B) colesterolo esterificato
+C) trigliceridi *
+D) colesterolo HDL
+E) colesterolo LDL
+
+DOMANDA: 5 Quale dei seguenti test di laboratorio è più specifico per la diagnosi di infarto del miocardio:
+A) mioglobina
+B) aspartatotransaminasi
+C) troponina I *
+D) lattato deidrogenasi (attività totale)
+E) creatinakinasi (attività totale)
+
+DOMANDA: 6 Indicare quali delle seguenti proteine o classi di proteine non è di sintesi epatica
+A) albumina
+B) ceruloplasmina
+C) transferrina
+D) immunoglobuline *
+E) aptoglobina
+
+DOMANDA: 7 Quale dei seguenti test di laboratorio è più indicato per il monitoraggio a lungo termine del paziente diabetico:
+A) glicosuria
+B) peptide-C
+C) fruttosamina
+D) emoglobina fetale
+E) emoglobina glicosilata *
+
+DOMANDA: 8 Quale tra le seguenti tecniche di biologia molecolare ha la maggiore sensibilità analitica per la identificazione di cellule leucemiche caratterizzate dalla presenza del gene ibrido BCR/ABL, e viene dunque utilizzata per la valutazione della malattia minima residua?
+A) Southern Blot
+B) Western Blot
+C) Northern Blot
+D) RT-PCR *
+E) la c) e la a)
+
+DOMANDA: 9 Quale tecnica viene impiegata per la diagnosi prenatale di fibrosi cistica, in una famiglia in cui è già nato un bambino malato, ma nei genitori non é conosciuta la mutazione specifica?
+A) PCR quantitativa
+B) Dot blot con oligonucleotidi allele-specifici (ASO)
+C) PCR multiplex
+D) Sequenza diretta dei due alleli del feto
+E) ricerca di polimorfismi associati al gene della fibrosi cistica *
+
+DOMANDA: 10 Quale dei seguenti campioni biologici non può essere impiegato per diagnosi di malattie genetiche ereditarie?
+A) Sangue + EDTA
+B) Villi coriali
+C) Cellule da campione bioptico
+D) Leucociti da sangue periferico
+E) eritrociti *
+
+DOMANDA: 11 La bilirubina nelle urine è presente:
+A) nell'ittero epatico (malattia di Gilbert)
+B) in condizioni fisiologiche dopo stress
+C) nell'ittero post-epatico (calcolosi biliare) *
+D) nell'ittero fisiologico del neonato
+E) nessuna delle risposte è esatta
+
+DOMANDA: 12 La presenza di anticorpi antiendomisio nel sangue è fortemente suggestiva di:
+A) tiroidite autoimmune
+B) cirrosi autoimmune
+C) pancreatite acuta
+D) morbo celiaco *
+E) nessuna delle risposte è esatta
+
+DOMANDA: 13 Quale delle seguenti proteine valutata nelle urine, anche in piccola concentrazione (20-200 mg/L) è suggestiva di nefropatia diabetica iniziale:
+A) aptoglobina
+B) IgE
+C) albumina *
+D) transferrina
+E) ceruloplasmina
+
+DOMANDA: 14 Quale dei seguenti parametri è frequentemente elevato nel sangue di un etilista cronico:
+A) vitamina D
+B) proteine totali
+C) GGT *
+D) proteina C reattiva
+E) albumina
+
+DOMANDA: 15 Per consuetudine l'intervallo di riferimento per un test di laboratorio rappresenta:
+A) l'ampiezza dell'intervallo nel quale rientrano il 100% dei valori misurati su di un campione di riferimento
+B) l'ampiezza dell'intervallo nel quale rientrano il 50% dei valori misurati su di un campione di riferimento
+C) l'ampiezza dell'intervallo nel quale rientrano il 95% dei valori misurati su di un campione di riferimento *
+D) l'ampiezza dell'intervallo nel quale rientrano il 99% dei valori misurati su di un campione di riferimento
+E) nessuna delle definizioni precedenti è esatta
+
+DOMANDA: 16 Quale delle seguenti considerazioni sugli isoenzimi della LATTATO DEIDROGENASI e' VERA:
+A) esistono 4 isoenzimi diversi
+B) alla composizione degli isoenzimi possono partecipare 3 diversi tipi di catene proteiche
+C) nessuna di quelle indicate
+D) si ritrovano incrementati nel plasma in particolari situazioni patologiche *
+E) ogni isoenzima e' costituito da 2 subunita' proteiche
+
+DOMANDA: 17 nel globulo rosso la principale fonte di energia è:
+A) l'ossidazione di acidi grassi a catena corta
+B) l'ossidazione dei corpi chetonici prodotti dal fegato e immessi in circolo
+C) l'utilizzazione di trigliceridi ceduti dalla lipoproteine plasmatiche
+D) l'utilizzazione degli amminoacidi a catena ramificata
+E) la glicolisi *
+
+DOMANDA: 18 L'acido tetraidrofolico può intervenire in reazioni di:
+A) racemizzazione
+B) metilazione *
+C) transaminazione
+D) ossidazione
+E) isomerizzazione
+
+DOMANDA: 19 Indicare l'affermazione esatta relativa al glucosio.
+A) è un costituente del saccarosio *
+B) solo l'isomero-L è trasportato nelle cellule dei mammiferi
+C) è presente generalmente in forma furanosica
+D) è un chetoesoso
+E) il carbonio-2 corrisponde all'atomo di carbonio anomerico
+
+DOMANDA: 20 Gli enzimi
+A) sono molecole di piccole dimensioni
+B) influiscono sull'equilibrio della reazione
+C) sono generalmente resistenti al calore
+D) sono sempre inibiti dal prodotto della reazione che catalizzano
+E) modificano la velocità di una reazione *
+
+DOMANDA: 21 Indicare l'affermazione CORRETTA. La glicogeno sintetasi:
+A) è particolarmente attiva nella forma fosforilata
+B) è attivata dal glucagone
+C) non è un enzima regolato
+D) è particolarmente attiva nella forma defosforilata *
+E) utilizza come substrato glucosio-1-P
+
+DOMANDA: 22 Quale delle seguenti affermazioni relative all'emoglobina e' FALSA:
+A) la globina che la costituisce e' dotata di struttura quaternaria
+B) l'andamento dell'interazione con l'ossigeno e' di tipo sigmoidale
+C) interagisce con l'ac.2,3-difosfoglicerico, che ne diminuisce l'affinita' per l'ossigeno
+D) contiene ferro trivalente in struttura eminica *
+E) la sua affinita' per l'ossigeno diminuisce al diminuire del pH
+
+DOMANDA: 23 Nella pancreatite quale delle seguenti attività enzimatiche c'è da aspettarsi aumentata nel siero:
+A) fosfatasi alcalina
+B) LDH tipo I
+C) CPK
+D) amilasi *
+E) fosfatasi acida
+
+DOMANDA: 24 Nella glicolisi, per ogni mole di glucosio, si formano:
+A) sei moli di fosfodiossiacetone
+B) due moli di NADH e quattro di GTP
+C) due moli di NADH e quattro di ATP *
+D) una mole di FADH2 e due di ATP
+E) una mole di NADH e una di FADH2
+
+DOMANDA: 25 Gli equivalenti riducenti per la sintesi degli acidi grassi sono forniti da:
+A) acido ascorbico
+B) NAD+
+C) acido lipoico
+D) FADH2
+E) NADPH + H+ *
+
+DOMANDA: 26 Una delle reazioni di riempimento del ciclo di Krebs (anaplerotiche) prevede la conversione di:
+A) acido citrico in acido ossalacetico e acetil CoA
+B) acido piruvico in acetil CoA
+C) acetil-CoA in acido piruvico
+D) acido piruvico in acido ossalacetico *
+E) acetil-CoA in malonilCoA
+
+DOMANDA: 27 In quanto tempo si esauriscono le scorte di fosfocreatina durante uno sforzo sovramassimale ?
+A) 4 minuti
+B) 30 minuti
+C) 4 ore
+D) 4 secondi *
+E) 4 giorni
+
+DOMANDA: 28 Il ferro nell'organismo umano
+A) viene depositato nei tessuti legato alla mioglobina
+B) si lega con difficoltà alle macromolecole
+C) si lega esclusivamente all'emoglobina
+D) si lega alle proteine solo se incorporato nella protoporfirina IX
+E) è coinvolto nel metabolismo dell'ossigeno *
+
+DOMANDA: 29 La tirosina contiene:
+A) un gruppo aldeidico
+B) una catena alifatica non contenente gruppi polari
+C) un anello benzenico *
+D) un anello piridinico
+E) un anello purinico
+
+DOMANDA: 30 Indicare l'affermazione corretta. Il malonil-CoA:
+A) è un precursore della sintesi del colesterolo
+B) si produce dalla deaminazione dell'acetil-CoA
+C) si ottiene per decarbossilazione dell'acetoacetil-CoA
+D) si forma durante la ossidazione degli acidi grassi
+E) è una molecola essenziale per la sintesi ex nvo degli acidi grassi *
+
+DOMANDA: 31 I trasportatori di elettroni della catena respiratoria, nei mitocondri, sono localizzati:
+A) sulla faccia interna della membrana esterna per garantire l'accesso immediato all'NADH proveniente dal citoplasma
+B) nello spazio intermembrana perché lì si crea un accumulo di metaboliti
+C) distribuiti tra la membrana esterna e quella interna
+D) nella matrice in quanto solubili
+E) sulla membrana interna *
+
+DOMANDA: 32 L'entrata nel sangue di GLUCAGONE e' seguita, tra l'altro, da elevazione del tasso glicemico. Questa elevazione e'dovuta ad eventi che si verificano nel fegato, e precisamente:
+A) all'attivazione della glucocinasi
+B) all'attivazione della nucleotidato-ciclico fosfodiesterasi
+C) all'aumento del tasso di acido adenilico-ciclico *
+D) all'inibizione dell'adenilato ciclasi
+E) all'inibizione della protein-cinasi cAMP-dipendente
+
+DOMANDA: 33 la renina è
+A) prodotta solo dalle cellule del sistema reticolo endoteliale del fegato
+B) un enzima proteolitico che trasforma l'angiotensinogeno in angiotensina *
+C) una proteasi che trasforma la caseina solubile in caseina insolubile
+D) un peptide che regola la capacità di filtrazione dei glomeruli
+E) un fattore ormonale che regola la produzione di urea
+
+DOMANDA: 34 La lattato deidrogenasi del muscolo scheletrico
+A) è una proteina monomerica
+B) è un enzima allosterico
+C) è localizzato nei mitocondri
+D) è l'enzima che limita la velocità della glicolisi
+E) è un isoenzima *
+
+DOMANDA: 35 Il porfobilinogeno è un precursore :
+A) della sintesi della riboflavina
+B) della sintesi del colesterolo
+C) della sintesi delle porfirine *
+D) della sintesi della biliverdina
+E) della sintesi degli acidi biliari
+
+DOMANDA: 36 L'ACIDO GLUCURONICO e':
+A) un intermedio della glicolisi
+B) un aminoacido
+C) utilizzato nella biosintesi delle basi pirimidiniche
+D) utilizzato per coniugare la bilirubina *
+E) un intermedio dello shunt dell'esoso monofosfato
+
+DOMANDA: 37 Dovendo studiare la fumarasi, quale delle seguenti frazioni subcellulari conviene utilizzare?
+A) Perossisomi
+B) Lisosomi
+C) Mitocondri *
+D) Citosol
+E) Microsomi
+
+DOMANDA: 38 il recettore per l'insulina:
+A) è un tetramero con due subunità alfa e due beta *
+B) è un recettore- canale ionico
+C) possiede una importante porzione lipidica
+D) possiede una parte nucleotidica nella porzione extracellulare
+E) possiede anche un sito che lega il calcio
+
+DOMANDA: 39 La creatina:
+A) Si trova nei globuli rossi
+B) E' un tripeptide contenente glutammato
+C) E' una proteina del tessuto muscolare
+D) Si trasforma in fosfocreatina tramite la reazione reversibile catalizzata dalla creatina chinasi *
+E) E' particolarmente presente nel fegato dove rappresenta una riserva di energia
+
+DOMANDA: 40 Gli ormoni
+A) attraversano tutti la membrana cellulare
+B) hanno un azione diretta sulle reazioni enzimatiche
+C) sono un gruppo di sostanze chimicamente omogenee
+D) hanno sempre recettori sulle membrane
+E) possono derivare sia da amminoacidi che da lipidi *
+
+DOMANDA: 41 Il metabolismo del calcio è regolato a livello ormonale da
+A) vitamina D *
+B) glucagone
+C) calmodulina
+D) insulina
+E) ormone tiroideo
+
+DOMANDA: 42 L'assorbimento intestinale del glucosio richiede l'intervento di un trasportatore che opera:
+A) per simporto con Na+ *
+B) per antiporto con K+
+C) per antiporto con Na+
+D) per diffusione semplice
+E) per simporto con K+
+
+DOMANDA: 43 I corpi chetonici
+A) contengono energia utilizzabile ai fini metabolici *
+B) fanno parte del doppio strato lipidico della membrana
+C) rappresentano un prodotto di scarto difficilmente utilizzabile
+D) vengono utilizzati dalle cellule per sintetizzare glucosio
+E) tendono a rendere basico il pH ematico
+
+DOMANDA: 44 Indicare l'affermazione esatta. L'ormone paratiroideo regola la concentrazione di ioni calcio nel sangue:
+A) aumentando l'assorbimento di calcio nell'intestino
+B) provocando l'accumulo di calcio nelle ossa
+C) aumentando l'escrezione di calcio nel rene
+D) provocando l'accumulo di fosfato nelle ossa
+E) aumentando l'escrezione di fosfato nel rene *
+
+DOMANDA: 45 l'insulina è:
+A) prodotta dalle isole glicosensibili delle surrenali
+B) un eterodimero tenuto insieme da due ponti disolfuro *
+C) una glicoproteina di grosse dimensioni
+D) anche uno stimolatore della mobolizzazione degli acidi grassi dal tessuto adiposo
+E) un polipeptide contenente idrossilisina e idrossiprolina
+
+DOMANDA: 46 L'energia per la sintesi di ATP si ottiene prevalentemente
+A) dal catabolismo delle proteine
+B) dalla fosforilazione ossidativa *
+C) dal processo di glicolisi
+D) attravero reazioni di fosforilazione a livello del substrato
+E) dall'idrolisi di molecole ad alto contenuto energetico
+
+DOMANDA: 47 I peptidi
+A) attraversano con facilità la membrana plasmatica
+B) si formano per polimerizzazione degli amminoacidi *
+C) sono privi di attività biologica
+D) si trovano solo all'interno delle cellule
+E) derivano esclusivamente dal catabolismo delle proteine
+
+DOMANDA: 48 La sintesi dell'urea nell'uomo
+A) avviene nel rene
+B) rappresenta il principale meccanismo per l'escrezione dell'azoto *
+C) si svolge senza la partecipazione di enzimi
+D) libera ammoniaca nei reni
+E) produce acido urico
+
+DOMANDA: 49 L'ossidazione completa delle quantità indicate dei seguenti composti produce in tutti i casi 18 CO2. Da quale un organismo ricava più energia?
+A) una mole di acido stearico (C 18) *
+B) 6 moli di glicerolo
+C) 3 moli di glucosio
+D) 6 moli di piruvato
+E) 9 moli di acetil-CoA, che è già una molecola ricca di energia
+
+DOMANDA: 50 Che cosa si intende per struttura primaria delle proteine?
+A) la sequenza degli amminoacidi che formano la proteina *
+B) il numero di amminoacidi che costituiscono la proteina
+C) il numero di subunità di una proteina
+D) la conformazione della proteina
+E) la percentuale dei vari amminoacidi
+
+DOMANDA: 51 Nella fermentazione alcolica, oltre all'etanolo, si ottiene principalmente:
+A) acido acetico
+B) acido succinico
+C) acido lattico
+D) glicerolo
+E) anidride carbonica *
+
+DOMANDA: 52 Il meccanismo d'azione dell'eparina è:
+A) effetto proteolitico sul fibrinogeno
+B) provocare ipofibrinogenemia
+C) conversione del fibrinogeno in microfibrina
+D) neutralizzazione della trombina e del fattore X attivato *
+E) nessuna delle azioni precedenti
+
+DOMANDA: 53 Quale dei seguenti composti è prodotto dalla decarbossilazione di un amminoacido?
+A) acido guanidinacetico
+B) glutammina
+C) istamina *
+D) glutatione
+E) spermidina
+
+DOMANDA: 54 Quale delle seguenti condizioni ematologiche predispone alla trombosi ?
+A) Diminuzione della trombina
+B) Diminuzione delle piastrine
+C) Diminuzione del fibrinogeno
+D) Aumento dell'albumina
+E) Aumento delle catecolamine *
+
+DOMANDA: 55 Quale delle seguenti affermazioni relative ai PROTEOGLICANI (mucopolisaccaridi) e' FALSA:
+A) nella loro porzione glicidica possono essere presenti acidi uronici
+B) sono componenti extracellulari del tessuto connettivo
+C) sono dei polianioni
+D) nessuna di quelle indicate *
+E) alcuni di essi contengono residui solforici
+
+DOMANDA: 56 L'acido glutammico
+A) E' un intermedio del ciclo di Krebs
+B) E' il tipico amminoacido lipogenetico
+C) Non è substrato di transaminasi
+D) Viene trasformato in acido alfa-chetoglutarico mediante una deaminazione ossidativa *
+E) E' un amminoacido essenziale
+
+DOMANDA: 57 l'azoto provenienete dal catabolismo proteico, nei mammiferi, viene elimnato come:
+A) ammidi biliari
+B) urea *
+C) ammoniaca
+D) acido urico
+E) poliammine
+
+DOMANDA: 58 La talassemia è dovuta a:
+A) autoanticorpi circolanti
+B) bassa concentrazione sierica di ferro
+C) aplasia del midollo osseo
+D) deficiente sintesi di catene globiniche alfa o beta dell'emoglobina *
+E) deficienza di vitamina B12
+
+DOMANDA: 59 La traslocazione degli ioni calcio attraverso una membrana avviene
+A) con il meccanismo del simporto
+B) mantenendo lo ione più concentrato all'interno della cellula
+C) senza il consumo di ATP
+D) in seguito a legame del complesso calcio-calmodulina al trasportatore *
+E) con il meccanismo del trasporto mediato passivo
+
+DOMANDA: 60 Quali sono i limiti fisiologici del pH del sangue?
+A) 7,35 - 7,45 *
+B) 7,28 - 7,46
+C) 7,38 - 7,50
+D) 7,24 - 7,44
+E) 7,30 - 7,40
+
+DOMANDA: 61 La sfingomielina è:
+A) un glicolipide del tessuto nervoso
+B) un fosfolipide particolarmente abbondante nelle VLDL
+C) una glicoproteina muscolare
+D) un proteolipide privo di cariche
+E) un fosfolipide contenente colina e un acido grasso *
+
+DOMANDA: 62 La carbossiemoglobina:
+A) si forma in seguito ad un processo ossidativo del Fe+2 con formazione di uno ione superossido
+B) deriva dal legame dell'emoglobina con monossido di carbonio *
+C) deriva dal legame dell'emoglobina con anidride carbonica
+D) può legare una sola molecola di ossigeno
+E) è contenuta nei mitocondri del tessuto muscolare
+
+DOMANDA: 63 Un elemento si riduce quando:
+A) Acqusta protoni
+B) Perde protoni
+C) Acquista elettroni *
+D) Il suo numero di ossidazione diventa più positivo
+E) Cede elettroni
+
+DOMANDA: 64 La lecitina-colesterolo acil transferasi (LCAT)
+A) trasferisce il colesterolo sulla lecitina
+B) nel cuore delle HDL condensa colesterolo e lecitina per aumentare la sua idrofobicità
+C) scambia lecitina e colesterolo tra HDL e LDL
+D) trasferisce i metili della lecitina al colesterolo
+E) alla superficie delle HDL converte lecitina e colesterolo libero in lisolecitina e colesterolo esterificato *
+
+DOMANDA: 65 Il citocromo c passa dallo stato ossidato allo stato ridotto:
+A) Mediante acquisizione di un elettrone *
+B) Mediante acquisto di idrogeno
+C) Mediante acquisizione di uno ione H
+D) Mediante acquisizione di un protone
+E) Mediate il rilascio di una molecola di ossigeno
+
+DOMANDA: 66 Indicare l'affermazione ESATA. I mineralcorticoidi sono sintetizzati a partire da:
+A) adrenalina
+B) ACTH
+C) colesterolo *
+D) metionina
+E) acido palmitico
+
+DOMANDA: 67 Indicare quale dei seguenti è un acido grasso essenziale:
+A) acido palmitoleico
+B) acido stearico
+C) acido arachidonico *
+D) acido palmitico
+E) acido oleico
+
+DOMANDA: 68 I coenzimi
+A) derivano dagli amminoacidi
+B) possono legarsi agli enzimi *
+C) sono di natura inorganica
+D) sono particolarmente resistenti al calore
+E) hanno la funzione di inibire gli enzimi
+
+DOMANDA: 69 La variazione della VELOCITA'DI REAZIONE in rapporto alla concentrazione del substrato per un ENZIMA NON ALLOSTERICO e' rappresentata da:
+A) nessuna di quelle indicate
+B) una curva sigmoidale
+C) una iperbole rettangolare *
+D) una curva di tipo esponenziale
+E) una retta passante per l'origine
+
+DOMANDA: 70 Quali cellule contengono grandi quantità di eparina ed istamina?
+A) linfociti
+B) leucociti polimorfonucleati
+C) leucociti eosinofili
+D) monociti
+E) basofili e mast-cellule *
+
+DOMANDA: 71 Indicare l'affermazione ERRATA. Gli enzimi allosterici:
+A) possono presentare una cooperatività negativa e positiva
+B) presentano una cinetica di reazione che segue l'equazione di Michaelis e Menten *
+C) presentano di solito una struttura quaternaria
+D) sono generalmente proteine oligomeriche
+E) in un grafico della velocità in funzione della concentrazione del substrato, la curva di attività ha, in genere, un andamento di tipo sigmoidale
+
+DOMANDA: 72 Quale delle seguenti affermazioni relative all'RNA MESSAGGERO è FALSA:
+A) e' in grado di associarsi ai ribosomi
+B) termina sempre, all'estremita' 3', con la sequenza nucleotidica CCA (citidina, citidina, adenina) *
+C) e' sintetizzato a livello nucleare
+D) possiede i "codon"
+E) e' costituito da una singola catena polinucleotidica
+
+DOMANDA: 73 In risposta all'abbassamento persistente della pressione parziale di ossigeno nell'ambiente atmosferico si osserva nel sangue:
+A) diminuzione della concentrazione del 2,3 difosfoglicerato
+B) aumento della concentrazione di metaemoglobina
+C) aumento del numero degli eritrociti circolanti *
+D) diminuzione dell'affinita' del 2,3 difosfoglicerato per l'emoglobina
+E) diminuzione della concentrazione del ferro
+
+DOMANDA: 74 Quale delle seguenti affermazioni è errata?
+A) L'enzima succinico deidrogenasi fa parte del ciclo di Krebs
+B) Il ciclo di Krebs ha localizzazione mitocondriale
+C) Nel ciclo di Krebs si producono CO2 e acqua *
+D) Il GTP formato nel ciclo di Krebs può essere utilizzato per fosforilare l'ADP in ATP
+E) Nel ciclo di Krebs si producono coenzimi ridotti
+
+DOMANDA: 75 l'ATP viene prodotto da ADP + Pi:
+A) con consumo di energia proveniente direttamente dalla glicolisi
+B) utilizzando l'energia prodotta dalle reazioni di ossidazione nei lisosomi
+C) sfruttando l'energia del gradiente elettrochimico prodotto dalla catena respiratoria *
+D) senza particolare consumo di energia
+E) utilizzando l'energia della pompa del sodio
+
+DOMANDA: 76 Quale delle seguenti affermazioni a proposito del CITRATO è corretta?
+A) è un attivatore allosterico della fosfofruttocinasi
+B) è un corpo chetonico
+C) è utilizzato nel mitocondrio per formare colesterolo
+D) è trasformato in isocitrato nel ciclo di Krebs tramite una reazione di ossidoriduzione
+E) è scisso nel citoplasma in acetilCoA e ossalacetato in presenza di ATP *
+
+DOMANDA: 77 Quale dei sottoelencati enzimi o sistemi enzimatici NON interviene nel CICLO DI KREBS:
+A) malato deidrogenasi
+B) succinato deidrogenasi
+C) alfa-chetoglutarato deidrogenasi
+D) piruvato deidrogenasi *
+E) fumarato idratasi (fumarasi)
+
+DOMANDA: 78 La bilirubina non coniugata del siero è aumentata:
+A) nella epatite acuta
+B) nell'ittero emolitico costituzionale
+C) nel favismo
+D) nella sindrome di Gilbert
+E) in tutte le condizioni elencate *
+
+DOMANDA: 79 Quale delle seguenti affermazioni è vera, riguardo l'amiloide ?
+A) Le prime aree colpite sono perivascolari *
+B) La proteina presente nella amiloidosi secondaria è correlata a quella dell'amiloidosi primaria
+C) La colorazione col Sudan V è la più usata per fare diagnosi
+D) La amiloidosi primaria è costituita da ammassi di proteine globulari
+E) La proteina presente nella forma di amiloide associata al mieloma multiplo è omologa alla porzione costante delle catene leggere delle immunoglobuline
+
+DOMANDA: 80 Contengono ceramide:
+A) l'acido sialico
+B) gli sfingolipidi *
+C) i fosfogliceridi
+D) acido N-acetilneuroamminico
+E) il glicogeno
+
+DOMANDA: 81 dall'acido pantotenico deriva:
+A) la metionina
+B) il coenzima Q
+C) il retinale e il retinolo
+D) il coenzima A *
+E) il glutatione
+
+DOMANDA: 82 l'eparina è:
+A) una peptide necessario per la formaziona del coagulo
+B) una proteina che regola la produzione epatica della bile
+C) una cromoproteina
+D) una liporpoteina
+E) un proteoglicano *
+
+DOMANDA: 83 Le cellule dei mammiferi possono introdurre doppi legami nelle molecole degli acidi grassi?
+A) sì, ma solo sul C carbossilico
+B) sì, ma solo sul C9-C10 *
+C) no
+D) sì ma solo oltre il C 9
+E) sì, in qualunque posizione
+
+DOMANDA: 84 leucina, isoleucina e valina
+A) sono amminoacidi a catena ramificata e sono essenziali *
+B) sono i precursori delle varie classi di melanine
+C) possono essere sintetizzati ma solo dalle cellule del SNC
+D) sono amminoacidi aromatici
+E) sono particolarmente abbondanti nella bile
+
+DOMANDA: 85 Il ciclo dell'urea:
+A) Utilizza carbamilfosfato che si sintetizza a partire da glutammina e CO2
+B) Produce urea la cui formula è NH2-CH2-NH2
+C) Produce urea necessaria per la sintesi delle basi puriniche
+D) E' un processo ciclico che sintetizza urea nel rene
+E) E' una via metabolica tipicamente epatica *
+
+DOMANDA: 86 La digestione dell'amido avviene:
+A) Nel lume intestinale con formazione di maltosio, maltotrioso e destrine limite *
+B) All'interno delle cellule della mucosa intestinale
+C) Con produzione di disaccaridi che vengono scissi dalle lattasi intestinali
+D) Per azione della alfa-amilasi che è una esonucleasi prodotta dal pancreas
+E) A pH acidi a livello dello stomaco
+
+DOMANDA: 87 Quale dei seguenti metaboliti NON e' un intermedio nella via dei PENTOSO FOSFATI:
+A) ribulosio-5-fosfato
+B) acido 6-fosfo-gluconico
+C) acido glucuronico-1-fosfato *
+D) xilulosio-5-fosfato
+E) 6-fosfoglucono-lattone
+
+DOMANDA: 88 sono prodotti del catabolismo dell'eme
+A) la emosiderina
+B) il porfobilinogeno
+C) la carbossiemoglobina
+D) gli acidi biliari
+E) la bilirubina *
+
+DOMANDA: 89 Gli inibitori competitivi degli enzimi:
+A) si legano al substrato
+B) si legano ad un sito allosterico
+C) si legano al complesso ES
+D) non si legano all'enzima
+E) si legano al sito attivo dell'enzima *
+
+DOMANDA: 90 In generale in una cellula il numero di recettori ormonali funzionanti di un certo tipo:
+A) è casuale
+B) dipende dalla velocità del metabolismo basale del soggetto
+C) è prederminato alla nascita e non varia nel corso della vita
+D) può essere regolato fisiologicamenteo ed essere influenzato da malattie o agenti farmacologici *
+E) dipende dalla percentuale di colesterolo della membrana callulare, e quindi dalla sua fluidità, che ne condiziona la stabilità
+
+DOMANDA: 91 Segnalare quale enzima non partecipa alla formazione di urea:
+A) ornitina carbamiltransferasi
+B) carbamilfosfato sintetasi
+C) isocitrico deidrogenasi *
+D) arginasi
+E) argininsuccinico liasi
+
+DOMANDA: 92 La fosfofruttochinasi, uno degli enzimi sui quali si esercita la regolazione della glicolisi, è:
+A) un enzima inibito dal glucosio-1-P
+B) un enzima stimolato da fosfoenolpiruvato
+C) un enzima allosterico inibito dall'ATP e stimolato dall'AMP *
+D) un enzima inibito dall'acido lattico
+E) un enzima stimolato dal citrato
+
+DOMANDA: 93 Quale dei seguenti ormoni interagisce con un recettore di membrana:
+A) progesterone
+B) triiodotironina
+C) testosterone
+D) acido retinoico
+E) insulina *
+
+DOMANDA: 94 Quale delle seguenti affermazioni riguardanti la teoria chemio-osmotica della fosforilazione ossidativa è falsa?
+A) il rientro dei protoni nella matrice e la sintesi di ATP sono mediati dal complesso della ATP sintetasi
+B) il trasporto di protoni attraverso la membrana mitocondriale interna(MMI) rende la matrice più acida rispetto alla spazio intermembrana *
+C) il gradiente elettrochimico è determinato da 2 componenti: differenza di potenziale elettrico e differenza di pH ai due lati della MMI
+D) l'energia rilasciata dal flusso di elettroni nella catena respiratoria è utilizzata per la traslocazione di protoni dalla matrice mitocondriale allo spazio intermembrana
+E) il flusso di elettroni determina un gradiente elettrochimico attraverso la MMIi
+
+DOMANDA: 95 Indicare l'affermazione esatta. La beta-ossidazione di un acido grasso a numero dispari di atomi di carbonio:
+A) produce propionil CoA *
+B) utilizza solo acidi grassi insaturi
+C) avviene nel citosol
+D) produce malonil CoA
+E) produce solo acetil CoA
+
+DOMANDA: 96 Quale dei seguenti raggruppamenti di amminoacidi contiene il maggior numero di AMMINOACIDI ESSENZIALI:
+A) ac.glutammico, serina, alanina, ac.aspartico, triptofano
+B) alanina, glicina, ac.aspartico, ac.glutammico, arginina
+C) triptofano, alanina, prolina, ac.glutammico, ac.aspartico
+D) fenilalanina, triptofano, metionina, lisina, ac.aspartico *
+E) tirosina, fenilalanina, glicina, serina, ac.aspartico
+
+DOMANDA: 97 I mitocondri
+A) risultano impermeabili ad ossigeno ed anidride carbonica
+B) sono presenti anche nelle cellule di procarioti
+C) sono particolarmente permeabili a metaboliti e cofattori
+D) sono presenti in tutte le cellule di eucarioti
+E) possono variare come numero nei diversi tessuti *
+
+DOMANDA: 98 Quale fra i seguenti è il coenzima della lattico deidrogenasi?
+A) Ubichinone
+B) NADPH +H+
+C) NADH + H+ *
+D) FAD
+E) Acido lipoico
+
+DOMANDA: 99 Qual è il polisaccaride di riserva presente nei tessuti animali?
+A) amido
+B) saccarosio
+C) amilosio
+D) glicogeno *
+E) destrano
+
+DOMANDA: 100 la regolazione della piruvico deidrogenasi dipende da:
+A) disponibilità di ossalacetato
+B) concentrazione degli ioni potassio
+C) attività della piruvico deidrogenasi chinasi *
+D) disponibilità di propionil-CoA
+E) concentrazione di corpi chetonici
+
+DOMANDA: 101 Nel diabete mellito, la chetosi è provocata da:
+A) Una riduzione della gluconeogenesi
+B) Un diminuito catabolismo del glucosio *
+C) Un diminuito catabolismo proteico
+D) Un aumento della liposintesi
+E) Una diminuita glicogenolisi
+
+DOMANDA: 102 Il lattosio introdotto con la dieta:
+A) viene assorbito come tale e trasformato in glucosio e galattosio a livello epatico
+B) viene idrolizzato a glucosio e galattosio da enzimi di membrana presenti nelle cellule della mucosa intestinale *
+C) viene digerito da enzimi presenti nel succo pancreatico
+D) presentando un legame beta glicosidico non può essere idrolizzato
+E) è il tipico zucchero della frutta
+
+DOMANDA: 103 Nei tessuti umani, quale dei seguenti enzimi può demolire il glicogeno?
+A) lattasi
+B) saccarasi
+C) glicogeno ossidasi
+D) glicogeno fosforilasi *
+E) glicogeno liasi
+
+DOMANDA: 104 il ferro è trasportato nei liquidi dell'organismo:
+A) legato all'eme
+B) nella forma ferrica *
+C) legato agli -SH dell'albumina
+D) legato alle immunoglobuline
+E) legato alla ferritina
+
+DOMANDA: 105 Qual è la differenza tra la reazione di precipitazione e quella di agglutinazione ?
+A) nella precipitazione interviene il sistema complementare
+B) nella precipitazione l'antigene è di natura solubile *
+C) La precipitazione si realizza in tempi molto più lunghi
+D) nella precipitazione l'antigene è di natura corpuscolata
+E) nella precipitazione le immunoglobuline che partecipano alla formazione dell'immuno-complesso sono IgA
+
+DOMANDA: 106 la carnitina serve per:
+A) il trasporto degli acidi grassi attivati all'interno dei mitocondri *
+B) produrre la mioglobina della quale è un precursore
+C) il deposito degli acidi grassi nel tessuto adiposo
+D) fissare la catena in formazione durante la sintesi degli acidi grassi
+E) fungere da magazzino di energia nel tessuto muscolare
+
+DOMANDA: 107 Quale delle seguenti affermazioni riguardanti la F0 - F1 ATPasi non è corretta:
+A) riduce l'ossigeno ad acqua *
+B) è formata da diverse subunità
+C) è inibita dall'oligomicina
+D) può catalizzare anche la reazione di idrolisi dell'ATP
+E) consente il passaggio di protoni dal lato citoplasmatico al lato matrice
+
+DOMANDA: 108 L'acido tetraidrofolico è:
+A) un trasportatore di unità monocarboniose *
+B) una vitamina liposolubile
+C) un cofattore necessario al funzionamento di alcune chinasi
+D) un fattore della coagulazione
+E) un agente ossidante citoplasmatico
+
+DOMANDA: 109 La molecola dell'ATP NON contiene:
+A) Adenosina
+B) Un legame anidridico
+C) Un legame N-glicosidico
+D) Un legame tioestereo *
+E) Ribosio
+
+DOMANDA: 110 Un inibitore di tipo competitivo:
+A) Mantiene costante il rapporto Km/Vmax
+B) Ha una struttura molto diversa da quella del substrato
+C) Interagisce con un sito allosterico dell'enzima
+D) Agisce abbassando la Vmax della reazione enzimatica
+E) Rispetto alla reazione non inibita fa variare la Km, ma non la Vmax *
+
+DOMANDA: 111 La trasformazione del 7-deidrocolesterolo in colecalciferolo avviene:
+A) nel rene
+B) nei reticolociti
+C) nella cute *
+D) nei polmoni
+E) nella cornea
+
+DOMANDA: 112 Il glucagone è un ormone che
+A) è un ormone di natura steroidea
+B) viene secreto in seguito ad un pasto ricco di carboidrati
+C) viene rilasciato dalle cellule beta del pancreas
+D) agisce a livello del tessuto epatico e del tessuto adiposo *
+E) attraversa con facilità la membrana plasmatica
+
+DOMANDA: 113 L'istidina è convertita ad istamina mediante una reazione di:
+A) metilazione
+B) idrossilazione
+C) riduzione con NADH
+D) decarbossilazione *
+E) transaminazione
+
+DOMANDA: 114 Demenza, dermatite e diarrea si hanno nella:
+A) deficienza di nicotinamide *
+B) deficienza di vitamina D
+C) deficienza di tiamina
+D) deficienza di vitamina B1
+E) deficienza di vitamina K
+
+DOMANDA: 115 Nel globulo rosso maturo, il NADH +H+ formato nel processo glicolitico viene riossidato:
+A) Dall'ossigeno contenuto nel globulo rosso
+B) Dalla glucosio-6-fosfato deidrogenasi
+C) Da un enzima che ha come substrato il diidrossiacetonefosfato
+D) Dall'enzima lattico deidrogenasi *
+E) Direttamente dal 1° complesso della catena respiratoria mitocondriale
+
+DOMANDA: 116 Quale delle seguenti affermazioni relative all'INIBIZIONE ENZIMATICA e' FALSA:
+A) l'inibizione non competitiva non viene rimossa dall'elevazione della concentrazione del substrato
+B) nell'inibizione competitiva non si modifica la Vmax ma risulta incrementata la Km
+C) nell'inibizione competitiva si ha competizione fra inibitore e substrato per il sito allosterico dell'enzima *
+D) la caratteristica dell'inibizione competitiva e' la sua reversibilita' per aumento della concentrazione del substrato
+E) nell'inibizione non competitiva non si modifica la Km ma risulta diminuita la Vmax
+
+DOMANDA: 117 L'anemia megaloblastica può essere dovuta a:
+A) deficienza di vitamina B12 *
+B) autoanticorpi circolanti
+C) deficiente sintesi di catene globiniche alfa o beta dell'emoglobina
+D) bassa concentrazione sierica di ferro
+E) aplasia del midollo osseo
+
+DOMANDA: 118 Quali cellule assumono glucoso con un meccanismo di trasporto non insulino-dipendente?
+A) cellule del cervello *
+B) cellule cardiache
+C) nessuna di quelle indicate
+D) cellule dei muscoli
+E) cellule del tessuto adiposo
+
+DOMANDA: 119 dal piruvato possono derivare direttamente:
+A) malonato e glutammato
+B) lattoni di varia lunghezza
+C) citrato, propionil-CoA e succinil-CoA
+D) lattato, acetil-CoA, ossaloacetato, alanina *
+E) diossiacetone e aldeide glicerica
+
+DOMANDA: 120 La FENILCHETONURIA è una grave malattia dovuta a:
+A) un difetto genetico dell'enzima che catalizza la deaminazione ossidativa della fenilalanina
+B) scarso apporto alimentare di tirosina
+C) scarso apporto alimentare di fenilalanina
+D) un difetto genetico dell'enzima implicato nell'assorbimento intestinale degli aminoacidi
+E) un difetto genetico dell'enzima che trasforma la fenilalanina in tirosina *
+
+DOMANDA: 121 Il processo della decarbossilazione ossidativa del piruvato richiede anche l'intervento di:
+A) biotina
+B) difosfotiamina *
+C) sarcosina
+D) piridossalfosfato
+E) riboflavina
+
+DOMANDA: 122 Il prodotto terminale del catabolismo purinico negli uomini è:
+A) acido urico *
+B) allantoina
+C) urea
+D) creatinina
+E) ammoniaca
+
+DOMANDA: 123 Per quanto concerne l'azione dell'INSULINA, quale delle seguenti affermazioni è VERA?
+A) agisce sugli adipociti attivando la lipasi endocellulare ormone-sensibile
+B) inibisce la glicogenosintesi a livello muscolare ed epatico
+C) agisce sugli epatociti inducendo la sintesi della glucocinasi *
+D) inibisce la glicolisi
+E) inibisce la fosfodiesterasi e attiva l'adenilico-ciclasi
+
+DOMANDA: 124 Il grasso bruno
+A) contiene mitocondri simili a quelli del tessuto muscolare
+B) immette in circolo acidi grassi in seguito a stimolazione nervosa
+C) immagazzina glucidi e lipidi
+D) è più ricco di mitocondri rispetto al normale tessuto adiposo *
+E) causa una diminuzione della temperatura corporea
+
+DOMANDA: 125 Il ciclo di Krebs permette
+A) la formazione di coenzimi NADP ridotti
+B) l'utilizzazione dell'ossalacetato per la gluconeogenesi
+C) la trasformazione di AcetilCoA in composti glucidici
+D) la riossidazione di coenzimi piridinici
+E) l'ossidazione di AcetilCoA ad anidride carbonica e acqua *
+
+DOMANDA: 126 Qual è l'immediato precursore metabolico nella sintesi dell'acetoacetato?
+A) acido betaidrossibutirrico
+B) beta-idrossi-beta-metilglutarilCoA *
+C) succinilCoA
+D) acetilCoA
+E) acido acetico
+
+DOMANDA: 127 Indicare quale dei seguenti fattori NON influisce, in genere, sulla velocita'di MIGRAZIONE ELETTROFORETICA di una proteina:
+A) peso molecolare
+B) conformazione della molecola
+C) attivita' enzimatica *
+D) punto isoelettrico
+E) carica elettrica
+
+DOMANDA: 128 Un enzima di restrizione è:
+A) una endonucleasi che taglia il DNA a doppia elica in corrispondenza di sequenze specifiche *
+B) un enzima che interviene durante la sintesi proteica
+C) una endonucleasi che taglia il DNA a singola elica in corrispondenz di specifiche sequenze
+D) una endonucleasi che elimina gli errori verficatisi durante la sintesi del DNA
+E) un enzima che interviene nel processo di riparazione del DNA
+
+DOMANDA: 129 Il glucosio-6P
+A) viene trasportato dal fegato a tutti gli altri tessuti
+B) si accumula come tale nelle cellule
+C) può essere metabolizzato solo attraverso la glicolisi
+D) rappresenta la forma metabolicamente attiva del glucosio *
+E) è un estere fosforico ad alta energia
+
+DOMANDA: 130 La spectrina è:
+A) una lipoproteina di trasporto del plasma
+B) una proteina della membrana eritrocitaria *
+C) la banda spettrale degli amminoacidi aromatici delle proteine
+D) lo spettro di assorbimento di una proteina
+E) un glicolipide di membrana
+
+DOMANDA: 131 Sottoponendo due proteine (A e B) ad elettroforesi per un tempo adeguato utilizzando un tampone a pH = 7.0, che tipo di migrazione si osserva sapendo che il punto isoelettrico della proteina A è 5.5 mentre quello della protena B è 8.5 ?
+A) migrano entrambe verso il polo positivo (anodo)
+B) la proteina A migra al polo positivo (anodo) mentre la proteina B non presenta alcuna migrazione
+C) la proteina A migra al polo negativo (catodo) e la proteina B a quello positivo (anodo)
+D) migrano entrambe al catodo o all'anodo a seconda della forza ionica del mezzo
+E) la proteina A migra al polo positivo (anodo) e la proteina B a quello negativo (catodo) *
+
+DOMANDA: 132 Alcuni mRNA vengono tradotti da ribosomi liberi nel citoplasma, altri da ribosomi aderenti alla membrana del reticolo endoplasmatico. Questo diverso comportamento è dovuto a:
+A) nessuna della cause proposte
+B) sequenza della proteina tradotta *
+C) attività di proteine citpolasmatiche
+D) casualità
+E) tipo di ribosomi coinvolti nella trascrizione
+
+DOMANDA: 133 Nell'uomo è possibile convertire
+A) la fenilalanina in tirosina *
+B) il piruvato in leucina
+C) l'ossalacetato in valina
+D) l'acido aspartico in isoleucina
+E) l'arginina in lisina
+
+DOMANDA: 134 Il piridossalfosfato contiene:
+A) Un anello piridinico *
+B) Un anello benzenico
+C) Una struttura non aromatica
+D) Un anello purinico
+E) Un legame anidridico
+
+DOMANDA: 135 La Km di una reazione enzimatica:
+A) E' in relazione alla costante di equilibrio del processo enzimatico
+B) Aumenta all'aumentare della concentrazione dell'enzima
+C) E' un indicatore della specificità dell'enzima
+D) E' indipendente dalla concentrazione dell'enzima *
+E) E' espressione dell'affinità dell'enzima per il substrato: un suo aumento indica aumento dell'affinità
+
+DOMANDA: 136 Le ammine biogene si formano dagli amminoacidi:
+A) Per decarbossilazione *
+B) Per mezzo di una reazione di deaminazione ossidativa
+C) Per idrolisi
+D) Per mezzo di una reazione di transaminazione
+E) Attraverso una reazione non enzimatica
+
+DOMANDA: 137 Per il corretto trasporto dell'ossigeno il ferro dell'emoglobina deve essere:
+A) deve essere allo stato metallico
+B) deve legare acqua
+C) ferroso *
+D) deve prima legare la C02
+E) ferrico
+
+DOMANDA: 138 A cosa sono dovute le talassemie?
+A) alla presenza di metaemoglobina
+B) ad una diminuzione del numero di subunità
+C) a un difetto nella sintesi dell'emoglobina *
+D) alla presenza di emoglobina glicata
+E) alla presenza di emoglobina A2
+
+DOMANDA: 139 Indicare la struttura chimica relativa alle prostaglandine
+A) acidi grassi insaturi
+B) acidi grassi saturi
+C) fosfolipidi
+D) acidi grassi ciclici *
+E) proteine
+
+DOMANDA: 140 I complessi lipoproteici
+A) contengono esclusivamente triacilgliceroli e proteine
+B) trasportano energia sotto forma di lipidi *
+C) provengono esclusivamente dalla dieta alimentare
+D) si formano solo nel fegato
+E) contengono prevalentemente colesterolo
+
+DOMANDA: 141 Quale dei seguenti composti NON può essere utilizzato per la gluconeogenesi?
+A) acido lattico
+B) leucina *
+C) glicerolo
+D) acido glutammico
+E) acido fumarico
+
+DOMANDA: 142 Quale delle seguenti affermazioni a proposito dei corpi chetonici è corretta?
+A) se si formano in eccesso, vengono eliminati nei lisosomi
+B) possono essere sintetizzati a partire dal HMGCoA citoplasmatico
+C) si formano solo quando l'ossidazione degli acidi grassi è bloccata
+D) possono essere sintetizzati completamente nel citoplasma
+E) non vengono utilizzati dal fegato a fini energetici *
+
+DOMANDA: 143 Quale delle affermazioni sottoriportate è FALSA?
+A) la trasformazione del fruttosio-1,6-difosfato in 3-fosfogliceraldeide e diidrossiacetonfosfato è catalizzata da una fosfatasi *
+B) la trasformazione del fruttosio-1,6-difosfato in fruttosio-6-fosfato e' catalizzata da una fosfatasi
+C) la formazione del complesso aminoacil-RNAtransfer è catalizzata da una sintetasi
+D) la trasformazione del lattato in piruvato è' catalizzata da una deidrogenasi
+E) la trasformazione del glicerolo in glicerolfosfato è catalizzata da una cinasi
+
+DOMANDA: 144 Nella chetoacidosi dibetica, i tessuti extraepatici metabolizzano l'acido acetoacetico formando come primo metabolita uno dei seguenti composti. Quale?
+A) acido acetico
+B) acetone
+C) colesterolo
+D) HMG-CoA (beta-idrossi-beta-metilglutarilCoA)
+E) acetoacetil-CoA *
+
+DOMANDA: 145 l'insulina è anche:
+A) uno stimolatore della proteinchinasi C
+B) uno stimolatore della guanilato ciclasi
+C) un fattore che induce un aumento dei livelli tissutali di AMPc
+D) uno stimolatore della lipasi adipolitica
+E) un forte inibitore della lipolisi nel fegato e nel tessuto adiposo *
+
+DOMANDA: 146 Quale delle seguenti affermazioni riguardanti la trasferrina è vera ?
+A) E' una proteina plasmatica coinvolta nel trasporto aspecifico di metalli
+B) E' una beta 1 glicoproteina coinvolta nel trasporto del ferro *
+C) E' una gamma-globulina importante per il trasporto del ferro
+D) E' una proteina oligomerica composta di numerose subunità
+E) E' una beta-globulina importante nel deposito del ferro
+
+DOMANDA: 147 Indicare l'affermazione errata. L'acido arachidonico:
+A) è utilizzato per la sintesi di trombossani e leucotrieni
+B) contiene quattro doppi legami
+C) è idrolizzato dai fosfolipidi di membrana mediante una fosfolipasi
+D) è un precursore nella sintesi di prostaglandine in un processo stimolato dall'aspirina *
+E) deriva dall'acido linoleico
+
+DOMANDA: 148 Quale dei seguenti aminoacidi puo' formarsi per TRANSAMINAZIONE di un metabolita del ciclo di Krebs:
+A) serina
+B) fenilalanina
+C) alanina
+D) glicina
+E) acido aspartico *
+
+DOMANDA: 149 Qual è l'amminoacido prevalentemente utilizzato nel fegato per la gluconeogenesi?
+A) istidina
+B) alanina *
+C) fenilalanina
+D) arginina
+E) leucina
+
+DOMANDA: 150 Per una delle seguenti sindromi poliuriche la prova della sete, consistente nella sospensione della ingestione di liquidi per alcune ore, deve essere eseguita con molta prudenza (pericolo di vita per il malato):
+A) potomania
+B) poliuria primaria
+C) diabete insipido vero *
+D) diabete mellito
+E) polidipsia primaria
+
+DOMANDA: 151 La liberazione dell'ossigeno da parte dell'EMOGLOBINA a livello dei tessuti periferici e' favorita da:
+A) nessuna delle condizioni indicate
+B) innalzamento del pH
+C) abbassamento del pH *
+D) elevata concentrazione intracellulare di ATP
+E) elevata pressione parziale di ossigeno
+
+DOMANDA: 152 Nel trattamento del morbo di Parkinson con l'aminoacido DOPA non si deve assumere un complesso polivitaminico contenente una vitamina che aumenta il metabolismo della DOPA. Qual è questa vitamina:
+A) Piridossina *
+B) Niacina
+C) Riboflavina
+D) Biotina
+E) Tiamina
+
+DOMANDA: 153 Indicare l'affermazione corretta. La glicerolo chinasi:
+A) è un enzima del quale è ricco il tessuto adiposo
+B) è un enzima glicolitico
+C) fa parte del meccanismo che permette l'assorbimento dei trigliceridi alimentari
+D) trasforma la aldeide 3-P-glicerica in alfaglicerofosfato e viceversa
+E) è importante per la sintesi dei trigliceridi *
+
+DOMANDA: 154 L'idrolisi dell'AMP ciclico è catalizzata da:
+A) una fosfodiesterasi *
+B) una AMPasi
+C) una perossidasi
+D) una defosforilasi
+E) una nucleotide deciclasi
+
+DOMANDA: 155 Quale delle seguenti affermazioni riguardanti l'ubichinone è corretta?
+A) E' una molecola liposolubile *
+B) E' il trasportatore mobile di elettroni tra il complesso III (citocromo c reduttasi) e il complesso IV (citocromo ossidasi) della catena respiratoria
+C) Contiene Fe
+D) E' una molecola della matrice mitocondriale
+E) E' una vitamina
+
+DOMANDA: 156 le HDL:
+A) possono essere trasformate in chilomicroni prendendo trigliceridi dal tessuto adiposo
+B) nella forma nascente vengono prodotte dagli adipociti
+C) si formano anche a livello pancreatico
+D) possono essere ricavate anche dai chilomicroni *
+E) hanno esattamente le stesse apoproteine delle VLDL
+
+DOMANDA: 157 Il cortisolo ha i seguenti effetti ECCETTO UNO:
+A) attiva la gluconeogenesi
+B) esercita un effetto antinfiammatorio
+C) stimola il rilascio di glicerolo ed acidi grassi dal tessuto adiposo
+D) stimola il catabolismo proteico nel muscolo
+E) attiva la glicolisi *
+
+DOMANDA: 158 L'acqua può essere addizionata a un doppio legame C=C (senza rottura del legame C-C) da uno dei seguenti enzimi:
+A) Catalasi
+B) Idroliasi *
+C) Esterasi
+D) Idrolasi
+E) Ossidoreduttasi
+
+DOMANDA: 159 Le molecole che si legano al sito allosterico di un enzima
+A) fanno variare la costante di equilibrio della reazione
+B) derivano dalle vitamine liposolubili
+C) possono modificare l'affinità dell'enzima per il substrato *
+D) si legano con legami covalenti
+E) hanno solo effetti di inibizione dell'attività enzimatica
+
+DOMANDA: 160 Quale dei seguenti eventi e' incrementato a livello epatico durante il digiuno prolungato :
+A) glicolisi
+B) sintesi ex-novo di acidi grassi
+C) shunt dell'esosomonofosfato
+D) gluconeogenesi *
+E) sintesi del colesterolo
+
+DOMANDA: 161 Il colesterolo è:
+A) il precursore degli ormoni steroidei *
+B) una sostanza idrosolubile
+C) assente nelle membrane cellulari
+D) un acido grasso a 27 atomi di carbonio
+E) un alcool ciclico poliinsaturo
+
+DOMANDA: 162 Quale delle seguenti affermazioni relative al GLICOGENO e' FALSA :
+A) possiede legami (1--->4) e (1--->6) alfa-glicosidici
+B) il glicogeno epatico e' una riserva di glucosio a disposizione dell'intero organismo
+C) il glicogeno e' presente, anche se in piccole concentrazioni, in tutte le cellule dell'organismo
+D) e' un eteropolisaccaride *
+E) il glicogeno muscolare e' una riserva di glucosio esclusivamente per la cellula muscolare
+
+DOMANDA: 163 L'idrolisi dei trigliceridi nell'adipocita:
+A) E' particolarmente attiva in condizioni post-prandiali
+B) E' attiva in presenza di insulina
+C) Produce acidi grassi che sono trasportati dai chilomicroni del plasma
+D) E' catalizzata dalla lipasi pancreatica
+E) E' catalizzata da una lipasi ormono-sensibile *
+
+DOMANDA: 164 Durante la sintesi ex novo degli acidi grassi:
+A) si produce NADH
+B) si consuma NADPH *
+C) si consuma ossigeno
+D) si utilizza piridossalfosfato
+E) si produce acetil-CoA
+
+DOMANDA: 165 Il complesso III della catena respiratoria trasferisce elettroni dal:
+A) dal FADH2 al coenzima Q
+B) dal succinato al coenzima Q
+C) dal citocromo a all'ossigeno
+D) dal NADH + H+ al coenzima Q
+E) coenzima Q al citocromo C *
+
+DOMANDA: 166 il fegato ricava gli acidi biliari:
+A) dall'emoglobina via bilirubina
+B) dalle melanine
+C) dai pigmenti presenti negli alimenti ingerriti
+D) dagli ormoni steroidei
+E) dal colesterolo *
+
+DOMANDA: 167 Quale delle seguenti considerazioni relative alla MIOGLOBINA e' FALSA:
+A) il suo gruppo eme contiene un atomo di ferro trivalente *
+B) non possiede struttura quaternaria
+C) presenta una maggiore affinita' per l'ossigeno rispetto all'emoglobina
+D) e' localizzata a livello muscolare
+E) non e' in grado di interagire con il 2,3 difosfoglicerato
+
+DOMANDA: 168 Nella catena respiratoria ogni citocromo trasporta:
+A) Un atomo di idrogeno
+B) Uno ione idruro
+C) Un protone
+D) Una coppia di elettroni contemporaneamente
+E) Un elettrone alla volta *
+
+DOMANDA: 169 L'ipersecrezione di ormone somatotropo nell'adulto:
+A) Dipende da un incremento della secrezione di somatostatina
+B) Provoca bilancio negativo dell'azoto
+C) Provoca gigantismo
+D) Provoca ipergonadismo
+E) Modifica la curva da carico del glucosio *
+
+DOMANDA: 170 Quale delle seguenti affermazioni sul fattore F1 dell'ATPasi mitocondriale è vera:
+A) Partecipa al trasporto degli elettroni nella catena respiratoria
+B) Il fattore F1 isolato possiede attività ATPasica *
+C) Il fattore F1 è immerso nello spessore della membrana mitocondriale interna
+D) Rappresenta un canale protonico transmembrana
+E) E' formato da una singola catena polipeptidica
+
+DOMANDA: 171 L'eparina
+A) è di origine vegetale
+B) deriva dalla serotonina
+C) è una proteina
+D) è un glicosamminoglicano *
+E) viene sintetizzata nel nucleo
+
+DOMANDA: 172 la beta-ossidazione degli acidi grassi :
+A) prevede la tiolisi del legame C alfa - C beta del betachetoacil-CoA *
+B) comincia sempre dall'estremità omega dell'acido grasso
+C) aumenta la sua attività grazie alla fosforilazione della deirogenasi FAD dipendente
+D) può ossidare solo acidi grassi più lunghi di di 20 C
+E) può ossidare solo acidi grassi con meno di 20 C
+
+DOMANDA: 173 Durante la fase di buona alimentazione:
+A) Il glicogeno muscolare viene utilizzato per produrre glucosio da riversare nel sangue
+B) L'ormone prevalente in circolo è il glucagone
+C) L'insulina favorisce l'utilizzazione del glucosio ematico da parte dei tessuti epatici, muscolare ed adiposo *
+D) Nel fegato l'acetil-CoA che deriva dalla degradazione degli acidi grassi è trasformato in corpi chetonici
+E) Il tessuto muscolare utilizza aminoacidi per sintetizzare glucosio che viene riversato nel sangue
+
+DOMANDA: 174 l'attività di alcuni dei fattori della coagulazione dipende anche da:
+A) le condizioni enrgetiche degli eritrociti che formano il coagulo
+B) la disponibilità di ioni calcio *
+C) il livellodi metilcobalamina
+D) la disponibilità di vitamina E
+E) la disponibilità di vtamina A
+
+DOMANDA: 175 Quale delle seguenti proteine ha funzione di trasporto?
+A) albumina *
+B) cheratina
+C) insulina
+D) collagene
+E) fibrinogeno
+
+DOMANDA: 176 La cromatografia è:
+A) lo spettro di assorbimento delle varie lunghezze d'onda che è caratteristico di ogni sostanza
+B) un metodo per misurare la concentrazione di alcune classi di sostanze coniugandole con molecole colorate
+C) un metodo di separazione basato sulle caratteristiche chimiche delle sostanze da separare rispetto a quelle del solvente e della sostanza solida sulla quale avviene *
+D) una tecnica per evidenziare composti contenenti cromo organico
+E) una tecnica colorimetrica per evidenziare sostanze incolori
+
+DOMANDA: 177 I seguenti coenzimi sono coinvolti nella reazione catalizzata dal sistema multienzimatico della PIRUVATO DEIDROGENASI eccetto uno. Quale?
+A) FAD
+B) coenzima A
+C) piridossal fosfato *
+D) acido lipoico
+E) tiaminpirofosfato
+
+DOMANDA: 178 Quale, tra i seguenti composti, può agire da "secondo messaggero" nelle cellule eucariotiche differenziate?
+A) AMP
+B) colesterolo
+C) RNA
+D) AMP ciclico *
+E) ormoni peptidici
+
+DOMANDA: 179 Gli zuccheri presenti nei cerebrosidi sono:
+A) glucosio o galattosio *
+B) fruttosio o mannosio
+C) ribosio o fruttosio
+D) glucosio o fruttosio
+E) galattosio o ribosio
+
+DOMANDA: 180 Il ruolo regolatorio del MALONILCoA sul metabolismo lipidico consiste nella:
+A) inibizione del meccanismo (carnitina dipendente) di trasferimento degli acidi grassi all'interno del mitocondrio *
+B) attivazione degli enzimi del ciclo di Krebs
+C) attivazione del meccanismo (carnitina dipendente) di trasferimento degli acidi grassi all'interno del mitocondrio
+D) attivazione degli enzimi della beta-ossidazione
+E) inibizione del sistema multienzimatico della biosintesi ex novo degli acidi grassi
+
+DOMANDA: 181 Quale delle seguenti affermazioni a proposito del FAD è corretta?
+A) E' costituito da: riboflavina-ribosio-fosfato-fosfato-ribosio-adenina
+B) La sua biosintesi non richiede la presenza di glucosio
+C) Contiene una vitamina *
+D) La sua forma ridotta è riossidata direttamente dall'ossigeno
+E) E' il coenzima di deidrogenasi presenti in massima parte a livello citosolico
+
+DOMANDA: 182 Quale delle seguenti considerazioni sulla CHETOGENESI e' FALSA:
+A) si svolge essenzialmente nel fegato
+B) ha sede mitocondriale
+C) il primo corpo chetonico che viene sintetizzato nel corso della chetogenesi e' l'acido acetacetico
+D) aumenta enormemente in condizioni di limitata disponibilita' di glucosio (digiuno prolungato)
+E) diminuisce fortemente in condizioni di compromessa utilizzazione metabolica del glucosio (diabete mellito) *
+
+DOMANDA: 183 il citrato, nel citoplasma, può essere convertito in:
+A) isocitrato
+B) piruvato e alanina
+C) piruvato e ossaloacetato
+D) alfachetoglutarato e succinil-CoA
+E) ossaloacetato e acetil CoA *
+
+DOMANDA: 184 L'esatto inizio della traduzione di un RNA messaggero nelle cellule umane è determinato da:
+A) interazione di specifici fattori proteici con il ribosoma
+B) sequenza dell'estremità 5' del messaggero
+C) interazione di fattori proteici specifici con l'RNA
+D) interazione del ribosoma con specifiche sequenze del messaggero
+E) un codone specifico *
+
+DOMANDA: 185 La biosintesi del colesterolo utilizza:
+A) Acido-beta idrossibutirrico
+B) AcetilCoA *
+C) Acido acetoacetico
+D) PropionilCoA
+E) Acetone
+
+DOMANDA: 186 Il catabolismo dell'eme porta alla formazione di BILIRUBINA che viene trasportata al fegato:
+A) dopo essere stata legata, a livello plasmatico, all'acido glucuronico
+B) legata alle gamma-globuline
+C) legata a specifiche lipoproteine
+D) legata all'albumina *
+E) in soluzione nel plasma
+
+DOMANDA: 187 L'acetil-CoA utilizzato per la sintesi degli acidi grassi, che decorre nel citosol, può provenire da:
+A) l'azione di enzimi litici presenti nei lisosomi
+B) l'ossidazione citoplasmatica degli acidi grassi saturi
+C) il metabolismo citoplasmatico del piruvato
+D) l'azione della citrato liasi sul citrato proveniente dai mitocondri *
+E) la sua fuoriuscita diretta dai mitocondri
+
+DOMANDA: 188 Il TRASPORTO degli ACIDI GRASSI all'interno del mitocondrio dipende:
+A) dalla presenza di citrato
+B) dalla presenza di piridossalfosfato
+C) dalla formazione di esteri della carnitina *
+D) dall'inibizione dell'enzima acilCoA deidrogenasi
+E) dalla presenza di FADH2
+
+DOMANDA: 189 Il sistema microsomiale denominato citocromo P450 è un sistema di trasporto degli elettroni utilizzato per:
+A) idrossilare il NADH prodotto nel citoplasma per permettergli di entrare nei mitocondri
+B) idrossilare varie sostanze tra cui farmaci, steroli, derivati di acidi grassi ed alcuni amminoacidi *
+C) produrre ATP al di fuori dei mitocondri utilizzando NADPH
+D) produrre ATP al di fuori dei mitocondri
+E) idrossilare il NADPH per l'immediata produzione di ATP
+
+DOMANDA: 190 Quali sono gli enzimi biotina dipendenti ?
+A) piruvato deidrogenasi, enzima malico, piruvato-cinasi
+B) piruvato carbossilasi, acetil-CoA carbossilasi, propionil-CoA carbossilasi *
+C) metilmalonil-CoA mutasi, carbamilfosfato sintetasi, glutammico decarbossilasi
+D) fosfoenolpiruvico carbossi-cinasi, glucosio-6-fosfato fosfatasi, fruttosio 1,6 difosfato fosfatasi
+E) cocarbossilasi, carbossilasi mitocondriali, carbossibiocinasi
+
+DOMANDA: 191 Indicare la risposta esatta.La glicina a pH=12 presenta carica:
+A) nessuna carica
+B) positiva
+C) negativa *
+D) entrambe le cariche
+E) due cariche positive
+
+DOMANDA: 192 L'anemia emolitica nel lupus eritematoso sistemico è dovuta a:
+A) autoanticorpi circolanti *
+B) aplasia del midollo osseo
+C) deficienza di vitamina B12
+D) bassa concentrazione sierica di ferro
+E) deficiente sintesi di catene globiniche alfa e beta dell'emoglobina
+
+DOMANDA: 193 Quale delle seguenti affermazioni relative alla BIOSINTESI EX-NOVO DEGLI ACIDI GRASSI e' VERA:
+A) gli enzimi che vi partecipano sono tutti attivi in forma fosforilata
+B) e' attivata dall'adrenalina
+C) richiede NADPH + H+ ed e' attivata da citrato *
+D) e' favorita in situazioni di ipoglicemia
+E) ha come prodotti terminali ac.grassi insaturi
+
+DOMANDA: 194 Si ottiene urea dall'idrolisi di:
+A) acido aspartico
+B) arginina *
+C) ornitina
+D) carbamil-fosfato
+E) citrullina
+
+DOMANDA: 195 Quale delle seguenti affermazioni, riguardanti la biosintesi degli ACIDI BILIARI e' ESATTA :
+A) e' rallentata quando aumenta la quantita' di acidi biliari che ritornano al fegato *
+B) e' indipendente dalla quantita' di acidi biliari che torna al fegato
+C) nessuna di quelle indicate
+D) diminuisce con l'aumentare dell'assorbimento del colesterolo
+E) viene accelerata quando aumenta la quantita'di acidi biliari che ritornano al fegato
+
+DOMANDA: 196 la sintesi dei corpi chetonici
+A) produce alfachetobutirrato e piruvato
+B) aumenta quando l'apporto glucidico è scarso rispetto a quello lipidico *
+C) diminuisce quando l'apporto lipidico è elevato
+D) produce alcaptone e metiletilchetone
+E) produce alfachetoglutarato e diossiacetone
+
+DOMANDA: 197 Quale tra le seguenti VITAMINE viene trasformata in un composto coenzimaticamente attivo a struttura nucleotidica?
+A) vitamina E
+B) riboflavina *
+C) piridossale
+D) vitamina D
+E) biotina
+
+DOMANDA: 198 Quali delle seguenti affermazioni relative al DNA mitocondriale è vera ?
+A) tutte le proteine della catena respiratoria sono codificate dal DNA mitocondriale
+B) la trascrizione inizia con la formazione dell'ansa
+C) non codifica per RNA transfer
+D) è un DNA circolare a doppia elica *
+E) è funzionalmente inattivo
+
+DOMANDA: 199 la funzione del glicogeno muscolare è quella di:
+A) essere la fonte principale di glucosio per la regolazione della glicemia
+B) produrre disaccaridi che vengono bruciati più facilmente anche in debito di ossigeno
+C) servire per la conversione nel galattosio necessario al ciclo dei pentosofosfati
+D) essere una fonte facilmente utilizzabile di glucosio all'interno del muscolo stesso *
+E) servire per la produzione di acido glucuronico necessario per i processi di detossificazione
+
+DOMANDA: 200 La biotina è:
+A) una vitamina idrosolubile che partecipa, come coenzima, alle reazioni di carbossilazione *
+B) la vitamina dalla quale deriva la diidrobiotina, necessaria alle reazioni di riduzione
+C) l'iniziatore della sintesi dei fosfolipidi
+D) la vitamina dalla quale deriva la difosfobiotina, coenzima delle transaminazioni
+E) una vitamina liposolubile necessaria al trasporto delle unità monocarboniuose
+
+DOMANDA: 201 La aconitasi è un enzima che:
+A) stacca dall'acido aconitico una unità monocarboniosa
+B) converte l'acido citrico in isocitrico *
+C) garantisce il trasporto dell'acetil-CoA dai mitocondri al citoplasma
+D) aggiunge una unità monocarboniosa al citrato
+E) trasforma l'aconitato in piruvato
+
+DOMANDA: 202 Il calcio stimola la contrazione muscolare legandosi:
+A) alla tropomiosina
+B) all'actina
+C) alla troponina *
+D) alla banda Z
+E) alla banda M
+
+DOMANDA: 203 Delle reazioni allergiche di tipo anafilattico, quale classe di immunoglobuline è responsabile:
+A) IgD
+B) gM
+C) IgG
+D) IgE *
+E) IgA
+
+DOMANDA: 204 L'anidride carbonica prodotta nei tessuti periferici viene trasportata nel sangue:
+A) legata al gruppo eme dell'emoglobina
+B) legata ai gruppi carbossilici dell'emoglobina
+C) sotto forma di bicarbonato *
+D) sotto forma di urea
+E) sotto forma di CO2 in soluzione
+
+DOMANDA: 205 La Km (costante di Michaelis-Menten) ha la/le seguente/i unità dimensionale/i:
+A) mol/litro *
+B) secondo
+C) mol/secondo
+D) mole
+E) grammo
+
+DOMANDA: 206 Quale, tra le seguenti acquisizioni è stata raggiunta grazie allo studio dei fenomeni di denaturazione e renaturazione delle proteine?
+A) la decifrazione del codice genetico
+B) la determinazione della struttura primaria delle proteine
+C) l'identificazione delle strutture secondarie delle proteine
+D) la dimostrazione che proteine omologhe hanno strutture tridimensionali simili
+E) la dimostrazione del fatto che l'attività biologica dipende dall'integrità della struttura tridimensionale della proteina *
+
+DOMANDA: 207 la formazione del fruttosio1,6-difosfato nella glicolisi è:
+A) favorita da concentrazioni elvate di AMP e ADP *
+B) inibita dal fosfato
+C) inibita da propionil-CoA
+D) favorita da concentrazioni elevate di citrato
+E) favorita da concentrazioni elevate da di ATP
+
+DOMANDA: 208 In quale delle seguenti condizioni si ottiene del "plasma" da un campione di sangue:
+A) dopo centrifugazione di un campione di sangue coagulato
+B) dopo l'aggiunta di calcio ad un campione di siero
+C) dopo l'aggiunta di calcio ad un campione di sangue trattato con chelanti del calcio
+D) in nessuna di quelle proposte
+E) dopo centrifugazione di un campione di sangue trattato con anticoagulanti *
+
+DOMANDA: 209 Quale dei seguenti enzimi utilizza, nell'ambito delle reazioni catalizzate, il coenzima tiamina pirofosfato?
+A) Fosfoenolpiruvato carbossichinasi
+B) Piruvato chinasi
+C) Piruvato carbossilasi
+D) Piruvato deidrogenasi (o decarbossilasi) *
+E) Glutammato deidrogenasi
+
+DOMANDA: 210 Quale dei seguenti composti ha un potenziale di trasferimento per il fosfato più alto di quello dell'ATP?
+A) ribosio 5-fosfato
+B) glucosio 6-fosfato
+C) fosfoenolpiruvato *
+D) gliceraldeide 3-fosfato
+E) fruttosio 1,6-difosfato
+
+DOMANDA: 211 L'utilizzazione mitocondriale degli acili attivati:
+A) presuppone la sostituzione del CoA con un fosfato
+B) presuppone il passaggio attraverso la membrana mitocondriale dell'acido grasso libero
+C) richiede il funzionamento del sistema di trasporto carnitina-dipendente *
+D) non richiede particolari meccanismi
+E) richiede un cotrasporto con il sodio
+
+DOMANDA: 212 I corpi di Heinz sono un:
+A) reperto anatomo-patoIogico
+B) reperto ematochimico *
+C) reperto istochimico
+D) reperto chimico-clinico
+E) nessuno dei precedenti
+
+DOMANDA: 213 Il GLUCAGONE e' un ormone pancreatico che agisce a livello epatico:
+A) inibendo la sintesi del glicogeno *
+B) attivando la glicolisi
+C) attivando la fosfodiesterasi che agisce sui monofosfonucleotidi ciclici
+D) facendo incrementare i livelli di fruttosio-2,6-difosfato
+E) diminuendo il livello intracellulare di AMPciclico
+
+DOMANDA: 214 dall'ossidazione degli acidi grassi a numero pari di C si produce:
+A) FADH2 e acetilcarnitina
+B) NADH, FADH2 e acetil-CoA *
+C) direttamente ATP, come nella glicolisi
+D) NADH e teraidrobiopterina
+E) CO2 e citocromi ridotti
+
+DOMANDA: 215 L'ormone che abbassa i livelli sierici del calcio é:
+A) il cortisone
+B) il TSH
+C) l'MSH
+D) la calcitonina *
+E) il paratormone
+
+DOMANDA: 216 la melatonina deriva:
+A) dalla acetilazione delle eumelanine
+B) dalla N-acetilazione della serotonina *
+C) dalla decarbossilazione della cistationina
+D) dalla aminazione della fenilalanina
+E) dalla idrossilazione della omocisteina
+
+DOMANDA: 217 Nella glicolisi si ottiene ATP nella reazione catalizzata da:
+A) esocinasi
+B) aldolasi
+C) 6-fosfofruttocinasi
+D) piruvato cinasi *
+E) gliceraldeide 3-fosfatodeidrogenasi
+
+DOMANDA: 218 la glocogeno sintetasi è inibita:
+A) allostericamente da glucosio e fruttosio
+B) dal glicogeno neoformato
+C) dalla fosforilazione della molecola *
+D) allostericamente dall'ATP
+E) dalla carbossilazione della molecola
+
+DOMANDA: 219 Quale delle seguenti affermazioni relative al COLESTEROLO e' FALSA:
+A) e' il precursore del progesterone
+B) viene esterificato in circolo ad opera di una lecitina-colesterolo aciltransferasi (LCAT)
+C) produce corpi chetonici *
+D) e' il precursore del cortisone
+E) viene esterificato nella cellula ad opera di una acilCoA-colesterolo aciltransferasi(ACAT)
+
+DOMANDA: 220 La prima reazione nella BIOSINTESI del gruppo EME avviene tra:
+A) acetilCoA e acido ossalacetico
+B) acido aspartico e acido piruvico
+C) glicina e acido piruvico
+D) acido aspartico e succinilCoA
+E) glicina e succinilCoA *
+
+DOMANDA: 221 La sintesi dei trigliceridi nel tessuto adiposo è favorita da:
+A) una elevata glucagonemia
+B) una alta insulinemia *
+C) una bassa glicemia
+D) un elevato livello di adrenalina e noradrenalina
+E) una alimentazione ipocalorica
+
+DOMANDA: 222 In condizioni prolungate di DIGIUNO:
+A) si utilizzano esclusivamente le riserve lipidiche e si inibisce la gluconeogenesi
+B) il bilancio azotato è positivo
+C) la glicolisi anaerobia viene accelerata
+D) si utilizzano le riserve lipidiche e si attiva la gluconeogenesi *
+E) si utilizzano esclusivamente le riserve di glicogeno
+
+DOMANDA: 223 Quali dei seguenti componenti della catena mitondriale di trasporto degli elettroni non sono parte di un complesso lipoproteico di membrana?
+A) proteine ferro-zolfo
+B) ubichinone e citrocromo c *
+C) citocromo b e c1
+D) citocromo a e a3
+E) FAD, FMN
+
+DOMANDA: 224 La velocità iniziale di una reazione enzimatica risulta di regola
+A) proporzionale alla concentrazione del substrato
+B) indipendente dalla temperatura a cui avviene la reazione
+C) uguale alla velocità massima dell'enzima a pH neutro
+D) proporzionale alla velocità massima dell'enzima
+E) direttamente proporzionale alla concentrazione dell'enzima in condizioni ottimali *
+
+DOMANDA: 225 In una reazione enzimatica, la concentrazione dell'enzima influenza:
+A) La costante di equilibrio della reazione
+B) La specificità del processo enzimatico
+C) L'energia di attivazione del processo
+D) La Vmax *
+E) La Km
+
+DOMANDA: 226 In una dieta ricca in carboidrati, quale dei seguenti processi decorre nel fegato con la massima attivita'?
+A) gluconeogenesi
+B) chetogenesi
+C) glicolisi anaerobia
+D) alfa-ossidazione degli acidi grassi
+E) biosintesi ex novo degli acidi grassi *
+
+DOMANDA: 227 La biosintesi degli acidi grassi avviene
+A) con la la partecipazione di carnitina
+B) in seguito a secrezione di glucagone
+C) prevalentemente all'interno dei mitocondri
+D) attraverso una via diversa da quella del loro catabolismo *
+E) solo come conseguenza di un'alimentazione ricca di lipidi
+
+DOMANDA: 228 L'enzima succinico deidrogenasi:
+A) E' una flavoproteina con il FAD covalentemente legato all'apoenzima *
+B) Appartiene alla classe delle idrolasi
+C) Rimuove 2 atomi di idrogeno legati allo stesso atomo di carbonio
+D) Trasforma l'acido succinico in acido malico
+E) E' un enzima del citosol
+
+DOMANDA: 229 L'ormone CALCITONINA favorisce:
+A) la deposizione del calcio nelle ossa *
+B) la mobilizzazione del calcio dalle ossa
+C) l'attivazione della vitamina D
+D) il legame del calcio con proteine plasmatiche
+E) l'eliminazione del fosfato a livello renale
+
+DOMANDA: 230 Nell'ipertiroidismo si osserva:
+A) Diminuzione del consumo di ossigeno basale
+B) Aumento della gittata cardiaca *
+C) Diminuzione del catabolismo proteico
+D) Aumento del colesterolo nel sangue
+E) Diminuita sudorazione
+
+DOMANDA: 231 Indicare quale delle seguenti vitamine è liposolubile
+A) vitamina PP
+B) vitamina B12
+C) vitamina B 6
+D) vitamina K *
+E) vitamina C
+
+DOMANDA: 232 Quale delle seguenti affermazioni relative alla DUPLICAZIONE del DNA e' FALSA :
+A) la DNA-polimerasi e' capace di sintetizzare tanto in direzione 5'-3' che 3'-5' (sintesi bidirezionale) *
+B) entrambe le catene fungono da stampo
+C) e' richiesto come "primer" un frammento di RNA
+D) le due catene vengono sintetizzate contemporaneamente
+E) nessuna di quelle indicate
+
+DOMANDA: 233 Gli scambi tra capillari sistemici e tessuti determinano:
+A) una diminuzione del valore di ematocrito
+B) uno spostamento a destra della curva di dissociazione dell'emoglobina *
+C) una diminuzione degli ioni bicarbonato nel plasma
+D) una diminuzione della concentrazione dei cloruri negli eritrociti
+E) un aumento del pH del sangue
+
+DOMANDA: 234 L'ANIDRASI CARBONICA e' un enzima che:
+A) catalizza la formazione della metaemoglobina
+B) catalizza la formazione di carbaminoemoglobina
+C) utilizza come coenzima la difosfotiamina
+D) catalizza la formazione di ac.carbonico da anidride carbonica e acqua e viceversa *
+E) catalizza la decarbossilazione degli amminoacidi
+
+DOMANDA: 235 Un possibile meccanismo di attivazione degli oncogeni è:
+A) Crossing-over cromatidico
+B) Segmentazione genica
+C) Incorporazione di virus a DNA
+D) Traslocazione cromosomica *
+E) Delezione genica
+
+DOMANDA: 236 In quale compartimento cellulare avviene la sintesi degli acidi grassi?
+A) nei lisosomi
+B) nel citoplasma *
+C) nei mitocondri
+D) nei perossisomi
+E) nell'apparato del Golgi
+
+DOMANDA: 237 Indicare l'affermazione esatta. I sali biliari:
+A) si formano nel corso della sintesi del colesterolo
+B) sono indispensabili per la digestione e l'assorbimento dei grassi *
+C) derivano dalla coniugazione dell'acido colico con la lisina o la fenilalanina
+D) derivano dal catabolismo dell'eme
+E) sono indispensabili per la digestione dei glucidi
+
+DOMANDA: 238 un aumento della concentrazione di ammoniaca nel tessuto nervoso può provocare:
+A) un aumneto della sintesi delle catecolammine
+B) un aumento della sintesi di urea nel SNC
+C) un aumento della sintesi della glutammina *
+D) una inibizione della asparagina sintetasi
+E) un aumento della velocità del ciclo di Krebs
+
+DOMANDA: 239 Per reazione di fosforilazione a livello del substrato si intende:
+A) La sintesi di ATP a livello della catena respiratoria mitocondriale
+B) Il trasferimento del gruppo fosforico dell'ATP su un substrato
+C) La sintesi di ATP a partire da ADP e Pi
+D) La scissione di un residuo di acido fosforico mediante meccanismo idrolitico
+E) Il trasferimento del gruppo fosforico da substrati particolarmente reattivi ( 2-fosfoenolpiruvato, succinil-CoA, acido 1-3- bisfosfoglicerico) sull'ADP per formare ATP *
+
+DOMANDA: 240 Quale delle affermazioni sottoriportate è VERA?
+A) la trasformazione del 3-idrossi-3-metil-glutarilCoA in acido mevalonico è catalizzata da una carbossilasi
+B) la trasformazione dell'UDPgalattosio in UDPglucosio è catalizzata da una reduttasi
+C) la trasformazione del glucosio 1-fosfato in UDPglucosio in presenza di UTP è catalizzata da una UMP-trasferasi *
+D) la trasformazione dell'acido glutammico in glutammina è catalizzata da una decarbossilasi
+E) la trasformazione dell'acido acetacetico in acetone è catalizzata da una deidrogenasi
+
+DOMANDA: 241 La Km di un enzima rappresenta:
+A) la concentrazione di substrato alla quale l'enzima funziona alla velocità semimassimale *
+B) la concentrazione media alla quale l'enzima si trova nell'organismo
+C) la costante di massa dell'enzima
+D) la concentrazione che l'enzima ha nella cellula (costante metabolica)
+E) la concentrazione che il substrato deve raggiungere nel sito attivo perché l'enzima possa funzionare
+
+DOMANDA: 242 Tutti gli acidi grassi insaturi naturali di uso alimentare per l'uomo contengono:
+A) almeno una coppia di doppi legami coniugati
+B) doppi legami misti cis e trans
+C) almeno una tripletta di doppi legami coniugati
+D) almeno un doppio legame, ma sempre in configurazione trans
+E) almeno un doppio legame, ma sempre in configurazione cis *
+
+DOMANDA: 243 La percentuale di anidride carbonica trasportata nel sangue come bicarbonato è
+A) 80-90% *
+B) 5%
+C) 50-60%
+D) 15-30%
+E) 10-20%
+
+DOMANDA: 244 i precursori della sintesi dell'eme sono:
+A) propionil-CoA e alanina
+B) succinil-CoA, glutammina e treonina
+C) succinil-CoA e glicina *
+D) propionil-CoA e serina
+E) glicina e malonil-CoA
+
+DOMANDA: 245 Quali delle seguenti affermazioni relative all'ACIDO ASPARTICO è FALSA?
+A) e' un aminoacido gluconeogenetico
+B) partecipa alla biosintesi dell'urea
+C) e' il precursore diretto del fosfoenolpiruvato *
+D) partecipa alla biosintesi dei nucleotidi pirimidinici
+E) deriva dall'acido ossalacetico
+
+DOMANDA: 246 Da che cosa è costituito la maggior parte dell'azoto totale urinario:
+A) amminoacidi
+B) creatinina
+C) ammoniaca
+D) acido urico
+E) urea *
+
+DOMANDA: 247 La renina è:
+A) un lipide
+B) un enzima *
+C) un polisaccaride
+D) una malattia renale
+E) un coenzima
+
+DOMANDA: 248 Quale di queste espressioni rappresenta l'equazione di Lineweaver-Burk (doppi reciproci)?
+A) 1/V0 = Km Vmax 1/[S] + 1/[S]
+B) 1/V0= Km[S] + Vmax
+C) 1/V0 = Km/Vmax 1/[S] + 1/Vmax *
+D) 1/V0= VmaxKm[S]
+E) 1/V0 = [S] Km Vmax + 1/Vmax
+
+DOMANDA: 249 La secrezione di HCl da parte delle cellule delle ghiandole gastriche:
+A) è realizzata da una pompa ATPasica ed è stimolata da acetilcolina e gastrina *
+B) è utile per l'emulsionamento dei grassi
+C) determina un pH acido necessario per l'attività dell'amilasi pancreatica
+D) è necessaria per la trasformazione del tripsinogeno in tripsina
+E) è particolarmente intensa nella fase di digiuno.
+
+DOMANDA: 250 Quale enzima salivare idrolizza l'amido?
+A) pepsina
+B) alfa amilasi *
+C) lisozima
+D) beta amilasi
+E) maltasi
+
+DOMANDA: 251 Si riscontra glicosuria:
+A) nel diabete asintomatico
+B) nel diabete potenziale
+C) nel diabete conclamato *
+D) in nessun caso
+E) nel diabete latente
+
+DOMANDA: 252 Quale delle seguenti affermazioni sul ciclo dell'urea è corretta?
+A) il processo si svolge interamente nel citosol
+B) il processo si svolge prevalentemente nel cervello
+C) uno degli enzimi coinvolti nel ciclo è l'ureasi
+D) il processo non abbisogna di energia (ATP)
+E) l'ammoniaca vi partecipa sotto forma di carbamilofsfato *
+
+DOMANDA: 253 I chilomicroni sono prevalentemente costituiti da:
+A) trigliceridi *
+B) colesterolo
+C) acidi grassi non esterificati
+D) fosfogliceridi
+E) sfingolipidi
+
+DOMANDA: 254 Il deficit di lattasi:
+A) non si associa a sintomi clinici rilevabili
+B) influenza l'utilizzazione del glucosio da parte del fegato
+C) provoca intolleranza al latte e ai suoi derivati *
+D) è un'affezione più grave del diabete mellito
+E) provoca una forma di intolleranza al glucoso
+
+DOMANDA: 255 Il 2,3bisfosfoglicerato
+A) modifica la conformazione dell'emoglobina *
+B) è un attivatore di alcuni enzimi della glicolisi
+C) è il messaggero degli ormoni steroidei
+D) viene sintetizzato in tutti i tipi di cellule
+E) rappresenta la principale riserva energetica della cellula
+
+DOMANDA: 256 nel muscolo in debito di ossigeno l'energia viene ricavata:
+A) dall'utilizzazione del lattato
+B) dall'utilizzazione delle proteine
+C) dal trasporto di ioni che genera un potenziale
+D) dall'ossidazione degli acidi grassi
+E) dall'utilizzazione del glucosio-6-P *
+
+DOMANDA: 257 in generale i recettori ormanali possiedono:
+A) una sequenza nucleotidica che deve essere riconosciuta dall'ormone
+B) una struttura unitaria completamente interna alla membrana
+C) un sito attivo e un sito allosterico il cui funzionamento richiede energia
+D) due domini funzionali uno dei quali lega l'ormone e l'altro ne trasduce il segnale *
+E) un sito con una struttura generica che si adatta, di volta in volta, a quella dell'ormone che vi si lega
+
+DOMANDA: 258 Il cianuro è un veleno perché:
+A) Aumenta il pH del sangue
+B) Inibisce le pompe protoniche mitocondriali
+C) Si lega a componenti di membrane eritrocitarie
+D) Inibisce la citocromo ossidasi (complesso IV della catena respiratoria) *
+E) Agisce disaccoppiando la fosforilazione ossidativa
+
+DOMANDA: 259 Il processo di respirazione cellulare
+A) rimuove l'anidride carbonica dai globuli rossi
+B) permette di ricavare energia dai substrati metabolici *
+C) comporta il consumo di ATP
+D) produce lattato
+E) produce anidride carbonica
+
+DOMANDA: 260 L'acidosi respiratoria:
+A) E' associata ad eccessiva ritenzione di CO2 *
+B) Si ha nell'avvelenamento da ossido di carbonio
+C) Consiste in un odore caratteristico dell'alito dopo un pasto prevalentemente acido
+D) Consiste in un odore pungente dell'alito
+E) E' causata da polipnea
+
+DOMANDA: 261 Di quale frazione subcellulare la citocromo ossidasi è un "enzima marker"?
+A) Citosol
+B) Nucleo
+C) Microsomi
+D) Mitocondri *
+E) Lisosomi
+
+DOMANDA: 262 L'organismo umano non può convertire:
+A) alcuni amminoacidi in corpi chetonici
+B) i lipidi in glucidi *
+C) i lipidi in corpi chetonici
+D) alcuni amminoacidi in glucidi
+E) i glucidi in lipidi
+
+DOMANDA: 263 Da quale molecola si parte per la biosintesi del colesterolo:
+A) acido colico
+B) acetil CoA *
+C) palmitoil CoA
+D) acido palmitico
+E) ciclopentano
+
+DOMANDA: 264 Quale di queste affermazioni riguardanti il COENZIMA A e' FALSA:
+A) interviene nelle reazioni di deidrogenazione *
+B) ha un gruppo sulfidrilico (SH) reattivo
+C) ha sede sia citoplasmatica che mitocondriale
+D) e' un trasportatore transitorio di gruppi acilici
+E) contiene una molecola di acido pantotenico
+
+DOMANDA: 265 Quale delle seguenti considerazioni relative al RAPPORTO P/O (numero di molecole di fosfato inorganico utilizzate per fosforilare l'ADP, per atomo di ossigeno consumato, lungo la catena respiratoria) e' VERA:
+A) aumenta in presenza di un eccesso di ormoni tiroidei
+B) e' uguale a 3 quando il trasporto degli elettroni inizia dal NADH + H+ *
+C) e' indipendente dal coenzima ridotto (NADH + H+, o FADH2) che viene ossidato per il tramite della catena respiratoria
+D) aumenta in presenza di agenti disaccoppianti della fosforilazione ossidativa
+E) e' uguale a 1 quando il trasporto degli elettroni inizia dal FADH2
+
+DOMANDA: 266 Indicare l'affermazione CORRETTA. Il ciclo dell'urea:
+A) produce l'urea staccandola dal carbamil-fosfato
+B) si svolge prevalentemente a livello renale
+C) consuma ATP *
+D) produce l'urea staccandola dalla dall'ornitina
+E) consuma CO2 per ricavare il gruppo chetonico dell'urea
+
+DOMANDA: 267 la vitamina D, nella sua forma più attiva è:
+A) di-aminata
+B) di-idrossilata *
+C) decarbossilata
+D) idrogenata
+E) metilata
+
+DOMANDA: 268 Nell'organismo umano l'urea
+A) viene utilizzata nella sintesi degli amminoacidi
+B) viene trasformata in glutammina
+C) si trasforma in anidride carbonica e acqua
+D) si forma nel rene
+E) si forma dal catabolismo degli amminoacidi *
+
+DOMANDA: 269 Durante la BIOSINTESI EX-NOVO DEGLI ACIDI GRASSI, quale vitamina e' coinvolta nella reazione di carbossilazione dell'acetilCoA a malonilCoA:
+A) niacina
+B) vitamina D
+C) riboflavina
+D) biotina *
+E) vitamina C
+
+DOMANDA: 270 La comparsa di proprietà differenziative in una cellula eucariotica è dovuta a:
+A) espressione simultanea di tutti i geni
+B) inibizione simultanea di tutti i geni
+C) amplificazione dei geni espressi
+D) delezione selettiva di geni specifici
+E) espressione selettiva di geni specifici *
+
+DOMANDA: 271 Quale delle seguenti affermazioni riguardanti la METAEMOGLOBINA e' VERA:
+A) si forma in presenza di ossido di carbonio
+B) contiene ferro trivalente *
+C) possiede quattro catene beta
+D) si forma solo alle basse tensioni di ossigeno
+E) possiede quattro catene alfa
+
+DOMANDA: 272 Durante l'ebollizione di un liquido a pressione costante:
+A) la temperatura diminuisce all'aumentare del tempo
+B) la temperatura è funzione della quantità di calore fornita al liquido per unità di tempo
+C) la temperatura rimane costante *
+D) la temperatura cresce all'aumentare del tempo
+E) la temperatura cresce in funzione della diminuzione del volume di liquido
+
+DOMANDA: 273 Quale delle seguenti situazioni favorisce l'accumulo di CORPI CHETONICI:
+A) una diminuita increzione di adrenalina
+B) un eccesso di ATP
+C) un eccesso dietetico di proteine
+D) il deficit di insulina *
+E) una eccessiva disponibilita' di glucosio
+
+DOMANDA: 274 Indicare la risposta esatta. Il glutatione:
+A) è contenuto in tutte le cellule ad eccezione degli eritrociti
+B) è coinvolto in reazioni di ossidoriduzione *
+C) è un dipeptide
+D) funziona solo nella forma ossidata
+E) contiene metionina
+
+DOMANDA: 275 Gli acidi grassi essenziali sono precursori
+A) dell'AMP ciclico
+B) dei corticosteroidi
+C) degli estrogeni
+D) delle lipoproteine
+E) delle prostaglandine *
+
+DOMANDA: 276 la glutammico deidrogenasi
+A) usa come coenzima NAD ma anche NADP *
+B) toglie un idrogeno al gruppo amminico del glutammico
+C) catalizza la decarbossilazione ossidativa del glutammico
+D) trasforma la glutammina in glutammico
+E) catalizza la carbossilazione riduttiva del glutammico
+
+DOMANDA: 277 Quale delle seguenti reazioni NON è catalizzata da una "CINASI"?
+A) la trasformazione del glucosio 6-fosfato in glucosio *
+B) la formazione di ATP da 2 molecole di ADP
+C) la formazione di fosforilasi "a" da fosforilasi "b"
+D) la formazione di fruttosio 1,6 difosfato da fruttosio 6-fosfato
+E) la formazione di glucosio 6-fosfato da glucosio
+
+DOMANDA: 278 Il dosaggio dell'emoglobina glicosilata HbA1c costituisce un controllo di un trattamento:
+A) iperglicemizzante
+B) per il diabete insipido
+C) ipoglicemizzante *
+D) per l'ipossia
+E) per la gotta
+
+DOMANDA: 279 Quali immunoglobuline si trovano in maggiore quantità nelle secrezioni delle mucose:
+A) IgD
+B) IgE
+C) IgG
+D) IgA *
+E) IgM
+
+DOMANDA: 280 Tutti i seguenti composti sono componenti funzionali della CATENA RESPIRATORIA, eccetto:
+A) NAD+
+B) ubichinone
+C) FAD
+D) carnitina *
+E) citocromo c
+
+DOMANDA: 281 La via dei PENTOSO-FOSFATI (shunt dell'esosomonofosfato) serve:
+A) alla riossidazione del NADPH prodotto a livello citoplasmatico
+B) alla produzione di pentoso-fosfati e di NADP ridotto *
+C) alla riossidazione del NADH prodotto dalla glicolisi
+D) alla produzione di 2,3 difosfoglicerato e di glutatione ridotto
+E) alla produzione di glucosio-1-fosfato da cui si producono pentosi e NADP ridotto
+
+DOMANDA: 282 Il trasporto attivo è quel processo per cui una sostanza:
+A) attraversa una membrana dall'ambiente esterno al citosol
+B) attraversa una membrana da un compartimento a più bassa concentrazione ad uno a più alta *
+C) attraversa una membrana
+D) attraversa una membrana dal citosol all'ambiente esterno
+E) attraversa una membrana da un compartimento a più alta concentrazione ad uno a più bassa concentrazione
+
+DOMANDA: 283 L'ACIDO OROTICO e' un intermedio nella sintesi di:
+A) urea
+B) adrenalina
+C) nucleotidi pirimidinici *
+D) colesterolo
+E) nucleotidi purinici
+
+DOMANDA: 284 le reazioni di transaminazione:
+A) richiedono coenzima A
+B) richiedono cisteina
+C) utilizzano l'energia di un legame tioestereo che si forma nel decorso della reazione
+D) decorrono con la formazione di una base di Schiff intermedia *
+E) richiedono difosfotiamina
+
+DOMANDA: 285 Quale dei seguenti composti è un precursore sia della biosintesi del colesterolo che dei corpi chetonici:
+A) isopentenil pirofosfato
+B) farnesil pirofosfato
+C) mevalonato
+D) beta-idrossi beta-metilglutaril CoA *
+E) metilmalonil CoA
+
+DOMANDA: 286 Quale dei seguenti acidi grassi è costituito da due atomi di carbonio?
+A) acido caproico
+B) acido stearico
+C) acido acetico *
+D) acido palmitico
+E) acido butirrico
+
+DOMANDA: 287 L'organismo umano non è in grado di sintetizzare:
+A) nessuno degli amminoacidi a 5 C perché la catena è troppo lunga
+B) gli amminoacidi bicarbossilici
+C) nessuno degli amminoacidi glucogenici
+D) nessuno degli amminoacidi idrofobici
+E) gli amminoacidi a catena ramificata *
+
+DOMANDA: 288 l'energia utilizzata per la sintesi mitocondriale dell'ATP:
+A) è conservata sotto forma di gradiente protonico creato dal funzionamento della catena respiratoria *
+B) può essere conservata solo se la membrana mitocondriale interna è permeabile ai protoni per espellerli
+C) può essere prodotta anche dalla glicolisi
+D) è conservata sotto forma di legami ad alta energia in lunghe catene di fosfati
+E) non può essre utilizzata da nessun altro sistema
+
+DOMANDA: 289 L'aumento della concentrazione cellulare di citrato
+A) attiva il processo di gluconeogenesi
+B) fa rallentare la biosintesi degli acidi grassi
+C) attiva la biosintesi degli acidi grassi *
+D) si verifica quando si abbassa la glicemia
+E) fa aumentare il catabolismo degli acidi grassi
+
+DOMANDA: 290 Le transaminasi sono enzimi che:
+A) introducono gruppi amminici sulle monoammine per trasformarle in poliammine
+B) trasferiscono il gruppo amminico degli amminoacidi sull'ornitina per iniziare la sintesi dell'urea
+C) attaccano direttamente lo ione ammonio (NH4+) su un chetoacido trasformandolo nell'amminoacido corrispondente
+D) contengono piridossalfosfato *
+E) trasformano un amminoacido nel corrispondente idrossiacido e viceversa
+
+DOMANDA: 291 La beta-2-microglobulina è:
+A) una catena delle Ig
+B) un fattore del complemento
+C) un fattore della coagulazione
+D) un peptide vasoattivo
+E) una catena degli antigeni di istocompatibilità *
+
+DOMANDA: 292 La fonte di energia utilizzata dalle cellule di fini del trasporto attivo attraverso la membrana plasmatica è rappresentata:
+A) a seconda dei casi, da ATP e dal gradiente di un composto diverso da quello trasportato diretto in senso opposto a quello del trasporto
+B) a seconda dei casi, da ATP, dal gradiente di un composto diverso da quello trasportato diretto nello stesso senso del trasporto, o dal gradiente di un composto diverso orientato in senso opposto *
+C) a seconda dei casi, da ATP o dal gradiente di un composto diverso da quello trasportato diretto nello stesso senso del trasporto
+D) dal gradiente di concentrazione del composto trasportato
+E) sempre e solo da ATP
+
+DOMANDA: 293 Quale delle seguenti condizioni non si riscontra nell'anemia sideropenica?
+A) riduzione del contenuto corpuscolare medio di Hb
+B) riduzione del volume corpuscolare medio di Hb
+C) riduzione della concentrazione corpuscolare media di Hb
+D) riduzione della capacità totale di legare Fe (transferrinemia totale) *
+E) tutte le precedenti
+
+DOMANDA: 294 La glutammina:
+A) viene sintetizzata solo nel fegato
+B) serve, tra l'altro, per la sintesi del carbamilfosfato che viene utilizzato nella biosintesi dei nucleotidi pirimidinici *
+C) è un aminoacido essenziale
+D) si forma a partire dalla lisina
+E) non richiede ATP per la sua sintesi
+
+DOMANDA: 295 Il pH ematico:
+A) è uno dei fattori che regolano la valenza del ferro dell'emoglobina
+B) a valori prossimi a quelli del limite inferiore di compatibilità con la vita può provocare emolisi
+C) tende ad aumentare nell'esercizio muscolare intenso
+D) è regolato principalmente da elettroliti anfoteri come le proteine plasmatiche
+E) tende a diminuire in caso di diarrea profusa *
+
+DOMANDA: 296 La nicotinamide è:
+A) l'amide dell'acido glutammico
+B) un precursore degli acidi nucleici
+C) una vitamina del gruppo B *
+D) un precursore del FAD
+E) una vitamina liposolubile
+
+DOMANDA: 297 La membrana mitocondriale interna possiede trasportatori per:
+A) ossaloacetato
+B) citrato e malato *
+C) FADH2
+D) AMP
+E) NADH
+
+DOMANDA: 298 Indicare 1'affermazione esatta. La chetosi può essere in parte attribuita a:
+A) eccessiva formazione di acetil CoA *
+B) mancata formazione di acetil CoA
+C) incremento dell'utilizzazione del glucosio nella via glicolitica
+D) incremento della velocità del ciclo citrico
+E) rallentamento del metabolismo dei grassi
+
+DOMANDA: 299 Nella catena respiratoria il CoQ può venire ridotto:
+A) dai complessi primo e secondo *
+B) dalla citocromo ossidasi
+C) dal cit. c
+D) dal complesso quarto
+E) dalla ATP sintetasi
+
+DOMANDA: 300 Viene liberata anidride carbonica nella reazione catalizzata dalla:
+A) lattico deidrogenasi
+B) succinico deidrogenasi
+C) aconitico deidrogenasi
+D) isocitrico deidrogenasi *
+E) malico deidrogenasi
+
+DOMANDA: 301 La glucochinasi:
+A) E' presente in tutti gli organi e tessuti
+B) Catalizza l'idrolisi del glucosio-6-P in glucosio e Pi
+C) E' specifica per il glucosio per il quale ha una bassa affinità *
+D) E' inibita dal prodotto della reazione, il glucosio-6-P
+E) E' specifica per il glucosio per il quale ha una elevata affinità
+
+DOMANDA: 302 la adrenalina e a noradrenalina vengono sintetizzate a partire da:
+A) istidina
+B) leucina e isoleucina
+C) triptofano
+D) fenilalanina e tirosina *
+E) prolina
+
+DOMANDA: 303 Quale delle seguenti affermazioni relative alle glicoproteine è errata:
+A) In esse la porzione glucidica può arrivare anche fino al 50%
+B) La componente glucidica è spesso un oligosaccaride molto ramificato
+C) Hanno generalmente una localizzazione intracellulare *
+D) Il legame glicosidico tra la componente glucidica e quella proteica coinvolge frequentemente un residuo di asparagina
+E) Molte di esse svolgono un importantissimo ruolo nei processi di riconoscimento intercellulare
+
+DOMANDA: 304 Quale dei acidi grassi è l'acido linoleico?
+A) C18:0
+B) C18:1 omega 9
+C) C18:2 omega 6 *
+D) C18:3 omega 3
+E) C20:4 omega 6
+
+DOMANDA: 305 L'ossalacetato si forma:
+A) per ossidazione del malato *
+B) per decarbossilazione del piruvato
+C) durante la via glicolitica
+D) per carbossilazione dell'acetato
+E) per riduzione del malato
+
+DOMANDA: 306 Un deficit di carnitina può interferire con il:
+A) metabolismo degli zuccheri
+B) metabolismo degli acidi grassi *
+C) metabolismo degli acidi biliari
+D) metabolismo degli acidi nucleici
+E) metabolismo delle proteine
+
+DOMANDA: 307 Quale amminoacido possiede nella molecola un atomo di zolfo
+A) metionina *
+B) serina
+C) istidina
+D) leucina
+E) glicina
+
+DOMANDA: 308 l'acido arachidonico può essere utilizzato per la sintesi di:
+A) sostanze oppioidi nel cervello
+B) prostaglandine *
+C) ciclopentanoperiidrofenantrene
+D) radicali lberi nei mitocondri per regolare il trasporto degli elettroni nella catena respiratoria
+E) endorfine
+
+DOMANDA: 309 La beta-idrossi-beta-metil-glutaril-CoA reduttasi
+A) è un enzima mitocondriale
+B) è un enzima coenzima A dipendente
+C) è un enzima della sintesi del colesterolo, sede di regolazione *
+D) contiene ferro
+E) è un enzima della sintesi dei corpi chetonici, sede di regolazione
+
+DOMANDA: 310 I livelli di ATP all'interno della cellula
+A) subiscono cospicue variazioni durante gli esercizi fisici
+B) dipendono dall'ATP circolante
+C) vengono mantenuti solo attraverso i processi glicolitici
+D) uguagliano i livelli di creatinfosfato
+E) sono mantenuti con il contributo del creatinfosfato *
+
+DOMANDA: 311 La mioglobina
+A) è un enzima
+B) lega l'anidride carbonica
+C) ha una struttura globulare *
+D) si trova negli eritrociti
+E) è una proteina di membrana
+
+DOMANDA: 312 In quale dei seguenti organi o tessuti I CORPI CHETONICI possono essere sintetizzati a partire dall'acetilCoA?
+A) fegato *
+B) sangue
+C) intestino
+D) muscolo scheletrico
+E) cervello
+
+DOMANDA: 313 L'enzima idrolitico lattasi scinde il lattosio producendo:
+A) 2 molecole di galattosio
+B) Galattosio e mannosio
+C) Glucosio e galattosio *
+D) 2 molecole di fruttosio
+E) Glucosio e fruttosio
+
+DOMANDA: 314 Il COLESTEROLO puo'essere un precursore di:
+A) acido folico
+B) ubichinone
+C) adrenalina
+D) progesterone *
+E) coenzima A
+
+DOMANDA: 315 Quali delle seguenti glicoproteine è presente nel plasma in maggiore concentrazione:
+A) transferrina *
+B) alfa 1 glicoproteina acida
+C) aptoglobine
+D) ceruloplasmina
+E) prealbumina
+
+DOMANDA: 316 Quale di queste affermazioni, riguardo gli AMINOACIDI e' FALSA?
+A) possono essere precursori di neurotrasmettitori
+B) possono tutti essere trasformati in glucosio *
+C) uno di essi, l'aspartato, partecipa al ciclo dell'urea
+D) possono prendere parte alla sintesi proteica
+E) uno di essi, la serina, partecipa alla sintesi di fosfolipidi
+
+DOMANDA: 317 Quale delle seguenti affermazioni riguardanti le VLDL (lipoproteine a bassissima densita') e' ESATTA :
+A) sono sintetizzate a livello dell'adipocita
+B) non contengono trigliceridi
+C) consentono il trasporto dei trigliceridi dal fegato ad altri tessuti *
+D) sono le lipoproteine a maggior contenuto della componente proteica
+E) trasportano trigliceridi dal tessuto adiposo al fegato
+
+DOMANDA: 318 Uno dei prodotti formati durante la glicolisi può rappresentare il metabolita iniziale per la sintesi dei trigliceridi. Esso è:
+A) l'acido 1,3-difosfoglicerico
+B) l'acido piruvico
+C) l'acido lattico
+D) il diidrossiacetone fosfato *
+E) l'acido 2-fosfoenolpiruvico
+
+DOMANDA: 319 Indicare l' affermazione ESATTA. Il glucagone:
+A) provoca l'attivazione dell'adenilato ciclasi con la formazione di AMP ciclico da ATP *
+B) è un ormone prodotto dalle ghiandole surrenali
+C) è un polisaccaride formato da unità di glucosio
+D) determina un abbassamento della glicemia
+E) è un enzima coinvolto nella conversione del glicogeno epatico in glucosio libero
+
+DOMANDA: 320 Durante il LAVORO MUSCOLARE si osservano tutti i processi sottoelencati, eccetto uno:
+A) sintesi di ATP esclusivamente da fosforilazione ossidativa mitocondriale *
+B) legame del calcio alla troponina
+C) cambiamento di conformazione della miosina
+D) aumento della concentrazione intracellulare del calcio
+E) formazione di ATP per azione della miocinasi
+
+DOMANDA: 321 La percentuale più elevata di immunoglobuline circolanti è rappresentata da
+A) IgE
+B) IgA
+C) IgG *
+D) IgD
+E) IgM
+
+DOMANDA: 322 Il muscolo, in condizioni di aerobiosi e apporto nutritivo bilanciato usa come combustibile metabolico prevalentemente:
+A) acidi grassi *
+B) saccarosio
+C) glucosio e amminoacidi
+D) fosfolipidi e fosfoproteine
+E) glicoproteine
+
+DOMANDA: 323 la serotonina deriva:
+A) dal triptofano *
+B) dalla prolina
+C) dalla lisina
+D) dalla tirosina
+E) dalla fenilalanina
+
+DOMANDA: 324 Per induzione enzimatica si intende:
+A) L'innesco del processo di biosintesi di specifiche proteine enzimatiche in risposta a stimoli ormonali o ambientali *
+B) Un meccanismo di modificazione post-traduzionale di proteine enzimatiche
+C) L'attivazione di enzimi mediante fosforilazione
+D) L'attivazione di enzimi mediante interazione con metaboliti specifici e in siti distinti da quello catalitico
+E) L'attivazione di precursori inattivi (zimogeni) mediante proteolisi
+
+DOMANDA: 325 Quale dei seguenti ormoni provoca lo svuotamento della CISTIFELLEA:
+A) colecistochinina *
+B) gastrina
+C) glucagone
+D) adrenalina
+E) calcitonina
+
+DOMANDA: 326 Il numero di specie di tRNA in una cellula è:
+A) 61, pari cioè al numero di triplette codificanti
+B) variabile a seconda del tipo di tessuto
+C) maggiore di 20 e minore di 61 *
+D) 64, pari cioè al numero di possibili triplette
+E) 20, pari cioè al numero di amminoacidi
+
+DOMANDA: 327 Un'improvvisa OSTRUZIONE DEL DEFLUSSO DELLA BILE verso l'intestino è accompagnata, tra l'altro, dalla eliminazione di urine di colore scuro (urine color marsala). Questa intensa colorazione delle urine è dovuta alla presenza di
+A) bilirubina indiretta
+B) bilirubina diretta *
+C) emoglobina
+D) urobilina
+E) acido omogentisico
+
+DOMANDA: 328 A livello del sangue periferico, e quindi alle pressioni parziali di ossigeno dei tessuti periferici, la produzione di H+, che deriva dalla formazione di anidride carbonica, ha il seguente effetto sull'EMOGLOBINA:
+A) favorire l'assunzione di una conformazione più "rilassata"
+B) diminuire l'affinità per l'ossigeno favorendone la liberazione *
+C) nessuna influenza sulla affinità per l'ossigeno
+D) aumentare l'affinità per l'ossigeno favorendone l'assunzione
+E) provocare la trasformazione della forma tetramerica in quella monomerica
+
+DOMANDA: 329 Durante la fase avanzata di digiuno:
+A) si ha un'attiva glicogenosintesi
+B) la gluconeogenesi epatica è rallentata
+C) si ha un aumento del rapporto ematico insulina/glucagone
+D) la concentrazione ematica degli acidi grassi aumenta *
+E) aumenta la concentrazione delle VLDL
+
+DOMANDA: 330 A livello della catena respiratoria, i protoni che rientrano nella matrice mitocondriale dallo spazio intermembrana attraverso il complesso F0 - F1 ATPasi:
+A) portano in matrice cariche positive per bilanciare l'elettronegatività creata dall'ingresso del Pi e dell'ADP
+B) servono a consentire la sintesi di ATP a partire da ADP e Pi *
+C) vengono scambiati in antiporto con Na+
+D) creano il pH ottimale per la sintesi di ATP nella matrice mitocondriale
+E) sono scambiati in antiporto con l'efflusso di ATP
+
+DOMANDA: 331 la glucochinasi:
+A) è un enzima prevalentemente cerebrale
+B) è un enzima prevalentemente muscolare
+C) è inibita dal glucosio-6-P
+D) è un enzima epatico ed è inducibile *
+E) è un enzima ubiquitario
+
+DOMANDA: 332 L'insulina
+A) controlla il ciclo dell'urea
+B) provoca iperglicemia
+C) favorisce la sintesi degli acidi grassi *
+D) inibisce la glicolisi
+E) stimola il catabolismo delle proteine
+
+DOMANDA: 333 Il glutatione è un
+A) trigliceride
+B) fosfolipide
+C) cerebroside
+D) peptide *
+E) polisaccaride
+
+DOMANDA: 334 L'acido pantotenico è:
+A) il prodotto della demolizione della carnitina
+B) un precursore della sintesi dell'emoglobina
+C) una vitamina fortemente lipofilica
+D) un derivato del catabolismo del colesterolo
+E) il precursore del coenzima A *
+
+DOMANDA: 335 Le proteine integrali di membrana
+A) attraversano la membrana da un lato all'altro *
+B) hanno tutte la capacità di trasportare ioni
+C) sono legate solo a un lato della membrana
+D) hanno un contenuto relativamente basso di residui idrofobici
+E) formano sempre legami covalenti con i lipidi
+
+DOMANDA: 336 Quale dei seguenti reattivi chimici è usato nella tecnica di analisi delle proteine denominata "degradazione di Edman"?
+A) ninidrina
+B) fenilisotiocianato *
+C) acido monoiodoacetico
+D) fluorescamina
+E) cloruro di dansile
+
+DOMANDA: 337 Quale delle seguenti considerazioni sulla GLICOGENOSINTETASI e' FALSA :
+A) la forma "dipendente" (D) e' attivata da glucosio-6-fosfato
+B) catalizza la formazione di legami (1-->4) alfa-glicosidici
+C) utilizza come substrato UDPglucosio
+D) la forma "indipendente" (I) e' defosforilata
+E) e' inibita da eccesso di glucosio-6-fosfato *
+
+DOMANDA: 338 Il NAD+:
+A) attraversa liberamente la membrana mitocondriale interna
+B) contiene ribitolo
+C) è il coenzima delle deidrogenasi *
+D) è covalentemente legato al proprio enzima
+E) nella sua struttura contiene riboflavina
+
+DOMANDA: 339 Acetoacetato, beta-idrossibutirrato e acetone
+A) vengono trasformati in triacilgliceroli
+B) sono presenti nel sangue in piccole quantità in condizioni fisiologiche *
+C) vengono immagazzinati come tali nel tessuto adiposo
+D) si formano in conseguenza di un'alimentazione ricca di lipidi
+E) sono precursori degli acidi grassi
+
+DOMANDA: 340 Il principale componente proteico della frazione LDL della lipoproteine plasmatiche è rappresentato da:
+A) Apolipoproteina D
+B) Polipoproteina C
+C) Apolipoproteina B *
+D) Apolipoproteina E
+E) Apolipoproteina A
+
+DOMANDA: 341 Le reazioni di transaminazione:
+A) Si svolgono unicamente nelle cellule epatiche
+B) Implicano la formazione di una base di Schiff come intermedio *
+C) Producono ammoniaca libera
+D) Richiedono la presenza del coenzima A
+E) Implicano l'ossidazione del gruppo amminico dell'aminoacido con diretto intervento di O2
+
+DOMANDA: 342 Quale dei seguenti composti ha un elevato potenziale di trasferimento del fosfato?
+A) Acilfosfato. *
+B) Glucosio-1-fosfato
+C) AMP
+D) 2-fosfoglicerato
+E) Glicerolo-3-fosfato
+
+DOMANDA: 343 Quale delle seguenti proteine è assente nel plasma dei pazienti con morbo di Wilson o degenerazione epatolenticolare?
+A) il fibrinogeno
+B) la ceruloplasmina *
+C) la transferrina
+D) il fattore reumatoide
+E) la proteina C reattiva
+
+DOMANDA: 344 I fosfolipidi
+A) sono molecole apolari
+B) rappresentano la principale riserva energetica della cellula
+C) si formano dal catabolismo del colesterolo
+D) sono tra i componenti delle membrane cellulari *
+E) contengono solo acidi grassi saturi
+
+DOMANDA: 345 Indicare la risposta errata riguardante il colesterolo
+A) è il precursore degli ormoni steroidei
+B) è solubile in acqua *
+C) la sua concentrazione nella bile è 390 mg/dl
+D) è un costituente delle membrane
+E) nel sangue si trova legato alle proteine del plasma e ad acidi grassi
+
+DOMANDA: 346 un livello eccessivo di acido urico nel sangue può essere provocato da:
+A) la presenza di patologie come leucemie o policitemie
+B) un accelerato catabolismo proteico dovuto a stimolazione della amminoacido ossidasi
+C) la mancata eliminazione di parte dell'urea prodotta
+D) un diminuito catabolismo proteico per inibizione delle proteasi intestinali
+E) un aumento dell'attività della xantina ossidasi *
+
+DOMANDA: 347 La mioglobina
+A) E' contenuta nei globuli rossi e trasporta ossigeno
+B) Presenta l'atomo di ferro in forma Fe+++
+C) Può legare quattro molecole di ossigeno
+D) Non presenta una struttura quaternaria *
+E) Presenta una cinetica sigmoidale nella sua interazione con l'O2
+
+DOMANDA: 348 La sintesi di glucosio a partire da piruvato (gluconeogenesi):
+A) utilizza tutti gli stessi enzimi della glicolisi ma in senso inverso
+B) non richiede energia
+C) richiede energia sotto forma di GTP *
+D) entra in funzione quando l'isulinemia aumenta
+E) prevede la fosforilazione diretta dell'acido piruvico a fosfoenolpiruvico
+
+DOMANDA: 349 Indicare l'affermazione esatta. La sfingosina è:
+A) un aminoalcol insaturo *
+B) un aminoacido raro
+C) un acido bicarbossilico
+D) una molecola senza doppi legami
+E) un nucleoside purinico
+
+DOMANDA: 350 Quale, fra le seguenti affermazioni, riguardanti le PROTEINE PLASMATICHE, e'FALSA:
+A) le gamma-globuline sono glicoproteine
+B) le alfa-globuline sono, fra le proteine plasmatiche, quelle presenti in maggiore quantita' *
+C) della frazione gamma-globulinica fanno parte gli anticorpi
+D) una funzione dell'albumina e' quella di trasportare, ad esempio, acidi grassi
+E) il fibrinogeno interviene nella coagulazione del sangue

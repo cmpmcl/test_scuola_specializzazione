@@ -1,0 +1,2449 @@
+DOMANDA: 1 Quale tra questi tests valuta l'effetto degli ormoni tiroidei sul metabolismo:
+A) glicemia
+B) azotemia
+C) colesterolemia *
+D) transaminasi
+E) creatininemia
+
+DOMANDA: 2 In caso di emergenza se non si conosce il gruppo del paziente:
+A) si devono trasfondere emazie concentrate di gruppo compatibile
+B) non si deve trasfondere
+C) si devono trasfondere emazie sospese in plasma AB
+D) si devono trasfondere emazie concentrate di gruppo 0 Rh neg *
+E) si può trasfondere qualunque gruppo ma con cautela
+
+DOMANDA: 3 Quale di questi indicatori biochimici compare in corso di tumori ectopici:
+A) gonadotropina corionica (HCG) *
+B) antigene carcinoembrionale (CEA)
+C) antigene prostatico specifico(PSA)
+D) antigene tissutale specifico(TPS)
+E) enolase neurone specifico (NSE)
+
+DOMANDA: 4 L'istamina è un mediatore chimico:
+A) membrano-associato
+B) granulo-associato *
+C) neoformato
+D) di origine linfocitaria
+E) di origine macrofagica
+
+DOMANDA: 5 Il morbo di Flaiani-Basedow-Graves è una forma di ipertiroidismo dovuta essenzialmente a:
+A) aumento dell'attività dell'ormone tireotropo
+B) aumento della concentrazione dell'ormone tireotropo
+C) presenza di anticorpi contro il recettore dell'ormone tireotropo *
+D) diminuzione dell'attività dell'ormone tireotropo
+E) presenza di anticorpi anti-antigene microsomiale tiroideo
+
+DOMANDA: 6 In quali di queste situazioni aumentano i livelli della globulina legante la tiroxina (TBG):
+A) sindrome nefrosica
+B) gravidanza *
+C) cirrosi epatica
+D) sindrome di Cushing
+E) irsutismo
+
+DOMANDA: 7 Quale tra i seguenti fattori potenzia la formazione del trombo:
+A) prostaciclina
+B) plasmina
+C) trombossano *
+D) antitrombina III
+E) eparina
+
+DOMANDA: 8 Il type & screen:
+A) serve ad eseguire la tipizzazione ABO del paziente
+B) fornisce informazioni sull'assetto anticorpale complessivo del paziente *
+C) fornisce informazioni sulla compatibilità di un singolo emocomponente
+D) serve ad eseguire la tipizzazione Rh del donatore
+E) fornisce informazioni sulla tipizzazione ABO Rh
+
+DOMANDA: 9 Come si induce il condizionamento mediante:
+A) l'infusione di cellule staminali
+B) la somministrazione di fattori di crescita
+C) la somministrazione di emocomponenti
+D) la GvHD
+E) la chemioterapia *
+
+DOMANDA: 10 Un aumento di LH sierico dopo stimolo con GnRH si ha in caso di:
+A) malattia ipofisaria
+B) malattia ipotalamica
+C) malattia testicolare primitiva *
+D) alterazione della differenziazione sessuale
+E) persistenza del dotto di Muller
+
+DOMANDA: 11 Qual'è il numero di spermatozoi nel liquido seminale di un soggetto normale:
+A) > 20 x 106 / ml *
+B) > 10 x 106 / ml
+C) > 5 x 106 / ml
+D) > 20 x 105 / ml
+E) > 20 x 104 / ml
+
+DOMANDA: 12 L'eritropoietina regola la produzione midollare ed immissione nel circolo periferico di:
+A) elementi maturi della serie granulocitica
+B) reticolociti *
+C) linfoblasti T e B
+D) solo elementi della serie mieloide
+E) tutti gli elementi in maturazione midollare
+
+DOMANDA: 13 Quale di questi ormoni non aumenta progressivamente fino al termine della gravidanza:
+A) estradiolo
+B) progesterone
+C) estriolo
+D) BHCG *
+E) PRL
+
+DOMANDA: 14 L'anemia emolitica autoimmune da anticorpi caldi è caratterizzata da:
+A) test di Coombs diretto positivo solo per C3
+B) test di Coombs diretto negativo e indiretto positivo
+C) test di Coombs diretto positivo per IgM anti-e
+D) test di Coombs diretto positivo per IgM anti-Rh29
+E) test di Coombs diretto positivo per IgG *
+
+DOMANDA: 15 Qual è il marcatore biochimico del difetto della 21-idrossilasi:
+A) testosterone
+B) 11-deossi-cortisolo
+C) idrocortisone
+D) 17?-idrossiprogesterone *
+E) 17?-idrossipregnenolone
+
+DOMANDA: 16 Quale è la durata del periodo finestra nel caso di infezione da HIV:
+A) 8-10 anni
+B) 12-15 mesi
+C) 10-15 giorni
+D) 1-2 settimane
+E) 8-12 settimane *
+
+DOMANDA: 17 Nel deficit di 20-22 desmolasi in un maschio quale pattern è corretto:
+A) cortisolo basso ed ACTH alto *
+B) cortisolo alto e 17 OHP alto
+C) ACTH alto e testosterone alto
+D) 17 OHP alto e DHEAS basso
+E) testosterone alto e DHEAS alto
+
+DOMANDA: 18 I PIVKA rappresentano:
+A) fattori di aggregazione piastrinica
+B) derivati dell'acido pipemidico
+C) fattori indotti dall'assenza della vit.B12
+D) fattori indotti da antagonisti della vit.K *
+E) antiaggreganti piastrinici
+
+DOMANDA: 19 Anticorpi incompleti di tipo IgG provocano anemia emolitica perché:
+A) determinano una emolisi intravascolare
+B) favoriscono l'eritrofagocitosi
+C) favoriscono il sequestro splenico
+D) a+b
+E) b+c *
+
+DOMANDA: 20 Per la diagnosi di laboratorio di pregressa epatite da HAV è necessario valutare:
+A) la presenza dell' acido nucleico virale ( RNA) nelle feci del paziente
+B) la presenza dell' acido nucleico virale( RNA) nel siero del paziente
+C) la presenza di Immunoglobuline G anti HAV *
+D) la presenza di Immunoglobuline M anti HAV
+E) il titolo ( >100 UI) di Immunoglobuline G anti HAV
+
+DOMANDA: 21 Le cellule staminali emopoietiche:
+A) esprimono l'antigene CD133+
+B) hanno la capacità di automantenersi
+C) presentano una divisione mitotica asimmetrica
+D) sono comprese nella popolazione CD34+
+E) tutte le precedenti *
+
+DOMANDA: 22 Nella formula leucocitaria qual è l'elemento cellulare meno rappresentato:
+A) linfociti
+B) neutrofili
+C) basofili *
+D) eosinofili
+E) monociti
+
+DOMANDA: 23 Al richiamo sul siero dopo lo screening per ipotiroidismo congenito il seguente pattern con T3 = N, T4 = basso, TSH = N, TBG = basso, FT3 = N indica:
+A) falso positivo
+B) ipotiroidismo primario
+C) ipotiroidismo secondario
+D) ipotiroidismo terziario
+E) deficit di TBG *
+
+DOMANDA: 24 Quali dei seguenti ormoni ha azione ipoglicemizzante:
+A) tiroxina
+B) ACTH
+C) cortisolo
+D) adrenalina
+E) nessuno dei precedenti *
+
+DOMANDA: 25 La presenza dei corpi di Auer intracitoplasmatici è caratteristica peculiare della:
+A) leucemia linfoblastica acuta dello stipite T
+B) leucemia mieloide acuta *
+C) leucemia linfoblastica acuta dello stipite B
+D) leucemia megacarioblastica
+E) leucemia linfoide cronica
+
+DOMANDA: 26 Quale di queste patologie si riscontra in un soggetto femminile con valori sierici bassi di FSH, bassi di LH, bassi di progesterone ed elevati di estradiolo:
+A) pubertà precoce
+B) tumore femminilizzante *
+C) Sindrome di Turner
+D) ipopituitarismo
+E) ovaio policistico
+
+DOMANDA: 27 L'increzione di paratormone è regolata principalmente dai livelli di:
+A) calcemia *
+B) fosfatemia
+C) kaliemia
+D) cloremia
+E) aldosterone
+
+DOMANDA: 28 La coagulazione del sangue in vitro avviene più rapidamente mediante aggiunta di:
+A) fattore antiemofilico A
+B) citrato di sodio
+C) prostaciclina
+D) tromboplastina tissutale *
+E) tromboplastina plasmatica
+
+DOMANDA: 29 Qual è il contenuto di iodio che deve essere quotidianamente introdotto per evitare il gozzo da carenza iodica:
+A) 10 ?g
+B) 25??g
+C) 50 ?g
+D) 75 ?g
+E) 150 ?g *
+
+DOMANDA: 30 Il tempo di protrombina (PT) è indicativo della carenza:
+A) del fattore VIII
+B) dell'attività von Willebrand
+C) del fibrinogeno
+D) del fattore Hagemann
+E) dei fattori II e VII *
+
+DOMANDA: 31 Indicare un valore normale di glicemia a digiuno:
+A) 180 mg/dL
+B) 90 g/dL
+C) 70-105 mg/dl *
+D) 5.5 mmol/L
+E) 5.5 nmol/L
+
+DOMANDA: 32 Marcatori tumorali circolanti:
+A) Sono sempre segno di neoplasia
+B) Sono sempre presenti in soggetti malati ed assenti in soggetti sani
+C) Sono associati a neoplasie ma, alcuni di essi sono riscontrabili anche in altre patologie o durante alcune fasi particolari di sviluppo dell'individuo *
+D) Sono tutti selettivamente tumore-specifici
+E) Sono proteine infiammatorie
+
+DOMANDA: 33 Quale tra questi germi piogeni sostiene più spesso le flogosi suppurative?
+A) stafilococco aureo *
+B) stafilococco epidermidis
+C) streptococco fecale
+D) streptococco viridans
+E) diplococco
+
+DOMANDA: 34 Quale di queste proprietà possiede l'aldosterone?
+A) è secreto dall'apparato iuxtaglomerulare
+B) è secreto in maggior quantità quando la concentrazione plasmatica di K+ si abbassa
+C) attiva il trasporto di Na nel nefrone distale *
+D) attiva il riassorbimento di K nel nefrone distale
+E) provoca acidosi
+
+DOMANDA: 35 Valori di HDL indicativi di rischio molto basso di infarto del miocardio corrispondono a:
+A) 25-35 mg/dl
+B) 35-45 mg/dl
+C) inferiori a 25 mg/dl
+D) sopra i 75 mg/dl *
+E) 45-60 mg/dl
+
+DOMANDA: 36 Nel siero di un portatore sano del virus dell'epatite B si evidenziano in circolo:
+A) l'antigene di superficie del virus B (HbsAg) ed assenza di tutti gli altri markers del virus *
+B) l'antigene di superficie del virus B (HbsAg) e presenza del DNA virale
+C) l'antigene di superficie del virus B (HbsAg) e l'antigene di replicazione virale (HbeAg)
+D) l'antigene di superficie del virus B (HbsAg) e l'antigene "Core" (HbcAg)
+E) gli anticorpi contro l'antigene di superficie (HbsAb)
+
+DOMANDA: 37 Come si trasmette il morbillo?
+A) per via oro-fecale
+B) per via aerea *
+C) per via sessuale
+D) per puntura di materiale infetto
+E) per contatto
+
+DOMANDA: 38 In corso di infarto del miocardio il marcatore che rimane elevato dopo 14 o 15 giorni è:
+A) la mioglobina
+B) la CK
+C) la troponina T *
+D) la LDH
+E) la CK-MB
+
+DOMANDA: 39 I livelli di renina elevati sono indicativi di:
+A) Iperaldosteronismo secondario *
+B) Epatite alcolica
+C) Mononucleosi infettiva
+D) Ipertiroidismo
+E) Sindrome nefrosica
+
+DOMANDA: 40 Ridotti livelli ematici di glucagone indicano:
+A) Fibrosi cistica *
+B) Cirrosi epatica
+C) Insufficienza renale
+D) Pancreatite acuta
+E) Diabete mellito
+
+DOMANDA: 41 Per completare le indagini di laboratorio nell'anemia sideropenica, il dosaggio della sideremia
+A) deve essere associato a quello dei reticolociti
+B) deve essere associato a quello del calcio
+C) si deve associare a quello del magnesio
+D) nessuna delle precedenti *
+E) tutte le precedenti
+
+DOMANDA: 42 Valori nel siero di gonadotropina corionica (HCG) compatibili con una gravidanza alla dodicesima settimana di gestazione sono:
+A) 5-50 mIU/ml
+B) <5.0 mIU/ml
+C) 12000 - 270000 mIU/ml *
+D) 50 - 500 mIU/ml
+E) 4000 mIU/ml
+
+DOMANDA: 43 Per la tipizzazione delle sottopopolazioni linfocitarie i linfociti umani vengono comunemente prelevati da:
+A) midollo osseo
+B) linfonodi
+C) milza
+D) sangue periferico *
+E) dotto toracico
+
+DOMANDA: 44 La colorazione di Gram è specifica per:
+A) virus
+B) micobatteri
+C) batteri *
+D) parassiti
+E) cellule del sangue
+
+DOMANDA: 45 La reazione di Wassermann viene usata per la diagnosi di quale di queste malattie:
+A) salmonellosi
+B) difterite
+C) gonorrea
+D) brucellosi
+E) sifilide *
+
+DOMANDA: 46 Cosa si intende per sieroconversione?
+A) l'assenza di anticorpi nel siero acuto
+B) un eccesso di titolo anticorpale
+C) il passaggio degli anticorpi da classe IgM ad IgG *
+D) convalescente rispetto all'acuto
+E) aumento dei linfociti nel sangue periferico
+
+DOMANDA: 47 Con quale di queste sostanze si ottiene la massima secrezione acida gastrica?
+A) pentagastrina *
+B) glucagone
+C) secretina
+D) colecistochinina
+E) VIP
+
+DOMANDA: 48 Quando si parla di aplasia?
+A) quando l'organo è diminuito di volume
+B) quando l'organo è aumentato di volume
+C) quando l'organo è assente *
+D) quando l'organo è malformato
+E) nessuna delle precedenti
+
+DOMANDA: 49 Nelle anemie sideropeniche la trasferrina è:
+A) aumentata *
+B) diminuita
+C) normale
+D) aumenta con l'aumentare della ferritina
+E) diminuisce con la diminuizione della ferritina
+
+DOMANDA: 50 Indicare quale attività enzimatica, fra quelle elencate in seguito, è in grado di attivare in vivo il Plasminogeno a Plasmina, enzima cardine del sistema fibrinolitico:
+A) proteina C Anticoagulante
+B) trombina
+C) attivatore tessutale del plasminoigeno (tPA) *
+D) trombomodulina
+E) complesso trombina-antitrombina
+
+DOMANDA: 51 I test di laboratorio utilizzati per la valutazione del rischio coronarico includono i seguenti parametri eccetto:
+A) colesterolo
+B) trigliceridi
+C) HDL-colesterolo
+D) VES *
+E) LDL colesterolo
+
+DOMANDA: 52 Quale di queste risposte è esatta per le malattie autoimmuni?
+A) derivano da eccessiva selezione clonale
+B) si verificano quando si instaura una tolleranza indotta da bassa dose di antigene
+C) consistono in una risposta immunitaria verso antigeni endogeni, con danno ai tessuti *
+D) si manifestano essenzialmente con la produzione di autoanticorpi
+E) insorgono nel periodo perinatale di immaturità immunologica
+
+DOMANDA: 53 Quale delle seguenti immunoglobuline è più strettamente connessa con l'insorgenza dell'attacco dell'asma di natura allergica:
+A) IgG
+B) IgM
+C) IgA
+D) IgE *
+E) IgG e IgM
+
+DOMANDA: 54 Nella sindrome di Cushing è sempre aumentato:
+A) ACTH plasmatico
+B) DHEA solfato plasmatico
+C) cortisolo urinario *
+D) transaminasi epatiche
+E) Leucociti
+
+DOMANDA: 55 Uno solo dei seguenti distretti è fisiologicamente sterile:
+A) alte vie respiratorie
+B) liquor *
+C) intestino tenue
+D) condotto uditivo esterno
+E) liquido lacrimale
+
+DOMANDA: 56 La conferma della diagnosi di "anemia emolitica acquisita"da quale di questi esami immunologici può essere confermata?
+A) tasso di protrombina
+B) test dell'immunofluorescenza
+C) immunoelettroforesi
+D) test di Waaler-Rose
+E) test di Coombs *
+
+DOMANDA: 57 La sensibilità di un test è influenzata da:
+A) Dalla metodologia utilizzata
+B) Veri negativi
+C) Falsi positivi
+D) Veri positivi
+E) Falsi negativi *
+
+DOMANDA: 58 Quale di queste risposte per la bilirubina "diretta" è vera?
+A) si produce direttamente nei globuli rossi senza intervento della milza
+B) non è solubile in acqua
+C) proviene dal catabolismo dei gruppi eme non derivati dall'emoglobina
+D) è escreta direttamente dal rene senza passaggio dal fegato
+E) è coniugata con acido glicuronico *
+
+DOMANDA: 59 Quale è la forma infettante di T. gondii:
+A) oocisti *
+B) ameboicita
+C) tachizoite
+D) trofozoite
+E) nessuna di queste
+
+DOMANDA: 60 Qual è il rischio di generare figli affetti da emofilia quando nella coppia di genitori il padre ne è affetto?
+A) 25%
+B) 50%
+C) 50% dei figli maschi
+D) 100% dei figli maschi
+E) nessuno dei precedenti *
+
+DOMANDA: 61 Quali sono i prodotti della glicolisi anaerobica?
+A) acido lattico *
+B) anidride carbonica ed acqua
+C) acidi grassi ed acqua
+D) glucosio ed acqua
+E) anidride carbonica ed acido acetico
+
+DOMANDA: 62 Quando la batteriuria è considerata indice di infezione delle vie urinarie?
+A) 10(alla sesta) colonie per ml
+B) 10(alla quarta) colonie per ml
+C) 10(alla quinta) colonie per ml *
+D) 10(alla terza) colonie per ml
+E) 10(alla seconda) colonie per ml
+
+DOMANDA: 63 In caso di epatopatia cronica quali variazioni delle proteine sieriche sono riscontrate con maggiore frequenza?
+A) diminuzione della prealbumina e dell'albumina ed aumento policlonale delle gamma-globuline *
+B) decremento di prealbumina ed aumento di aptoglobina
+C) diminuzione dell'alfa- 1 -antitripsina
+D) diminuzione dell'albumina, aumento dell'alfa-2-macroglobulina, decremento delle gamma-globuline
+E) gammopatia monoclonale
+
+DOMANDA: 64 Helicobacter pylori è responsabile di:
+A) tiflite
+B) angiocolite
+C) pancreatite
+D) gastrite ed ulcera peptica *
+E) colite ulcerosa
+
+DOMANDA: 65 Il fattore VIII della coagulazione è normale nelle seguenti condizioni patologiche:
+A) tromboembolia
+B) Fase post-operatoria
+C) Epatopatie gravi *
+D) malattia di von Willebrand
+E) Coagulazione intravasale diffusa
+
+DOMANDA: 66 Nei casi di eritroblastosi fetale, con quale indagini si valuta la presenza, nel sangue della madre, di anticorpi anti-eritrociti fetali:
+A) esame emocromcitometrico con formula leucocitaria
+B) tese di fragilità osmotica
+C) test di Coombs diretto
+D) test di Coombs indiretto *
+E) test di Waaler-Rose e test al lattice (RAtest)
+
+DOMANDA: 67 Qual è l'azione principale della bile?
+A) emulsione dei grassi *
+B) idrolizzazione dei carboidrati
+C) azione nel metabolismo proteico
+D) fosforilizzazione di glucosio
+E) neutralizzazione di acidi grassi
+
+DOMANDA: 68 Quale delle seguenti azioni è espletata dall'insulina:
+A) aumento della sintesi di glicogeno *
+B) stimolazione della glicogenolisi epatica
+C) diminuzione della sintesi proteica
+D) stimolazione chetogenesi
+E) ridotta conversione del glucosio in grassi
+
+DOMANDA: 69 La malattia emolitica del neonato da anti-D può verificarsi più facilmente se:
+A) la madre e il padre sono entrambi 0 Rh (D) negativi
+B) se la madre è 0 Rh (D) positivo e il padre A Rh (D) negativo
+C) se la madre è A Rh (D) negativo e il padre 0 Rh (D) positivo *
+D) se la madre è O Rh (D) negativo e il padre A Rh (D) positivo
+E) se la madre è 0 Rh (D) negativo e il padre B Rh (D) positivo
+
+DOMANDA: 70 Le talassemia major è dovuta:
+A) sostituzione di un aminoacido a livello delle catene beta
+B) a persistente sintesi di emoglobina F (HBF) con valori tra il 40% e il 90% dell'emoglobina totale *
+C) mancata associazione delle catene alfa con le catene beta
+D) ossidazione irreversibile dello ione ferroso (bivalente) a ione ferrico (trivalente)
+E) variazione della solubilità dell'emoglobina nella sua forma deossigenata
+
+DOMANDA: 71 Il siero di un individuo di gruppo A/RhD- agglutinerà emazie:
+A) 0/RhD+
+B) A/RhD-
+C) A/RhD+
+D) B/RhD+ *
+E) 0/RhD-
+
+DOMANDA: 72 Tra le azioni farmacologiche una delle seguenti è tipica dei glucocorticoidi, quale?
+A) antipiretica
+B) antivirale
+C) immunosoppressiva *
+D) analgesica
+E) antiipertensiva
+
+DOMANDA: 73 L'aptoglobina diminuisce in corso di:
+A) infezioni
+B) necrosi tissutale
+C) ustioni
+D) sindrome nefrosica
+E) emolisi intravascolare *
+
+DOMANDA: 74 Quali di queste analisi è importante richiedere per la determinazione dell'equilibrio acido/base?
+A) Potassiemia
+B) pCO2 *
+C) Sodiemia
+D) Glicemia
+E) Osmolarità urinaria
+
+DOMANDA: 75 Quali immunoglobuline indicano una infezione in atto:
+A) IgE
+B) IgA
+C) IgD
+D) IgM *
+E) IgG
+
+DOMANDA: 76 Di quale di questi composti NON è precursore il colesterolo?
+A) acidi biliari
+B) ormoni glucocorticoidi
+C) vitamina D
+D) alfa-tocoferolo *
+E) androgeni ed estrogeni
+
+DOMANDA: 77 Il sodio citrato agisce come anticoagulante:
+A) legando gli ioni-Calcio *
+B) legando il complemento
+C) attivando il complemento
+D) rendendo instabile il C1qrs ed impedendo l'attivazione del Complemento
+E) impedendo la formazione della Trombina
+
+DOMANDA: 78 La tossina botulinica:
+A) penetra attraverso gli assoni neuronali
+B) viene inattivata a 37 C° per 5 minuti
+C) inibisce la sintesi proteica
+D) viene prodotta da sòpore essiccate
+E) inibisce la trasmissione sinaptica nelle giunzioni neuromuscolari *
+
+DOMANDA: 79 L'epatopatia con alta frequenza di anticorpi anti-mitocondrio (AMA):
+A) colangite sclerosante primaria
+B) cirrosi biliare primitiva *
+C) litiasi ricorrente delle vie biliari intraepatiche
+D) sarcoidosi epatica
+E) steatosi epatica
+
+DOMANDA: 80 La creatinina plasmatica è un indicatore la cui concentrazione può essere alterata in corso di:
+A) patologia polmonare
+B) patologia muscolare *
+C) patologia cardiaca
+D) patologia endocrina
+E) patologia pancreatica
+
+DOMANDA: 81 La presenza di nitriti nelle urine è indice di:
+A) emorragia delle vie urinarie
+B) elevata carica batterica *
+C) diabete mellito
+D) insufficienza renale acuta
+E) disidratazione
+
+DOMANDA: 82 Quale proteina trasporta il ferro nel plasma?
+A) emoglobina
+B) transferrina *
+C) ceruloplasmina
+D) albumina
+E) aptoglobulina
+
+DOMANDA: 83 Una di queste Ig sostiene la risposta ad una stimolazione antigenica secondaria, quale:
+A) IgG *
+B) IgM
+C) IgE
+D) IgA
+E) IgD
+
+DOMANDA: 84 Nel test di Coombs diretto vengono utilizzati:
+A) emazie di montone e siero del paziente
+B) anticorpi anti-TSH
+C) emazie del paziente, anticorpi anti-Ig umane e anti-complemento *
+D) emazie del paziente tenute a 4°C per 36 ore
+E) siero del paziente
+
+DOMANDA: 85 Che funzione hanno le cellule di Langerhans?
+A) riserve di materiale
+B) neutralizzanti gli enzimi lisosomiali
+C) neutralizzanti l'istamina
+D) sito di contatto per l'antigene *
+E) killer dei linfociti T
+
+DOMANDA: 86 Nella diagnosi di pancreatite acuta quali sono i tests più attendibili?
+A) bilirubinemia
+B) fosfatasi alcalina
+C) amilasi e lipasi *
+D) urobilinogeno
+E) pancreozimina
+
+DOMANDA: 87 Quali fattori della coagulazione sono inattivati selettivamente dal complesso Proteina C/Proteina S:
+A) fattori vitamina-K dipendenti
+B) fattori V e VIII *
+C) Trombina e Fibrinogeno
+D) Fattore X e Protrombina
+E) nessuno di questi
+
+DOMANDA: 88 Cosa si intende per opsonizzazione?
+A) rimozione di detriti extracellulari per mezzo di particolari enzimi digestivi
+B) processo attraverso cui gli anticorpi rendono i batteri suscettibili alla fagocitosi *
+C) distruzione enzimatica di grandi particelle di materiale estraneo
+D) distruzione della barriera di fibrina che si forma intorno ai batteri in certe infezioni
+E) lisi anticorpale di batteri con l'intervento del complemento
+
+DOMANDA: 89 Quale di queste substrutture non è presente nei Procarioti?
+A) ribosomi
+B) membrana nucleare *
+C) membrana citoplasmatica
+D) cromosoma
+E) apparato del Golgi
+
+DOMANDA: 90 Le Anemie Megaloblastiche sono caratterizzate da:
+A) una ridotta sintesi di Emoglobina a livello dei precursori eritroidi midollari
+B) un aumento del volume corpuscolare medio (MCV) *
+C) una errata incorporazione dello ione Fe++ nel gruppo eme
+D) un difetto della sintesi delle proteine di membrana del globulo rosso
+E) nessuna di queste risposte è esatta
+
+DOMANDA: 91 Quale di queste sostanze aumenta nel siero di soggetti con sindrome di Zollinger-Ellison?
+A) gastrina *
+B) glucagone
+C) insulina
+D) eritropoietina
+E) pancreozimina
+
+DOMANDA: 92 La calcemia è diminuita in una delle seguenti condizioni, quale?
+A) osteoporosi
+B) iperparatiroidismo
+C) ipoparatiroidismo *
+D) metastasi osteocondensanti
+E) iperparatiroidismo terziario
+
+DOMANDA: 93 Nelle feci di un paziente con epatite virale A per quanto tempo dall'esordio clinico si riscontra il virus?
+A) meno di 10 giorni *
+B) fino a 20 giorni
+C) fino a 30 giorni
+D) fino a 45 giorni
+E) oltre 45 giorni
+
+DOMANDA: 94 Nella donna in età feconda il momento ottimale per eseguire il prelievo citologico è:
+A) Intorno alla 14° giornata
+B) In periodo preovulatorio
+C) In periodo post-ovulatorio
+D) Nell'intervallo compreso tra 5 giorni dopo la fine del ciclo e 5 giorni prima del probabile inizio del successivo *
+E) In qualunque periodo escluso quello mestruale
+
+DOMANDA: 95 Calcoli urinari di acido urico si possono osservare:
+A) nel deficit di acido folico
+B) nelle urine a pH acido *
+C) nel diabete mellito
+D) nelle urine a pH neutro
+E) nelle urine a pH basico
+
+DOMANDA: 96 La bilirubina nelle urine è presente:
+A) nell'anemia aplastica
+B) in condizioni fisiologiche dopo stress
+C) nell'ittero biliare ostruttivo *
+D) nell'insufficienza renale
+E) nella glomerulonefrite
+
+DOMANDA: 97 Che cosa si intende per microalbuminuria:
+A) livelli di albumina nelle urine inferiori a 20 mg/L
+B) livelli di albumina nelle urine compresi tra 20 e 200 mg/L *
+C) livelli di albumina nelle urine superiori a 300 mg/L
+D) livelli di albumina nel sangue inferiori a 200 mg/L
+E) livelli di albumina nelle urine superiori a 500 mg/L
+
+DOMANDA: 98 Quale dosaggio sierico risulta indispensabile per identificare precocemente una gravidanza:
+A) progesterone
+B) hCG *
+C) HPL
+D) Estradiolo
+E) Estriolo
+
+DOMANDA: 99 Il quadro emogasanalitico della alcalosi respiratoria è caratterizzato da:
+A) aumento della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+B) diminuzione della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+C) aumento della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+D) aumento del pH, diminuzione della pressione parziale di anidride carbonica e diminuzione dei bicarbonati *
+E) aumento e/o diminuzione della pressione parziale di anidride carbonica e dei bicarbonati in funzione dell'eziologia della acidosi
+
+DOMANDA: 100 Cosa caratterizza un essudato:
+A) basso contenuto proteico
+B) presenza di numerosi globuli rossi
+C) alto peso specifico *
+D) colore bruno
+E) basso peso specifico
+
+DOMANDA: 101 La temperatura ottimale di crescita dei batteri è:
+A) 35°C *
+B) 46°C
+C) 10°C
+D) 0°C
+E) 90°C
+
+DOMANDA: 102 Qual è il test di laboratorio che è utilizzato per il monitoraggio a lungo termine della terapia in un paziente affetto da diabete di tipo I?
+A) test di tolleranza orale al glucosio
+B) dosaggio della insulina sierica
+C) dosaggio del glucosio nelle urine
+D) dosaggio dell'emoglobina glicosilata *
+E) glucosio sierico "random"
+
+DOMANDA: 103 Un soggetto vaccinato per epatite B presenta una delle seguenti caratteristiche:
+A) aumento delle transaminasi sieriche
+B) positività sierica dell'HbsAg
+C) aumento della gammaGT
+D) positività degli anticorpi anti-HbsAg *
+E) presenza di anticorpi anti-HAV (sia IgM che IgG)
+
+DOMANDA: 104 I valori considerati normali di omocisteina nel sangue sono:
+A) oltre 100 micromoli/L
+B) 60-80 micromoli/L
+C) 4-7 micromoli/L *
+D) 30-50 micromoli/L
+E) 10-20 micromoli/L
+
+DOMANDA: 105 La presenza di urobilinogeno nelle feci è indicativo di:
+A) ostruzione biliare
+B) Epatite virale
+C) Alterazione della flora batterica
+D) anemia emolitica *
+E) Anemia aplastica
+
+DOMANDA: 106 Quale tra queste caratteristiche è della reazione alla tubercolina di tipo ritardato?
+A) compare entro 1-2 ore
+B) richiede una popolazione intatta di T-linfociti *
+C) presenta infiltrati granulocitari del derma
+D) è osservata solo con piccole molecole di antigene
+E) non richiede una precedente esposizione all'antigene
+
+DOMANDA: 107 Che cosa indica un papilloma?
+A) un tumore benigno che prende origine dal tessuto connettivo
+B) un tumore connettivale che prende origine da cellule adipose mature
+C) un tumore che prende origine dalle strutture epitelio ghiandolari
+D) un tumore connettivale benigno che ripete la struttura del tessuto mucoso embrionale
+E) un tumore benigno che deriva dagli epiteli di rivestimento sia della cute che delle mucose *
+
+DOMANDA: 108 Dove si trova la cellula di Langerhans?
+A) nella mucosa gastrica
+B) nell'epidermide *
+C) nelle pareti dei piccoli vasi
+D) nel tessuto osseo
+E) nel pancreas
+
+DOMANDA: 109 Una donna di gruppo sanguigno B il cui padre è di gruppo sanguigno 0, incrociandosi con un uomo di gruppo sanguigno A:
+A) Non può avere figli, perché i gruppi sanguigni A e B sono incompatibili
+B) Può avere figli solo di gruppi A e B
+C) Non può mai avere figli di gruppo 0
+D) Può avere figli di gruppi A, B, AB, 0 *
+E) Può avere figli maschi solo di gruppo A e figlie di gruppo B
+
+DOMANDA: 110 L'over-espressione dell'oncogène HER-2/neu:
+A) è un marker istotipico di carcinoma polmonare a cellule squamose
+B) è un fattore predittivo di risposta meno efficace all'ormonoterapia nel carcinoma mammario *
+C) è un marker diagnostico di evoluzione da cirrosi a epatocarcinoma
+D) è un marker prognostico di neuroblastoma
+E) si associa a iperproduzione di proteine oncofetali
+
+DOMANDA: 111 In quali condizioni si può verificare incompatibilità fra madre e feto per il fattore Rh:
+A) padre Rh- e madre Rh-
+B) madre Rh+ e feto Rh-
+C) madre Rh+ e feto Rh+
+D) madre Rh- e feto Rh+ *
+E) madre Rh- e feto Rh-
+
+DOMANDA: 112 La reazione di Wright per la ricerca degli anticorpi anti-Brucella è una reazione sierologica di:
+A) agglutinazione *
+B) fissazione del complemento
+C) precipitazione
+D) emoagglutinazione inversa
+E) ELISA
+
+DOMANDA: 113 L'antigene CA 15.3 è utilizzabile:
+A) Nel trattamento delle neoplasie mammarie *
+B) nella cirrosi
+C) nella pancreatite
+D) nelle leucemie
+E) nel carcinoma del colon
+
+DOMANDA: 114 Quali di queste sostanze stimola la secrezione dell'aldosterone?
+A) metirapone
+B) angiotensina II *
+C) propanololo
+D) TSH
+E) cortisolo
+
+DOMANDA: 115 Può giustificare la presenza di iperpotassemia:
+A) vomito protratto
+B) emolisi del prelievo *
+C) infusione di insulina
+D) alcalosi
+E) diarrea profusa
+
+DOMANDA: 116 Le mitosi su di uno striscio cervico vaginale:
+A) Sono sempre diagnostiche di carcinoma invasivo
+B) Possono essere presenti sia in caso di neoplasia che di fenomeni riparativi *
+C) Sono indice di rigenerazione epiteliale dopo infezione da GardnerellaV
+D) Sono indice dell'infezione da HPV
+E) Si ritrovano solo nella donna giovane con epitelio in normale rigenerazione
+
+DOMANDA: 117 Un incremento della concentrazione sierica di alfafetoproteina in gravidanza può suggerire la presenza di:
+A) diabete
+B) sindrome di Down
+C) difetto del tubo neurale *
+D) gestosi
+E) pseudogravidanza
+
+DOMANDA: 118 L'aumento della transaminasi AST è sempre indicativo di:
+A) patologia epatica
+B) patologia renale
+C) patologia cardiaca
+D) patologia pancreatica
+E) tutte le risposte sono giuste *
+
+DOMANDA: 119 Il valore massimo accettabile del colesterolo totale, così come indicato nelle linee guida sulla prevenzione cardiovascolare deve essere:
+A) < 200 mg/dL *
+B) > 300 mg/dL
+C) compreso tra 200 e 300 mg/dL
+D) differente tra uomini e donne
+E) nessuna delle precedenti è vera
+
+DOMANDA: 120 Le cellule tumorali maligne hanno una delle sottoelencate caratteristiche, quali?
+A) perdita dell'inibizione da contatto *
+B) aumentata coesione
+C) basso indice mitotico
+D) basso rapporto nucleo/citoplasmatico
+E) perdita del movimento
+
+DOMANDA: 121 La proteina C reattiva è un indicatore importante di:
+A) infarto del miocardio *
+B) Mieloma multiplo
+C) Shock anafilattico
+D) Ipertensione arteriosa
+E) Processo trombotico in atto
+
+DOMANDA: 122 Quale dei seguenti campioni è idoneo per la ricerca dei batteri anaerobi?
+A) tampone faringeo
+B) tampone uretrale
+C) tampone cervicale
+D) lavaggio bronchiale
+E) agoaspirati da ascessi o cavità non drenanti *
+
+DOMANDA: 123 Le laringiti acute sono dovute prevalentemente a infezione da:
+A) batteri gram negativi
+B) adenovirus *
+C) miceti
+D) S. aureus
+E) batteri gram positivi
+
+DOMANDA: 124 Quanto dura normalmente la fase luteale?
+A) da 8 a 10 giorni
+B) meno di 8 giorni
+C) da 13 a 15 giorni *
+D) più di 15 giorni
+E) varia a seconda della lunghezza della fase follicolare
+
+DOMANDA: 125 Quando si osservano insufficienza pancreatica, disturbi respiratori cronici ed elevata concentrazione di elettroliti?
+A) nel morbo celiaco
+B) nella sprue idiopatica
+C) nella sindrome da malassorbimento
+D) nella mucoviscidosi *
+E) nella pancreatite cronica
+
+DOMANDA: 126 Che cosa è la tiroidite di Hashimoto?
+A) un processo autoimmune *
+B) una flogosi cronica aspecifica
+C) una flogosi del rene
+D) una malattia congenita
+E) una malattia rapidamente mortale
+
+DOMANDA: 127 Per calcolare il Contenuto medio di emoglobina (MCH) necessitano i valori di:
+A) ematocrito e numero di globuli rossi
+B) emoglobina e numero di globuli rossi *
+C) emoglobina ed ematocrito
+D) emoglobina e numero dei leucociti
+E) emoglobina e numero delle piastrine
+
+DOMANDA: 128 Per un carcinoma epatocellulare quale dei seguenti dati di laboratorio è fortemente indicativo?
+A) aumento della fosfatasi alcalina
+B) aumento della bilirubina indiretta
+C) aumento di alfafetoproteina nel siero *
+D) ipoalbuminemia con inversione del rapporto albumine-globuline
+E) ipergammaglobulinemia
+
+DOMANDA: 129 Qual è la pressione parziale di CO2 nel sangue arterioso in condizioni fisiologiche?
+A) 15-20 mmHg
+B) 25-32 mmHg
+C) 35-48 mmHg *
+D) 52-64 mmHg
+E) 75-87 mmHg
+
+DOMANDA: 130 Tra i markers tumorali associati all'epatocarcinoma il più importante è:
+A) CA-125
+B) Antigene Specifico Prostatico (PSA).
+C) Antigene Carcino-Embrionario (CEA).
+D) ACTH.
+E) Alfa-fetoproteina (AFP) *
+
+DOMANDA: 131 In quale dei seguenti casi non aumenta la concentrazione plasmatica della mioglobina:
+A) distrofia muscolare
+B) miocarditi
+C) patologie epatiche *
+D) infarto del miocardio
+E) miastenia grave
+
+DOMANDA: 132 Tra le cellule sottoindicate vi sono quelle caratteristiche dell'infiammazione granulomatosa, quali sono?
+A) macrofagi *
+B) linfociti
+C) polimorfonucleati neutrofili
+D) eosinofili
+E) plasmacellule
+
+DOMANDA: 133 Quale di queste risposte è esatta per il test di Coombs:
+A) evidenzia la presenza di immunoglobuline anti-Rh nel siero materno o sulla superficie delle emazie *
+B) si effettua inoculando anticorpi anti-Rh alle donne Rh-negative subito dopo il parto
+C) consiste nella exsanguinotransfusione intrauterina del feto colpito da eritroblastosi
+D) utilizza un sistema rivelatore costituito da eritrociti e anticorpi antieritrociti
+E) si può effettuare solo nelle primipare
+
+DOMANDA: 134 Il Ca 19.9 è un indicatore di neoplasia:
+A) tiroidea
+B) pancreatica *
+C) prostatica
+D) cerebrale
+E) ossea
+
+DOMANDA: 135 Indicare quale molecola anticorpale, fra quelle elencate in seguito, è in grado di proteggere l'individuo da un successivo contagio col virus B:
+A) anticorpo anti-core (HBcAb)
+B) anticorpo anti-antigene di superficie (HBsAb) *
+C) anticorpo anti-antigene E (HBeAg)
+D) anticorpo anti-antigene delta (HdeltaAb)
+E) nessuna
+
+DOMANDA: 136 Quale delle seguenti vie è attualmente la principale via di trasmissione del virus HIV?
+A) via sessuale *
+B) via aerea
+C) per puntura da materiale infetto
+D) per ingestione
+E) per contatto
+
+DOMANDA: 137 Quale di questi componenti plasmatici ha il maggior contenuto di colesterolo?
+A) chilomicroni
+B) HDL
+C) VLDL
+D) LDL *
+E) albumina
+
+DOMANDA: 138 La coppia di isoenzimi LDH nelle epatopatie
+A) LDH1 e LDH2
+B) LDH2 e LDH3
+C) LDH3 e LDH4
+D) LDH4 e LDH5 *
+E) LDH2 e LDH5
+
+DOMANDA: 139 Quali di questi microorganismi trasformano l'urea provocando urine alcaline?
+A) e. coli
+B) protei *
+C) stafilococchi
+D) streptococchi
+E) tutti i precedenti
+
+DOMANDA: 140 L'abnorme produzione di serotonina quale di queste malattie caratterizza?
+A) sindrome di Whipple
+B) sindrome di Gardner
+C) sindrome di Zollinger-Ellison
+D) sindrome da carcinoide *
+E) tifo addominale
+
+DOMANDA: 141 Quale categoria di pazienti è a rischio d'infezioni da agenti opportunisti?
+A) nuotatori
+B) aviatori
+C) trapiantati *
+D) autistici
+E) nessuno
+
+DOMANDA: 142 Che tipo di tecnica è l'immunofluorescenza?
+A) immunoistochimica *
+B) radioimmunologico
+C) gascromatografica
+D) chimico-fisico
+E) biologia molecolare
+
+DOMANDA: 143 Quanto tempo deve trascorrere per poter dare il risultato negativo definitivo di un'emocoltura?
+A) un mese
+B) 48 ore
+C) almeno 10 giorni *
+D) 72 ore
+E) 96 ore
+
+DOMANDA: 144 Una sola di queste affermazioni riguardanti l'incompatibilità RH è vera, quale?
+A) un aborto spontaneo frequentemente determina la sensibilizzazione della madre nei confronti dell'antigene D *
+B) l'eritroblastosi fetale dei neonati non è in relazione al loro ordine di nascita
+C) se la madre ed il figlio sono incompatibili oltre che per il fattore Rh anche per i fattori ABO, la forma morbosa è raramente grave
+D) l'exsanguino- trasfusione è il metodo migliore per prevenire la malattia del neonato
+E) l'antigene principale del sistema antigenico Rh, capace di stimolare le difese immunitarie materne è l'E
+
+DOMANDA: 145 Quale di queste vitamine non è correttamente definita con la corrispondente sigla?
+A) acido ascorbico - vitamina C
+B) alfa-tocoferolo - vitamina E
+C) piridossalfosfato - vitamina B2 *
+D) tiamina - vitamina B1
+E) cianocobalamina - vitamina B12
+
+DOMANDA: 146 La determinazione della clearance della creatinina
+A) Misura la funzione renale in maniera più accurata della creatininemia in tutte le condizioni di insufficienza renale perché non è penalizzata da alcuna variabile
+B) Esprime i valori del filtrato glomerulare e della velocità di filtrazione e deve essere calcolata in associazione con il valore della creatininemia *
+C) Si basa su un unico prelievo di urine in qualsiasi momento della giornata
+D) E' un indicatore di funzionalità muscolare
+E) Indica la capacità di assorbimento della mucosa gastrointestinale
+
+DOMANDA: 147 Le gonadotropine risultano elevate in una delle seguenti situazioni fisiologiche:
+A) pubertà
+B) infanzia
+C) gravidanza *
+D) menopausa
+E) durante alcuni periodi del ciclo mestruale
+
+DOMANDA: 148 La precisione analitica è sinonimo di
+A) Riproducibilità *
+B) Elevata specificità
+C) Elevata sensibilità e specificità
+D) Corretta esecuzione del test
+E) Accuratezza
+
+DOMANDA: 149 Qual è il valore normale di Sodio nel sudore:
+A) 10-40 mmol/L
+B) 70-90 mmol/L
+C) 50-70 mmol/L
+D) 0-5 mmol/L
+E) 100-120 mmol/L *
+
+DOMANDA: 150 Il valore normale della concentrazione delle IgG nel siero umano è più vicina a :
+A) 12mg/dl
+B) 120mg/dl
+C) 1200mg/dl *
+D) 2000mg/dl
+E) 2000mg/ml
+
+DOMANDA: 151 Con il metodo di Gram, come appaiono colorati i batteri Gram positivi?
+A) rosa
+B) non si colorano
+C) bleu-violetto *
+D) verde
+E) nero
+
+DOMANDA: 152 Per eseguire un'emocoltura si deve raccogliere un campione:
+A) di emazie concentrate
+B) di siero di sangue
+C) di sangue fluido *
+D) di sangue privo di leucociti
+E) di sangue coagulato
+
+DOMANDA: 153 A cosa si associa più frequentemente il sarcoma di Kaposi?
+A) infezione luetica
+B) leucemia
+C) diabete
+D) deficit immunità umorale (linf. B)
+E) deficit immunità cellulare (linf. T) *
+
+DOMANDA: 154 La concentrazione di urea nel plasma può variare in seguito a:
+A) differente apporto proteico con la dieta
+B) differente grado di perfusione renale
+C) alterata funzione epatica
+D) aumentato catabolismo tissutale
+E) tutte le risposte sono esatte *
+
+DOMANDA: 155 La presenza di anticorpi antiendomisio nel sangue è indicativa di:
+A) tiroidite autoimmune
+B) cirrosi autoimmune
+C) pancreatite acuta
+D) morbo celiaco *
+E) ulcera peptica
+
+DOMANDA: 156 L'herpesvirus di tipo 2 coinvolge primitivamente:
+A) i genitali *
+B) la cute perilabiale
+C) la mucosa del retto
+D) le meningi
+E) la mucosa gastrica
+
+DOMANDA: 157 Quali di queste condizioni sono causa di ipocalciemia:
+A) iperparatiroidismo sia primario che secondario
+B) neoplasie maligne
+C) pancreatiti acute *
+D) sarcoidosi
+E) immobilizzazione
+
+DOMANDA: 158 In quale delle seguenti patologie il rapporto AST/ALT mitocondriale può essere alterato:
+A) nell'angina
+B) patologia epatica alcolica *
+C) malnutrizione
+D) nell'ittero neonatale
+E) nell'ipertensione renale
+
+DOMANDA: 159 Quale è il più importante indice di rischio di ricaduta nella leucemia promielocitica acuta durante la terapia di mantenimento?
+A) piastrine inferiori a 40.000/μL
+B) numero di globuli bianchi inferiori a 10.000/μL alla diagnosi
+C) conversione da negatività a positività per la ricerca del mRNA PML/RAR tramite PCR *
+D) piastrine inferiori a 40.000/μL e numero di globuli bianchi inferiori a 10.000/μL
+E) numero di globuli rossi aumentato
+
+DOMANDA: 160 Quale di questi metodi di prelievo è più usato per l'urinocoltura?
+A) primo getto
+B) mitto finale
+C) catetere vescicole
+D) mitto intermedio *
+E) raccolta delle 24 ore
+
+DOMANDA: 161 Un aumento della fosfatasi acida nel siero indica:
+A) tumore metastatico della prostata *
+B) leucemia linfatica cronica
+C) glomerulonefrite cronica
+D) rettocolite ulcerosa
+E) epatite alcolica
+
+DOMANDA: 162 La mutazione puntiforme:
+A) è una modificazione di entità modesta, che non altera il messaggio genetico
+B) riguarda un solo nucleotide e consiste nella sua sostituzione, inserzione o delezione *
+C) consiste in una alterazione del genoma che rende impossibile la codificazione di una proteina
+D) si verifica solo nei geni strutturali
+E) consiste nella formazione di un chiasma puntiforme tra cromosomi omologhi
+
+DOMANDA: 163 Qual è il tipo più comune di aneuploidia?
+A) monosomia
+B) diploidia
+C) trisomia *
+D) poliploidia
+E) tetraploidia
+
+DOMANDA: 164 L'anticorpo normalmente presente nel siero di individui di gruppo sanguigno B è:
+A) anti - A *
+B) anti - B
+C) anti - C
+D) anti -A, B
+E) anti - H
+
+DOMANDA: 165 Che cos'è la setticemia?
+A) la presenza di focolai infettivi e di germi non solo in circolo ma anche in vari organi e tessuti
+B) la presenza di batteri in circolo in assenza di manifestazioni cliniche
+C) la presenza di un elevato tasso di tossine batteriche in circolo
+D) la presenza di batteri e delle loro tossine in circolo con manifestazioni cliniche *
+E) una flogosi acuta da germi gram-negativi
+
+DOMANDA: 166 Quale tra questi tumori è sempre benigno?
+A) adenoma bronchiogeno
+B) timoma
+C) carcinoide
+D) amartoma *
+E) adenocarcinoma
+
+DOMANDA: 167 Nelle faringiti acute e nelle tonsilliti si esegue:
+A) la ricerca colturale di S. pyogenes *
+B) la ricerca di anticorpi antivirali specifici
+C) esame colturale per la Candida
+D) dosaggio delle immunoglobuline IgA
+E) Emogasanalisi
+
+DOMANDA: 168 La protidemia diminuisce:
+A) nella macroglobulinemia di Waldenstrom
+B) Infiammazione cronica
+C) Nella sindrome nefrosica *
+D) nella cirrosi epatica
+E) nella sarcoidosi
+
+DOMANDA: 169 L'enzima catalasi è presente in quale di questi batteri, quale:
+A) staphylococcus aureus *
+B) streptococcus pyogenes
+C) diplococcus pneumoniae
+D) streptococcus faecalis
+E) enterococco
+
+DOMANDA: 170 Quale di queste situazioni si ha nella sindrome di Gilbert?
+A) un aumento di frequenza
+B) iperbilirubinemia non coniugata *
+C) bilirubina coniugata
+D) aumento dell'attività delle transferasi
+E) frequenti coliche biliari
+
+DOMANDA: 171 Che cos'è la batteriemia?
+A) la presenza di focolai infettivi e di germi non solo in circolo ma anche in vari organi e tessuti
+B) la presenza di batteri in circolo in assenza di manifestazioni cliniche *
+C) la presenza di un elevato tasso di tossine batteriche
+D) la presenza di batteri e delle loro tossine in circolo con manifestazioni cliniche
+E) la presenza di una flogosi acuta sostenuta da germi gram-negativi
+
+DOMANDA: 172 Quali tra questi organismi sono considerati microorganismi?
+A) vermi
+B) funghi
+C) batteri *
+D) insetti
+E) tutti questi elencati
+
+DOMANDA: 173 Quale è la forma più frequente di tumore testicolare?
+A) tumore delle cellule di Leydig
+B) seminoma *
+C) sarcoma
+D) carcinoma a piccole cellule
+E) adenocarcinoma
+
+DOMANDA: 174 L'aumento in circolo di Omocisteina, che può causare stato trombofilico, è da imputare ad un deficit di quale complesso vitaminico:
+A) vitamina C e vitamina B6
+B) vitamina B12 e folati *
+C) vitamina B1 e B6
+D) vitamina A e C
+E) vitamina C e B1
+
+DOMANDA: 175 Qual è la caratteristica di una malattia ereditaria con carattere autosomico recessivo:
+A) uno dei genitori avrà sempre la malattia
+B) tutti i figli del paziente manifestano la malattia
+C) ambedue i genitori del paziente portano il carattere recessivo *
+D) i fratelli o sorelle del paziente hanno il 50% delle probabilità di ereditare la malattia, se i genitori sono entrambi eterozigoti (portatori sani)
+E) la malattia è più frequente nei maschi
+
+DOMANDA: 176 Quale funzione svolge la pepsina secreta dalle ghiandole gastriche?
+A) iniziale idrolisi proteica *
+B) emulsione dei lipidi
+C) lisi enzimatica dei disaccaridi
+D) completa scissione delle proteine
+E) lisi enzimatica dei legami H
+
+DOMANDA: 177 Quale dato analitico di laboratorio consente la diagnosi di feocromocitoma:
+A) elevati livelli di ACTH
+B) iperglicemia
+C) elevati livelli di tirosina
+D) elevati livelli delle catecolamine *
+E) elevati livelli17-KS
+
+DOMANDA: 178 Quali dei seguenti esami di laboratorio possono essere considerati di prima istanza nella pancreatite acuta?
+A) tripsinogeno
+B) elastasi e fosfolipasi
+C) amilasi e lipasi *
+D) colesterolo-esterasi
+E) insulinemia
+
+DOMANDA: 179 Quale di questi risultati dell'antibiogramma riveste maggiore attendibilità clinica?
+A) sensibilità intermedia
+B) resistenza *
+C) sensibilità moderata
+D) sensibilità
+E) tutte le risposte sono valide
+
+DOMANDA: 180 La classificazione di Papanicolaou per lo striscio cervico-vaginale (Pap-test) prevede la suddivisione in:
+A) 2 classi: positivi e negativi
+B) 3 classi: inadeguati, positivi e negativi
+C) 3 classi: negativi, dubbi, positivi
+D) 5 classi *
+E) 9 classi
+
+DOMANDA: 181 Quale indicazione può dare un antibiogramma?
+A) prognostica
+B) terapeutica *
+C) epidemiologica
+D) diagnostica
+E) andamento della febbre
+
+DOMANDA: 182 Qual è una importante funzione dei neutrofili nell'infiammazione?
+A) produzione di enzimi proteolitici *
+B) formazione di cellule giganti
+C) rallentamento della corrente ematica
+D) prevenzione della diffusione dell'infezione mediante ostruzione dei linfatici
+E) produzione di anticorpi
+
+DOMANDA: 183 La dose da radiazioni ionizzanti, misurata in rad o gray, ricevuta da una persona esprime:
+A) l'energia assorbita dall'unità di massa della persona *
+B) l'energia assorbita dall'intera persona
+C) l'energia assorbita dall'unità di volume della persona
+D) l'energia trasportata dalle radiazioni che colpiscono l'intera persona
+E) l'energia trasportata dalle radiazioni che colpiscono l'unità di massa della persona
+
+DOMANDA: 184 Quale di questi è il bersaglio della calcitonina?
+A) rene
+B) fegato
+C) tessuto osseo *
+D) tessuto cartilagineo
+E) su nessuno di questi
+
+DOMANDA: 185 Dove sono localizzati il fibrinogeno e la protrombina:
+A) negli eritrociti
+B) nei granulociti
+C) nei linfociti
+D) nelle piastrine
+E) nel plasma *
+
+DOMANDA: 186 Quali di queste situazioni inibisce la liberazione di insulina dalle cellule pancreatiche?
+A) la stimolazione vagale
+B) l'ipoglicemia *
+C) il glucagone
+D) la secretina
+E) la somministrazione di b-2stimolanti
+
+DOMANDA: 187 E' il più specifico e sensibile test per la valutazione del deficit di ferro::
+A) ferritinemia *
+B) transferrinemia
+C) sideremia
+D) MCH
+E) MCV
+
+DOMANDA: 188 In seguito ad una lesione miocardica le troponine cardiache aumentano nel plasma:
+A) dopo 1-3 ore dall'infarto *
+B) entro 5-10 ore dall'infarto
+C) dopo 24 ore dall'infarto
+D) dopo 72 ore dall'infarto
+E) più precocemente della mioglobina
+
+DOMANDA: 189 Nella curva di crescita batterica a cosa corrisponde la fase di latenza?
+A) alla fase di adattamento metabolico *
+B) al blocco della suddivisione cellulare
+C) alla fase in cui il numero delle cellule che muoiono supera quello delle cellule vive
+D) alla fase in cui, verificandosi un aumento del numero di cellule, non c'è corrispondente aumento del volume cellulare
+E) alla fase in cui, aumentando i cataboliti nel mezzo di crescita, le cellule rimangono vive ma con metabolismo rallentato
+
+DOMANDA: 190 L'antigene verso cui sono rivolti i cANCA è:
+A) Mieloperossidasi
+B) Lattoferrina
+C) Proteinasi 3 *
+D) Catepsina G
+E) Betaglucuronidasi
+
+DOMANDA: 191 Nel sangue di un paziente con ittero emolitico quale forma di bilirubina si trova maggiormente aumentata:
+A) la forma diretta
+B) la forma indiretta *
+C) entrambe le forme (diretta e indiretta)
+D) nessuna delle due forme (diretta e indiretta)
+E) le forme diretta e indiretta saranno variabilmente presenti in funzione della eziologia dell'ittero emolitico
+
+DOMANDA: 192 Una delle seguenti affermazioni NON è vera, quale:
+A) i virus sono potenti agenti piogeni *
+B) i batteri patogeni che penetrano nel corpo spesso provocano gravi infezioni
+C) alcuni batteri possono essere ingeriti dai fagociti ma non digeriti
+D) la quantità, la durata dell'esposizione e la patogenicità di un agente modifica la risposta infiammatoria
+E) i batteri fagocitati prima di essere digeriti devono essere uccisi
+
+DOMANDA: 193 In gravidanza cosa suggerisce livelli ematici elevati di alfafetoproteina?
+A) diabete
+B) anomalia cromosomica fetale
+C) difetto del tubo neurale *
+D) gestosi
+E) nessuna delle precedenti
+
+DOMANDA: 194 In corso di patologia pancreatica cronica quale dei seguenti indicatori NON fornisce utili informazioni diagnostiche:
+A) amilasi
+B) tripsina
+C) elastasi
+D) valutazione dei grassi fecali
+E) D-xilosio *
+
+DOMANDA: 195 E' il marker più utile nel monitoraggio dell'andamento clinico del carcinoma ovarico:
+A) CEA
+B) PSA
+C) Ca 125 *
+D) alfaFP
+E) TPA
+
+DOMANDA: 196 Con chi si combinano gli ioni ferrici nelle cellule della mucosa del tubo digerente?
+A) la transferrina
+B) la apoferritina *
+C) la deferossamina
+D) la emosiderina
+E) i citocromi
+
+DOMANDA: 197 Qual è l'utilizzo del dosaggio del CEA nel Ca del colon?
+A) diagnosi precoce
+B) stadiazione
+C) controllo del follow-up della malattia *
+D) tutte le precedenti
+E) nessuna delle precedenti
+
+DOMANDA: 198 A quale quadro clinico corrisponde la variazione cromosomica detta trisomia 21?
+A) mongolismo *
+B) morbo di Hurler
+C) morbo di Sprenghel
+D) morbo di Calvè
+E) gargoilismo
+
+DOMANDA: 199 In quale delle sottoelencate malattie sono più frequentemente dimostrabili anticorpi sierici anti-citrullina:
+A) artrite reumatoide *
+B) anamia autoimmune
+C) Granulomatosi di Wegener
+D) Panarterite nodosa
+E) Lupus eritematoso
+
+DOMANDA: 200 Il meccanismo d'azione dei sulfamidici è:
+A) inibizione della sintesi della parete cellulare
+B) inibizione della sintesi proteica
+C) inibizione della produzione di acido folico *
+D) inibizione della sintesi lipidica
+E) aumento della permeabilità della parete batterica
+
+DOMANDA: 201 Quale tipo di lipoproteine sieriche diventa percentualmente più ricca di trigliceridi esogeni dopo un pasto abbondante?
+A) HDL
+B) LDL
+C) IDL
+D) VLDL
+E) chilomicroni *
+
+DOMANDA: 202 Quale di questi ormoni stimola sui testicoli umani la produzione di testosterone?
+A) LH *
+B) TSH
+C) FSH
+D) GH
+E) ACTH
+
+DOMANDA: 203 Quale delle seguenti proteine è il miglior indicatore di un'emolisi intravascolare?
+A) Ferritina
+B) Transferrina
+C) Emosiderina
+D) Aptoglobina *
+E) Ceruloplasmina
+
+DOMANDA: 204 L'enzima cardine del Sistema Fibrinolitico è:
+A) Alfa-2-Macroglobulina
+B) Alfa-1-Antitripsina
+C) Plasmina *
+D) Trombina
+E) Cardiolipina
+
+DOMANDA: 205 Quali di questi test possono essere utilizzati per il monitoraggio di un paziente diabetico?
+A) il dosaggio di anticorpi anti-insula pancreatica
+B) la curva di tolleranza al glucosio
+C) la curva insulinemica
+D) il dosaggio del peptide C
+E) glicemia, glicosuria, emoglobina glicata, fruttosamina *
+
+DOMANDA: 206 Il D-dimero è:
+A) un prodotto di degradazione del fibrinogeno
+B) un prodotto di degradazione della fibrina stabilizzata *
+C) un prodotto di degradazione della trombina
+D) un prodotto di secrezione delle piastrine
+E) un prodotto di secrezione delle cellule endoteliali
+
+DOMANDA: 207 Quali dei virus elencati non sono compresi negli Enterovirus:
+A) Poliovirus
+B) HTLV
+C) Coxsachie
+D) Rhinovirus *
+E) Virus della rosolia
+
+DOMANDA: 208 In quale di questi eventi è importante l'enzima glicuronil-trasferasi?
+A) captazione della bilirubina nella cellula epatica
+B) coniugazione della bilirubina *
+C) demolizione dell'Hb
+D) formazione dell'acido delta amino levulinico
+E) escrezione della bilirubina
+
+DOMANDA: 209 La secrezione di ormone antidiuretico (ADH o vasopressina) è bassa in una delle seguenti patologie:
+A) Tumori del sistema nervoso
+B) diabete insipido *
+C) malaria
+D) morbo di Chron
+E) ulcera peptica
+
+DOMANDA: 210 Quale di questi è un acido grasso essenziale?
+A) acido stearico
+B) acido oleico
+C) acido linoleico *
+D) acido palmitico
+E) acido propionico
+
+DOMANDA: 211 La xantocromia del fluido cerebro spinale è dovuta a:
+A) Presenza di emoglobina per lisi degli eritrociti *
+B) Leucocitosi
+C) neoplasia cerebrale
+D) meningite tubercolare
+E) Contaminazione del mezzo di contrasto
+
+DOMANDA: 212 Il portatore "cronico" a bassa infettività del virus HBV è caratterizzato dalla presenza in circolo di:
+A) HbsAg positivo, anti HBe positivo, anti HBc positivo *
+B) antigene Core del Virus B (HbcAg) e antigene e
+C) DNA del Virus B in circolo e presenza dell'antigene di replicazione E (ovvero HbeAg)
+D) antigene di replicazione virale E (HbeAg) e anticorpi contro l'antigene di superficie (ovvero HbsAb)
+E) antigene di replicazione virale E (HbeAg) ed anticorpi contro l'antigene Core (HbcAb)
+
+DOMANDA: 213 Nell'adulto normale la globina della emoglobina è composta da:
+A) una catena alfa ed una beta
+B) due catene alfa e due beta *
+C) due catene alfa ed una beta
+D) due catene alfa e due gamma
+E) una catena alfa e due gamma
+
+DOMANDA: 214 Quale delle seguenti condizioni NON rappresenta una indicazione all'esame emoculturale:
+A) febbre associata a polmonite
+B) febbre associata a malattia neoplastica *
+C) febbre di n.d.d.
+D) febbre tifoide
+E) febbre ondulante
+
+DOMANDA: 215 Qual è la vita media di un eritrocita umano?
+A) 30 giorni
+B) 24 ore
+C) 50 giorni
+D) 120 giorni *
+E) 180 giorni
+
+DOMANDA: 216 Qual' è la conseguenza di un intervento di tiroidectomia totale?
+A) lesione del nervo ricorrente
+B) ipertiroidismo
+C) tetania
+D) ipotiroidismo *
+E) esoftalmo
+
+DOMANDA: 217 Le cellule più numerose che si trovano nel liquido sinoviale normale sono:
+A) piastrine
+B) monociti *
+C) neutrofili
+D) eosinofili
+E) emazie
+
+DOMANDA: 218 L'epatite acuta da virus C da quale di questi elementi è caratterizzata?
+A) diminuzione della VES
+B) Policitemia
+C) Significativo aumento delle gammaglobuline *
+D) diminuiscono le transaminasi
+E) ipogammaglobulinemia
+
+DOMANDA: 219 Cosa sono le linfochine?
+A) coloranti per linfociti
+B) sostanze di origine batterica ad azione litica sui linfociti
+C) mediatori solubili dell'immunità cellulare *
+D) immunoglobuline
+E) cellule linfoidi
+
+DOMANDA: 220 Il test di Coombs diretto rileva la presenza di
+A) anticorpi adesi alle emazie *
+B) anticorpi liberi nel siero
+C) eritrociti morfologicamente alterati
+D) eritrociti normocromici
+E) nessuna delle risposte precedenti
+
+DOMANDA: 221 Per la diagnosi di feocromocitoma risulta utile la valutazione nelle urine di:
+A) acido vanilmandelico *
+B) acido valproico
+C) acido urico
+D) acido ascorbico
+E) acido ossalico
+
+DOMANDA: 222 Il patogeno più frequentemente isolato da cheratiti suppurative è:
+A) Staphylococcus aureus *
+B) Proteus vulgaris
+C) Enterococcus faecium
+D) Pseudomonas aeruginosa
+E) Haemophilus Influenzae
+
+DOMANDA: 223 Nei casi di eritroblastosi fetale, con quale indagine si valuta la presenza, nel sangue della madre, di anticorpi anti-Rh:
+A) esame emocromcitometrico con formula leucocitaria
+B) test di fragilità osmotica
+C) test di Coombs diretto
+D) test di Coombs indiretto *
+E) test di Waaler-Rose
+
+DOMANDA: 224 Per completare le indagini di laboratorio nell'anemia sideropenica, il dosaggio della sideremia
+A) è l'unica indagine che va eseguita
+B) deve essere associato a quello della trasferrina
+C) deve essere associato a quello della trasferrina e della ferritina *
+D) non è necessario
+E) deve essere associato a quello della emoglobina
+
+DOMANDA: 225 Per la diagnosi del treponema quale di queste reazioni viene usata?
+A) reazione di Wassermann *
+B) reazione di Widal
+C) test di Coombs
+D) reazione di Barrit
+E) reazione di Kovaca
+
+DOMANDA: 226 La diagnostica di laboratorio della beta-talassemia include alterazioni a carico di 2 parametri:
+A) aumento del numero di globuli rossi circolanti e diminuzione della concentrazione sierica di Ferritina
+B) ridotto volume corpuscolare medio (MCV) ed aumentata concentrazione percentuale di Emoglobina A2 (HbA2) *
+C) aumento dell'Ematocrito (Hct) e diminuzione della emoglobina corpuscolare media (MCH)
+D) aumento della Ferritinemia sierica e della concentrazione totale di Emoglobina
+E) nessuna di queste risposte è esatta
+
+DOMANDA: 227 La valutazione in laboratorio dell'efficacia terapeutica in corso di CID è basata su:
+A) normalizzazione dei tempi di coagulazione
+B) aumento del numero delle piastrine
+C) aumento dell'attività dell'antitrombina III
+D) normalizzazione dei valori del fibrinogeno *
+E) aumento della trombina
+
+DOMANDA: 228 Quale di questi campioni biologici evidenzierà la presenza di Salmonella typhi nella prima settimana di infezione?
+A) feci
+B) espettorato
+C) urina
+D) sangue *
+E) saliva
+
+DOMANDA: 229 Il quadro emogasanalitico della alcalosi metabolica è caratterizzato da:
+A) aumento della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+B) diminuzione della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+C) aumento del pH, della pressione parziale di anidride carbonica ed aumento dei bicarbonati *
+D) diminuzione della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+E) aumento e/o diminuzione della pressione parziale di anidride carbonica e dei bicarbonati in funzione dell'eziologia della acidosi
+
+DOMANDA: 230 Per monitorare il diabete mellito quale dei seguenti esami urinari è il più indicato?
+A) chetonuria
+B) proteinuria
+C) microematuria
+D) leucocituria
+E) glicosuria *
+
+DOMANDA: 231 Nell'assorbimento intestinale dei grassi quale componente della bile è necessario?
+A) colesterolo
+B) bilirubina
+C) le prime due risposte
+D) sali biliari *
+E) nessuno di questi
+
+DOMANDA: 232 Quale di questi enzimi è stimolato dall'insulina?
+A) esocinasi
+B) glucochinasi epatica *
+C) glucoso-6-fosfatasi
+D) fruttoso difosfatasi
+E) piruvico carbossilasi
+
+DOMANDA: 233 Il quadro elettroforetico delle proteine tipico della cirrosi alcolica è caratterizzato da:
+A) aumento dell'albumina
+B) aumento della frazioine alfa
+C) aumento e fusione delle frazioni beta e gamma *
+D) diminuzione della frazione gamma
+E) diminuzione della frazione beta
+
+DOMANDA: 234 Qual è la concentrazione di cloruro di sodio in una soluzione fisiologica nell'uomo:
+A) 0,03%
+B) 0,9% *
+C) 1,3%
+D) 2,0%
+E) 3,1 %
+
+DOMANDA: 235 Dove si può trovare il cromosoma Philadelphia Ph1?
+A) leucemia linfatica cronica
+B) leucemia linfatica acuta
+C) leucemia mielocitica cronica *
+D) leucemia mielocitica acuta
+E) eritroleucemia
+
+DOMANDA: 236 Per aumentare la probabilità d'isolamento di specie anaerobie da una lesione purulenta è opportuno prelevare:
+A) un tampone sterile
+B) un lavaggio con soluzione fisiologica sterile
+C) il pus con una siringa sterile *
+D) una pipetta Pasteur sterile
+E) un lavaggio con acqua distillata
+
+DOMANDA: 237 Quale di questi batteri, causa di dissenteria bacillare, non è una Shigella:
+A) S. boydii
+B) S. enteritidis *
+C) S. dysenteriae
+D) S. sonnei
+E) S. flexneri
+
+DOMANDA: 238 Un uomo affetto da emofilia trasmette il gene per la malattia:
+A) a tutti i figli maschi
+B) a tutte le figlie femmine *
+C) a metà delle figlie femmine
+D) a metà dei figli maschi
+E) a tutti i nipoti
+
+DOMANDA: 239 In un paziente affetto da tonsillite febbrile la comparsa di IgM anti-EBNA permette di fare diagnosi di:
+A) angina di Plaut-Vincent
+B) difterite
+C) angina da streptococchi
+D) mononucleosi infettiva *
+E) angina da Coxsackie A
+
+DOMANDA: 240 Cosa trasmettono le goccioline di Flugge?
+A) infezione uro-genitale
+B) toxoplasmosi
+C) sifilide
+D) infezioni respiratorie *
+E) infezioni cutanee
+
+DOMANDA: 241 Qual è la causa più frequente di aborto spontaneo?
+A) anomalie cromosomiche *
+B) trauma
+C) incompatibilità Rh
+D) insufficienza progestinica
+E) infezioni materne
+
+DOMANDA: 242 Le emazie di gruppo O sono agglutinate da anticorpi:
+A) solo anti-A
+B) solo anti-B
+C) da anti-A e anti-B
+D) non vengono agglutinate *
+E) dal fattore reumatoide
+
+DOMANDA: 243 Quale di queste colorazioni è specifica per il Mycobacterium tubercolosis?
+A) Giemsa
+B) Pappenheimer
+C) Ziehl-Neelsen *
+D) Gram negativa
+E) Impregnazione argentica
+
+DOMANDA: 244 Quale di queste situazioni può essere provocata dal cortisone?
+A) sclerosi ossea
+B) cisti ossee
+C) sindrome di Milkaman
+D) osteoporosi *
+E) displasia fibrosa policistica
+
+DOMANDA: 245 Il deficit di glucosio 6-fosfato deidrogenasi:
+A) non è ereditaria
+B) è autosomica dominante
+C) è autosomica recessiva
+D) è legata al cromosoma Y
+E) è legata al cromosoma X *
+
+DOMANDA: 246 Valori di sodio di 175 mEq/L
+A) Sono ai limiti inferiori della norma
+B) Sono incompatibili con la vita
+C) Sono normali
+D) Sono completamente fuori scala
+E) Sono patologici *
+
+DOMANDA: 247 Come possono agire i prodotti citoplasmatici degli oncogeni?
+A) modificando direttamente l'mRNA
+B) come fattori di crescita *
+C) come lipasi
+D) come treoninchinasi
+E) come serinchinasi
+
+DOMANDA: 248 La trisomia 21 è specifica di:
+A) sindrome di Down *
+B) distrofia muscolare di Duchenne
+C) malattia di von Willebrand
+D) Alzheimer
+E) Fibrosi cistica
+
+DOMANDA: 249 Quando si parla di mieloma multiplo si intende una neoplasia a carico di quale di questi elementi?
+A) granulociti neutrofili
+B) mieloblasti
+C) osteoblasti
+D) plasmacellule *
+E) mastociti
+
+DOMANDA: 250 I valori normali di PSA nel sangue è:
+A) 10 ng/mL
+B) 40 ng/mL
+C) 4 ng/mL *
+D) 20 ng/mL
+E) 30 ng/mL
+
+DOMANDA: 251 La bilirubina circola legata a quale delle seguenti proteine seriche:
+A) Aptoglobina
+B) Alfa globulina
+C) Gamma globulina
+D) Albumina *
+E) Tutte le citate
+
+DOMANDA: 252 Da un incrocio fra un uomo di gruppo 0 e una donna di gruppo AB, con quale probabilità nascono figli di gruppo B?
+A) 75%
+B) 0%
+C) 25%
+D) 50% *
+E) 100%
+
+DOMANDA: 253 Gli effetti del paratormone sono:
+A) calcemia aumentata e fosforemia diminuita *
+B) calcemia e fosforemia diminuita
+C) calcemia e fosforemia aumentate
+D) assorbimento aumentato di grassi
+E) anemia emolitica
+
+DOMANDA: 254 A carico di quale di queste cellule è il difetto specifico nella sindrome da immunodeficienza acquisita?
+A) linfociti B
+B) linfociti T helper *
+C) linfociti T suppressor
+D) linfociti T citotossici
+E) monociti
+
+DOMANDA: 255 La presenza nelle urine della proteina di Bence-Jones indica?
+A) Insufficienza renale cronica
+B) Diabete mellito
+C) Crioglobulinemia *
+D) Epatopatia cronica
+E) Tireotossicosi
+
+DOMANDA: 256 L'omocisteinemia è ridotta in seguito ad assunzione
+A) folati *
+B) vitamina K
+C) creatinina
+D) vitamina D
+E) vitamina A
+
+DOMANDA: 257 In corso di epatite da virus B(HBV) quale dei seguenti antigeni compare più precocemente in circolo ed è misurabile:
+A) HAAg
+B) HEAg
+C) HbeAg
+D) HbcAg
+E) HbsAg *
+
+DOMANDA: 258 La presenza di gammaglobuline nel liquido cerebrospinale è indice di:
+A) Sclerosi multipla *
+B) Trombosi cerebrale
+C) Tumori cerebrali
+D) Polineuriti
+E) Neuropatia diabetica
+
+DOMANDA: 259 La clearance renale di una sostanza può essere calcolata conoscendo:
+A) solo il suo tempo di eliminazione dal rene
+B) solo la sua composizione chimica
+C) solo la sua composizione plasmatica
+D) la sua concentrazione plasmatica, urinaria e il volume urinario (mL/min) *
+E) concentrazione urinaria, peso, età
+
+DOMANDA: 260 La pO2 arteriosa in condizioni fisiologiche è?
+A) 150-200 mm Hg
+B) 40-60 mm Hg
+C) 100-150 mm Hg
+D) 60-80 mm Hg
+E) 85-100 mm Hg *
+
+DOMANDA: 261 Nel plasmocitoma è frequente osservare:
+A) ipocalcemia
+B) ipouricemia
+C) VES fortemente aumentata *
+D) Concentrazione di emoglobina normale
+E) policitemia
+
+DOMANDA: 262 Di quale di queste situazioni il virus di Epstein-Barr è l'agente patogeno?
+A) esantema subitum
+B) malattia di Bornholm
+C) eritema infectiosum
+D) stomatiteaftosa
+E) mononucleosi infettiva *
+
+DOMANDA: 263 In quale mammifero si producono le oocisti di Toxoplasma gondii?
+A) maiale
+B) cane
+C) uomo
+D) gatto *
+E) cavallo
+
+DOMANDA: 264 Il classico agente etiologico del tifo addominale è:
+A) Salmonella typhi *
+B) Salmonella paratyphi A
+C) Salmonella paratyphi B
+D) Shigella dysenteriae
+E) Shigella flexneri
+
+DOMANDA: 265 In quale delle sottoelencate malattie sono più frequentemente dimostrabili anticorpi sierici anti-dsDNA:
+A) artrite reumatoide
+B) artrite reumatoide giovanile
+C) Sclerosi sistemica progressiva
+D) Panarterite nodosa
+E) Lupus eritematoso *
+
+DOMANDA: 266 I valori plasmatici di riferimento del potassio:
+A) 3.8 - 5.0 mEq/L *
+B) 38 - 50 mEq/L
+C) 380 - 500 mEq/L
+D) 3.8 - 5.0 mg/dL
+E) 38 - 50 mg/dL
+
+DOMANDA: 267 Uno solo di questi composti NON ha attività antiossidante, quale:
+A) vitamina A
+B) vitamina C
+C) vitamina E
+D) vitamina K *
+E) glutatione
+
+DOMANDA: 268 In un caso sospetto di malattia emolitica del neonato il test di Coomb si effettua su:
+A) Emazie della madre
+B) siero della madre
+C) emazie del bambino *
+D) siero del bambino
+E) emazie della madre e del bambino
+
+DOMANDA: 269 Il livello sierico di creatinina è principalmente influenzato da:
+A) massa muscolare e velocità di filtrazione glomerulare *
+B) solo dalla velocità di filtrazione glomerulare
+C) funzionalità dei tubuli renali
+D) infezioni dell'apparato urinario
+E) solo dalla massa corporea
+
+DOMANDA: 270 La variazione del rapporto LDH1/LDH2 si osserva in corso di:
+A) cirrosi epatica
+B) epatite acuta
+C) osteosarcoma
+D) infarto del miocardio *
+E) miosarcoma
+
+DOMANDA: 271 Quale di queste caratteristiche possiede l'urea?
+A) ha una clearance maggiore di quella dell'insulina
+B) presenta un decremento della sua concentrazione nel sangue per effetto di un pasto ricco di proteine
+C) provoca oliguria per aumento della sua concentrazione nel sangue
+D) presenta una clearance che aumenta con l'aumentare del volume di urina *
+E) è secreta attivamente dalle cellule del tubulo contorto distale
+
+DOMANDA: 272 L'aumento di concentrazione della proteina legante la tiroxina (TBG) induce:
+A) Aumento di tiroxina totale (TT4) e di triiodotironina totale (TT3) *
+B) Diminuzione di tiroxina totale (TT4) e di triiodotironina totale (TT3)
+C) Ipotiroidismo
+D) Diminuzione del TSH
+E) Insufficienza renale
+
+DOMANDA: 273 Quale test analitico è in grado di rivelare l'attività replicativi del virus C in un soggetto infettato:
+A) determinazione degli Anticorpi anti-virus C
+B) test di conferma per la presenza di Anticorpi Anti-virus C (RIBA test)
+C) determinazione di Acidi Nucleici del virus C mediante "Polimerase Chain Reaction" (PCR) *
+D) determinazione di isoenzimi epatici
+E) VES elevata
+
+DOMANDA: 274 Quale di questi peptidi non si trova nel pancreas endocrino?
+A) secretina *
+B) glucagone
+C) insulina
+D) somatostatina
+E) PP
+
+DOMANDA: 275 Un marcatore tumorale sensibile e specifico:
+A) aumenta con l'aumentare della massa tumorale
+B) diminuisce dopo il trattamento terapeutico corretto della neoplasia ed aumenta se la neoplasia recidiva o in presenza di metastasi *
+C) non varia in funzione della presenza del tumore
+D) viene prodotto anche da tessuti non neoplastici
+E) non è mai sensibile né specifico
+
+DOMANDA: 276 La normale quantità di liquido sinoviale presente in un'articolazione è di:
+A) 1 ml *
+B) 10 ml
+C) 100 ml
+D) assente
+E) 200 ml
+
+DOMANDA: 277 Il valore indicativo di sodio nel sudore in un paziente con fibrosi cistica è:
+A) 70-190 mmol/L *
+B) 10-40 mmol/L
+C) 0-5 mmol/L
+D) 5-10 mmol/L
+E) 40-60 mmol/L
+
+DOMANDA: 278 Quale dei seguenti parametri è frequentemente elevato nel sangue di un etilista cronico:
+A) vitamina D
+B) proteine totali
+C) gammaGT *
+D) proteina C reattiva
+E) albumina
+
+DOMANDA: 279 Con quale di questi meccanismi agisce la tossina colerica?
+A) attiva l'enzima adenilciclasi, creando squilibrio elettrolitico *
+B) distrugge la mucosa intestinale
+C) inibisce la produzione di AMP-ciclico
+D) si lega al sodio bloccando la pompa sodio-potassio
+E) inibisce la sintesi proteica
+
+DOMANDA: 280 In una elettroforesi delle sieroproteine con quali proteine migrano gli anticorpi?
+A) le albumine
+B) le alfa globuline
+C) le beta globuline
+D) le gamma globuline *
+E) non sono rilevabili
+
+DOMANDA: 281 Nell'infarto acuto del miocardio, rimane elevato il suo valore nei successivi 7-10 giorni:
+A) aspartato-aminotransferasi
+B) alanina-aminotransferasi
+C) creatina chinasi MB
+D) troponina I *
+E) mioglobina
+
+DOMANDA: 282 Quale delle seguenti affermazioni è corretta? Gli anticorpi antimitocondrio:
+A) sono ritenuti responsabili del danno al dotto biliare
+B) si rilevano in circa il 70% dei pazienti con ECA
+C) si rilevano in circa il 75% dei pazienti con Cirrosi Biliare Primitiva *
+D) sono caratteristici della gastrite atrofica di tipo A
+E) sono caratteristici delle tiroidi autoimmuni
+
+DOMANDA: 283 L'emoglobina A2 (HbA2), parametro fondamentale nella diagnostica di laboratorio della b-talassemia, risulta in tale patologia:
+A) diminuita rispetto al "range" dei valori di riferimento
+B) aumentata rispetto al "range dei valori di riferimento *
+C) invariata
+D) aumentata nel 50% e diminuita nel 50%
+E) assente
+
+DOMANDA: 284 Valori elevati di amilasemia e di amilasuria sono indicativi di:
+A) diabete insulino-dipendente
+B) pancreatite acuta *
+C) insufficienza renale
+D) macroamilasemia
+E) epatite cronica
+
+DOMANDA: 285 Cosa provoca la toxoplasmosi?
+A) disturbi gravi nell'adulto
+B) lesioni muscolari
+C) un'encefalite nel neonato *
+D) anomalie genitali
+E) cicatrici cutanee
+
+DOMANDA: 286 Nella Sindrome di CREST prevale la positività per gli anticorpi:
+A) anticentromero *
+B) nucleolare
+C) periferico
+D) omogeneo
+E) granulare a fini granuli
+
+DOMANDA: 287 La specificità di un test è influenzata da:
+A) Falsi negativi
+B) Veri negativi
+C) Falsi positivi *
+D) Veri positivi
+E) Dalla metodologia utilizzata
+
+DOMANDA: 288 Un paziente che presenta i seguenti dati di laboratorio: CK totale e CK-MB aumentate, LDH totale normale, mioglobina aumentata è possibile che abbia avuto un infarto da:
+A) 4-6 ore *
+B) 24 ore
+C) 36-48 ore
+D) 7 giorni
+E) alcuni minuti
+
+DOMANDA: 289 Quale specie di stafilococco è capace di produrre enterotossine?
+A) S. aureus *
+B) S. saprophyticus
+C) S. epidermidis
+D) S. haemolyticus
+E) nessuna di queste
+
+DOMANDA: 290 La frazione del complemento a più alta concentrazione plasmatica:
+A) C3 *
+B) C4
+C) C5
+D) Fattore B
+E) Properdina
+
+DOMANDA: 291 L'emofilia A è caratterizzata, dal punto di vista fenotipico, da una ridotta sintesi di:
+A) fattore VIII° della coagulazione *
+B) fattori vitamina K- dipendenti
+C) precallicreina
+D) fattore IX° della coagulazione
+E) fattori della cosiddetta "Via Comune"
+
+DOMANDA: 292 L'iperaldosteronismo primario si può manifestare con:
+A) ipopotassiemia *
+B) iposodiemia
+C) ipercloremia
+D) acidosi
+E) elevata attività reninica plasmatica
+
+DOMANDA: 293 In quali di questi organi sono metabolizzati gli ormoni tiroidei?
+A) rene
+B) cute
+C) fegato *
+D) muscolo striato
+E) tessuto adiposo
+
+DOMANDA: 294 Nell'iperaldosteronismo quale di questi valori ematici alterati sono riscontrabili?
+A) ipernatriemia
+B) iponatriemia
+C) iperpotassiemia
+D) ipopotassiemia *
+E) normali valori di sodio e potassio
+
+DOMANDA: 295 Quale è il valore normale nella donna di potassio nel sudore ?
+A) 30-40 mmol/L
+B) 0-4.0 mmol/L
+C) 4.4-9.7 mmol/L
+D) 7.6-15.6 mmol/L
+E) 14-30 mmol/L *
+
+DOMANDA: 296 La malattia da virus della madre che più spesso causa malformazione nel feto è:
+A) la rosolia *
+B) l'herpes
+C) la varicella
+D) la parotite epidemica
+E) il morbillo
+
+DOMANDA: 297 L'assenza di popolazione microbica in un tampone faringeo già precedentemente positivo può indicare?
+A) presenza di virus
+B) assenza di tonsille
+C) una condizione fisiologica
+D) un trattamento antibiotico in atto o appena sospeso *
+E) immunodeficienza
+
+DOMANDA: 298 In quale di questi campioni si ha la maggiore probabilità di rivelare B. pertussis?
+A) tampone naso-faringeo *
+B) sangue
+C) urine
+D) saliva
+E) liquido ascitico
+
+DOMANDA: 299 In carenza alimentare di vegetali e frutta quale di queste vitamine è carenziale?
+A) tocoferolo
+B) acido ascorbico *
+C) tiamina
+D) niacina
+E) cianocobalamina
+
+DOMANDA: 300 Il 17ß estradiolo aumenta quando:
+A) insufficienza ovarica secondaria
+B) il livello delle gondotropine si riduce
+C) il progesterone aumenta
+D) il livello delle gondotropine aumenta
+E) i livelli delle gonadotropine e del progesterone aumentano *
+
+DOMANDA: 301 In quale tratto dell'intestino riassorbiti i sali biliari?
+A) nella terza porzione del duodeno
+B) nel digiuno terminale
+C) nello stomaco
+D) nell'ileo terminale *
+E) in tutto l'ileo
+
+DOMANDA: 302 Il quadro emogasanalitico della acidosi respiratoria è caratterizzato da:
+A) aumento della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+B) diminuzione della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+C) diminuzione del pH, aumento della pressione parziale di anidride carbonica ed aumento dei bicarbonati *
+D) diminuzione della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+E) aumento e/o diminuzione della pressione parziale di anidride carbonica e dei bicarbonati in funzione dell'eziologia della acidosi
+
+DOMANDA: 303 Per Pap-test si intende:
+A) La raccolta di cellule aspirate dalla portio ai fini della diagnosi oncologica
+B) Lo scraping di elementi naturalmente esfolianti dall'epitelio eso-endocervicale per la prevenzione del cervico-carcinoma *
+C) La raccolta di cellule, muco e flora batterica per l'identificazione delle patologie del tratto genitale femminile
+D) La raccolta di cellule per la diagnosi dei tumori femminili
+E) L'aspirazione di cellule per la diagnosi di carcinoma del collo e del corpo dell'utero
+
+DOMANDA: 304 Quale di questi parametri è importante nel valutare il sistema fibrinolitico:
+A) PT
+B) PTT
+C) Fibrinogeno
+D) D-dimero *
+E) INR
+
+DOMANDA: 305 L'avvenuta ovulazione è indicata da un valore ematico di progesterone:
+A) 2.5-28.1 ng/ml *
+B) 01 -1.5 ng/ml
+C) 0.1 - 0.3 ng/ml
+D) 0 - 0.4 ng/ml
+E) 0 - 0.2 ng/ml
+
+DOMANDA: 306 Quale funzione ha il pigmento melanico?
+A) antibatterica
+B) cheratogenetica
+C) antimicotica
+D) protettiva dai raggi U.V. *
+E) equilibrante il mantello cutaneo acido
+
+DOMANDA: 307 Quale è un possibile meccanismo di attivazione degli oncogeni?
+A) crossing-over cromatidico
+B) delezione genica
+C) translocazione cromosomica *
+D) segmentazione genica
+E) incorporazione di virus a DNA
+
+DOMANDA: 308 L'amilasi presenta elevati valori ematici in seguito a
+A) già nelle prime fasi di una pancreatite acuta *
+B) epatite acuta
+C) parotite
+D) rettocoliteulcerosa
+E) esofagite
+
+DOMANDA: 309 Si riscontra iperammoniemia in corso di:
+A) sindrome di Gilbert
+B) ostruzione biliare
+C) cirrosi epatica *
+D) iperemolisi
+E) dieta ipoproteica
+
+DOMANDA: 310 In un fumatore abituale, esposto per motivi di lavoro all'asbesto, aumenta il rischio di:
+A) Osteosarcoma
+B) Carcinoma a cellule di transizione della vescica.
+C) Adenocarcinoma della testa del pancreas.
+D) Carcinoma midollare della tiroide
+E) Mesotelioma pleurico *
+
+DOMANDA: 311 Le anemie sideropeniche sono diagnosticate in laboratorio come alterazioni a carico di quali parametri:
+A) diminuzione del Volume Corpuscolare Medio (MCV), riduzione dei valori di sideremia e ferritinemia *
+B) diminuzione del Volume Corpuscolare Medio (MCV), riduzione dei valori di sideremia ed aumento della ferritinemia
+C) diminuzione della concentrazione totale di emoglobina, diminuzione della sideremia ed aumento della ferritinemia
+D) diminuzione del numero di globuli rossi circolanti, aumento della Capacità totale di legare il ferro (TIBC) ed aumento della sideremia
+E) diminuzione del numero di globuli rossi circolanti, aumento della Capacità totale di legare il ferro (TIBC) ed aumento della ferritinemia
+
+DOMANDA: 312 Il tempo di protrombina (PT) è aumentato in quale dei seguenti casi?
+A) Deficit di fattore VII *
+B) deficit di un fattore della via intrinseca della coagulazione
+C) durante il trattamento con Vitamina K
+D) nella malattia di von Willebrand
+E) policitemia
+
+DOMANDA: 313 L'emosiderina è presente nelle urine in caso di:
+A) Emoglobinuria parossistica notturna *
+B) Anemia sideropenica
+C) Diabete mellito
+D) Distrofia muscolare
+E) Pancreatite emorragica
+
+DOMANDA: 314 Che cos'è la bilirubina?
+A) un sale biliare utile nella digestione dei lipidi
+B) un prodotto di elaborazione dello stercobilinogeno da parte dei batteri intestinali
+C) un prodotto molto solubile nei lipidi quando è coniugata con l'acido glicuronico
+D) una sostanza eliminata prevalentemente dal rene e dalla cute
+E) il principale pigmento biliare *
+
+DOMANDA: 315 Quale di questi microorganismi si colora con la colorazione di Ziehl-Neelsen?
+A) proteus
+B) enterobatteri
+C) stafilococchi
+D) neisserie
+E) micobatteri *
+
+DOMANDA: 316 Tra le seguenti proteine di fase acuta quale viene utilizzata come marker di complicanza cardiovascolare:
+A) alfa1-antitripsina
+B) fibrinogeno
+C) proteina C-reattiva *
+D) aptoglobinala
+E) ceruloplasmina
+
+DOMANDA: 317 Quale dei seguenti reperti di laboratorio non è usualmente presente durante un episodio acuto di epatite virale di tipo A?
+A) La comparsa di HbsAg *
+B) L'aumento dell'ALT
+C) L'aumento dell'AST
+D) L'incremento di bilirubina totale
+E) Aumento sia di ALT che di AST
+
+DOMANDA: 318 L' antitrombina III è in grado di inibire l'attività di:
+A) il fattore VIII ed il fattore V attivati
+B) il fibrinogeno
+C) la precallicreina
+D) la trombina, in presenza di fibrina polimerizzata
+E) I fattori attivati XII, XI, IX, X e II *
+
+DOMANDA: 319 Il monitoraggio della litiemia si fa in corso di terapia di:
+A) epatopatia cronica
+B) glomerulonefrite acuta
+C) pancreatite
+D) sindromi maniaco-depressive *
+E) calcolosi urinaria
+
+DOMANDA: 320 L'emogasanalisi si esegue su un prelievo di sangue:
+A) arterioso eseguito sull'arteria radiale *
+B) arterioso eseguito sull'arteria carotide comune
+C) venoso eseguito sulla vena brachiale
+D) venoso eseguito sulla vena giugulare
+E) venoso eseguito in qualsiasi sede
+
+DOMANDA: 321 Nella produzione del progesterone è coinvolto uno di questi, quale?
+A) ormone della crescita
+B) colesterolo *
+C) tiroxina
+D) insulina
+E) estrogeni
+
+DOMANDA: 322 L'emofilia B viene diagnosticata in laboratorio con una ridotta sintesi di:
+A) fattore VIII procoagulante
+B) fattore IX *
+C) fattori vitamina-dipendenti
+D) fattori della via intrinseca
+E) nessuna di queste risposte è esatta
+
+DOMANDA: 323 Quando è utile ricercare il marker tumorale Ca19.9
+A) nel tumore al seno
+B) nel tumore al testicolo
+C) nel tumore al pancreas *
+D) nel tumore gastrico
+E) per metastasi ossee
+
+DOMANDA: 324 I corpi di Heinz sono:
+A) precipitati di molecole di emoglobina a seguito di denaturazione ossidativa *
+B) precipitati di HbS
+C) frammenti di cromatina
+D) accumuli di emosiderina
+E) unità di P. malariae
+
+DOMANDA: 325 Cosa aumenta nell'ipofunzione surrenalica?
+A) Cosa aumenta nell'ipofunzione surrenalica?
+B) la glicemia
+C) la potassiemia *
+D) la sodiemia
+E) la frequenza cardiaca
+
+DOMANDA: 326 Il riscontro di elevati livelli circolanti di anticorpi antitiroidei è:
+A) patognomonico di morbo di Basedow
+B) patognomonico di morbo di Hashimoto
+C) presente in numerose tireopatie *
+D) caratteristico delle tireopatie associate ad aumentata attività funzionale della ghiandola
+E) un parametro fondamentale nella diagnosi differenziale tra tiroidite di de Quervain e tiroidite silente
+
+DOMANDA: 327 Qual'è l'epoca gestazionale per eseguire l'amniocentesi:
+A) dalla 3 alla 5 settimana
+B) dalla 10 alla 12 settimana
+C) dalla 15 alla 18 settimana *
+D) dalla 20 alla 25 settimana
+E) dopo la 25 settimana
+
+DOMANDA: 328 Che cos'è la tossiemia?
+A) la presenza di focolai infettivi e di germi non solo in circolo ma anche in vari organi e tessuti
+B) la presenza di batteri in circolo senza manifestazioni cliniche
+C) la presenza di un elevato tasso di tossine in circolo *
+D) la presenza di batteri e delle loro tossine in circolo con manifestazioni cliniche
+E) una flogosi acuta da germi gram-negativi
+
+DOMANDA: 329 Il Complesso Trombina-Trombomodulina attiva:
+A) i fattori vitamina K- dipendenti
+B) i complessi Proteina C/Proteina S *
+C) il fibrinogeno a fibrina
+D) il fattore V a fattore V attivato
+E) il fattore VIII a fattore VIII attivato
+
+DOMANDA: 330 Per la varicella una delle seguenti affermazione è vera:
+A) le croste sono infette
+B) il virus della varicella è lo stesso agente patogeno dell'herpes zoster *
+C) le lesioni sono facilmente distinguibili da quelle dell'herpes simplex
+D) il vaccino specifico è indicato per un uso di routine nei bambini in età scolare
+E) il periodo di incubazione è di 1-3 giorni
+
+DOMANDA: 331 In quali di questi processi metabolici intervengono i mitocondri?
+A) nella glicolisi anaerobica
+B) nella fosforilazione ossidativa *
+C) nella sintesi del glicogeno
+D) nella sintesi del collagene
+E) nella demolizione dei prodotti cellulari invecchiati
+
+DOMANDA: 332 Quali sono le alterazioni geniche più frequentemente riscontrate nel gene delle catene beta della globina in corso di talassemia Beta:
+A) macrodelezioni
+B) mutazioni puntiformi *
+C) traslocazioni cromosomiche
+D) inversione genica
+E) tutte le precedenti
+
+DOMANDA: 333 L'alfafetoproteina è un indicatore di neoplasie:
+A) polmonari
+B) ovariche
+C) epatiche *
+D) renali
+E) intestinali
+
+DOMANDA: 334 Nel siero del sangue di gruppo B si rilevano anticorpi:
+A) anti AB
+B) anti A *
+C) anti B
+D) nessuno di questi anticorpi
+E) antinucleo
+
+DOMANDA: 335 Che cosa si intende per policitemia:
+A) aumento della concentrazione di emoglobina
+B) aumento del numero delle piastrine nel sangue
+C) aumento del numero dei globuli rossi nel sangue circolante *
+D) aumento di tutti i componenti corpuscolati del sangue in un organo
+E) aumento di dimensioni dei componenti corpuscolati del sangue
+
+DOMANDA: 336 L'ormone follicolo stimolante (FSH) agisce principalmente sulle:
+A) cellule di Leydig
+B) spermatogoni
+C) cellule interstiziali
+D) cellule della teca
+E) cellule di Sertoli *
+
+DOMANDA: 337 Uno solo di questi fattori NON interviene nella traduzione di una sequenza nucleotidica in una sequenza aminoacidica, quale:
+A) ribosomi
+B) RNAm
+C) RNAt
+D) fattori di allungamento
+E) lisosomi *
+
+DOMANDA: 338 La placenta da quale delle seguenti immunoglobuline è attraversata più facilmente?
+A) Ig A
+B) Ig M
+C) Ig G *
+D) Ig D
+E) IgE
+
+DOMANDA: 339 Quale tecnica viene impiegata per la diagnosi prenatale di fibrosi cistica, in una famiglia in cui è già nato un bambino malato, ma nei genitori non è conosciuta la mutazione specifica?
+A) PCR multiplex
+B) ricerca di polimorfismi intragenici
+C) ricerca di polimorfismi extragenici
+D) Dot Blot con oligonucleotidi allele-specifici (ASO)
+E) sequenza di specifici esoni *
+
+DOMANDA: 340 Nel morbo di Addison si ritrovano livelli plasmatici:
+A) normali di cortisolo e diminuiti di ACTH
+B) elevati di cortisolo e diminuiti di ACTH
+C) diminuiti di ACTH
+D) diminuiti di cortisolo e aumentati di ACTH *
+E) aumentati di ACTH
+
+DOMANDA: 341 Un vetrino proveniente da uno striscio citologico cervico-vaginale deve essere fissato:
+A) immediatamente *
+B) entro 5 minuti
+C) dopo 20 secondi
+D) il tempo di portarlo in laboratorio
+E) non occorre fissarlo
+
+DOMANDA: 342 Qual è nell'uomo il prodotto terminale del catabolismo dei nucleotidi ?
+A) Acido orotico
+B) acido urico *
+C) acido colico
+D) acido erucico
+E) acido inosinico
+
+DOMANDA: 343 Il quadro emogasanalitico della acidosi metabolica è caratterizzato da:
+A) aumento della pressione parziale di anidride carbonica e diminuzione dei bicarbonati
+B) diminuzione della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+C) aumento della pressione parziale di anidride carbonica ed aumento dei bicarbonati
+D) diminuzione del pH, della pressione parziale di anidride carbonica e diminuzione dei bicarbonati *
+E) aumento e/o diminuzione della pressione parziale di anidride carbonica e dei bicarbonati in funzione dell'eziologia della acidosi
+
+DOMANDA: 344 Quale dei seguenti parassiti si può localizzare nell'intestino tenue?
+A) ossiuri
+B) echinococco
+C) giardia *
+D) tripanosoma cruzii
+E) nessuno di questi
+
+DOMANDA: 345 Quale di questi effetti è attribuibile all'aumento della calcemia?
+A) può causare calcolosi urinaria *
+B) accresce l'eccitabilità neuromuscolare
+C) è uno dei sintomi dell'insufficienza renale cronica
+D) è una delle conseguenze della somministrazione di estratti adenoipofisari
+E) aumenta la coagulabilità del sangue
+
+DOMANDA: 346 Qual è la patogenesi della talassemia?
+A) deficiente sintesi di catene globiniche alfa o beta dell'emoglobina *
+B) bassa concentrazione sierica di ferro
+C) autoanticorpi circolanti
+D) deficienza di vitamina B12
+E) aplasia del midollo osseo
+
+DOMANDA: 347 La diagnosi di Anemia sideropriva in una giovane donna è correlabile con:
+A) 5.000.000-6.000.000 Globuli rossi per mm3
+B) 4.500.000-5.500.000 Globuli rossi per mm3
+C) 4.500.000-5.500.000 Globuli rossi per cm3
+D) 3.000.000/ mm3 di Globuli rossi ed 10 g/dl di Hb *
+E) 4.500.000-5.500.000 Globuli rossi per mm3 ed 10 g/dl di Hb
+
+DOMANDA: 348 Nella malattia di Von Willebrand sono bassi ilievelli ematici di quale fattore della coagulazione?
+A) protrombina
+B) fibrinogeno
+C) fattore VII
+D) fattore VIII *
+E) fattore XIII
+
+DOMANDA: 349 Nelle tiroiditi autoimmuni è necessario dosare i seguenti analiti
+A) TSH
+B) T4 e T3
+C) anticorpi anti tireoglobulina e anti frazione microsomiale *
+D) anticorpi anti AMA
+E) tutti i precedenti
+
+DOMANDA: 350 La proteina C - reattiva (PCR) è:
+A) un fattore della coagulazione
+B) un marcatore dell'infiammazione *
+C) un inibitore del fattore tissutale
+D) un inibitore piastrinico
+E) un attivatore del fattore X
