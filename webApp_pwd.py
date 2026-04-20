@@ -120,7 +120,7 @@ if 'mostra_feedback' not in st.session_state: st.session_state.mostra_feedback =
 if st.session_state.stato_quiz == 'setup':
     st.title("📂 Configurazione Quiz")
     
-    opzioni_sorgente = ["DATABASE 1.txt", "DATABASE 2.txt", "DATABASE 3.txt", "DATABASE 4(1).txt", "DATABASE 4(2).txt", "Tutti i DATABASE", "Carica file .txt"]
+    opzioni_sorgente = ["DATABASE_6500.txt", "DATABASE 1.txt", "DATABASE 2.txt", "DATABASE 3.txt", "DATABASE 4(1).txt", "DATABASE 4(2).txt", "Tutti i DATABASE", "Carica file .txt"]
     scelta_file = st.radio("Sorgente:", opzioni_sorgente, horizontal=True)
     
     domande_totali = []
