@@ -1,0 +1,2449 @@
+DOMANDA: 1 La sindrome di Prader-Willi è legata a difetti molecolari a carico del cromosoma
+A) X
+B) 2
+C) 13
+D) 15 *
+E) 21
+
+DOMANDA: 2 La malattia di Menkes è dovuta ad una anomalia del metabolismo del
+A) ferro
+B) rame *
+C) nickel
+D) piombo
+E) manganese
+
+DOMANDA: 3 Geni imprinted sono presenti sicuramente nel cromosoma
+A) 1
+B) 3
+C) 15 *
+D) X
+E) Y
+
+DOMANDA: 4 Il rischio di trisomia 21 nei figli di un portatore di traslocazione bilanciata Robertsoniana 21;21 è
+A) 0%
+B) 25%
+C) 50%
+D) 75%
+E) 100% *
+
+DOMANDA: 5 La malattia di Zellweger comporta un difetto
+A) dei mitocondri
+B) del nucleo
+C) dei lisosomi
+D) dei perossisomi *
+E) del Golgi
+
+DOMANDA: 6 Il deficit di maltasi acida comporta un difetto
+A) dei mitocondri
+B) del nucleo
+C) dei lisosomi *
+D) dei perossisomi
+E) del Golgi
+
+DOMANDA: 7 Un paziente nasce affetto da una malattia autosomica recessiva. L'analisi del DNA mostra che solo il padre è un portatore eterozigote. Una possibile spiegazione è:
+A) Il padre è un mosaico germinale per mutazioni omozigoti
+B) Isodisomia uniparentale paterna *
+C) Eterodisomia uniparentale paterna
+D) Imprinting paterno
+E) non disgiunzione materna
+
+DOMANDA: 8 La trasposizione di elemeti mobili può causare mutazioni
+A) solo nel topo
+B) solo negli insetti
+C) nell'uomo ma solo nel cromosoma X
+D) nell'uomo *
+E) solo nelle regioni pericentromeriche
+
+DOMANDA: 9 E' una distrofinopatia
+A) atassia teleangectasia
+B) la sindrome di Down
+C) La sindrome di Klinefelter
+D) La malattia di Becker legata alla X *
+E) La fibrosi cistica
+
+DOMANDA: 10 Il rischio di produrre gameti sbilanciati per un portatore di una traslocazione bilanciata autosomica e maggiore
+A) quanto più grandi sono i frammenti centrici
+B) quanto più piccoli sono i frammenti traslocati *
+C) se i derivativi sono del cromosoma 1 o 2
+D) se i cromosomi sono submetacentrici
+E) se si ha un derivativo dell' X
+
+DOMANDA: 11 Nella a malattia di McArdle il glicogeno si accumula
+A) dei mitocondri
+B) nel nucleo
+C) dei lisosomi
+D) nel citoplasma *
+E) fuori dalla cellula
+
+DOMANDA: 12 La malattia di Leigh comporta un difetto
+A) dei mitocondri *
+B) del nucleo
+C) dei lisosomi
+D) dei perossisomi
+E) del Golgi
+
+DOMANDA: 13 Non e' una malattia da difetto di riparo del DNA
+A) Malattia di Bloom
+B) Sindrome di Cockayne
+C) Anemia di Fanconi
+D) neurofibromatosi di tipo 1 *
+E) Sindrome di Werner
+
+DOMANDA: 14 E' una malattia perossisomiale
+A) Talassemia
+B) Fibrosi cistica
+C) Distrofia di Duchenne
+D) Neuropatia ottica di Leber
+E) Adrenoleucodistrofia *
+
+DOMANDA: 15 La sindrome di di George è legata a difetti molecolari a carico del cromosoma
+A) X
+B) 15
+C) 21
+D) 18
+E) 22 *
+
+DOMANDA: 16 La sindrome di Turner è determinata da
+A) monosomia del cromosoma X *
+B) trisomia del cromosoma X
+C) trisomia del 21
+D) trisomia del 13
+E) disomia del cromosoma Y
+
+DOMANDA: 17 Tutte le seguenti patologie sono dovute ad espansione di tripletta, tranne:
+A) atassie spino-cerebellari
+B) corea di Huntington
+C) distrofia miotonica
+D) distrofia di Duchenne *
+E) sindrome dell' X-fragile
+
+DOMANDA: 18 La fenilchetonuria e' dovuta alla deficiente attivita' di uno dei seguenti enzimi:
+A) tirosina-idrossilasi
+B) tirosina-decarbossilasi
+C) omogentisinico-ossigenasi
+D) alanina aminotrasferasi
+E) fenilalanina-idrossilasi *
+
+DOMANDA: 19 Quale dei seguenti tipi di gameti sarà prodotto da una donna con trisomia X ?
+A) tutti gameti trisomici
+B) 50% gameti normali *
+C) 50% gameti trisomici
+D) 25% gameti monosomici
+E) 25% gameti trisomici
+
+DOMANDA: 20 Il codice genetico è definito "degenerato" in quanto:
+A) un codone può codificare più aminoacidi
+B) possono avvenire errori nella traduzione
+C) un aminoacido può essere codificato da più codoni *
+D) vi sono mutazioni accumulate nel corso dei secoli
+E) non è identico in persone differenti
+
+DOMANDA: 21 Quale è la fase del ciclo cellulare che rende possibile l'analisi del cariotipo:
+A) l'interfase
+B) la fase G1
+C) la metafase *
+D) la telofase
+E) la prima profase meiotica
+
+DOMANDA: 22 La sindrome di Turner è una patologia
+A) autosomica dominante
+B) autosomica recessiva
+C) legata al cromosoma X
+D) mitocondriale
+E) cromosomica *
+
+DOMANDA: 23 Gli autosomi umani sono
+A) 22 coppie *
+B) 23 coppie
+C) cromosomi presenti solo nelle cellule somatiche
+D) variano da individuo a individuo
+E) 22 coppie nel maschio e 23 coppie nella femmina
+
+DOMANDA: 24 Quale delle seguenti manifestazioni non è associata alla sindrome di Klinefelter
+A) ipogonadismo
+B) bassa statura *
+C) ginecomastia
+D) sterilità
+E) ipogenitalismo
+
+DOMANDA: 25 Quale delle seguenti non è una indicazione per l'analisi del cariotipo?
+A) Ritardo psicomotorio non diagnosticato con o senza dismorfismi ed una dichiarazione con consenso informato da parte del paziente
+B) Infertilità
+C) Consanguineità tra coniugi *
+D) Poliabortività
+E) Età materna avanzata
+
+DOMANDA: 26 La probabilità di una coppia di eterozigoti per una mutazione autosomica recessiva di avere un figlio omozigote malato è
+A) 50%
+B) 25% *
+C) 10%
+D) 75%
+E) 100%
+
+DOMANDA: 27 La madre di un individuo è malata di Corea di Huntington, malattia autosomica dominante a insorgenza tardiva e penetranza completa. Qual'è la probabilità che l'individuo abbia ereditato il gene?
+A) 50% *
+B) 25%
+C) 100%
+D) dipende dal genotipo del padre
+E) non si può prevedere
+
+DOMANDA: 28 Cosa sono gli pseudogeni?
+A) segmenti di DNA spaziatore
+B) sequenze di DNA ripetitivo
+C) geni funzionalmente inattivi *
+D) prodotti di amplificazione genica
+E) geni funzionalmente attivi, ma privi di promotore
+
+DOMANDA: 29 Il processo meiotico:
+A) differisce dal processo mitotico solo per il fatto che non ha una sola divisione
+B) differisce dal processo mitotico perchè ha più divisioni le quali avvengono tutte con meccanismo diverso da quello della mitosi
+C) differisce dal processo mitotico perchè ha due divisioni delle quali una avviene con meccanismo diverso da quello della mitosi *
+D) è uguale al processo mitotico, ma si realizza in un periodo di tempo più lungo
+E) è uguale al processo mitotico; ha un nome diverso perchè riguarda le cellule geminali
+
+DOMANDA: 30 L'acondroplasia è una condizione autosomica dominante a penetranza completa. Come spiegate l'osservazione che la maggioranza dei pazienti con questa condizione nasce da genitori sani
+A) e' quanto ci si attende, perché la penetranza è completa
+B) la possibilità di trasmettere il difetto dipende dal sesso del genitore
+C) la malattia dipende dall'effetto di due loci indipendenti
+D) mutazione germinale de novo *
+E) l'età della madre influenza l'espressività nei figli
+
+DOMANDA: 31 Una mutazione puntiforme di un gene su un autosoma di un genitore si trasmetterà
+A) alla metà dei figli *
+B) a tutti i figli
+C) solo ai maschi
+D) solo alle femmine
+E) solo se presente anche nell'altro genitore
+
+DOMANDA: 32 L'RNA che porta l'informazione dai cromosomi al citoplasma e':
+A) ribosomiale
+B) cromosomico
+C) messaggero *
+D) di trasferimento
+E) citoplasmatico
+
+DOMANDA: 33 In quale di queste patologie si verifica il fenomeno dell'anticipazione genetica?
+A) thalassemia
+B) fenilchetonuria
+C) corea di Huntington *
+D) rachitismo ipofosfatemico
+E) albinismo
+
+DOMANDA: 34 L'alta frequenza in molte regioni dell'allele HbS, responsabile in omozigosi dell'anemia falciforme, è dovuta a:
+A) elevata mutabilità del gene
+B) debole pressione di selezione contro i genotipi
+C) immigrazione
+D) vantaggio selettivo degli eterozigoti *
+E) matrimoni consanguinei
+
+DOMANDA: 35 La non-disgiunzione meiotica ha come conseguenza:
+A) arresto della gametogenesi
+B) formazione di gameti sempre non vitali
+C) aneuploidie *
+D) rotture cromosomiche nei gameti
+E) instabilità del fuso meiotico
+
+DOMANDA: 36 Quale delle seguenti funzioni è dovuta all'enzima transcrittasi inversa?
+A) duplicazione del DNA
+B) sintesi del DNA dall'RNA *
+C) sintesi dell'RNA dal DNA
+D) duplicazione del genoma virale
+E) nessuna delle precedenti
+
+DOMANDA: 37 Quali delle seguenti patologie è inquadrabile come disordine genomico?
+A) La malattia di Huntington
+B) La monosomia del cromosoma X
+C) La delezione 7q11.23 associata alla sindrome di Williams *
+D) La traslocazione t(9;22) del cromosoma Philadelphia
+E) La trisomia del cromosoma 21
+
+DOMANDA: 38 In quale delle seguenti situazioni si verifica la duplicazione del DNA ?
+A) fra la profase e la metafase, quando si formano le tetradi e i chiasmi
+B) una sola volta nel corso della mitosi e due volte nel corso della meiosi
+C) in occasione della sintesi proteica
+D) prima di ciascuna mitosi o meiosi *
+E) nell'ultima fase della mitosi, prima che la cellula madre si sdoppi
+
+DOMANDA: 39 Quale delle seguenti malattie è evidenziabile con l'analisi prenatale del cariotipo?
+A) Sindrome di Down *
+B) Rosolia
+C) AIDS
+D) neurofibromatosi
+E) Nessuna delle precedenti
+
+DOMANDA: 40 Due loci si distribuiscono in modo indipendente, se:
+A) sono molto vicini sullo stesso cromosoma
+B) sono molto distanti sullo stesso cromosoma o sono su cromosomi diversi *
+C) si trovano su cromosomi omologhi
+D) sono entrambi sui telomeri del cromosoma X
+E) uno è dominante e l'altro è recessivo
+
+DOMANDA: 41 Le anomalie più frequenti negli aborti spontanei sono
+A) le traslocazioni bilanciate
+B) le delezioni
+C) le trisomie *
+D) le monosomie
+E) le inversioni
+
+DOMANDA: 42 Una coppia sana ha avuto un figlio affetto da una malattia sicuramente a trasmissione autosomica dominante e a penetranza completa (es. acondroplasia): che rischio ha di avere alla prossima gravidanza un altro figlio affetto dalla stessa malattia?
+A) 100%
+B) 50%
+C) 25%
+D) <1% *
+E) dipende dal sesso
+
+DOMANDA: 43 Che risultato si può ottenere a seguito di una traslocazione che coinvolga un oncogene?
+A) formazione di un gene chimerico *
+B) perdita dell'oncogene
+C) perdita dell'apoptosi da parte delle cellule
+D) perdita della capacità di riparare i danni sul DNA
+E) perdita di capacità di moltiplicarsi della cellula
+
+DOMANDA: 44 Quale delle seguenti è una anomalia di numero dei cromosomi?
+A) trisomia *
+B) traslocazione
+C) cromosoma ad anello
+D) inversione
+E) delezione interstiziale
+
+DOMANDA: 45 La sindrome di Down
+A) è sempre associata a un cariotipo con 47 cromosomi
+B) è presente in soggetti i cui genitori hanno invariabilmente un cariotipo normale
+C) è talvolta associata a traslocazioni di tipo robertsoniano *
+D) è associata a amenorrea primaria nei soggetti di sesso femminile
+E) può essere associata alla trisomia 13
+
+DOMANDA: 46 Quale tipo di mutazione può variare con la trasmissione alle generazioni successive?
+A) mutazioni nonsenso
+B) mutazioni missenso
+C) mutazioni frameshift
+D) mutazioni dinamiche *
+E) tutte le precedenti
+
+DOMANDA: 47 La sterilità fa parte del quadro clinico di tutte le seguenti condizioni, tranne:
+A) sindrome di Turner
+B) sindrome da femminilizzazione testicolare
+C) sindrome di Klinefelter
+D) malattia di Huntington *
+E) Delezione del braccio corto del cromosoma X
+
+DOMANDA: 48 Una malattia si definisce multifattoriale quando è causata
+A) da un unico gene o da più fattori ambientali
+B) da più geni che interagiscono con l'ambiente *
+C) solo da molteplici fattori ambientali
+D) solo dall'interazione di diversi geni
+E) dalla mutazione di un gene housekeeping
+
+DOMANDA: 49 Nelle cellule somatiche del topolino domestico ci sono 40 cromosomi.Quanti cromosomi riceve dal padre?
+A) 1
+B) 19
+C) 20 *
+D) 38
+E) 40
+
+DOMANDA: 50 Quale indagine consigliereste nella donna gravida che ha precedentemente concepito un figlio con anencefalia?
+A) alfafetoproteina *
+B) mucopolisaccaridi
+C) analisi cromosomica
+D) estrogeni
+E) andogeni
+
+DOMANDA: 51 Perchè le femmine di mammifero sono un mosaico per l'espressione dei caratteri legati al sesso?
+A) perchè hanno due cromosomi X con diverse strutture
+B) perchè possono essere portatrici sane dei vari caratteri
+C) perchè sempre lo stesso cromosoma X è inattivo
+D) perchè l'uno o l'altro cromosoma X subisce casualmente inattivazione *
+E) perchè hanno cellule con costituzione cromosomica diversa
+
+DOMANDA: 52 Il termine di ereditabilità indica:
+A) la misura statistica del grado di determinazione genetica di un carattere *
+B) una variazione nel grado di espressione di un gene
+C) fenotipi simili prodotti da genotipi diversi
+D) la probabilità di trasmettere un carattere da una generazione all'altra
+E) la frequenza di espressione di un genotipo
+
+DOMANDA: 53 Nell'albero genealogico di una famiglia affetta da una malattia autosomica recessiva
+A) gli individui affetti possono avere entrambi i genitori sani *
+B) il 50% dei maschi sono affetti mentre il 50% delle femmine sono portatrici
+C) tutti i figli di un individuo affetto sono a loro volta malati
+D) ogni soggetto affetto ha almeno un genitore malato
+E) solo le femmine sono affette
+
+DOMANDA: 54 Nella classica doppia elica del DNA la citosina e' appaiata con
+A) la timina
+B) l'adenina
+C) l'uracile
+D) la guanina *
+E) la xantina
+
+DOMANDA: 55 La sindrome del cri du chat insorge in seguito a
+A) delezione *
+B) traslocazione
+C) inserzione
+D) duplicazione
+E) mutazione dinamica
+
+DOMANDA: 56 Quali delle seguenti affermazioni è vera
+A) Gli spermatozoi sono più proni a mutazioni che a delezioni cromosomiche *
+B) Gli oociti sono più proni a mutazioni che a delezioni cromosomiche
+C) Gli spermatozoi sono selezionati e quindi non vi è mutazione
+D) Gli oociti sono in divisione mitotica e quindi proni a delezioni cromosomiche
+E) nessuna delle precedenti
+
+DOMANDA: 57 Quale delle seguenti affermazioni definisce l'eterogeneita' genetica?
+A) esistenza di molte malattie genetiche
+B) le malattie genetiche segregano con modelli diversi
+C) le malattie genetiche hanno fenotipi variabili
+D) malattie genetiche fenotipicamente simili, sono dovute a mutazioni diverse *
+E) una stessa mutazione con molti alleli
+
+DOMANDA: 58 Che cosa sono gli autosomi?
+A) i cromosomi presenti nel nucleo
+B) cromosomi che si duplicano automaticamente
+C) i cromosomi che determinano il sesso
+D) i cromosomi presenti nel nucleo, tranne i cromosomi sessuali *
+E) nessuna delle precedenti definizioni è corretta
+
+DOMANDA: 59 Un test genetico dovrebbe sempre essere preceduto da:
+A) Una consulenza genetica
+B) Una consulenza genetica ed una dichiarazione con consenso informato da parte del paziente *
+C) Una dichiarazione con consenso informato da parte del paziente
+D) Una stima dei costi del test
+E) Un colloquio con uno psicologo
+
+DOMANDA: 60 Quanti gruppi di linkage esistono nel genere umano?
+A) 2
+B) 23 *
+C) 46
+D) 92
+E) 184
+
+DOMANDA: 61 Quale delle seguenti affermazioni è corretta per ciò che riguarda un maschio affetto da emofilia?
+A) avrà tutte le figlie femmine affette da emofilia
+B) avrà tutte i figli maschi affetti da emofilia
+C) avrà solo figli non affetti *
+D) avrà la metà dei figli affetti
+E) risulterà infertile
+
+DOMANDA: 62 Bambini affetti da nanismo acondroplastico nascono generalmente da genitori normali. Anche se la famiglia è numerosa, non hanno altri fratelli affetti. Questo è compatibile con un'eredità di tipo:
+A) genitori entrambi portatori di un allele recessivo
+B) mutazione de novo dominante *
+C) penetranza incompleta
+D) espressività incompleta
+E) allelismo multiplo
+
+DOMANDA: 63 L'inattivazione di un cromosoma X nei mammiferi di sesso femminile provoca:
+A) la determinazione di un fenotipo androide
+B) la inattivazione dei geni recessivi legati al cromosoma X
+C) la sindrome di Turner
+D) la compensazione del dosaggio genico rispetto al maschio *
+E) la attivazione del gene di Lyon
+
+DOMANDA: 64 persona attraverso la quale si identifica un albero genealogico:
+A) padre
+B) madre
+C) consanguineo
+D) proposito *
+E) antenato
+
+DOMANDA: 65 l' apoptosi consiste nella
+A) morte programmata delle cellule *
+B) morte per necrosi delle cellule
+C) morte delle cellule sessuali
+D) morte per idrolisi delle cellule
+E) morte delle cellule per infiltrazione neoplastica
+
+DOMANDA: 66 Le traslocazioni bilanciate
+A) non sono mai legate a patologia
+B) sono patologiche solo se de novo
+C) sono patologiche quando uno dei punti di rottura cade a livello di un gene sensibile al dosaggio *
+D) sono sempre patologiche
+E) sono patologiche solo se viene perso un derivativo
+
+DOMANDA: 67 La sindrome di Klinefelter è una patologia
+A) autosomica dominante
+B) autosomica recessiva
+C) legata al cromosoma X
+D) legata al cromosoma Y
+E) cromosomica *
+
+DOMANDA: 68 La tendenza per due geni sullo stesso cromosona a segregare insieme e' detta:
+A) indipendenza
+B) ricombinazione
+C) traslocazione
+D) associazione *
+E) allelia
+
+DOMANDA: 69 Considerando che l'acondroplasia e' un carattere dominante determinato dalla presenza di un allele A, in un matrimonio tra due acondroplasici entrambi con genotipo Aa, qual'e' la probabilita' di avere un figlio affetto?
+A) 1/2
+B) 3/4 *
+C) 1/4
+D) 2/3
+E) 1/8
+
+DOMANDA: 70 Nell'oligofrenia fenilpiruvica e' determinante l'alterazione del metabolismo del seguente aminoacido:
+A) idrossiprolina
+B) istidina
+C) triptofano
+D) fenilalanina *
+E) tirosina
+
+DOMANDA: 71 Una traslocazione robertsoniana è
+A) una traslocazione tra due cromosomi acrocentrici *
+B) una traslocazione sbilanciata
+C) una traslocazione tra cromosomi del sesso
+D) una traslocazione tra omologhi
+E) una traslocazione post-zigotica
+
+DOMANDA: 72 La disomia uniparentale indica
+A) la duplicazione del cromosoma Y
+B) che ambedue gli omologhi di una certa coppia di cromosomi provengono dallo stesso genitore *
+C) l'amplificazione di triplette instabili
+D) che ambedue gli alleli di un certo gene sono recessivi
+E) che il DNA mitocondriale è di origine materna
+
+DOMANDA: 73 La trascrizione
+A) avviene sui ribosomi
+B) è quel processo attraverso cui l'informazione genetica viene tradotta in proteine
+C) è quel processo attraverso cui l'informazione genetica passa dal DNA all'RNA *
+D) avviene nel citoplasma
+E) è un riarrangiamento cromosomico bilanciato
+
+DOMANDA: 74 Tutte le seguenti condizioni sono esempi di malattie legate al cromosoma X, tranne:
+A) distrofia miotonica *
+B) deficienza di glucosio-6-fosfato-deidrogenasi
+C) emofilia A
+D) sindrome di Lesch- Nyhan
+E) distrofia di Duchenne
+
+DOMANDA: 75 La mutazione che determina la sostituzione di un solo aminoacido nel polipeptide e' detta:
+A) delezione
+B) inversione
+C) traslocazione
+D) puntiforme *
+E) retromutazione
+
+DOMANDA: 76 Quale delle sotto elencate anomalie può produrre la sindrome di Turner?
+A) trisomia
+B) monosomia *
+C) transizione
+D) inversione
+E) traslocazione
+
+DOMANDA: 77 La fibrosi cistica è causata da mutazioni del gene CFTR. Oggi si conoscono più di 1.000 mutazioni CFTR responsabili della malattia. Questo è un esempio di:
+A) mutazione de novo
+B) espressività variabile
+C) penetranza completa
+D) eterogeneità genica
+E) eterogeneità allelica *
+
+DOMANDA: 78 Tutte le seguenti affermazioni relative alla eredità autosomica dominante sono corrette, tranne:
+A) il carattere è presente in ambedue i sessi
+B) il carattere può presentare differente espressività negli affetti
+C) i maschi sono di solito colpiti in modo più grave *
+D) i genitori possono non presentare il carattere
+E) un individuo eterozigote può non presentare il carattere
+
+DOMANDA: 79 Il confronto della concordanza per un carattere tra gemelli monozigoti e dizigoti è prevalentemente usato:
+A) per lo studio dei caratteri autosomici dominanti
+B) nelle anomalie cromosomiche
+C) per lo studio dei caratteri autosomici recessivi
+D) per lo studio dei caratteri multifattoriali *
+E) per lo studio dei caratteri X-linked
+
+DOMANDA: 80 Quale delle seguenti definizioni è la miglior definizione di "penetranza"?
+A) la proporzione di eterozigoti in una popolazione
+B) la probabilità di fecondazione di uno spermatozoo
+C) la proporzione di persone eterozigoti che manifestano la malattia dominante *
+D) la gravità della malattia
+E) nessuna delle precedenti
+
+DOMANDA: 81 Che cosa è un gene epistatico?
+A) un gene che per esprimersi ha bisogno di altri geni
+B) un gene che regola l'espressione di altri geni *
+C) un gene che si esprime solo in condizioni particolari
+D) un gene che si esprime solo in eterozigosi
+E) un gene inattivo
+
+DOMANDA: 82 Quale dei sotto elencati meccanismi produce la sindrome di Klinefelter?
+A) non disgiunzione *
+B) delezione
+C) duplicazione
+D) non disgiunzione mitotica
+E) fromazione di un isocromosoma
+
+DOMANDA: 83 Quanti dei figli di una coppia di eterozigoti portatori sani di una malattia genetica recessiva saranno affetti dalla malattia?
+A) 25% *
+B) 50%
+C) 100%
+D) 75%
+E) tutti i figli maschi
+
+DOMANDA: 84 Quanti cromosomi ha un paziente con trisomia 18 libera?
+A) 18
+B) 46
+C) 47 *
+D) 48
+E) 69
+
+DOMANDA: 85 Rispetto alla popolazione generale, i figli di genitori consanguinei mostrano un'aumentata incidenza di:
+A) anticipazione genetica
+B) penetranza completa
+C) malattie autosomiche recessive *
+D) mutazioni de novo germinali
+E) anomalie cromosomiche
+
+DOMANDA: 86 Un uomo, pur essendo eterozigote, non presenta segni di una malattia autosomica dominante, sebbene suo padre e due sue sorelle siano affetti dalla malattia. Quale, tra i seguenti termini, descrive meglio questa situazione?
+A) eterogeneità allelica
+B) pleiotropia
+C) penetranza incompleta *
+D) espressività variabile
+E) eterogeneità di locus
+
+DOMANDA: 87 Tutti i seguenti segni sono tipici della sindrome di Turner, tranne:
+A) bassa statura
+B) amenorrea
+C) infantilismo dei genitali
+D) labiopalatoschisi *
+E) infertilità
+
+DOMANDA: 88 Per mappare una patologia mendeliana all'interno del genoma
+A) si può effettuare un'analisi di linkage nelle famiglie informative *
+B) si possono sequenziare porzioni di Dna a caso
+C) si può calcolare la frequenza di quella patologia nella popolazione
+D) si può applicare la legge di Hardy-Weinberg
+E) si può analizzare l'espressione dei fattori di trascrizione
+
+DOMANDA: 89 Da quale tessuto si ottiene ordinariamente il cariotipo costituzionale in epoca postnatale?
+A) Gonadi
+B) Sangue periferico *
+C) Bulbi piliferi
+D) Cute
+E) Mucosa orale
+
+DOMANDA: 90 Il gene p53 svolge la funzione di:
+A) oncogene
+B) oncosoppressore *
+C) determinazione del sesso maschile
+D) determinazione del sesso femminile
+E) riparazione dei danni sull'RNA
+
+DOMANDA: 91 Il risultato di una errata divisione del centrometro provoca la formazione di quale delle seguenti?
+A) isodicentrico
+B) isocromosoma *
+C) dicentrico
+D) ring
+E) crossing over
+
+DOMANDA: 92 Quale condizione è caratterizzata dalla presenza del cromosoma Philadelphia?
+A) sarcoidosi
+B) carcinoma mammario duttale
+C) fibrosi cistica
+D) corea di Huntington
+E) leucemia mieloide cronica *
+
+DOMANDA: 93 Gli enzimi di restrizione servono per
+A) tagliare le proteine
+B) tagliare il DNA *
+C) tagliare le molecole
+D) isolare i geni
+E) tagliare l'RNA
+
+DOMANDA: 94 Quale delle seguenti tecniche permette di ottenere migliaia di copie di una specifica sequenza di DNA?
+A) PCR *
+B) FISH
+C) Sequenziamento
+D) Cariotipo
+E) SKY
+
+DOMANDA: 95 quanti cromosomi umano sono contenuti in uno spermatogonio?
+A) 2
+B) 10
+C) 20
+D) 23
+E) 46 *
+
+DOMANDA: 96 Con espressività variabile si intende
+A) il diverso grado di espressione fenotipica di un genotipo *
+B) la variabilità individuale indotta dai polimorfismi
+C) la diversa espressione degli ibridi (eterozigosità)
+D) la diversa espressione di una malattia genetica in funzione dello sviluppo
+E) il tasso di eterozigosità di un incrocio
+
+DOMANDA: 97 Qual'e' il meccanismo piu' comune che determina il manifestarsi di un carattere recessivo legato all' X in una femmina ammalata?
+A) traslocazione del cromosoma X
+B) matrimonio madre portatrice x padre affetto
+C) eterogeneita' genetica
+D) lyonizzazione estrema *
+E) pleiotropismo del gene
+
+DOMANDA: 98 Qual è il rapporto fra malattie ereditarie e malattie congenite?
+A) Le ereditarie sono necessariamente trasmesse da uno o entrambi i genitori. *
+B) Sono la stessa cosa
+C) Le ereditarie sono più gravi
+D) Le congenite sono più gravi
+E) Le congenite derivano solo da anomalie cromosomiche, le ereditarie solo da mutazioni genomiche.
+
+DOMANDA: 99 La poliploidia consiste nella:
+A) presenza di un corredo a 50 cromosomi
+B) presenza di un corredo cromosomico aploide
+C) presenza di un corredo cromosomico multiplo maggiore di due rispetto a quello aploide *
+D) presenza di un corredo cromosomico tetrapoide
+E) presenza di un corredo cromosomico a 46 cromosomi
+
+DOMANDA: 100 In cosa differiscono tra loro i cromosomi acrocentrici, submetacentrici e metacentrici?
+A) posizione del centromero *
+B) tipo di bandeggio
+C) modalità di trasporto durante la mitosi
+D) diverse frequenze di riarrangiamenti
+E) grandezza delle braccia cromosomiche
+
+DOMANDA: 101 La fibrosi cistica è una patologia
+A) autosomica dominante
+B) autosomica recessiva *
+C) legata al cromosoma X
+D) mitocondriale
+E) cromosomica
+
+DOMANDA: 102 Dove si trova il locus AZF?
+A) su di un autosoma
+B) su nessun cromosoma umano
+C) sul cromosoma Y *
+D) cromosoma X
+E) sui cromosomi X e Y
+
+DOMANDA: 103 L'eredità citoplasmatica nei mammiferi è:
+A) rappresentata dal DNA mitocondriale *
+B) inesistente
+C) rappresentata dagli mRNA che vengono tradotti nel citoplasma
+D) da identificarsi con l'amplificazione genica
+E) costituita da tutte le proteine citoplasmatiche
+
+DOMANDA: 104 Quale delle seguenti sindromi ha la stessa anomalia genica della sindrome di Prader Willi, ma è di origine materna?
+A) sindrme di Noonan
+B) sindrme feto alcolica
+C) sindrme di Angelman *
+D) sindrme di Pierre Robin
+E) sindrme di Pickwik
+
+DOMANDA: 105 La brachidattilia e' dominante sulla condizione normale. Un uomo affetto da brachidattilia sposa una donna normale. Qual'e' la probabilita' di avere un figlio affetto?
+A) 0
+B) 15 %
+C) 50 % *
+D) 75 %
+E) 100 %
+
+DOMANDA: 106 I difetti congeniti del metabolismo sono spesso dovuti a quale delle seguenti alterazioni?
+A) mutazioni recessive a carico di geni codificanti per proteine con funzione enzimatica *
+B) mutazioni dominanti a carico di geni codificanti per proteine con funzione enzimatica
+C) mutazioni recessive in geni codificanti per fattori trascrizionali
+D) mutazioni recessive in geni codificanti per fattori tradizionali
+E) microdelezioni cromosomiche
+
+DOMANDA: 107 Con il termine imprinting genomico si intende:
+A) l'espressione differenziale di un gene in rapporto alla sua origine paterna o materna *
+B) l'espressione differenziale di un gene codificante per i caratteri sessuali
+C) l'espressione di un gene indipendentemente dalla sua origine paterna o materna
+D) la mancata espressione di un gene che codifica per i caratteri sessuali
+E) la mancata espressione di un gene nel maschio
+
+DOMANDA: 108 Nel corso della gametogenesi i cromosomi vanno incontro a:
+A) una replicazione ed una divisione
+B) due replicazioni e due divisioni
+C) due replicazioni e una divisione
+D) una replicazione e due divisioni *
+E) due replicazioni e tre divisioni
+
+DOMANDA: 109 Per malattie mendeliane si intendono:
+A) le malattie dovute all'azione di geni + ambiente
+B) le malattie dovute a mutazioni di singoli geni trasmessi secondo le leggi di Mendel *
+C) le malattie che si trasmettono secondo la prima legge di Mendel
+D) le malattie poligeniche
+E) le malattie caratterizzate dalla dominanza e dalla recessività
+
+DOMANDA: 110 Quali esami suggerireste ad una coppia di primi cugini che richiedono la consulenza genetica?
+A) esame cromosomico
+B) ricerca della condizione di eterozigoti per geni comuni
+C) semplice consulenza genetica *
+D) esame della cromatina sessuale
+E) accertamenti strumentali
+
+DOMANDA: 111 Una malattia dominante ad insorgenza tardiva si manifesta per la prima volta in una famiglia. Quali delle seguenti affermazioni fanno ragionevolmente ritenere che si tratti di una nuova mutazione ?
+A) la malattia ha penetranza completa *
+B) la malattia ha penetranza incompleta
+C) il padre del malato potrebbe non essere il padre biologico
+D) i genitori non sono consanguinei
+E) la madre aveva contratto la rosolia durante la gravidanza
+
+DOMANDA: 112 I figli di una coppia di primi cugini sani hanno un rischio aumentato di essere affetti da
+A) patologie cromosomiche
+B) patologie mendeliane di tipo autosomico recessivo *
+C) patologie mendeliane di tipo autosomico dominante
+D) infertilità primaria
+E) patologie mitocondriali
+
+DOMANDA: 113 Quale di queste patologie è diagnosticabile con una amniocentesi seguita da analisi del cariotipo?
+A) rosolia
+B) toxoplasmosi
+C) sindrome di Down *
+D) infezione da citomegalovirus
+E) sindrome di Pollister
+
+DOMANDA: 114 In quale delle seguenti condizioni si osserva il fenomeno dell'anticipazione genetica?
+A) fibrosi cistica
+B) sindrome di Down
+C) emofilia A
+D) talassemia
+E) corea di Huntington *
+
+DOMANDA: 115 Quale delle seguenti condizioni comporta un elevato rischio di sviluppare tumori?
+A) omozigosi per mutazione del gene CFTR
+B) emizigosi per mutazione del gene FMR1
+C) eterozigosi per mutazione del gene BRCA1 *
+D) trisomia 18 libera
+E) corredo eterosomico XXY
+
+DOMANDA: 116 L'eterocromatina costitutiva:
+A) nei mammiferi appare come corpo di Barr
+B) è la porzione di cromatina permanentemente condensata in tutti i tessuti e in tutti gli stadi di sviluppo di un organismo *
+C) è la porzione di cromatina condensata solo in certe cellule e in certi momenti dello sviluppo
+D) è necessaria al meccanismo di compensazione di dose per i geni legati al sesso
+E) si distingue da quella facoltativa in base alla diversa colorabilità
+
+DOMANDA: 117 Quale di questi difetti ereditari che interessano la farmacogenetica, e' piu' frequente in Italia?
+A) porfiria variegata
+B) deficit di G6 PD *
+C) ipertermia maligna
+D) acatalasia
+E) emoglobine instabili
+
+DOMANDA: 118 Quale delle seguenti conseguenze è ordinariamente associata alle traslocazioni bilanciate?
+A) ritardo mentale nel portatore
+B) ritardo di crescita nel portatore
+C) aumentato rischio di aborto spontaneo *
+D) aumentato rischio di sviluppare tumori per i figli del portatore
+E) aumento del rischio di malattie monogeniche nella prole del portatore
+
+DOMANDA: 119 Quali dei seguenti tipi di gameti produce un individuo di genotipo AaBb?
+A) A,a,B,b
+B) Ab,ab
+C) Aa,Bb,AB,ab
+D) AB,Ab,aB,ab *
+E) AA,aa,BB,bb
+
+DOMANDA: 120 Quanti cromosomi sono ordinariamente inattivati in una donna con cariotipo 47,XXX?
+A) 1
+B) 2 *
+C) 1 oppure 2
+D) 3
+E) nessuno
+
+DOMANDA: 121 Il cariotipo umano normale contiene
+A) 48 cromosomi
+B) 46 cromosomi *
+C) 45 cromosomi
+D) 22 cromosomi
+E) 24 cromosomi
+
+DOMANDA: 122 Il cancro è definito come una malattia genetica perché:
+A) è sempre ereditario
+B) si sviluppa in seguito ad integrazione del genoma di retrovirus nel genoma umano
+C) è autosomico dominante
+D) è determinato dalla comparsa di mutazioni genetiche a livello delle cellule somatiche *
+E) è associato alla sindrome di Down
+
+DOMANDA: 123 Tra quali cromosomi avviene una traslocazione Robertsoniana?
+A) metacentrici
+B) submetacentrici
+C) acrocentrici *
+D) cromosomi sessuali
+E) cromosomi 15 e 21
+
+DOMANDA: 124 Il numero diploide di cromosomi di un dato organismo e' 12. In un organismo triploide della stessa specie il numero di cromosomi e':
+A) 13
+B) 36
+C) 18 *
+D) 7
+E) 64
+
+DOMANDA: 125 Quale livello della struttura proteica e' sotto piu' diretto controllo del DNA del gene?
+A) primario *
+B) secondario
+C) terziario
+D) quaternario
+E) nessuno
+
+DOMANDA: 126 I geni che mappano sul cromosoma X
+A) Non si trasmettono mai dal padre al figlio maschio *
+B) Si trasmettono sempre dal padre al figlio maschio
+C) Si trasmettono dal padre al figlio maschio nel 50% dei casi
+D) Si trasmettono dal padre alla figlia femmina nel 50% dei casi
+E) Si trasmettono dal padre ai figli maschi nel 25% dei casi
+
+DOMANDA: 127 In quale periodo della gravidanza si effettua in genere l'amniocentesi?
+A) 10-12 settimane di gestazione
+B) 13-15 settimane di gestazione
+C) 16-18 settimane di gestazione *
+D) 19-20 settimane di gestazione
+E) 21-23 settimane di gestazione
+
+DOMANDA: 128 Quale delle seguenti rappresenta la causa più frequente di malformazioni congenite?
+A) cromosomica
+B) acquisita
+C) mendeliana
+D) traumatica
+E) multifattoriale *
+
+DOMANDA: 129 L'emofilia A è una patologia
+A) autosomica dominante
+B) autosomica recessiva
+C) legata al cromosoma X *
+D) mitocondriale
+E) cromosomica
+
+DOMANDA: 130 L'eterogeneità genetica di locus indica che
+A) la stessa malattia è dovuta a mutazioni di geni differenti *
+B) la stessa malattia è dovuta a mutazioni differenti dello stesso gene
+C) malattie differenti sono dovute a mutazioni in geni differenti
+D) malattie differenti sono dovute a mutazioni dello stesso gene
+E) uno stesso gene è posizionato in più loci
+
+DOMANDA: 131 Il DNA di due individui è identico se:
+A) sono padre e figlio
+B) sono fratelli maschi
+C) sono gemelli mono-ovulari *
+D) sono gemelli etero-ovulari
+E) sono figli di genitori fratelli
+
+DOMANDA: 132 I test genetici presintomatici si applicano:
+A) a tutti coloro che né fanno richiesta
+B) solo alle donne gravide
+C) a soggetti che presentano i segni clinici della malattia
+D) a soggetti che non presentano segni clinici di una malattia ma che sono a rischio di svilupparla *
+E) a soggetti con anomalie cromosomiche
+
+DOMANDA: 133 Dovendo scegliere un donatore di trapianto di un rene per un ammalato, quale delle seguenti parentele sarebbe l'ultima in ordine di priorità?
+A) padre
+B) fratello
+C) gemello monozigote
+D) gemello dizigote
+E) cugino *
+
+DOMANDA: 134 Un bambino affetto da sindrome di Down presenta un cariotipo con 46 cromosomi. Quale delle seguenti spiegazioni è corretta?
+A) la madre ha avuto una malattia virale durante la gravidanza
+B) vi è stata non-disgiunzione nella meiosi materna
+C) il padre presenta traslocazione bilanciata 14;21 *
+D) il bambino ha avuto una malattia virale alla nascita
+E) la madre è stata sottoposta ad irradiazione della pelvi durante la gravidanza
+
+DOMANDA: 135 Quale delle seguenti tecniche permette di evidenziare la posizione di un singolo gene su un cromosoma?
+A) PCR
+B) FISH *
+C) Sequenziamento
+D) Cariotipo
+E) Fiber FISH
+
+DOMANDA: 136 Qual'e' la probabilita' che un individuo trasmetta uno specifico allele al figlio di suo figlio?
+A) 1/2
+B) 1/4 *
+C) 1/8
+D) 1/16
+E) 2/3
+
+DOMANDA: 137 Una mutazione da scorrimento di cornice di lettura tenderà a produrre:
+A) una proteina non funzionante *
+B) una riduzione quantitativa della proteina
+C) un effetto solo in omozigosi
+D) un fenotipo dominante
+E) sarà letale
+
+DOMANDA: 138 Quale delle seguenti è la miglior definizione di "zigote"?
+A) qualunque cellula aploide
+B) una della prime fasi della meiosi
+C) qualunque cellula diploide
+D) la cellula uovo
+E) la cellula formata dell'unione di due gameti *
+
+DOMANDA: 139 Due genitori eterozigoti per il gene dell'anemia falciforme hanno due figli affetti. Quale è la probabilità che il terzo figlio non sia affetto?
+A) 0%
+B) 25%
+C) 50%
+D) 75% *
+E) 100%
+
+DOMANDA: 140 In quale delle seguenti patologie sono implicati i geni BRCA1 e BRCA2?
+A) Corea di Huntington
+B) Morbo di Crohn
+C) Distrofia miotonica
+D) Diabete tipo I
+E) Tumori ereditari della mammella e dell'ovaio *
+
+DOMANDA: 141 Quali delle seguenti caratteristiche hanno in comune il DNA e l'RNA?
+A) contengono adenina, citosina, timida e guanina
+B) contengono desossiribosio
+C) contengono legami fosfodiesterici *
+D) si localizzano esclusivamente nel nucleo cellulare
+E) sono legati a proteine istoniche nelle cellule eucariotiche
+
+DOMANDA: 142 Tutte le ragioni per cui una mutazione del DNA può non avere alcun effetto fenotipico sotto riportate sono corrette, tranne una: quale?
+A) il codice genetico è ridondante
+B) una mutazione può causare la sostituzione di un amminoacido in un dominio della proteina non essenziale per la funzione
+C) il codice genetico è "senza virgole" *
+D) una mutazione può causare la sostituzione di un amminoacido con un altro funzionalmente simile
+E) una mutazione può avvenire in un introne
+
+DOMANDA: 143 Gli enzimi di restrizione agiscono:
+A) sul DNA *
+B) sull' RNA
+C) solo sul DNA dei procarioti
+D) solo sul DNA degli eucarioti
+E) sulle catene polipeptidiche
+
+DOMANDA: 144 Quale delle seguenti non è una tecnica di diagnosi prenatale?
+A) Amniocentesi
+B) Villocentesi
+C) Ecografia
+D) Rachicentesi *
+E) Dosaggio ematico alpha-feto-proteina
+
+DOMANDA: 145 Con penetranza si indica
+A) la frequenza con cui un genotipo si esprime fenotipicamente *
+B) la gravità di una malattia genetica
+C) la frequenza di una malattia genetica in una popolazione
+D) la variabile espressione di un genotipo
+E) il limite diagnostico di un'indagine molecolare
+
+DOMANDA: 146 Supponete che un individuo di gruppo O sposi un individuo di gruppo AB. Quale sarà il fenotipo dei figli?
+A) 50% A e 50% B *
+B) tutti di gruppo A
+C) 25% A, 50% AB, e 25% B
+D) 50% A e 50% 0
+E) tutti i gruppi AB0
+
+DOMANDA: 147 Quali mutazioni possono essere ereditate dalla prole?
+A) le mutazioni somatiche
+B) le mutazioni germinali *
+C) tutte le mutazioni
+D) nessuna delle precedenti
+E) le mutazioni dinamiche
+
+DOMANDA: 148 Per quale delle seguenti analisi possono essere utilizzati i polimorfismi del DNA?
+A) test di gravidanza
+B) analisi di paternità *
+C) microdelezioni del cromosoma Y
+D) nessuna delle precedenti
+E) tutte le precedenti
+
+DOMANDA: 149 Nell'uomo il daltonismo e' un carattere ereditario determinato da una mutazione recessiva X - linked. Da un uomo fenotipicamente normale e da una donna Fenotipicamente normale, il cui padre era daltonico puo'nascere un figlio maschio daltonico con la probabilita' del:
+A) 0%
+B) 25%
+C) 50% *
+D) 75%
+E) 100%
+
+DOMANDA: 150 Quale dei seguenti geni è coinvolto nella poliposi familiare del colon?
+A) APC *
+B) SRY
+C) BRCA1
+D) DAZ
+E) MSHZ
+
+DOMANDA: 151 Quanti cromosomi ha un paziente con sindrome di Klinefelter?
+A) 45
+B) 46
+C) 47 *
+D) 48
+E) 69
+
+DOMANDA: 152 Qual è la percentuale di rischio di aborto dopo l'amniocentesi
+A) 10%
+B) 7%
+C) 1% *
+D) 3%
+E) 15%
+
+DOMANDA: 153 Una traslocazione bilanciata avviene:
+A) per uno scambio di segmenti tra due cromosomi omologhi
+B) per uno scambio di segmenti tra due cromosomi non omologhi *
+C) solo nelle femmine, perchè hanno due cromosomi X
+D) più frequentemente nei maschi
+E) per inattivazione del cromosoma X
+
+DOMANDA: 154 Cosa e' il centromero?
+A) il punto di attacco del cromosoma sul fuso *
+B) un uovo fecondato
+C) un cromosoma incompleto
+D) il materiale cellulare extra nucleare
+E) un tipo di incrocio molto usato in genetica
+
+DOMANDA: 155 Quale, tra le sottoelencate aberrazioni cromosomiche, è compatibile con un fenotipo normale?
+A) monosomia
+B) trisomia
+C) traslocazione reciproca *
+D) cromosoma ad anello
+E) isocromosoma
+
+DOMANDA: 156 Le malattie metaboliche sono dovute a difetti enzimatici che causano:
+A) il blocco di una via metabolica
+B) il blocco di una via metabolica con accumulo dei metaboliti a valle
+C) il blocco di una via metabolica con accumulo di metaboliti a monte *
+D) il blocco di una via metabolica con accumulo di metaboliti a monte e a valle
+E) il blocco di una via metabolica con assenza dei prodotti proteici
+
+DOMANDA: 157 Qual'e' la frazione di geni che due fratelli hanno in comune tra loro?
+A) 0%
+B) 25%
+C) 50% *
+D) 75%
+E) 100%
+
+DOMANDA: 158 Quale di queste situazioni patologiche è correlata a età materna avanzata?
+A) Trisomie cromosomiche *
+B) Mutazioni dinamiche
+C) Monosomie del cromosoma X
+D) Sindrome dell'X fragile
+E) Amplificazione di tripletta
+
+DOMANDA: 159 Penetranza età-dipendente per una malattia autosomica dominante significa:
+A) che negli anziani il carattere non si manifesta
+B) i segni clinici compaiono progressivamente *
+C) che la malattia compare nei figli di genitori anziani
+D) le mutazioni sono più frequenti nei maschi di età >40 anni
+E) tutte le precedenti
+
+DOMANDA: 160 Tutti i seguenti sono componenti della struttura di un gene, tranne:
+A) promotore
+B) introne
+C) esone
+D) enhancer
+E) coda poli-A *
+
+DOMANDA: 161 Quali delle sotto elencate patologie possono essere dovute a carenza di acido folico
+A) anemia perniciosa
+B) difetti del tubo neurale *
+C) difetti scheletrici
+D) diarrea
+E) cirrosi
+
+DOMANDA: 162 A quanti figli un genitore affetto da una malattia genetica autosomica dominante trasmetterà la malattia?
+A) 10%
+B) 25%
+C) 50% *
+D) 100%
+E) 75%
+
+DOMANDA: 163 Una malattia autosomica recessiva si riconosce perché :
+A) si manifesta fenotipicamente in caso di omozigosi o eterozigosi composta *
+B) tende ad essere meno grave di una dominante
+C) tende a recedere, cioè diluirsi, col passare delle generazioni
+D) si eredita solo dalla madre
+E) si eredita solo dal padre
+
+DOMANDA: 164 Quale delle seguenti malattie genetiche è dovuta ad espansione di triplette?
+A) anemia falciforme
+B) fibrosi cistica
+C) beta talassemia
+D) sindrome dell'X Fragile *
+E) malattia di Tay Sachs
+
+DOMANDA: 165 Per quale delle seguenti malattie non è attualmente disponibile il test genetico?
+A) Corea di Huntington
+B) Sindrome dell'X fragile
+C) Schizofrenia *
+D) Emocromatosi
+E) Talassemia
+
+DOMANDA: 166 L'imprinting genomico è quel fenomeno per cui
+A) ambedue i cromosomi di quella certa coppia provengono dallo stesso genitore
+B) solo l'allele materno o solo quello paterno è attivo *
+C) una patologia si manifesta solo nell'età adulta
+D) una patologia genetica è legata a età materna avanzata
+E) una patologia si manifesta in epoca prenatale
+
+DOMANDA: 167 quale, tra i seguenti tipi di sequenze, è presente nei centromeri dei cromosomi eucariotici?
+A) geni ribosomali
+B) sequenze ripetute in tandem *
+C) sequenze derivate da trasposoni
+D) sequenze geniche trascritte
+E) pseudogeni
+
+DOMANDA: 168 Quale delle seguenti è la miglior definizione di "mitosi"?
+A) la divisione di una cellula aploide accompagnata da duplicazione dei cromosomi per cui si originano 2 cellule figlie diploidi
+B) processo di 2 successive divisioni cellulari, accompagnato da una sola duplicazione cromosomica, che porta alla formazione di 4 cellule aploidi
+C) processo di divisione cellulare preceduto da duplicazione del materiale genetico e risultante nella distribuzione di un identico corredo cromosomico nelle cellule figlie *
+D) formazione di 4 cellule aploidi a partire da una cellula diploide che va incontro a 2 successive divisioni, ciascuna accompagnata da duplicazione cromosomica
+E) processo di duplicazione cromosomica e successiva separazione dei cromosomi omologhi a seguito della divisione della cellula madre in 2 cellule figlie aploidi
+
+DOMANDA: 169 Nell'ovocita umano, la meiosi II si completa:
+A) nel feto
+B) al momento della pubertà
+C) appena prima dell'ovulazione
+D) durante l'ovulazione
+E) subito dopo la fecondazione *
+
+DOMANDA: 170 Le malattie autosomiche dominanti si caratterizzano perché:
+A) si esprimono fenotipicamente anche nell'eterozigote portatore *
+B) sono sempre molto più gravi di quelle recessive
+C) tendono ad aumentare o dominare nelle popolazioni senza controllo sanitario
+D) sono trasmesse solo dal padre
+E) sono trasmesse solo dalla madre
+
+DOMANDA: 171 La sindrome di Down è una patologia
+A) autosomica dominante
+B) autosomica recessiva
+C) legata al cromosoma X
+D) mitocondriale
+E) cromosomica *
+
+DOMANDA: 172 Quale dei seguenti fattori aumenta il rischio di avere un figlio con sindrome di Down?
+A) madre fumatrice prima della gravidanza
+B) aumentata età materna *
+C) aumentata età paterna
+D) abuso di alcool da parte del padre
+E) abuso di farmaci da parte dei genitori
+
+DOMANDA: 173 Quali tra le seguenti malattie genetiche si trasmette con modalità autosomiche dominanti?
+A) fibrosi cistica
+B) beta telassemia
+C) sindrome di Marfan *
+D) sindrome dell'X fragile
+E) emofilia
+
+DOMANDA: 174 Cromosomi che non sono cromosomi sessuali:
+A) giganti
+B) telecentrici
+C) metacentrici
+D) autosomi *
+E) ad anello
+
+DOMANDA: 175 Piero è affetto da emofilia (malattia legata alla X). I suoi genitori e suo fratello Paolo non sono affetti. Che rischio ha Paolo di avere figli maschi affetti da acondroplasia?
+A) nessuno *
+B) 1/2
+C) 1/3
+D) 1/4
+E) 1/5
+
+DOMANDA: 176 Quale è la probabilità che un individuo trasmetta uno specifico allele al figlio di suo figlio?
+A) 1/2
+B) 1/4 *
+C) 1/8
+D) 1/16
+E) 1/3
+
+DOMANDA: 177 Quali esami consigliate per un sospetto di rosolia nel I- II trimestre di gravidanza?
+A) amniocentesi
+B) esame cromosomico della madre
+C) ecografia
+D) fetoscopia
+E) indagini sierologiche sulla madre *
+
+DOMANDA: 178 Da una coppia di genitori sani nasce un bambino che presenta segni clinici di fibrosi cistica. Quale dei seguenti accertamenti può essere utile per confermare la diagnosi?
+A) analisi molecolare del DNA del bambino *
+B) cariotipo del bambino
+C) cariotipo dei genitori
+D) ricerca di microdelezioni mediante FISH
+E) aminoacidogramma plasmatico
+
+DOMANDA: 179 quali di queste tecniche viene usata per studiare i cromosomi?
+A) Colorazione argentica
+B) Colorazione Google
+C) Bande R *
+D) Eterocromaticismo
+E) Nessuna delle precedenti
+
+DOMANDA: 180 Da quale tipo di non-disgiunzione può originare un individue 47,XYY?
+A) 1a divisione meiotica materna
+B) 2a divisione meiotica materna
+C) 1a divisione meiotica paterna
+D) 2a divisione meiotica paterna *
+E) mitotica
+
+DOMANDA: 181 I livelli di quale delle seguenti sostanze si riducono nel sangue materno in casi di gravidanze con sindrome di Down?
+A) AFP *
+B) hCG
+C) Prolattina
+D) Beta - hCG
+E) tiroxina
+
+DOMANDA: 182 Tramite il processo di splicing vengono rimosse:
+A) le sequenze ripetute
+B) le sequenze amplificate
+C) tutte le sequenze che non devono essere trascritte
+D) tutte le sequenze che non devono essere tradotte
+E) le sequenze che non entrano a far parte dell'mRNA maturo *
+
+DOMANDA: 183 Per l'analisi dei polimorfismi dei siti di restrizione (RFLP) si trasferisce da un gel di agarosio a un filtro di nitrocellulosa:
+A) proteine
+B) RNA
+C) lipidi
+D) DNA denaturato *
+E) polisaccaridi
+
+DOMANDA: 184 Un uomo di 35 anni, affetto da sindrome di Marfan (autosomica dominante) e sua moglie incinta chiedono una consulenza genetica. Non considerando mutazione de novo, voi dovete dire loro che:
+A) vi è il 50% di probabilità che il figlio sia affetto *
+B) vi è il 25% di probabilità che il figlio sia affetto
+C) il rischio di trasmissione dipende dal sesso del figlio
+D) non vi è nessun rischio che il figlio sia affetto
+E) vi è il 100% di probabilità che il figlio sia affetto
+
+DOMANDA: 185 Le mutazioni ereditarie riguardano:
+A) le cellule germinali *
+B) le cellule somatiche
+C) l'RNA messaggero
+D) i ribosomi
+E) il liquido seminale
+
+DOMANDA: 186 Il matrimonio tra consanguinei fenotipicamente sani può comportare un aumentato rischio di patologie
+A) autosomiche recessive *
+B) autosomiche dominanti
+C) legate al cromosoma X
+D) mitocondriali
+E) cromosomiche
+
+DOMANDA: 187 Da due genitori sani e normali nasce un bambino con sindrome di Down. Qual' è la causa più probabile?
+A) i due genitori sono consanguinei
+B) i due genitori sono portatori di traslocazione bilanciata
+C) un evento casuale di non-disgiunzione meiotica in uno dei due genitori *
+D) un evento di duplicazione cromosomica
+E) un evento di non-disgiunzione mitotica
+
+DOMANDA: 188 Quale dei seguenti elementi del DNA assicura la corretta segregazione dei cromosomi omologhi durante i processi di mitosi e meiosi?
+A) telomeri
+B) centromeri *
+C) cinetocori
+D) cromatidi
+E) satelliti
+
+DOMANDA: 189 Il prodotto dell'espressione genica dei geni sul cromosoma X nella donna
+A) E' uguale a quello dell'uomo per inattivazione casuale di un cromosoma X *
+B) E' il doppio di quello dell'uomo perché ci sono due cromosomi X
+C) E' un precipitato proteico chiamato corpo di Barr
+D) E' la metà di quello dell'uomo perché manca il cromosoma Y
+E) Si misura solo nei gameti
+
+DOMANDA: 190 Per alleli si intende:
+A) copie diverse dello stesso gene *
+B) geni diversi
+C) geni che in omozigosi provocano malattie recessive
+D) geni associati (linked)
+E) geni che codificano per i gruppi sanguigni
+
+DOMANDA: 191 La galattosemia viene ereditata come un carattere autosomico recessivo. Se due genitori normali hanno un figlio affetto a quale tipo di incrocio appartengono i due genitori? (A=allele normale)
+A) AA x AA
+B) Aa x Aa *
+C) Aa x AA
+D) aa x aa
+E) aa x AA
+
+DOMANDA: 192 Quale delle sottoelencate patologie è dovuta a difetto del tubo neurale?
+A) sindrome di Down
+B) agenesia parete addominale
+C) malformazione di Chiari
+D) spina bifida *
+E) agenesia corpo calloso
+
+DOMANDA: 193 Quale dei sottoelencati cariotipi si riscontra più frequentemente in un paziente maschio infertile?
+A) 47,XXX
+B) 47,XXY *
+C) 47,XYY
+D) 48,XXYY
+E) 45,X0
+
+DOMANDA: 194 Quale delle seguenti affermazioni è corretta?
+A) il locus è il fenotipo localizzato nel nucleo
+B) il locus è il genotipo localizzato nel citoplasma
+C) il locus è la posizione di un gene sul cromosoma *
+D) il locus è la posizione della tripletta d'inizio del gene
+E) il locus è il cromosoma su cui è localizzata una mutazione
+
+DOMANDA: 195 Quanti corpi di Barr si possono mettere in evidenza nelle cellule di un individuo con cariotipo XXXY?
+A) 0
+B) 1
+C) 2 *
+D) 3
+E) 4
+
+DOMANDA: 196 Quanti cromosomi possiede uno spermatozoo?
+A) 23 *
+B) 46
+C) 47
+D) 69
+E) 22
+
+DOMANDA: 197 Il termine acrocentrico è riferito a:
+A) alla forma di un gruppo di cromosomi *
+B) ad una forma di nanismo
+C) alla posizione subtelomerica dei geni lungo un cromosoma
+D) alla lunghezza degli arti
+E) alla dimensione delle mani
+
+DOMANDA: 198 Quale delle sotto elencate sostanze concorre a formare il nucleosoma?
+A) istone H7
+B) istone H2A *
+C) eterocromatina
+D) istone H9
+E) istidina
+
+DOMANDA: 199 Nell'uomo si ha identità genotipica tra:
+A) consanguinei
+B) fratelli
+C) genitori e figli
+D) gemelli dizigotici
+E) gemelli monozigotici *
+
+DOMANDA: 200 Quanti tipi di gameti produce una donna eterozigote ad un locus singolo
+A) 1
+B) 2 *
+C) 3
+D) 4
+E) 5
+
+DOMANDA: 201 Un individuo si definisce eterozigote quando:
+A) ha due cromosomi sessuali diversi
+B) ha una quantità maggiore di eterocromatina rispetto alla norma
+C) mostra un'inattivazione preferenziale a carico di uno dei due cromosomi X
+D) possiede alleli diversi ad un determinato locus *
+E) possiede diverse copie di un particolare locus
+
+DOMANDA: 202 In quale delle seguenti situazioni è indicata la diagnosi prenatale?
+A) Storia familiare di diabete mellito
+B) Storia familiare di tumori al polmone in tarda età
+C) La gestante ha 42 anni *
+D) I due genitori hanno eseguito screening per la microcitemia ed uno dei due è risultato eterozigote per il trait talassemico
+E) La coppia ha avuto un aborto spontaneo in precedenza
+
+DOMANDA: 203 Il "crossing-over" avviene in quale delle seguenti fasi?
+A) I profase meiotica *
+B) telofase I divisione meiotica
+C) I mitosi meiotica
+D) II profase meiotica
+E) II mitosi meiotica
+
+DOMANDA: 204 Un individuo normale portatore di una traslocazione robertsoniana tra i cromosomi 14 e 21 avrà un figlio con trisomia 21 nel caso in cui
+A) gli trasmette solamente il cromosoma derivativo della traslocazione
+B) gli trasmette il cromosoma 14 e il derivativo della traslocazione
+C) gli trasmette il cromosoma 21 e il derivativo della traslocazione *
+D) gli trasmette i cromosomi 14 e 21
+E) gli trasmette il 14, il 21 e il derivativo della traslocazione
+
+DOMANDA: 205 quale è la probabilità che il nonno materno daltonico trasmetta il suo difetto visivo ad un nipote maschio?
+A) 0%
+B) 25%
+C) 50% *
+D) 75%
+E) 100%
+
+DOMANDA: 206 Quale delle seguenti affermazioni relative ai caratteri recessivi legati al cromosoma X è corretta?
+A) si esprimono prevalentemente nelle femmine
+B) possono essere trasmessi dal padre ai figli maschi e femmine con uguale probabilità
+C) non sono trasmessi dalla madre alle figlie femmine
+D) si esprimono in maschi i cui genitori sono consanguinei
+E) non sono trasmessi dal padre ai figli maschi *
+
+DOMANDA: 207 Alcune forme di sordità nella specie umana sono ereditate come caratteri autosomici recessivi. Tuttavia dall'incrocio tra due individui ipoacusici omozigoti per un gene autosomico recessivo possono nascere figli normoudenti. La spiegazione più probabile è:
+A) mancanza di penetranza
+B) eterogeneità genetica *
+C) mutazione spontanea
+D) espressività ridotta nei figli
+E) non è possibile rispondere
+
+DOMANDA: 208 La fase mitotica che segue la metafase e':
+A) profase
+B) telofase
+C) diacinesi
+D) anafase *
+E) interfase
+
+DOMANDA: 209 La frequenze di anomalie cromosomiche fra gli aborti spontanei
+A) è intorno al 50% *
+B) è intorno all'1%
+C) è intorno al 10%
+D) è intorno al 100%
+E) è dello 0%
+
+DOMANDA: 210 Per quali delle malattie di interesse genetico il matrimonio tra consanguinei aumenta il rischio nella prole:
+A) monofattoriali legate all'X
+B) aberrazioni cromosomiche strutturali
+C) dominanti
+D) autosomiche recessive *
+E) delezione di geni contigui
+
+DOMANDA: 211 Due coniugi sono primi cugini ed hanno avuto un figlio maschio con una grave ipoacusia neuro-sensoriale. Loro sono sani e così tutta la loro famiglia. Hanno altri tre bimbi (una femmina malata, una femmina sana ed un maschio sano). Qual'è la più probabile modalità di trasmissione della malattia?
+A) non è trasmessa
+B) X-linked
+C) autosomica recessiva *
+D) autosomica dominante con penetranza incompleta
+E) ambientale
+
+DOMANDA: 212 Una donna è affetta da fibrosi cistica ed è l'unico caso della famiglia. Quale è il rischio per sua figlia di essere portatrice (ammesso che il marito della donna affetta sia sano e non portatore)?
+A) 100% *
+B) 75%
+C) 50%
+D) figlia sana non portatrice
+E) 25%
+
+DOMANDA: 213 Quale tra i seguenti è un fattore di rischio per sindrome di Down?
+A) età materna avanzata *
+B) età paterna avanzata
+C) traslocazione materna 2;18
+D) traslocazione paterna 2;18
+E) storia di aborto ripetuto
+
+DOMANDA: 214 A quale delle seguenti categorie appartiene la malattia di von Gierke?
+A) mucopolisaccaridosi
+B) gangliosidosi
+C) glicogenosi *
+D) malattia lisosomiale
+E) sfingolipidosi
+
+DOMANDA: 215 Un uomo di gruppo sanguigno O sposa una donna di gruppo A. Il padre della moglie è di gruppo O. Quale è la probabilità che i loro figli siano di gruppo O?
+A) 50% *
+B) tutti
+C) nessuno
+D) 25%
+E) 75%
+
+DOMANDA: 216 I cromosomi nello spermatozoo maturo sono in numero di:
+A) 48
+B) 46
+C) 22
+D) 24
+E) 23 *
+
+DOMANDA: 217 Che cosa è un gene?
+A) una sequenza di RNA
+B) una sequenza di aminoacidi
+C) una sequenza di DNA *
+D) una sequenza di proteine
+E) una sequenza di DNA e RNA
+
+DOMANDA: 218 Nell'uomo, la traslocazione robertsoniana avviene tra:
+A) i cromosomi dei gruppi più grandi (A e B)
+B) i cromosomi dei gruppi più piccoli (F e G)
+C) i cromosomi submetacentrici
+D) i cromosomi acrocentrici *
+E) i cromosomi X e Y
+
+DOMANDA: 219 Una donna è portatrice per l'emofilia. Quante probabilità ha di avere un figlio maschio e malato?
+A) 0%
+B) 25% *
+C) 50%
+D) 75%
+E) 100%
+
+DOMANDA: 220 quale delle seguenti emoglobine e' presente in un soggetto normale?
+A) Hb S
+B) Hb D
+C) Hb Lepore
+D) Hb A2 *
+E) Hb C
+
+DOMANDA: 221 Nelle cellule somatiche umane ci sono 46 cromosomi. Quanti autosomi ci sono in un gamete?
+A) 21
+B) 23
+C) 44
+D) 46
+E) 22 *
+
+DOMANDA: 222 Quale delle seguenti affermazioni è vera:
+A) 2 molecole di DNA possono ibridarsi se hanno la stessa quantità delle varie basi azotate
+B) 2 molecole di DNA possono ibridarsi se hanno sequenze complementari *
+C) una molecola di DNA può ibridare solo con una molecola di RNA
+D) 2 molecole di DNA possono ibridarsi se provengono da cellule della stessa specie animale o vegetale
+E) 2 molecole di DNA possono ibridarsi solo se hanno la stessa sequenza di nucleotidi
+
+DOMANDA: 223 Quali tra le seguenti affermazioni sono appropriate alle malattie recessive legate all'X ?
+A) nella maggior parte delle famiglie solo i maschi sono ammalati *
+B) sono malate solo le femmine
+C) tutti i parenti di sesso maschile sono malati
+D) il 50% delle figlie di un malato sono portatrici
+E) il 25% delle figlie di un malato sono pure esse malate ed il 25% sono portatrici
+
+DOMANDA: 224 Quale dei seguenti cariotipi determina la sindrome di Klinefelter?
+A) 45,X0
+B) 47,XX,+21
+C) 48,XXYY
+D) 47,XXY *
+E) 47,XYY
+
+DOMANDA: 225 La sindrome di Down è dovuta generalmente a:
+A) una trisomia del cromosoma 21 *
+B) ad un matrimonio tra consanguinei
+C) ad un'infezione batterica in gravidanza
+D) all'età della madre superiore ai 25 anni
+E) alla presenza di due cromosomi Y
+
+DOMANDA: 226 Quale dei seguenti non è un componente di un cromosoma?
+A) centromero
+B) telomero
+C) costrizione secondaria
+D) braccio corto
+E) microtubulo *
+
+DOMANDA: 227 Quale delle seguenti tecniche viene utilizzata per evidenziare le mutazioni puntiformi?
+A) FISH
+B) PCR
+C) RT-PCR
+D) Sequenziamento *
+E) SKY
+
+DOMANDA: 228 Il rischio di ammalare di Thalassemia major per i figli che nascono da genitori portatori del trait talassemico è di
+A) 1:4 *
+B) 1:2
+C) nessun rischio
+D) 100%
+E) non si può prevedere
+
+DOMANDA: 229 Cosa si intende per eterogeneità genetica?
+A) Il fenotipo malattia può essere causato da mutazioni in geni differenti *
+B) Il fenotipo malattia può essere causato da mutazioni alleliche di uno stesso gene
+C) Il fenotipo malattia può essere causato da all'azione di geni + ambiente
+D) Il fenotipo malattia può essere causato da DNA mitocondriale
+E) Il fenotipo malattia può essere causato dall'azione di virus geneticamente modificati
+
+DOMANDA: 230 Una coppia che ha avuto un figlio affetto da fibrosi cistica (malattia autosomica recessiva) che probabilità ha di avere un figlio eterozigote per fibrosi cistica?
+A) 100%
+B) 50% *
+C) dipende dal sesso
+D) 25%
+E) tutte le precedenti
+
+DOMANDA: 231 Quanti corpi di Barr sono presenti in individui affetti da Sindrome di Turner?
+A) nessuno *
+B) due
+C) tre
+D) uno parzialmente inattivato dal gene Xist
+E) numero variabile
+
+DOMANDA: 232 In una famiglia, il padre e due figli (una femmina e un maschio) sono affetti da stenosi aortica sopravalvolare. L'analisi del gene per l'elastina mostra che un allele ha la delezione del secondo e parte del terzo esone.Che eredità presenta la patologia?
+A) autosomica recessiva
+B) mitocondriale
+C) legata all'X
+D) autosomica dominante *
+E) da imprinting genomico
+
+DOMANDA: 233 Quale delle molecole elencate non può essere considerata una sonda molecolare?
+A) cDNA
+B) gene clonato in un fago
+C) gene clonato in un plasmide
+D) un polipeptide codificato da un gene *
+E) una molecola di RNA
+
+DOMANDA: 234 Cosa sono gli alleli?
+A) uova fecondate
+B) materiale cellulare esterno al nucleo
+C) fratello e sorella
+D) agenti mutagenici
+E) geni che occupano lo stesso locus su cromosomi omologhi *
+
+DOMANDA: 235 Il termine congenito viene usato per indicare una malattia:
+A) genetica
+B) ereditaria
+C) familiare
+D) ambientale
+E) presente dalla nascita *
+
+DOMANDA: 236 La perdita di 2 basi all'interno di una sequenza codificante determina:
+A) la perdita del controllo sull'espressione genica
+B) il cambiamento dell'aminoacido codificato dal codone (o dai codoni) in cui vengono perse le due basi
+C) il cambiamento della cornice di lettura del gene a valle del sito di mutazione *
+D) un difetto di splicing
+E) nessuna conseguenza
+
+DOMANDA: 237 Quale percentuale dei figli di una donna portatrice sana di una malattia X-linked recessiva saranno ammalati?
+A) tutti i figli maschi
+B) 50% delle figlie femmine
+C) 100% delle figlie femmine
+D) 50% dei figli maschi *
+E) 25% dei figli maschi
+
+DOMANDA: 238 Quale delle seguenti affermazioni è correttà?
+A) il codone è la sequenza di 3 basi nucleiche nel DNA, complementare all'anticodone -RNA, che individua un determinato aminoacido
+B) il codone è la sequenza di DNA che codifica per un dato polipeptide
+C) il codone è una tripletta di 3 nucleotidi nel t-RNA in grado di appaiarsi con una tripletta complementare nell'm-RNA
+D) il codone è la sequenza di 3 basi nucleiche nel t-RNA che codifica uno specifico aminoacido
+E) il codone è la sequenza di 3 nucleotidi nell'm-RNA che specifica un particolare aminoacido *
+
+DOMANDA: 239 Tra le mutazioni cromosomiche non sono comprese le:
+A) duplicazioni
+B) delezioni
+C) trasduzioni *
+D) traslocazioni
+E) inversioni
+
+DOMANDA: 240 Quale dei sottoelencati elementi è uno degli elementi costituenti di un gene?
+A) Promotina
+B) Poli A
+C) Introni *
+D) Skipping
+E) Skaffold
+
+DOMANDA: 241 Con quale delle seguenti modalità di trasmissione NON è compatibile una malattia che si manifesti in un soggetto maschio, i cui genitori sono normali come pure la sua unica sorella?
+A) autosomico recessivo
+B) autosomico dominante a penetranza completa *
+C) X-linked recessivo
+D) X-linked dominante a penetranza incomcompleta
+E) multifattoriale
+
+DOMANDA: 242 L'inattivazione del cromosoma X nei maschi con cariotipo 46,XY
+A) interessa il cromosoma X di origine materna
+B) interessa il cromosoma Xdi origine paterna
+C) interessa uno dei due X a caso nelle cellule somatiche
+D) interessa il cromosoma X del corpo polare
+E) non esiste *
+
+DOMANDA: 243 Il nonno di un individuo è malato di Corea di Huntington, malattia autosomica dominante a insorgenza tardiva e penetranza completa. Qual'è la probabilità che l'individuo abbia ereditato il gene?
+A) 25% *
+B) 50%
+C) 100%
+D) dipende dal genotipo della nonna
+E) non si può prevedere
+
+DOMANDA: 244 Qual è l'ordine di grandezza con cui si presenta la sindrome di Down tra i nati vivi:
+A) circa 1:100
+B) circa 1:1.000 *
+C) circa 1:10.000
+D) circa 1:100.000
+E) circa 1:1.000.000
+
+DOMANDA: 245 Per trisomia 21 si intende
+A) La presenza di tre copie del cromosoma 21 *
+B) La presenza di tre cromosomi 21 nelle sole cellule somatiche
+C) La presenza di tre cromosomi 21 nelle donne al disopra dei 35 anni
+D) La sindrome di Klinefelter
+E) La sindrome di Turner
+
+DOMANDA: 246 Marito e moglie, entrambi albini (carattere autosomico recessivo), hanno un figlio normale. Qual è il termine che identifica questa situazione?
+A) eterogeneità allelica
+B) eterogeneità di locus *
+C) espressività variabile
+D) penetranza incompleta
+E) fenocopia
+
+DOMANDA: 247 Quale è la probabilità che una donna affetta da sordità ereditaria, sposandosi con un individuo affetto dalla stessa patologia abbia un figlio maschio?
+A) 25%
+B) 50% *
+C) probabilità composta
+D) incompatibile con la vita
+E) 75%
+
+DOMANDA: 248 Quale dei sotto elencati enzimi interviene in meccanismi di riparazione dei danni del DNA?
+A) catalasi
+B) ossidasi
+C) glicosilasi
+D) esonucleasi *
+E) RNAsi
+
+DOMANDA: 249 Per eterogeneità genetica si intende
+A) la presenza di quadri clinici simili o identici dovuti a mutazioni di geni diversi *
+B) la presenza di quadri clinici diversi dovuti a mutazioni dello stesso gene
+C) la presenza di quadri clinici diversi dovuti a mutazioni di geni diversi
+D) la presenza di quadri clinici simili o identici dovuti a mutazioni identiche
+E) la presenza di disomia uniparentale per una coppia di cromosomi
+
+DOMANDA: 250 Un cromatide e'
+A) meta' del cromosoma *
+B) una particella citoplasmatica
+C) virus che infetta i batteri
+D) un cromosoma diverso dai cromosomi sessuali
+E) un extra-cromosoma
+
+DOMANDA: 251 In un neonato, figlio di genitori normali, viene posta diagnosi di nanismo acondroplasico. Quale delle seguenti condizioni può spiegare più verosimilmente questa situazione?
+A) il padre legale non è quello biologico
+B) l'acondroplasia è la conseguenza di una mutazione formatasi durante la gametogenesi paterna o materna *
+C) la patologia è dovuta a fattori ambientali
+D) il nanismo acondroplasico è un carattere autosomico recessivo
+E) è una malattia mitocondriale
+
+DOMANDA: 252 Ogni oocita che entra nella profase della seconda divisione meiotica contiene
+A) 23 cromatidi, 23 centromeri, 23 cromosomi
+B) 46 cromatidi, 23 centromeri, 23 cromosomi *
+C) 46 cromatidi, 23 centromeri, 46 cromosomi
+D) 46 cromatidi, 46 centromeri, 46 cromosomi
+E) 46 cromatidi, 46 centromeri, 23 cromosomi
+
+DOMANDA: 253 Una donna è sicuramente eterozigote per l'emofilia A, una malattia X-linked quando
+A) è figlia di un maschio affetto *
+B) è sorella di un maschio affetto
+C) ha una traslocazione bilanciata tra due cromosomi autosomici
+D) ha due fratelli affetti
+E) ha un figlio affetto, nato quando lei aveva più di 35 anni
+
+DOMANDA: 254 Piero è affetto da acondroplasia (malattia autosomica dominante a penetranza completa). I suoi genitori e suo fratello Paolo non sono affetti. Che rischio hanno i suoi genitori di avere figli maschi affetti da acondroplasia?
+A) nessuno/molto basso *
+B) 1/2
+C) 1/3
+D) 1/4
+E) 1/5
+
+DOMANDA: 255 Avere tre copie di un cromosoma e due di tutti gli altri e':
+A) monosomia
+B) diploidia
+C) triploidia
+D) trisomia *
+E) poliploidia
+
+DOMANDA: 256 Che cosa studia la farmacogenetica?
+A) le risposte individuali atipiche alla somministrazione di farmaci, dovute a cause genetiche *
+B) il metabolismo dei farmaci nell'organismo umano
+C) le risposte dell'organismo ai farmaci
+D) le risposte dell'organismo a dosi tossiche di farmaci
+E) le interazioni tra organismo e farmaci
+
+DOMANDA: 257 Tutte le seguenti deduzioni basate sugli esperimenti di Mendel sono corrette tranne una, quale?
+A) gli alleli di un gene segregano con uguale frequenza nei gameti
+B) si formano con maggior frequenza gameti con alleli dominanti *
+C) un carattere può essere controllato da una coppia di alleli
+D) la segregazione di una coppia di alleli non influenza la segregazione di altre coppie di alleli
+E) i diversi tipi di gameti partecipano con uguale frequenza alla fecondazione
+
+DOMANDA: 258 L'indagine FISH viene principalmente usata per evidenziare quale delle seguenti anomalie?
+A) mutazioni puntiformi
+B) mutazioni frameshift
+C) mutazioni di splicing
+D) microdelezioni cromosomiche *
+E) triploidia
+
+DOMANDA: 259 A quale delle seguenti categorie appartiene la malattia di Tay-Sachs?
+A) sfingomielinosi
+B) mucopolisaccaridosi
+C) cerebresidosi
+D) solfatidosi
+E) gangliosidosi *
+
+DOMANDA: 260 Per quale delle seguenti condizioni NON è indicata l'analisi del cariotipo in epoca prenatale:
+A) età materna superiore a 35 anni
+B) precedente gravidanza con feto trisomico
+C) fibrosi cistica *
+D) traslucenza nucale aumentata
+E) madre con cariotipo a mosaico
+
+DOMANDA: 261 Quale delle seguenti funzione svolgono le elicasi nella duplicazione del DNA?
+A) aprono il DNA determinando la formazione della bolla di replicazione *
+B) rompono i legami fosfodiesterici sul DNA
+C) rompono i legami idrogeno che mantengono unite le due emieliche
+D) mantengono distese le due emieliche del DNA
+E) favoriscono il crossing over
+
+DOMANDA: 262 Quale delle seguenti affermazioni è corretta per ciò che riguarda la trasmissione legata all'X?
+A) è sempre recessiva
+B) può essere sia dominante che recessiva *
+C) è sempre dominante
+D) è sempre codominante nelle femmine
+E) si dice di malattie che colpiscono solo il sesso femminile
+
+DOMANDA: 263 La corea di Huntington è una patologia
+A) autosomica dominante *
+B) autosomica recessiva
+C) legata al cromosoma X
+D) mitocondriale
+E) cromosomica
+
+DOMANDA: 264 Penetranza incompleta significa:
+A) che negli anziani il carattere non si manifesta
+B) i segni clinici compaiono progressivamente
+C) che la malattia compare nei figli di genitori anziani
+D) le mutazioni sono più frequenti nei maschi di età >40 anni
+E) alcuni eterozigoti non manifestano la condizione *
+
+DOMANDA: 265 Quale dei sottoelencati virus si integra con il DNA dell'ospite?
+A) adenovirus
+B) papovavirus
+C) retrovirus *
+D) herpesvirus
+E) polioma virus
+
+DOMANDA: 266 I cromosomi umani sono
+A) 23 coppie *
+B) 22 coppie
+C) 46 coppie
+D) variano da persona a persona
+E) 23 coppie più i cromosomi sessuali
+
+DOMANDA: 267 La retinite pigmentosa, una forma di degenerazione retinica, eisiste sia in forma autosomica, sia in forma legata al cromosoma X. Quale tra i seguenti termini descrive questa situazione?
+A) eterogeneità allelica
+B) pleiotropia
+C) penetranza incompleta
+D) espressività variabile
+E) eterogeneità di locus *
+
+DOMANDA: 268 Qual è la massima frequenza possibile di ricombinazione tra due loci nello stesso cromosoma?
+A) 1%
+B) 25%
+C) 50% *
+D) 100%
+E) non può essere calcolata
+
+DOMANDA: 269 Da una coppia di genitori sani nasce un bambino che presenta i segni clinici della sindrome di Down. Quale dei seguenti accertamenti va effettuato per confermare la diagnosi?
+A) analisi molecolare del DNA del bambino
+B) cariotipo del bambino *
+C) cariotipo dei genitori
+D) misurazione della translucenza nucale nel bambino
+E) test del sudore
+
+DOMANDA: 270 Quale tra le sottoelencate aberrazioni cromosomiche non è compatibile con fenotipo normale?
+A) monosomia *
+B) traslocazione reciproca bilanciata
+C) inversione pericentrica
+D) inversione paracentrica
+E) tutte le precedenti
+
+DOMANDA: 271 Quale delle seguenti attività è svolta dai geni riparatori?
+A) differenziazione del sesso
+B) stimolo della proliferazione cellulare
+C) riparazione del DNA *
+D) arresto della divisione cellulare
+E) induzione dell'apoptosi
+
+DOMANDA: 272 Le malattie autosomiche recessive segregano da genitori eterozigoti in
+A) 10% dei figli
+B) 25% dei figli *
+C) 50% dei figli
+D) 75% dei figli
+E) 100% dei figli
+
+DOMANDA: 273 Che problemi potrebbe presentare un individuo portatore di una traslocazione bilanciata
+A) nessun problema
+B) l'individuo è sano ma genererà gameti sbilanciati ed i problemi potranno eventualmente riscontrarsi nella prole *
+C) l'individuo è malato, ma il fenotipo patologico non è molto grave
+D) la traslocazione bilanciata è incompatibile con la vita
+E) l'individuo presenterà delle alterazioni patologiche lievi
+
+DOMANDA: 274 Quale dei seguenti enzimi entra nella replicazione del DNA?
+A) peptina
+B) elicasi *
+C) kinasi
+D) elastasi
+E) tripsina
+
+DOMANDA: 275 Una donna con gruppo sanguigno 0 sposa un uomo con gruppo sanguigno AB; con quale probabilità nascono figli di gruppo B?
+A) 75%
+B) 0%
+C) 25%
+D) 50% *
+E) 100%
+
+DOMANDA: 276 I cromosomi omologhi presentano:
+A) identica sequenza di geni *
+B) identica sequenza di nucleotidi del DNA
+C) diversa sequenza di geni
+D) diversa modalità di associazione degli istoni
+E) identica sequenza di alleli
+
+DOMANDA: 277 Per polimorfismo si intende
+A) difetto quantitativo che genera sempre un fenotipo patologico
+B) difetto quantitativo sempre patologico limitato ad alcune famiglie
+C) variante genetica con frequenza allelica superiore all'1% *
+D) caratteristica influenzata dall'ambiente
+E) variazione quantitativa che non segrega secondo le leggi di Mendel
+
+DOMANDA: 278 Una mutazione che produca un codone di stop tenderà a produrre:
+A) una proteina tronca *
+B) una proteina instabile
+C) un mRNA insolubile
+D) la mancata aggregazione dei ribosomi
+E) un fenotipo lieve
+
+DOMANDA: 279 Per quale motivo in alcune aree geografiche si sono diffusi gli alleli per la talassemia?
+A) a causa della deriva genetica
+B) perché danno un vantaggio selettivo in climi caldi
+C) perché in eterozigosi danno un vantaggio selettivo nei confronti della malaria diffusa in quelle aree *
+D) perché impediscono il diffondersi della malaria nella popolazione
+E) il plasmodio della malaria induce mutazioni preferenzialmente nei geni per le globine
+
+DOMANDA: 280 Qual è il segno che alla nascita potrebbe evocare la sindrome di Turner?
+A) linfedema delle mani e dei piedi *
+B) bassa statura
+C) cardiopatia
+D) ritardo mentale
+E) nessuna delle precedenti
+
+DOMANDA: 281 Quale di queste tecniche può essere impiegata per localizzare i geni sui cromosomi umani:
+A) microfotografia a contrasto di fase
+B) ibridazione in situ con sonde fluorescenti (FISH) *
+C) ultramicrofluorometria
+D) marcatura con isotopi pesanti
+E) ultramicroscopia a scansione
+
+DOMANDA: 282 Il gene responsabile dell'emofilia A è localizzato sul cromosoma:
+A) 2
+B) 9
+C) 16
+D) X *
+E) Y
+
+DOMANDA: 283 Qual è il diametro delle due emieliche del DNA
+A) 100 A°
+B) 20 A° *
+C) 50 A°
+D) 146 A°
+E) 110A°
+
+DOMANDA: 284 Quale patologia rappresenta la seconda causa di ritardo mentale nei maschi dopo la sindrome di Down?
+A) Distrofia Miotonica
+B) Corea di Huntington
+C) Sindrome dell' X fragile *
+D) Sindrome di Edwards
+E) Nessuna delle precedenti
+
+DOMANDA: 285 Su quali cromosomi si trovano i geni che regolano la produzione di spermatozoi nell'uomo?
+A) 1
+B) 13
+C) 21
+D) Y *
+E) X
+
+DOMANDA: 286 Quale di queste malattie si trasmette con modalità X-linked?
+A) Ipercolesterolemia familiare
+B) Nanismo acondroplasico
+C) Distrofia muscolare di Duchenne *
+D) Corea di Huntington
+E) Distrofia di Stainert
+
+DOMANDA: 287 Quale definizione meglio si adatta alla seguente affermazione: in una malattia per la quale sia nota una associazione con l'HLA, due particolari alleli ai loci HLA-A e HLA-B si riscontrano con una frequenza 15 volte aumentata negli individui affetti rispetto ai controlli sani?
+A) Associazione allelica
+B) Linkage
+C) Linkage disequilibrium *
+D) Va eseguito il test del LOD Score
+E) Elevata consaguineità
+
+DOMANDA: 288 L'escrezione urinaria di quale dei seguenti aminoacidi è espressione del catabolismo del collageno?
+A) prolina
+B) glicina
+C) desmosina
+D) idrossiprolina *
+E) omocistina
+
+DOMANDA: 289 Di quante catene polipeptidiche e' composta la molecola delle immunoglobuline G?
+A) quattro *
+B) otto
+C) due
+D) dieci
+E) sei
+
+DOMANDA: 290 Quale tra queste patologie è autosomica dominante?
+A) Corea di Huntington *
+B) Sindrome dell'X fragile
+C) Talassemia
+D) Distrofia muscolare di Duchenne
+E) Emofilia
+
+DOMANDA: 291 Eterozigote è:
+A) lo zigote maschile + lo zigote femminile
+B) il gamete con il cromosoma Y
+C) un organismo diploide con alleli identici per un dato gene nei cromosomi omologhi
+D) una cellula con presenza di un solo cromosoma X
+E) un organismo diploide con alleli differenti per un dato gene nei cromosomi omologhi *
+
+DOMANDA: 292 Le traslocazioni reciproche sono
+A) riarrangiamenti cromosomici bilanciati *
+B) riarrangiamenti cromosomici sbilanciati
+C) mutazioni puntiformi del DNA
+D) anomalie cromosomiche di numero
+E) caratteristiche del DNA mitocondriale
+
+DOMANDA: 293 Piero è affetto da acondroplasia (malattia autosomica dominante a penetranza completa). I suoi genitori e suo fratello Paolo non sono affetti. Che rischio ha Piero di avere figli maschi affetti da acondroplasia?
+A) nessuno/molto basso
+B) 1/2 *
+C) 1/3
+D) 1/4
+E) 1/5
+
+DOMANDA: 294 La mutazione nonsenso consiste nella:
+A) perdita di basi che cambia il senso di un gruppo di aminoacidi
+B) sostituzione di un codone codificante per un aminoacido con un codone di stop *
+C) sostituzione di un codone codificante per un dato aminoacido con un codone codificante un aminoacido diverso
+D) perdita del codone di stop naturale
+E) perdita del codone di inizio della sintesi proteica naturale
+
+DOMANDA: 295 A quali figli viene trasmesso un gene anomalo presente sul cromosoma Y?
+A) a tutte le figlie femmine
+B) al 50% delle figlie femmine
+C) a tutti i figli maschi *
+D) a nessun figlio
+E) al 50% dei figli maschi
+
+DOMANDA: 296 Un maschio affetto da una malattia X-linked, avrà:
+A) tutti i figli maschi malati
+B) tutte le figlie femmine malate
+C) tutte le figlie femmine sane, ma portatrici *
+D) tutti i figli maschi sani, ma portatori
+E) la probabilità del 50% dei maschi malati
+
+DOMANDA: 297 Le patologie autosomiche recessive sono dovute
+A) alla mutazione genica di uno dei due alleli
+B) alla mutazione genica di ambedue gli alleli *
+C) alla presenza di un cromosoma sovrannumerario
+D) ad un'alterazione cromosomica in mosaico
+E) a errori di riparazione del DNA
+
+DOMANDA: 298 La sindrome di Edwards è dovuta a:
+A) delezione del braccio lungo del cromosoma 18
+B) delezione del braccio corto del cromosoma 4
+C) delezione del braccio corto del cromosoma 5
+D) trisomia del cromosoma 18 *
+E) trisomia del cromosoma X
+
+DOMANDA: 299 Indicate quale delle seguenti situazioni non e' di natura cromosomica
+A) S. Down
+B) S. Turner
+C) Fenilchetonuria *
+D) S. Klinefelter
+E) Cri du Chat
+
+DOMANDA: 300 Indicare quale dei seguenti processi biologici aumenta la variabilità genetica:
+A) gemmazione
+B) mitosi
+C) scissione multipla
+D) meiosi *
+E) frammentazione
+
+DOMANDA: 301 Piero è affetto da emofilia A (malattia legata alla X recessiva ). I suoi genitori e suo fratello Paolo non sono affetti. Che rischio ha Piero di avere figlie affette da emofilia A ?
+A) nessuno/molto basso *
+B) 1/2
+C) 1/3
+D) 1/4
+E) 1/12
+
+DOMANDA: 302 Che frazione di geni ha un genitore in comune con uno qualsiasi dei suoi figli?
+A) 0
+B) 10 %
+C) 25 %
+D) 50 % *
+E) 75 %
+
+DOMANDA: 303 L'anemia falciforme e' una malattia autosomica recessiva. Due genitori eterozigoti hanno due figli affetti.Qual'e' la probabilita' che il prossimo figlio sia fenotipicamente normale?
+A) 10 %
+B) 25 %
+C) 50 %
+D) 75 % *
+E) 100 %
+
+DOMANDA: 304 Gemelli che provengono da uova distinte:
+A) uguali
+B) dizigoti *
+C) omozigoti
+D) monozigoti
+E) diversi
+
+DOMANDA: 305 Quale dei seguenti codoni è un codone di STOP?
+A) UAA *
+B) TGG
+C) AAG
+D) UUA
+E) UGG
+
+DOMANDA: 306 Quale delle sottoelencate malattie si trasmette con modalità autosomica dominante?
+A) fibrosi cistica
+B) distrofia muscolare di Duchenne
+C) nanismo acondroplasico *
+D) albinismo
+E) emofilia
+
+DOMANDA: 307 Come si può spiegare geneticamente il sesso maschile in un soggetto con cariotipo 46,XX?
+A) per traslocazione del gene SRY sul cromosoma X *
+B) per traslocazione del gene DAZ sul cromosoma X
+C) per traslocazione del locus AZF sul cromosoma X
+D) per traslocazione del cromosoma X su un autosoma
+E) per traslocazionedel cromosoma Y su un autosoma
+
+DOMANDA: 308 quale delle seguenti affermazioni relative alla eredità autosomica recessiva è errata?
+A) il carattere è presente in ambedue i sessi
+B) il carattere presenta differente espressività negli affetti
+C) i maschi sono di solito colpiti in modo più grave *
+D) i genitori possono non presentare il carattere
+E) i figli di consanguinei hanno un maggior rischio di essere affetti
+
+DOMANDA: 309 Un cariotipo umano contenente 69 cromosomi viene definito:
+A) ipodiploide
+B) aneuploide
+C) iperdiploide
+D) triploide *
+E) tetraploide
+
+DOMANDA: 310 La carenza di vitamina C è causa di
+A) Pellagra
+B) Scorbuto *
+C) Rachitismo
+D) Anemia
+E) nanismo
+
+DOMANDA: 311 Quale dei sottoelencati cromosomi possiede geni ribosomiali?
+A) cromosoma 13 *
+B) cromosoma 18
+C) cromosoma Y
+D) cromosoma 20
+E) cromosoma X
+
+DOMANDA: 312 La replicazione del DNA
+A) è semiconservativa *
+B) è conservativa
+C) avviene su ambedue i filamenti in modo continuo
+D) avviene grazie alla DNAasi
+E) avviene sui ribosomi
+
+DOMANDA: 313 Quanti cromosomi ha ordinariamente una paziente con sindrome di Turner?
+A) 45 *
+B) 46
+C) 47
+D) 48
+E) 69
+
+DOMANDA: 314 In quali dei seguenti cariotipi e' possibile predire in quale genitore e a livello di quale fase della meiosi e' avvenuta la non disgiunzione?
+A) 47, XXX
+B) 47, XXY
+C) 48, XXXY
+D) 47, XYY *
+E) 47, XX o XY + 21
+
+DOMANDA: 315 Quale delle seguenti condizioni è ordinariamente associata ad amenorrea?
+A) sindrome di Down
+B) emofilia B
+C) malattia di Huntington
+D) sindrome di Klinefelter
+E) sindrome di Turner *
+
+DOMANDA: 316 Tutte le seguenti affermazioni relative ad un individuo omozigote per un determinato allele sono corrette, tranne una: quale?
+A) ciascuna delle sue cellule possiede due copie di quell'allele
+B) ciascuno dei suoi gameti contiene una copia di quell'allele
+C) costituisce una linea pura per quanto riguarda quell'allele
+D) i suoi genitori sono necessariamente omozigoti per quell'allele *
+E) può trasmettere l'allele ai suoi figli
+
+DOMANDA: 317 Quale dei seguenti casi potrebbe essere adatto per esemplificare correttamente la situazione di codominanza?
+A) emoglobina S (anemia falciforme)
+B) fenilchetonuria
+C) gruppo sanguigno MN *
+D) pigmentazione cutanea
+E) statura
+
+DOMANDA: 318 Quale delle seguenti affermazioni è corretta riguardanti i geni che mappano sul cromosoma X?
+A) si trasmettono sempre dal padre alla figlia *
+B) si trasmettono sempre dal padre al figlio
+C) si trasmettono dal padre al figlio solo nel 50% dei casi
+D) si trasmettono sempre dalla madre al figlio
+E) si trasmettono sempre dalla madre alla figlia
+
+DOMANDA: 319 Quale/i dei quattro nonni non trasmette un cromosoma sessuale a un nipote maschio?
+A) nonno paterno
+B) nonno materno
+C) nonna materna
+D) nonna paterna *
+E) nonno materno e paterno
+
+DOMANDA: 320 Due genitori non consanguinei sono sordi dalla nascita. Entrambi hanno fratelli e sorelle sordi e genitori sani. Se nascesse un figlio sordo, quale sarebbe a vostro parere la probabilità che in una successiva gravidanza nasca un figlio sano?
+A) nessuna *
+B) 10%
+C) 25%
+D) 50%
+E) 75%
+
+DOMANDA: 321 In quale delle seguenti affezioni richiedereste l'analisi cromosomica?
+A) Distrofia muscolare
+B) Talassemia
+C) Infertilità *
+D) Nanismo acondroplasico
+E) Neurofibromatosi
+
+DOMANDA: 322 Se, analizzando un albero genealogico, si osserva che una malattia ereditaria, che si manifesta con pari frequenza nei due sessi, "salta" delle generazioni, si può concludere che, con maggior probabilità, la malattia è:
+A) autosomica dominante
+B) autosomica recessiva *
+C) legata all'X, dominante
+D) legata all'X, recessiva
+E) mitocondriale
+
+DOMANDA: 323 In una famiglia che ha un figlio affetto da una forma di ritardo mentale autosomica recessiva. Quale e' la probabilita' che il prossimo figlio sia affetto?
+A) 10%
+B) 20%
+C) 50%
+D) 25% *
+E) 90%
+
+DOMANDA: 324 La dentinogenesis imperfecta e' dominante sulla condizione normale. Un uomo normale il cui padre era affetto da tale malattia sposa una donna normale; escludendo la mutazione, con che probabilita' avra' un figlio affetto?
+A) 0 *
+B) 5 %
+C) 20 %
+D) 30 %
+E) 50 %
+
+DOMANDA: 325 Che cosa e' lo zigote?
+A) il materiale cellulare fuori del nucleo
+B) una cellula con un numero inferiore di cromosomi
+C) l'agglutinazione dei globuli rossi
+D) un uovo fecondato *
+E) e' un agente mitogenico
+
+DOMANDA: 326 Le particelle citoplasmatiche dove avviene la sintesi proteica sono:
+A) mitocondri
+B) ribosomi *
+C) plasmidi
+D) centrioli
+E) lisosomi
+
+DOMANDA: 327 Si definiscono malattie mendeliane
+A) quelle causate da alterazioni nel numero o nella struttura dei cromosomi
+B) quelle dovute a mutazione di un singolo gene *
+C) quelle dovute ad espansione di tripletta
+D) le malattie multifattoriali
+E) le malattie da imprinting genomico
+
+DOMANDA: 328 Tutte le seguenti affermazioni circa l'inattivazione del cromosoma X sono corrette, tranne:
+A) avviene durante l'oogenesi *
+B) è casuale, in quanto interessa l'uno o l'altro dei cromosomi X
+C) è incompleta, in quanto non interessa l'intero cromosoma X
+D) avviene nelle cellule somatiche della femmina
+E) dà origine al corpo di Barr
+
+DOMANDA: 329 Quale delle seguenti è una condizione multifattoriale?
+A) sindrome di Down
+B) diabete tipo I *
+C) acondroplasia
+D) morbo di Wilson
+E) fenilchetonuria
+
+DOMANDA: 330 Nelle cellule somatiche femminili umane, uno dei due cromosomi X
+A) è completamente inattivo
+B) è inattivo ad eccezione di alcune regioni del cromosoma *
+C) è inattivo solo durante l'interfase del ciclo cellulare
+D) è inattivo solo durante le fasi G1 e G2 del ciclo cellulare
+E) è inattivo solo quello di origine paterna
+
+DOMANDA: 331 Da quale dei sotto elencati genitori nasce in genere un figlio con distrofia muscolare di Duchenne?
+A) madre portatrice *
+B) padre portatore
+C) madre affetta
+D) madre e padre portatori
+E) padre affetto
+
+DOMANDA: 332 Un individuo malato di una malattia autosomica recessiva avrà ereditato i geni che la provocano
+A) da entrambi i genitori *
+B) solo dal padre
+C) solo dalla madre
+D) dal padre o dalla madre nel 50% dei casi
+E) dal padre o dalla madre nel 25% dei casi
+
+DOMANDA: 333 Un feto 69, XXX e':
+A) aneuploide
+B) ipodiploide
+C) iperdiploide
+D) diploide
+E) triploide *
+
+DOMANDA: 334 Quale delle seguenti non è una metodica di bandeggio cromosomico?
+A) Bandeggio G
+B) Bandeggio R
+C) Bandeggio Giemsa
+D) Bandeggio C
+E) Bandeggio L *
+
+DOMANDA: 335 Un plasmide è:
+A) un organello della cellula vegetale
+B) un organello citoplasmatico
+C) un elemento genetico a replicazione autonoma *
+D) un elemento genetico nucleare
+E) un protozoo patogeno
+
+DOMANDA: 336 In cosa consiste la differenza tra cromosomi metacentrici, submetacentrici ed acrocentrici?. Quali strutture e sequenze nucleotidiche sono presenti sui cromosomi acrocentrici?
+A) La differenza riguarda la posizione del centromero. Le piccole braccia corte dei cromosomi acrocentrici contengono i satelliti (NOR) ed i geni dell'RNA. *
+B) La differenza riguarda il tipo di telomeri. Le piccole braccia corte dei cromosomi acrocentrici contengono sequenze di regolazione.
+C) La differenza riguarda il tipo di centromero. Le piccole braccia corte dei cromosomi acrocentrici contengono geni enhancers e silencers.
+D) La differenza riguarda la diversa composizione di sequenze nucleotidiche. Le piccole braccia corte dei cromosomi acrocentrici contengono importanti geni per la regolazione della meiosi.
+E) La posizione del centromero. Le piccole braccia corte contengono le sequenze di inizio di replicazione
+
+DOMANDA: 337 In una famiglia il padre appartiene al gruppo AB e la madre al gruppo 0. Hanno tre figli appartenenti ai gruppi: AB, A, B. Quale/i dei figli è/sono adottato/i?
+A) quello di gruppo AB *
+B) quello di gruppo A
+C) quello di gruppo B
+D) quello di gruppo A e quello di gruppo B
+E) nessuno dei tre
+
+DOMANDA: 338 Per traslocazione cromosomica bilanciata si intende:
+A) trisomia parziale e monosomia parziale di due segmenti cromosomici
+B) scambio di due segmenti tra due cromosomi non omologhi, che preserva il normale corredo diploide *
+C) fusione di due cromosomi in uno
+D) Modificazione all'interno di un cromosoma della successione dei diversi segmenti che lo compongono
+E) Corredo cromosomico aploide
+
+DOMANDA: 339 La possibilità che un feto sia monosomico o trisomico per un determinato cromosoma può essere dovuta
+A) ad una non disgiunzione meiotica durante la gametogenesi di uno dei genitori *
+B) ad una delezione o duplicazione di quel cromosoma in uno dei genitori
+C) ad un crossing-over ineguale nella gametogenesi
+D) dalla fecondazione da parte di uno spermatozoo aploide di un oocita diploide
+E) ad una mutazione genica
+
+DOMANDA: 340 Quale delle seguenti definizioni meglio descrive il termine di "espressività"?
+A) la probabilità di trasmissione della mutazione dominante
+B) il grado di intensità dei segni clinici presenti per una mutazione dominante *
+C) l'effetto sull'RNA messaggero della mutazione dominante
+D) nessuna delle precedenti
+E) tutte le precedenti
+
+DOMANDA: 341 La differenza minima fra gli alleli di un gene è costituita da:
+A) un codon
+B) un introne
+C) un esone
+D) una coppia di basi *
+E) un codon non senso
+
+DOMANDA: 342 Quale tipo di patologia genetica è caratterizzata dalla presenza del fenomeno della anticipazione?
+A) le malattie autosomiche recessive
+B) le malattie mitocondriali
+C) le malattie da espansione di triplette nucleotidiche *
+D) le malattie da alterazioni numeriche del cariotipo
+E) le malattie da alterato imprinting
+
+DOMANDA: 343 Che rischio ha una coppia, con la moglie affetta da retinoblastoma bilaterale (malattia a trasmissione autosomica dominante e a penetranza del 90%), di avere un figlio affetto dalla stessa malattia?
+A) 100%
+B) 65%
+C) 50%
+D) 45% *
+E) 25%
+
+DOMANDA: 344 La Traslocazione Robertsoniana è un riarrangiamento cromosomico con le seguenti caratteristiche:
+A) fusione centrica testa-testa di due cromosomi acrocentrici *
+B) riguarda un'inserzione di un frammento cromosomico contenente il centromero
+C) è un riarrangiamento tipico della specie Daubentonia Robertsoniana
+D) almeno tre cromosomi (di cui uno submetacentrico) sono impegnati nella traslocazione
+E) fusione centrica testa-testa di due cromosomi submetacentrici
+
+DOMANDA: 345 Un individuo è portatore della traslocazione bilanciata 14/21. Quali dei seguenti gameti (sono specificati solo i cromosomi rilevanti) darà origine ad un figlio affetto da sindrome di Down?
+A) 14,21
+B) 14/21
+C) 14/21, 21 *
+D) 14
+E) 21
+
+DOMANDA: 346 Effetto del mosaicismo sulla ricorrenza
+A) maggiore della mutazione costituzionale
+B) uguale a quello della mutazione costituzionale
+C) nessuno
+D) difficilmente prevedibile *
+E) dipende dal resto del genoma
+
+DOMANDA: 347 Un protooncogene è:
+A) Un gene che codifica per una oncoproteina che modula il ciclo cellulare
+B) Un gene che codifica per una proteina coinvolta nei meccanismi di proliferazione cellulare *
+C) Un gene che inibisce la crescita cellulare
+D) Un gene che ha una azione di riparo del DNA
+E) Un gene con effetti diretti sulla fase G1 del ciclo cellulare e conseguente blocco dell'attività di sintesi
+
+DOMANDA: 348 Quali sono gli ormoni che usualmente si dosano nel Tritest?
+A) hCG, AFP, uE3 *
+B) bch, hCG, Inibina
+C) AFP, PA, PPA
+D) hCG, inibina, tiroxina
+E) tiroxina, AFP, PPA
+
+DOMANDA: 349 Quale delle seguenti caratteristiche consente di sospettare una trasmissione di un carattere come legata alla X?
+A) assenza di trasmissione maschio-maschio *
+B) assenza di trasmissione femmina-femmina
+C) salto generazionale
+D) trasmissione maschio-maschio
+E) trasmissione maschio-femmina
+
+DOMANDA: 350 Qual è l'unità di misura della distanza genetica tra geni localizzati sullo stesso cromosoma?
+A) kilo-base
+B) chiasma
+C) centimorgan *
+D) centimetro
+E) angstrom

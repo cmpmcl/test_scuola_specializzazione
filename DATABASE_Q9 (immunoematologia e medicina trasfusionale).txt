@@ -1,0 +1,1119 @@
+DOMANDA: 001 Quale caratteristica distingue la medicina trasfusionale da molti altri settori del laboratorio clinico?
+A) La precisione analitica è meno importante perché i risultati sono sempre confermati clinicamente.
+B) Le analisi trasfusionali hanno esclusivamente finalità epidemiologiche.
+C) Gli esami sono eseguiti solo in condizioni d’urgenza e quindi non richiedono standard formali.
+D) Un errore anche minimo può determinare direttamente una reazione emolitica fatale. *
+E) La medicina trasfusionale riguarda soltanto la conservazione del plasma.
+
+DOMANDA: 002 Qual è la definizione più corretta di immunoematologia?
+A) L’insieme delle procedure di sterilizzazione delle sacche di sangue.
+B) La tecnica di frazionamento industriale del plasma in emoderivati.
+C) L’insieme delle conoscenze e procedure usate per identificare i gruppi sanguigni e studiare le risposte immunologiche agli emocomponenti. *
+D) La branca che studia esclusivamente le anemie emolitiche congenite.
+E) La sola pratica clinica della trasfusione massiva nei traumi.
+
+DOMANDA: 003 Quale finalità ha la trasfusione di concentrato di eritrociti rispetto al sangue intero?
+A) Ripristinare o mantenere la capacità di trasporto dell’ossigeno aumentando la massa eritrocitaria. *
+B) Espandere il volume plasmatico senza modificare l’emoglobina.
+C) Fornire granulociti in caso di sepsi refrattaria.
+D) Trattare la trombocitopenia immune.
+E) Correggere selettivamente il deficit di fibrinogeno.
+
+DOMANDA: 004 In un’emorragia attiva con perdita superiore al 25-30% del volume ematico, quale strategia è descritta come appropriata?
+A) Infondere crioprecipitato come unico presidio iniziale.
+B) Utilizzare eritrociti associati a un plasma expander, come una soluzione cristalloide o plasma scongelato. *
+C) Infondere solo piastrine concentrate fino a normalizzazione della volemia.
+D) Usare solo sangue intero dopo tipizzazione Rh senza altri supporti.
+E) Somministrare esclusivamente albumina evitando gli eritrociti.
+
+DOMANDA: 005 Quale è l’impiego clinicamente più corretto del plasma fresco congelato, tra i seguenti?
+A) Trattare la neutropenia febbrile refrattaria.
+B) Espandere la volemia come prima scelta nelle ipoalbuminemie isolate.
+C) Correggere selettivamente un’anemia sideropenica.
+D) Reintegrare fattori della coagulazione in deficit multipli, come nell’insufficienza epatica o nella CID. *
+E) Sostituire i concentrati piastrinici nella trombocitopenia severa.
+
+DOMANDA: 006 In quali circostanze il crioprecipitato è oggi considerato soprattutto utile?
+A) Per reintegrare fibrinogeno, per esempio in insufficienza epatica, CID o trasfusioni massive. *
+B) Per l’espansione di volume nelle ustioni estese.
+C) Per sostituire abitualmente il plasma fresco congelato nelle epatopatie senza coagulopatia.
+D) Per correggere l’assenza di granulociti circolanti.
+E) Per il trattamento della carenza di albumina.
+
+DOMANDA: 007 Quale affermazione descrive correttamente i sostituti del plasma?
+A) Hanno lo stesso profilo di rischio del plasma ma minore efficacia emostatica.
+B) Vengono usati solo quando mancano eritrociti compatibili.
+C) Sostituiscono le piastrine nei difetti quantitativi piastrinici.
+D) Albumina, colloidi sintetici e soluzioni saline bilanciate sono preferibili al plasma per reintegrare volume o proteine. *
+E) Sono controindicati perché trasmettono più spesso infezioni del plasma.
+
+DOMANDA: 008 Per quale indicazione i granulociti da aferesi sono descritti come raramente utilizzati?
+A) In pazienti gravemente granulocitopenici con infezioni non responsive agli antibiotici. *
+B) Per sostituire il plasma nei traumi maggiori.
+C) Per prevenire la TRALI nelle trasfusioni di plasma.
+D) Nella correzione dell’anemia emolitica autoimmune.
+E) Nel trattamento di routine della neutrofilia reattiva.
+
+DOMANDA: 009 Quale rapporto approssimativo tra componente corpuscolata e plasma caratterizza il sangue intero umano?
+A) Circa 20% elementi corpuscolati e 80% plasma.
+B) Circa 90% elementi corpuscolati e 10% plasma.
+C) Circa 55% elementi corpuscolati e 45% plasma.
+D) Circa 45% elementi corpuscolati e 55% plasma. *
+E) Circa 70% elementi corpuscolati e 30% plasma.
+
+DOMANDA: 010 A cosa corrisponde, in termini pratici, un’unità di sangue intero nella medicina trasfusionale?
+A) A circa 450-500 mL di sangue intero. *
+B) A 100-150 mL di sangue intero.
+C) A 250-300 mL di sangue intero.
+D) A circa 1 litro di sangue intero.
+E) A 50 mL di eritrociti concentrati.
+
+DOMANDA: 011 Quale distinzione operativa viene fatta tra emocomponenti ed emoderivati?
+A) Gli emocomponenti sono prodotti solo sintetici, gli emoderivati solo umani.
+B) Gli emocomponenti contengono solo plasma, gli emoderivati solo cellule.
+C) Gli emocomponenti derivano soprattutto da separazioni meccaniche del sangue intero, mentre gli emoderivati da procedure automatizzate più complesse. *
+D) Non esiste alcuna differenza terminologica tra i due termini.
+E) Gli emocomponenti sono usati nei bambini, gli emoderivati negli adulti.
+
+DOMANDA: 012 Quale tra i seguenti componenti viene ottenuto rimuovendo il plasma dal sangue intero e lasciando gli eritrociti?
+A) La frazione proteica del plasma.
+B) Il crioprecipitato.
+C) Il concentrato di eritrociti. *
+D) Il plasma fresco congelato.
+E) Il concentrato di fattore IX.
+
+DOMANDA: 013 Qual è il principale vantaggio degli eritrociti purificati dai leucociti?
+A) Potenziare la capacità di espansione del volume plasmatico.
+B) Ridurre reazioni febbrili e allergiche dovute ai leucociti o alle proteine plasmatiche e prevenire reazioni anafilattiche. *
+C) Eliminare la necessità di tipizzazione AB0.
+D) Aumentare il contenuto di fibrinogeno dell’unità.
+E) Rendere superflua la prova crociata.
+
+DOMANDA: 014 Per quale motivo vengono impiegati eritrociti deglicerolizzati o congelati?
+A) Per prolungare la disponibilità di unità rare e per trasfusioni autologhe, riducendo anche la sensibilizzazione HLA. *
+B) Per garantire una maggiore quota di piastrine vitali.
+C) Per aumentare il contenuto di anticorpi anti-D passivi.
+D) Per sostituire il plasma fresco congelato nelle coagulopatie.
+E) Per ottenere un prodotto da usare esclusivamente nei neonati.
+
+DOMANDA: 015 Quando è utile ricorrere ai concentrati piastrinici?
+A) Aumentare la pressione oncotica del plasma.
+B) Trattare difetti quantitativi o funzionali delle piastrine. *
+C) Ripristinare selettivamente l’emoglobina in un’anemia emorragica.
+D) Prevenire l’alloimmunizzazione Rh nelle gestanti.
+E) Correggere una carenza di fattore VIII nell’emofilia A.
+
+DOMANDA: 016 Nella piastrinoaferesi, che cosa viene restituito al donatore?
+A) Tutti i componenti del sangue tranne le piastrine raccolte. *
+B) Solo il plasma, mentre eritrociti e leucociti vengono scartati.
+C) Nessun componente, perché si tratta di una donazione di sangue intero.
+D) Esclusivamente gli eritrociti irradiati.
+E) Solo i leucociti, mentre plasma ed eritrociti vengono eliminati.
+
+DOMANDA: 017 Quale resa minima di piastrine viene indicata per una unità da piastrinoaferesi da donatore singolo?
+A) Almeno 3,0 × 10^8 piastrine.
+B) Almeno 3,0 × 10^11 piastrine. *
+C) Almeno 3,0 × 10^10 piastrine.
+D) Almeno 3,0 × 10^12 piastrine.
+E) Almeno 3,0 × 10^9 piastrine.
+
+DOMANDA: 018 Quale caratteristica rende le piastrine particolarmente esposte al rischio di contaminazione batterica?
+A) La conservazione obbligatoria a -20 °C.
+B) L’irradiamento con cesio-137.
+C) La necessità di conservarle a temperatura ambiente. *
+D) La tipizzazione AB0 eseguita in doppio.
+E) L’aggiunta di soluzioni ad alto contenuto proteico.
+
+DOMANDA: 019 Quale intervallo di temperatura è indicato per la conservazione delle piastrine?
+A) 37 °C in incubatore per mantenere la vitalità.
+B) -20 °C fino al momento dell’uso.
+C) 1-6 °C in frigorifero senza agitazione.
+D) 20-24 °C con agitazione delicata continua. *
+E) 2-8 °C con aggiunta di citrato.
+
+DOMANDA: 020 Quale combinazione di requisiti definisce in modo corretto l’idoneità generale del donatore di sangue intero?
+A) Età 18-70 anni per tutti, peso almeno 55 kg e normale elettroforesi sierica.
+B) Età 18-65 anni, peso almeno 50 kg e buono stato di salute. *
+C) Età 18-55 anni, peso almeno 40 kg e gruppo AB0 noto.
+D) Età 16-75 anni, peso almeno 45 kg e assenza di farmaci in assoluto.
+E) Età 21-65 anni, peso almeno 60 kg e Rh positivo.
+
+DOMANDA: 021 Qual è l’intervallo minimo tra due donazioni di sangue intero?
+A) Centottanta giorni.
+B) Centoventi giorni.
+C) Trenta giorni.
+D) Quarantacinque giorni.
+E) Novanta giorni. *
+
+DOMANDA: 022 Qual è il limite annuo indicato per la donazione di sangue intero nell’uomo?
+A) Tre donazioni all’anno con intervallo di due mesi.
+B) Quattro donazioni all’anno con intervallo di tre mesi. *
+C) Due donazioni all’anno con intervallo di sei mesi.
+D) Una donazione al mese purché l’emoglobina sia normale.
+E) Sei donazioni all’anno con intervallo di un mese.
+
+DOMANDA: 023 Quale limitazione specifica è prevista per le donne in età fertile?
+A) Possono donare una sola volta nella vita fertile.
+B) Un massimo di quattro donazioni l’anno come per gli uomini.
+C) Possono donare solo plasma, non sangue intero.
+D) Devono avere Rh negativo per poter donare.
+E) Un massimo di due donazioni di sangue intero l’anno. *
+
+DOMANDA: 024 Quale valore di emoglobina è richiesto per l’idoneità del donatore maschio?
+A) Maggiore di 13,5 g/dL. *
+B) Maggiore di 11,5 g/dL.
+C) Maggiore di 12,5 g/dL.
+D) Maggiore di 14,5 g/dL.
+E) Maggiore di 10,5 g/dL.
+
+DOMANDA: 025 Quale valore di emoglobina è richiesto per l’idoneità della donatrice?
+A) Maggiore di 14,0 g/dL.
+B) Maggiore di 12,5 g/dL. *
+C) Maggiore di 13,5 g/dL.
+D) Maggiore di 11,0 g/dL.
+E) Maggiore di 10,0 g/dL.
+
+DOMANDA: 026 Quale pressione arteriosa sistolica è compatibile con i criteri per la donazione?
+A) Uguale o inferiore a 140 mmHg.
+B) Uguale o inferiore a 200 mmHg.
+C) Uguale o inferiore a 180 mmHg. *
+D) Uguale o inferiore a 120 mmHg.
+E) Uguale o inferiore a 160 mmHg.
+
+DOMANDA: 027 Quale frequenza cardiaca rientra nei parametri di idoneità alla donazione?
+A) Qualsiasi frequenza purché la pressione sia normale.
+B) Solo compresa tra 60 e 80 battiti al minuto.
+C) Regolare e compresa tra 40 e 120 battiti al minuto.
+D) Regolare e compresa tra 30 e 60 battiti al minuto.
+E) Regolare e compresa tra 50 e 100 battiti al minuto. *
+
+DOMANDA: 028 Perché il questionario anamnestico del donatore è considerato cruciale?
+A) Per sostituire integralmente tutti i test sierologici pre-donazione.
+B) Per valutare sia la sicurezza del donatore sia quella del ricevente mediante informazioni su salute, stili di vita e viaggi. *
+C) Per determinare il contenuto di emoglobina dell’unità raccolta.
+D) Per identificare esclusivamente i donatori con gruppo Rh negativo.
+E) Per stabilire il gruppo AB0 senza eseguire prove in laboratorio.
+
+DOMANDA: 029 Come ci si comporta di fronte ad una diagnosi di diabete mellito nel potenziale donatore?
+A) Il diabete esclude sempre definitivamente dalla donazione.
+B) La donazione è ammessa solo nei soggetti con diabete tipo 1.
+C) Il diabete è irrilevante purché il peso sia superiore a 50 kg.
+D) Un donatore con diabete può essere accettato se la condizione è ben controllata e il soggetto si sente bene. *
+E) La donazione è consentita solo se il diabete è trattato con dieta ma non con farmaci.
+
+DOMANDA: 030 Quale condizione relativa alla gravidanza viene riportata per le donatrici?
+A) La donazione è ammessa nel secondo trimestre ma non nel terzo.
+B) Le donne gravide non sono idonee e occorre attendere sei mesi dopo il parto. *
+C) È sufficiente attendere due settimane dopo il parto.
+D) È necessario attendere solo la fine dell’allattamento.
+E) La gravidanza non è una controindicazione se l’emoglobina è normale.
+
+DOMANDA: 031 Quale regola viene data riguardo ai tatuaggi eseguiti in contesti non regolamentati?
+A) Occorre attendere 48 ore.
+B) Non è richiesto alcun intervallo di sospensione.
+C) Occorre attendere sei mesi solo se il tatuaggio è piccolo.
+D) Occorre attendere 12 mesi dopo il tatuaggio. *
+E) Occorre attendere un mese.
+
+DOMANDA: 032 Come viene considerata l’assunzione di antibiotici per acne o profilassi infettiva?
+A) È ammessa solo se l’antibiotico è stato iniziato il giorno della donazione.
+B) Può essere compatibile con la donazione, a seconda della situazione clinica e del fatto che non vi sia infezione attiva rilevante. *
+C) Consente la donazione solo di plasma e non di sangue intero.
+D) È consentita solo se l’antibiotico è somministrato per via endovenosa.
+E) Esclude sempre il donatore in modo permanente.
+
+DOMANDA: 033 Quale affermazione descrive correttamente un aptene?
+A) È un anticorpo naturale presente fin dalla nascita nel siero dei lattanti.
+B) È una proteina del complemento capace di lisare direttamente le cellule.
+C) È una immunoglobulina prodotta esclusivamente dalle plasmacellule della memoria.
+D) È una sostanza che, legandosi a una proteina, può formare un complesso dotato di proprietà antigeniche. *
+E) È una citochina responsabile della chemiotassi dei neutrofili.
+
+DOMANDA: 034 Quale caratteristica è tipica della risposta immunitaria primaria dopo la prima esposizione a un antigene?
+A) La risposta compare immediatamente e la classe anticorpale dominante è costituita dalle IgE.
+B) La comparsa iniziale di anticorpi è ritardata di circa 10-14 giorni e la classe prevalente è costituita dalle IgM. *
+C) La fase di latenza è assente e il titolo massimo viene raggiunto entro poche ore.
+D) La risposta è dominata da IgG ad alto titolo e lunga durata sin dal primo contatto.
+E) La produzione anticorpale è indipendente dai linfociti e dipende soprattutto dai macrofagi.
+
+DOMANDA: 035 Quale funzione svolge il citrato nelle soluzioni anticoagulanti-preservanti?
+A) Stimola la sintesi di ATP negli eritrociti tramite fosforilazione ossidativa.
+B) Favorisce l’adesione piastrinica alle pareti della sacca.
+C) Blocca selettivamente la glicolisi leucocitaria.
+D) Lega il calcio impedendo l’attivazione della cascata coagulativa. *
+E) Aumenta il contenuto di emoglobina degli eritrociti.
+
+DOMANDA: 036 Perché si aggiunge destrosio nelle soluzioni di conservazione del sangue?
+A) Per fornire una fonte energetica agli eritrociti. *
+B) Per inattivare il complemento.
+C) Per aumentare il titolo anticorpale anti-A e anti-B.
+D) Per prevenire la contaminazione batterica a temperatura ambiente.
+E) Per stabilizzare i leucociti destinati alla trasfusione.
+
+DOMANDA: 037 Quale additivo viene citato per aumentare la produzione di ATP e migliorare la vitalità eritrocitaria in conservazione?
+A) Un eccesso di calcio ionizzato.
+B) Una miscela di immunoglobuline anti-D.
+C) Un anticorpo monoclonale anti-Hb.
+D) Una soluzione ipotonica di cloruro di sodio.
+E) Un tampone fosfato. *
+
+DOMANDA: 038 Quale durata di conservazione è indicata per il sangue raccolto in CPDA-1?
+A) Fino a 90 giorni a -20 °C.
+B) Fino a 42 giorni a 1-6 °C.
+C) Fino a 21 giorni a 4-10 °C.
+D) Fino a 35 giorni a 1-6 °C. *
+E) Fino a 5 giorni a 20-24 °C.
+
+DOMANDA: 039 Come viene definito il sangue conservato per oltre tre settimane?
+A) Sangue deglicerolizzato, riservato alle trasfusioni autologhe.
+B) Sangue inattivo, inutilizzabile solo perché coagula spontaneamente.
+C) Sangue immunizzato, utilizzabile solo nei pazienti Rh positivi.
+D) Sangue vecchio, potenzialmente dannoso per carenza di ossido nitrico. *
+E) Sangue irradiato, indicato nelle sepsi.
+
+DOMANDA: 040 A quale temperatura devono essere conservati gli eritrociti concentrati?
+A) Tra 1 e 6 °C. *
+B) A -20 °C.
+C) Tra 20 e 24 °C.
+D) A 37 °C.
+E) Tra 8 e 12 °C.
+
+DOMANDA: 041 Quale controllo quotidiano viene raccomandato sulle unità di eritrociti conservate?
+A) Ricontare i leucociti residui della sacca.
+B) Sottoporle a centrifugazione di controllo.
+C) Eseguire quotidianamente prova crociata con il donatore.
+D) Valutare colore, torbidità, coaguli ed emolisi. *
+E) Misurare il titolo anti-D del plasma residuo.
+
+DOMANDA: 042 Quale marker infettivologico è indicato tra quelli obbligatori sull’etichetta dell’unità?
+A) Toxoplasma gondii come screening universale.
+B) Helicobacter pylori.
+C) HBV. *
+D) Virus influenzale stagionale.
+E) Parvovirus B19 in tutti i casi.
+
+DOMANDA: 043 Quale principio generale regola il sistema di sicurezza della fornitura di sangue?
+A) Conservazione universale del sangue a temperatura ambiente.
+B) Screening accurato dei donatori, test di qualità controllata e corretta manipolazione/distribuzione del sangue. *
+C) Eliminazione della tipizzazione AB0 in favore dei test NAT.
+D) Trasfusione preferenziale di sangue intero rispetto agli emocomponenti.
+E) Uso esclusivo di sangue da donatori Rh negativi.
+
+DOMANDA: 044 Quale tecnologia di screening è citata per HBV, HCV, HIV e virus West Nile?
+A) L’elettroforesi delle proteine plasmatiche.
+B) La sola fissazione del complemento.
+C) L’amplificazione degli acidi nucleici. *
+D) L’immunofluorescenza indiretta come unico metodo.
+E) La cromatografia liquida ad alta prestazione.
+
+DOMANDA: 045 Quale combinazione di eventi distingue meglio la risposta immunitaria secondaria da quella primaria?
+A) Fase di latenza più lunga, titolo inferiore e prevalenza di IgD.
+B) Assenza di memoria immunitaria e produzione esclusiva di IgM.
+C) Riduzione della specificità per l’antigene e rapida scomparsa degli anticorpi.
+D) Inibizione del complemento e mancata attivazione dei linfociti della memoria.
+E) Fase di latenza più breve, titolo anticorpale più elevato e prevalenza di IgG. *
+
+DOMANDA: 046 Perché il test sierologico per la sifilide viene ancora mantenuto nello screening dei donatori?
+A) Perché misura il rischio di reazione emolitica acuta.
+B) Perché identifica i donatori con fenotipo Bombay.
+C) Perché sostituisce il test per l’HCV.
+D) Perché è il metodo principale per tipizzare il sistema AB0.
+E) Anche come marker surrogato per riconoscere donatori potenzialmente a rischio di trasmissione di altre malattie. *
+
+DOMANDA: 047 Quale dei seguenti è un criterio di controindicazione alla raccolta autologa?
+A) Sola appartenenza al gruppo 0.
+B) Fenotipo eritrocitario raro.
+C) Positività per HBsAg, HCV Ab o HIV1-2 Ab. *
+D) Età inferiore ai 70 anni.
+E) Alloimmunizzazione complessa.
+
+DOMANDA: 048 In quale situazione la trasfusione autologa mediante predeposito è indicata?
+A) Esclusivamente nelle gravidanze Rh incompatibili.
+B) In tutti i pazienti candidati a trasfusione massiva.
+C) Nei pazienti con fenotipo raro o con alloimmunizzazioni complesse per i quali è impossibile reperire unità compatibili. *
+D) Solo nei soggetti di gruppo AB positivo.
+E) Solo nei pazienti con piastrinopenia immune.
+
+DOMANDA: 049 Che cosa rappresenta un alloanticorpo in immunoematologia?
+A) Un anticorpo contro antigeni propri dell’individuo che lo produce.
+B) Un reagente monoclonale usato solo per la tipizzazione AB0.
+C) Un anticorpo naturale diretto contro antigeni batterici ambientali esclusivamente.
+D) Un anticorpo diretto contro antigeni di un altro individuo geneticamente diverso ma della stessa specie. *
+E) Un anticorpo presente unicamente nei soggetti Rh negativi.
+
+DOMANDA: 050 Quale conseguenza può avere la trasfusione di eritrociti portatori di un antigene estraneo in un ricevente che ne è privo?
+A) L’impossibilità di formare anticorpi per tolleranza indotta.
+B) La trasformazione del fenotipo Rh del ricevente in Rh positivo.
+C) La perdita definitiva degli antigeni AB0 del ricevente.
+D) La produzione di un alloanticorpo che potrà reagire nelle trasfusioni successive. *
+E) La comparsa immediata di piastrinopenia isolata senza coinvolgimento eritrocitario.
+
+DOMANDA: 051 Che cosa si intende per gene sintenico?
+A) Un gene che non possiede alleli alternativi.
+B) Un gene capace di mutare il gruppo AB0 in età adulta.
+C) Un gene localizzato sullo stesso cromosoma di altri geni, anche se non necessariamente con associazione ereditaria assoluta. *
+D) Un gene localizzato sui cromosomi sessuali soltanto.
+E) Un gene espresso soltanto sulle piastrine.
+
+DOMANDA: 052 Quando un individuo è definito eterozigote per un carattere?
+A) Quando possiede due alleli identici.
+B) Quando eredita il carattere solo dalla madre.
+C) Quando il fenotipo non corrisponde al genotipo.
+D) Quando possiede due alleli diversi per quel carattere. *
+E) Quando non esprime alcun allele rilevabile.
+
+DOMANDA: 053 Che differenza concettuale esiste tra fenotipo e genotipo in immunoematologia?
+A) Il fenotipo può essere ottenuto soltanto con studi di famiglia.
+B) Il fenotipo è ciò che si osserva direttamente nei test, mentre il genotipo è il corredo genetico complessivo relativo al carattere. *
+C) Il genotipo è la reazione in vitro, il fenotipo quella in vivo.
+D) Il genotipo coincide sempre con il risultato della tipizzazione diretta.
+E) Il fenotipo indica solo il gruppo AB0, il genotipo solo il sistema Rh.
+
+DOMANDA: 054 Perché gli anticorpi anti-A e anti-B vengono considerati isoanticorpi?
+A) Perché si sviluppano in risposta a stimoli antigenici diffusi in natura che mimano gli antigeni A e B. *
+B) Perché sono prodotti esclusivamente da individui di gruppo AB.
+C) Perché compaiono solo dopo una trasfusione incompatibile.
+D) Perché derivano da inoculazione sperimentale di eritrociti.
+E) Perché sono sempre di classe IgG e attraversano la placenta.
+
+DOMANDA: 055 Quale classe immunoglobulinica è più tipicamente associata agli immunoanticorpi inattesi?
+A) IgA.
+B) IgG. *
+C) IgE.
+D) IgD.
+E) IgM soltanto.
+
+DOMANDA: 056 Quale evento visibile caratterizza l’agglutinazione?
+A) La comparsa di rouleaux indipendente da anticorpi.
+B) La lisi completa degli eritrociti con soluzione limpida rosso ciliegia.
+C) L’aggregazione di eritrociti causata dal legame tra anticorpi specifici e antigeni eritrocitari. *
+D) La precipitazione del fibrinogeno nel plasma.
+E) La formazione di microcoaguli piastrinici in soluzione salina.
+
+DOMANDA: 057 Quale meccanismo spiega l’agglutinazione visibile degli eritrociti?
+A) La denaturazione termica dell’emoglobina a 37 °C.
+B) La fusione spontanea delle membrane eritrocitarie indotta dal citrato.
+C) L’attivazione piastrinica mediata dal fibrinogeno.
+D) Il legame a ponte tra eritrociti adiacenti operato dagli anticorpi che si legano agli antigeni corrispondenti. *
+E) La sola centrifugazione in assenza di anticorpi.
+
+DOMANDA: 058 Come va interpretata l’emolisi osservata durante un test immunoematologico?
+A) Come segno di corretta conservazione del campione.
+B) Come prova di assenza del complemento.
+C) Come effetto dovuto esclusivamente all’ematocrito elevato.
+D) Come artefatto inevitabile da ignorare.
+E) Come reazione positiva antigene-anticorpo. *
+
+DOMANDA: 059 Quale ruolo ha il complemento nell’emolisi immune degli eritrociti?
+A) Impedisce la lisi stabilizzando la membrana eritrocitaria.
+B) La sua attivazione porta alla rottura della membrana eritrocitaria con rilascio di emoglobina. *
+C) Agglutina gli eritrociti in assenza di anticorpi.
+D) Serve esclusivamente nella tipizzazione Rh su vetrino.
+E) Produce soltanto rouleaux senza emolisi.
+
+DOMANDA: 060 Per mantenere attivo il complemento in vitro, quale condizione è essenziale?
+A) Usare solo plasma e mai siero.
+B) Conservare obbligatoriamente a temperatura ambiente per 24 ore.
+C) Aggiungere citrato per attivarlo.
+D) Usare siero fresco o correttamente conservato, evitando l’inattivazione da calore. *
+E) Scaldare sempre il siero a 56 °C prima del test.
+
+DOMANDA: 061 Che cos’è un antisiero in immunoematologia?
+A) Una soluzione standardizzata di anticorpi usata come reagente per identificare specifici antigeni eritrocitari. *
+B) Una miscela di fattori della coagulazione purificati.
+C) Un derivato del plasma usato per espansione volemica.
+D) Un plasma expander impiegato nelle emorragie massive.
+E) Una sospensione di eritrociti noti usata per la tipizzazione inversa.
+
+DOMANDA: 062 Quale requisito fondamentale deve possedere un antisiero idoneo all’uso?
+A) Capacità di reagire con tutti gli antigeni di gruppo eritrocitario.
+B) Specificità per l’antigene da rilevare nelle condizioni analitiche raccomandate. *
+C) Conservazione a temperatura ambiente per migliorarne la reattività.
+D) Assenza completa di data di scadenza, per evitare sprechi.
+E) Titolo basso per ridurre le reazioni positive.
+
+DOMANDA: 063 Come viene generalmente prodotto un antisiero monoclonale?
+A) Per ibridazione tra cellule neoplastiche umane produttrici di anticorpi e linfociti splenici sensibilizzati di roditore. *
+B) Per separazione meccanica del buffy coat.
+C) Attraverso digestione enzimatica degli eritrociti compatibili.
+D) Con precipitazione del fibrinogeno dal crioprecipitato.
+E) Mediante congelamento ripetuto del plasma di gruppo AB.
+
+DOMANDA: 064 Che cosa dimostra una reazione positiva di eritrociti con un antisiero anti-A?
+A) La presenza obbligatoria del fenotipo Bombay.
+B) La presenza di anticorpi anti-A nel siero del paziente.
+C) L’assenza dell’antigene A sugli eritrociti.
+D) La presenza dell’antigene A sugli eritrociti esaminati. *
+E) La presenza di immunoglobuline anti-D.
+
+DOMANDA: 065 Quale descrizione corrisponde all’emolisi completa in vitro?
+A) Una sospensione torbida biancastra da fibrina.
+B) La presenza di rouleaux diffusi ma assenza di colore nel surnatante.
+C) La comparsa di un bottone cellulare compatto a fine centrifugazione.
+D) Un sedimento denso di eritrociti sul fondo della provetta.
+E) Una soluzione limpida rosso ciliegia priva di eritrociti integri residui. *
+
+DOMANDA: 066 Quale principale impiego ha il test dell’antiglobulina umana diretto (DAT)?
+A) Stimare la conta piastrinica residua dopo aferesi.
+B) Tipizzare direttamente il sistema AB0 del ricevente.
+C) Misurare la concentrazione di fibrinogeno nel plasma.
+D) Rilevare anticorpi liberi nel siero del donatore senza usare eritrociti.
+E) Dimostrare anticorpi o complemento già fissati agli eritrociti in vivo. *
+
+DOMANDA: 067 In quale circostanza gli immunocomplessi tendono a diventare patogeni?
+A) Quando vengono rapidamente rimossi dai fagociti del circolo sanguigno.
+B) Quando si formano durante una risposta immunitaria protettiva e facilitano l’eliminazione dell’antigene.
+C) Quando persistono e precipitano nell’endotelio o in altre strutture vascolari, provocando danno infiammatorio. *
+D) Quando coinvolgono solo IgM e non attivano mai il complemento.
+E) Quando restano confinati nel lume intestinale senza contatto con i tessuti.
+
+DOMANDA: 068 Qual è la finalità del test dell’antiglobulina umana indiretto?
+A) Valutare la funzionalità piastrinica da donatore singolo.
+B) Misurare la vitalità degli eritrociti conservati.
+C) Quantificare il numero di antigeni Rh per cellula.
+D) Rilevare in vitro anticorpi liberi circolanti nel plasma o siero che reagiscono con eritrociti specifici. *
+E) Dimostrare esclusivamente l’emolisi intravascolare già avvenuta nel paziente.
+
+DOMANDA: 069 Quale evento avvia la via classica del complemento?
+A) Il legame di un antigene con il rispettivo anticorpo. *
+B) La trasformazione dei linfociti B in plasmacellule.
+C) L’attivazione diretta dei neutrofili da parte del lisozima.
+D) La sintesi di interferone da parte delle cellule infettate da virus.
+E) La migrazione dei monociti dal sangue ai tessuti.
+
+DOMANDA: 070 Quale vantaggio specifico viene attribuito alla tecnologia di agglutinazione in gel rispetto ai test in provetta?
+A) Procedure standardizzate e assenza del lavaggio dell’antiglobulina. *
+B) Impossibilità di applicarla allo screening anticorpale.
+C) Maggiore dipendenza dall’interpretazione soggettiva del tecnico.
+D) Necessità di un’incubazione più lunga a 56 °C.
+E) Uso obbligatorio di sangue intero non anticoagulato.
+
+DOMANDA: 071 Come appare una reazione negativa nella microprovetta contenente gel o matrice?
+A) Con emolisi totale del campione.
+B) Con la formazione di un bottone di eritrociti sul fondo. *
+C) Con eritrociti intrappolati nella parte superiore del gel.
+D) Con rouleaux fissi nella metà superiore della microprovetta.
+E) Con un reticolo fibrinoso diffuso in tutta la colonna.
+
+DOMANDA: 072 Quale principio caratterizza la tecnologia su micropiastra per screening anticorpale?
+A) Gli eritrociti di screening sono legati al polistirene e catturano gli anticorpi durante l’incubazione. *
+B) Si misura direttamente l’emoglobina libera con fotometria.
+C) Il complemento viene aggiunto per provocare lisi come unica lettura possibile.
+D) L’analisi avviene senza lavaggio e senza cellule indicatrici.
+E) Le piastrine del donatore vengono fissate al supporto per rilevare anti-HLA.
+
+DOMANDA: 073 Perché in immunoematologia l’accuratezza operativa è definita ‘assolutamente essenziale’?
+A) Perché le reazioni immunoematologiche non sono verificabili in vitro.
+B) Perché il plasma fresco congelato perde attività in pochi minuti.
+C) Perché ogni test positivo determina automaticamente sospensione del donatore.
+D) Perché un errore può tradursi in una trasfusione incompatibile con conseguenze anche mortali. *
+E) Perché il gruppo sanguigno di un soggetto varia nel tempo.
+
+DOMANDA: 074 Quale coppia di termini descrive correttamente la sede delle reazioni dimostrate rispettivamente dal DAT (Direct Antiglobulin Test) e dall’IAT (Indirect Antiglobulin Test)?
+A) In vitro per il DAT, in vivo per l’IAT.
+B) Entrambi esclusivamente in vivo.
+C) Nessuno dei due dipende dal contesto biologico della reazione.
+D) Entrambi esclusivamente in vitro.
+E) In vivo per il DAT, in vitro per l’IAT. *
+
+DOMANDA: 075 Quale affermazione sugli eritrociti rivestiti da anticorpi è vera?
+A) Sono tipici solo dei donatori Rh positivi sani.
+B) Non possono mai essere rilevati dal DAT (Direct Antiglobulin Test).
+C) Possono essere evidenziati solo con test di tipizzazione AB0.
+D) Vengono sempre reintegrati dal midollo senza conseguenze cliniche.
+E) Possono essere rimossi dalla circolazione dal sistema dei fagociti mononucleati con riduzione della loro sopravvivenza. *
+
+DOMANDA: 076 Quale classe di anticorpi attraversa la barriera placentare?
+A) Le IgM.
+B) Le IgA secretorie.
+C) Le IgD.
+D) Le IgE.
+E) Le IgG. *
+
+DOMANDA: 077 Perché l’emolisi parziale in vitro è considerata insidiosa?
+A) Perché indica sempre un test negativo.
+B) Perché è più difficile da interpretare correttamente rispetto all’emolisi completa. *
+C) Perché si osserva solo in presenza di antigeni AB0.
+D) Perché avviene soltanto nei campioni conservati oltre 42 giorni.
+E) Perché esclude l’attivazione del complemento.
+
+DOMANDA: 078 Quale sequenza storica è riportata per il sistema AB0?
+A) Il gruppo AB fu scoperto prima del gruppo 0.
+B) Landsteiner descrisse i gruppi A, B, AB e 0 contemporaneamente nel 1939.
+C) Il gruppo 0 fu definito soltanto dopo il 1950.
+D) I gruppi A e B furono introdotti dopo la scoperta del sistema Rh.
+E) Landsteiner descrisse i gruppi A, B e 0 nel 1900-1901; il gruppo AB fu riconosciuto nel 1902. *
+
+DOMANDA: 079 Che cosa si intende per tipizzazione diretta del sistema AB0?
+A) La ricerca di anticorpi anti-A e anti-B nel siero mediante cellule test.
+B) La ricerca dell’antigene D sugli eritrociti.
+C) La determinazione del gruppo mediante test dell’antiglobulina diretto.
+D) La prova crociata completa tra donatore e ricevente.
+E) La ricerca degli antigeni A e B sugli eritrociti con antisieri noti. *
+
+DOMANDA: 080 Che cosa si intende per tipizzazione inversa del sistema AB0?
+A) L’uso esclusivo di antisieri monoclonali anti-A,B sugli eritrociti.
+B) La ricerca di antigeni A e B su eritrociti del neonato.
+C) La tipizzazione effettuata soltanto quando la diretta è negativa.
+D) La valutazione del gruppo Rh mediante controllo proteico.
+E) La ricerca degli anticorpi nel siero del soggetto mediante eritrociti noti A1 e B. *
+
+DOMANDA: 081 Per quale motivo tipizzazione diretta e inversa vanno confrontate tra loro?
+A) Per stabilire se il campione possa essere conservato 42 giorni.
+B) Per quantificare il numero di eritrociti presenti nell’unità.
+C) Per distinguere gli antigeni Rh dagli antigeni AB0.
+D) Per verificarne la coerenza ed escludere possibili errori nella determinazione del gruppo AB0. *
+E) Per aumentare il titolo degli anticorpi naturali del siero.
+
+DOMANDA: 082 Quale risultato di tipizzazione inversa ci si attende in un soggetto con eritrociti di gruppo A?
+A) Reazione del siero con cellule A1 note soltanto.
+B) Reazione del siero con cellule A1 e B note.
+C) Reazione del siero solo con anti-H.
+D) Assenza di reazione con cellule A1 e B note.
+E) Reazione del siero con cellule B note. *
+
+DOMANDA: 083 Quale risultato di tipizzazione inversa è tipico del gruppo 0?
+A) Reazione del siero con entrambe le cellule A1 e B note. *
+B) Assenza di reazione con entrambe le cellule test.
+C) Reazione del siero solo con cellule A1.
+D) Reazione del siero solo con cellule B.
+E) Reazione solo se si aggiunge antiglobulina umana.
+
+DOMANDA: 084 Quale risultato di tipizzazione inversa è atteso in un soggetto AB?
+A) Reazione solo con cellule B.
+B) Assenza di reazione del siero sia con cellule A1 sia con cellule B. *
+C) Reazione solo con cellule A1.
+D) Reazione con entrambe le cellule A1 e B.
+E) Reazione con cellule di gruppo 0 per presenza di anti-H.
+
+DOMANDA: 085 Quale caratteristica distingue gli isoanticorpi del sistema AB0 dagli immunoanticorpi più comuni di altri sistemi?
+A) Sono in genere anticorpi IgM naturali indotti da antigeni ambientali simil-A o simil-B. *
+B) Vengono rilevati solo con DAT (Direct Antiglobulin Test) e mai con tipizzazione inversa.
+C) Sono anticorpi anti-HLA diretti contro i leucociti.
+D) Sono assenti nei soggetti di gruppo 0.
+E) Sono sempre IgG prodotti solo dopo gravidanza.
+
+DOMANDA: 086 Perché il concetto di donatore universale è definito eccessivamente semplificato?
+A) Perché la compatibilità AB0 conta solo nei neonati.
+B) Perché il gruppo 0 non esiste realmente in immunoematologia.
+C) Perché ogni trasfusione dipende esclusivamente dal fattore Rh.
+D) Perché prima di trasfondere bisogna considerare sia gli anticorpi del paziente contro gli eritrociti trasfusi sia gli anticorpi del prodotto contro gli eritrociti del paziente. *
+E) Perché il concetto si applica soltanto alle piastrine e non agli eritrociti.
+
+DOMANDA: 087 Quale delle due possibili incompatibilità AB0 è considerata la più grave in caso di trasfusione di eritrociti?
+A) Quella in cui gli anticorpi del paziente reagiscono con gli antigeni degli eritrociti trasfusi. *
+B) Quella in cui il donatore è Rh positivo e il ricevente Rh positivo.
+C) Quella dovuta a differenze nel sistema Lewis.
+D) Quella in cui il plasma del prodotto reagisce blandamente con gli eritrociti del paziente.
+E) Quella in cui il paziente è secretore e il donatore non secretore.
+
+DOMANDA: 088 Che cosa caratterizza il fenotipo Bombay (0h)?
+A) Si tratta della forma più comune di gruppo 0 nella popolazione generale.
+B) Il siero non reagisce con alcun eritrocita noto.
+C) Gli eritrociti esprimono grandi quantità di sostanza H e nessun altro antigene.
+D) La tipizzazione diretta mostra sempre forte positività con anti-H.
+E) Il siero reagisce intensamente con eritrociti di gruppo 0 per la presenza di un potente anti-H. *
+
+DOMANDA: 089 Come si comporta l’antisiero anti-H preparato da lectina di Ulex europeaus con gli eritrociti Bombay?
+A) Produce sempre una reazione mista.
+B) Non li agglutina. *
+C) Li agglutina più fortemente degli eritrociti di gruppo 0.
+D) È inutile perché la lectina reagisce solo con antigeni Rh.
+E) Li emolizza soltanto in presenza di complemento.
+
+DOMANDA: 090 Quale gruppo eritrocitario mostra in genere la più forte reazione con anti-H?
+A) Il gruppo AB.
+B) Il gruppo Bombay.
+C) Il gruppo 0. *
+D) Il gruppo A1.
+E) Il gruppo B soltanto.
+
+DOMANDA: 091 Che ruolo hanno i geni Se e se nel sistema AB0?
+A) Codificano esclusivamente per gli antigeni M e N.
+B) Regolano la presenza di sostanze A, B e H nelle secrezioni corporee. *
+C) Controllano la comparsa del fenotipo D debole.
+D) Determinano la presenza o assenza dell’antigene D.
+E) Definiscono il passaggio delle IgM attraverso la placenta.
+
+DOMANDA: 092 Chi è definito secretore?
+A) Qualsiasi soggetto di gruppo AB.
+B) Un paziente Rh positivo con DAT (Direct Antiglobulin Test) negativo.
+C) Un donatore che presenta piastrine HLA compatibili.
+D) Un individuo con anti-H presente nel siero.
+E) L’individuo che possiede almeno un allele Se ed esprime sostanze di gruppo sanguigno nelle secrezioni. *
+
+DOMANDA: 093 Quale problema può creare una discrepanza tra tipizzazione diretta e inversa AB0?
+A) Rende inutile la prova crociata.
+B) Indica unicamente deficit di complemento.
+C) Può far emergere errori o condizioni biologiche che rendono non affidabile l’assegnazione immediata del gruppo. *
+D) Conferma automaticamente il fenotipo Bombay.
+E) Dimostra sempre una contaminazione batterica della sacca.
+
+DOMANDA: 094 Quale classe di anticorpi AB0 non attraversa la placenta?
+A) Le IgE.
+B) Le IgA.
+C) Le IgM. *
+D) Le IgG.
+E) Le IgD.
+
+DOMANDA: 095 Quale affermazione sulle IgG anti-A e anti-B è corretta nel contesto ostetrico?
+A) Possono attraversare la placenta e contribuire alla HDFN AB0. *
+B) Sono presenti soltanto nelle madri di gruppo AB.
+C) Non attraversano mai la placenta perché sono molecole troppo grandi.
+D) Sono rilevabili esclusivamente con test su gel.
+E) Hanno un ruolo solo nelle reazioni febbrili da trasfusione.
+
+DOMANDA: 096 Perché il gruppo AB è stato talvolta definito ricevente universale solo come semplificazione?
+A) Perché il gruppo AB non esprime antigeni eritrocitari.
+B) Perché la compatibilità reale richiede una valutazione più ampia degli anticorpi presenti e del tipo di prodotto trasfuso. *
+C) Perché il gruppo AB possiede anticorpi anti-A e anti-B ad alto titolo.
+D) Perché i soggetti AB sono sempre Rh negativi.
+E) Perché il concetto vale solo per il plasma e non per gli eritrociti.
+
+DOMANDA: 097 Qual è l’antigene più importante del sistema Rh dal punto di vista trasfusionale?
+A) L’antigene D. *
+B) L’antigene E.
+C) L’antigene C.
+D) L’antigene c.
+E) L’antigene e.
+
+DOMANDA: 098 Che cosa definisce in pratica la positività Rh di un individuo?
+A) L’espressione degli antigeni Se nelle secrezioni.
+B) La presenza contemporanea di tutti gli antigeni C, c, E ed e.
+C) La presenza di anticorpi anti-D nel siero.
+D) La presenza dell’antigene D sui suoi eritrociti. *
+E) La positività del DAT (Direct Antiglobulin Test).
+
+DOMANDA: 099 Qual è il significato del simbolo ‘d’ nella notazione Rh?
+A) Indica l’assenza dell’antigene D. *
+B) Indica l’antigene D debole.
+C) Indica un antigene piastrinico.
+D) Indica un antigene eritrocitario indipendente di basso peso molecolare.
+E) Indica la presenza degli antigeni C ed E insieme.
+
+DOMANDA: 100 Quale affermazione sul sistema Rh è vera?
+A) È meno complesso del sistema AB0 e clinicamente trascurabile.
+B) Interessa solo i pazienti pediatrici.
+C) Non richiede tipizzazione prima delle trasfusioni.
+D) Comprende solo due antigeni importanti, D e d.
+E) È il sistema più complesso tra quelli eritrocitari e ha particolare rilevanza per gli antigeni D, C, c, E ed e. *
+
+DOMANDA: 101 Perché gli individui Rh negativi non devono ricevere eritrociti Rh positivi?
+A) Perché il plasma Rh positivo contiene sempre anti-D.
+B) Perché il fattore Rh modifica il volume plasmatico.
+C) Perché gli eritrociti Rh positivi non trasportano ossigeno in modo efficace.
+D) Perché gli eritrociti Rh positivi sono meno vitali in conservazione.
+E) Per l’elevata probabilità di sviluppare anticorpi anti-D clinicamente significativi. *
+
+DOMANDA: 102 Quale caratteristica immunologica rende l’antigene D particolarmente rilevante?
+A) La sua capacità di attivare sempre direttamente il complemento senza anticorpi.
+B) La sua instabilità dopo 24 ore di conservazione.
+C) La sua assenza completa negli individui caucasici.
+D) La sua esclusiva presenza sulle piastrine.
+E) Il suo elevato potere antigenico. *
+
+DOMANDA: 103 Quale genotipo viene indicato come presente nella grande maggioranza dei soggetti Rh negativi?
+A) CDE/cDe.
+B) DcE/DcE.
+C) cde/cde. *
+D) CDe/CDe.
+E) Dce/Dce.
+
+DOMANDA: 104 Che cosa significa affermare che gli alleli Rh sono ereditati in gruppi appaiati?
+A) Che da ciascun genitore si eredita una combinazione di antigeni Rh, formando il genotipo complessivo dell’individuo. *
+B) Che i geni Rh si trasmettono solo per via materna.
+C) Che gli antigeni Rh non hanno alcuna base genetica ma solo ambientale.
+D) Che un singolo individuo può possedere un numero variabile di cromosomi Rh.
+E) Che ogni antigene Rh viene ereditato separatamente da ciascun nonno.
+
+DOMANDA: 105 Quale nomenclatura utilizza R maiuscola e r minuscola per indicare rispettivamente presenza o assenza dell’antigene D?
+A) La nomenclatura di Landsteiner.
+B) La nomenclatura HLA.
+C) La nomenclatura Kell-Lewis.
+D) La nomenclatura di Fisher-Race.
+E) La nomenclatura di Wiener. *
+
+DOMANDA: 106 Quale tipo di anticorpo anti-Rh è più spesso clinicamente significativo nelle reazioni trasfusionali?
+A) Un anticorpo IgE.
+B) Un anticorpo IgA secretorio.
+C) Un anticorpo privo di specificità antigenica.
+D) Un anticorpo IgM naturale sempre freddo.
+E) Un anticorpo di classe IgG. *
+
+DOMANDA: 107 Quale problema può verificarsi usando antisieri anti-D ad alta concentrazione proteica?
+A) Falsi negativi per inattivazione del complemento da freddo.
+B) Distruzione completa degli eritrociti per emolisi osmotica inevitabile.
+C) Interferenza esclusiva da ipofibrinogenemia.
+D) Impossibilità di tipizzare pazienti di gruppo AB.
+E) Falsi positivi dovuti ad agglutinazione spontanea o interferenze da fattori sierici del paziente. *
+
+DOMANDA: 108 Perché con gli antisieri anti-D ad alta concentrazione proteica si deve usare un controllo appropriato?
+A) Per aumentare intenzionalmente la sensibilità del test al punto da rendere positive tutte le reazioni.
+B) Per stabilire se il donatore è secretore.
+C) Per riconoscere reazioni spurie dovute al mezzo e non a un vero legame antigene-anticorpo. *
+D) Per sostituire la tipizzazione AB0.
+E) Per inattivare le IgM naturali del sistema AB0.
+
+DOMANDA: 109 Quale supporto viene raccomandato come controllo con reagenti ad alto contenuto proteico per la tipizzazione Rh?
+A) Plasma fresco congelato di gruppo AB.
+B) Un campione di sangue del cordone ombelicale.
+C) Un antisiero anti-H ad alta concentrazione.
+D) Una sospensione di eritrociti del paziente in acqua distillata.
+E) Un reagente di controllo immunologicamente inerte, in genere il diluente del produttore. *
+
+DOMANDA: 110 Quale esempio corrisponde a immunità naturale passiva?
+A) La produzione di anticorpi dopo vaccinazione con tossoide tetanico.
+B) Il trasferimento di anticorpi materni al neonato attraverso placenta o colostro. *
+C) La comparsa di memoria immunitaria dopo un’infezione virale naturale.
+D) La differenziazione dei linfociti B in plasmacellule dopo esposizione ad antigene.
+E) La somministrazione intenzionale di un microrganismo attenuato per via vaccinale.
+
+DOMANDA: 111 Quale classe di immunoglobuline viene associata ai primi antisieri anti-D attivi in soluzione salina?
+A) IgE.
+B) IgG.
+C) IgD.
+D) IgM. *
+E) IgA.
+
+DOMANDA: 112 Quando gli eritrociti risultano negativi nella fase di centrifugazione immediata con anti-D, quale ulteriore possibilità va considerata?
+A) La presenza obbligatoria di fenotipo Bombay.
+B) Un difetto congenito di fibrinogeno.
+C) La presenza di D debole o di una variante del D. *
+D) La certezza che il soggetto sia secretore.
+E) Una incompatibilità esclusivamente del sistema Kidd.
+
+DOMANDA: 113 Quale affermazione sulla tipizzazione Rh in banca del sangue è vera?
+A) Nella pratica quotidiana si attribuisce grande rilievo alla presenza o assenza dell’antigene D. *
+B) Conta solo la presenza degli antigeni C ed E, non del D.
+C) Il fattore Rh viene determinato esclusivamente con tipizzazione inversa.
+D) La tipizzazione Rh è utile solo nei donatori e non nei riceventi.
+E) La tipizzazione Rh è superflua se l’AB0 è noto.
+
+DOMANDA: 114 Perché un anticorpo anti-D formatosi dopo trasfusione può essere particolarmente rilevante anche in assenza di reazioni immediate gravi?
+A) Perché impedisce la conservazione del sangue oltre 5 giorni.
+B) Perché può complicare trasfusioni future e gravidanze successive. *
+C) Perché trasforma permanentemente il gruppo AB0 del paziente.
+D) Perché viene trasmesso passivamente a tutti i riceventi secondari.
+E) Perché determina sempre TACO entro poche ore.
+
+DOMANDA: 115 Che cosa indica il termine D debole nel contesto immunoematologico?
+A) Una ridotta espressione antigenica dell’antigene D che può richiedere metodiche più sensibili per essere rilevata. *
+B) La presenza simultanea di D e anti-D nel plasma.
+C) Un anticorpo anti-D a basso titolo.
+D) L’assenza completa dell’antigene D in tutti i tessuti.
+E) Un’antigene AB0 secondario presente nei secretori.
+
+DOMANDA: 116 Quale accortezza tecnica aiuta a evitare errori nella tipizzazione Rh con antisieri ricchi di proteine?
+A) Eseguire solo test su vetrino, evitando le provette.
+B) Ignorare le reazioni deboli perché clinicamente irrilevanti.
+C) Seguire strettamente le istruzioni del produttore e usare i controlli specifici indicati. *
+D) Scaldare tutti i campioni a ebollizione prima della lettura.
+E) Lavare sempre gli eritrociti con detergenti proteici.
+
+DOMANDA: 117 Quale sistema, oltre ad AB0 e Rh, è descritto tra quelli storicamente importanti nella pratica immunoematologica?
+A) Complemento C3.
+B) Insulina.
+C) Aptoglobina.
+D) Kell. *
+E) Albumina.
+
+DOMANDA: 118 Perché i sistemi come Duffy, Kidd e Kell sono clinicamente importanti?
+A) Perché i relativi anticorpi possono essere coinvolti in incompatibilità trasfusionali e reazioni emolitiche. *
+B) Perché sostituiscono il sistema AB0 nella tipizzazione di routine.
+C) Perché regolano la secrezione di antigeni nelle ghiandole salivari.
+D) Perché sono presenti solo nel sangue fetale.
+E) Perché definiscono il volume plasmatico del donatore.
+
+DOMANDA: 119 Quale funzione svolge il test di screening anticorpale nel paziente candidato a trasfusione?
+A) Confermare esclusivamente il gruppo AB0 del paziente.
+B) Valutare la conta piastrinica del donatore.
+C) Misurare il titolo di fibrinogeno del plasma.
+D) Determinare la concentrazione di emoglobina del concentrato eritrocitario.
+E) Ricercare anticorpi inattesi liberi nel siero o plasma del paziente. *
+
+DOMANDA: 120 Quale campione viene tipicamente utilizzato nello screening anticorpale?
+A) Gli eritrociti del paziente senza reagenti cellulari noti.
+B) Solo sangue intero non anticoagulato del donatore.
+C) Il siero o il plasma del paziente, testato contro eritrociti di screening noti. *
+D) Esclusivamente plasma fresco congelato.
+E) Solo il buffy coat del paziente.
+
+DOMANDA: 121 A che cosa serve l’identificazione degli anticorpi dopo uno screening anticorpale positivo?
+A) A stabilire il numero di leucociti presenti nell’unità.
+B) A misurare la velocità di sedimentazione degli eritrociti.
+C) A quantificare il complemento plasmatico totale.
+D) A definire la specificità dell’anticorpo inatteso per selezionare unità compatibili e interpretare il rischio clinico. *
+E) A confermare il gruppo 0 del paziente.
+
+DOMANDA: 122 Quale obiettivo ha l’esame pretrasfusionale oltre alle prove crociate di compatibilità?
+A) Scegliere eritrociti non dannosi e di massimo beneficio per il paziente. *
+B) Determinare se il paziente è secretore.
+C) Limitarsi a confermare la data di scadenza dell’unità.
+D) Valutare la funzionalità epatica del ricevente.
+E) Stabilire se il donatore è idoneo a una futura piastrinoaferesi.
+
+DOMANDA: 123 Che cosa possono rilevare le prove crociate di compatibilità?
+A) Solo la conta leucocitaria del campione.
+B) Anticorpi inattesi nel siero del paziente, alcune incompatibilità AB0 ed errori di identificazione o etichettatura. *
+C) Solo la presenza di infezioni virali trasmissibili.
+D) Unicamente la compatibilità piastrinica HLA.
+E) Esclusivamente il rischio di TACO.
+
+DOMANDA: 124 Qual è il principale limite dell’esame pretrasfusionale e delle prove di compatibilità?
+A) Servono soltanto nella trasfusione di plasma.
+B) Non valutano mai incompatibilità AB0.
+C) Rendono impossibile l’uso del gruppo 0 in emergenza.
+D) Sono utili solo se il paziente ha già ricevuto trasfusioni.
+E) Non possono prevenire tutti i problemi trasfusionali e non intercettano necessariamente tutti gli errori preanalitici o tutte le immunizzazioni future. *
+
+DOMANDA: 125 Quando si scopre tipicamente l’incompatibilità nelle prove crociate?
+A) Solo dopo la trasfusione, mai in laboratorio.
+B) Quando il plasma del donatore è stato congelato oltre 24 ore.
+C) Quando il siero del paziente contiene un anticorpo inatteso diretto contro gli eritrociti del donatore. *
+D) Quando gli eritrociti del donatore possiedono sempre il gruppo 0.
+E) Quando il ricevente è di sesso femminile.
+
+DOMANDA: 126 Perché gli errori preanalitici sono indicati come causa frequente di trasfusione incompatibile?
+A) Perché le prove crociate non richiedono controllo documentale.
+B) Perché il gruppo AB0 dei pazienti cambia durante il ricovero.
+C) Perché errori organizzativi, burocratici o di identificazione possono sfuggire e portare alla selezione dell’unità sbagliata. *
+D) Perché gli anticorpi inattesi non possono mai essere rilevati in vitro.
+E) Perché il sangue conservato perde tutti gli antigeni di superficie.
+
+DOMANDA: 127 In quale situazione la prova crociata con AHG può non essere necessaria?
+A) Quando il paziente è Rh positivo.
+B) Quando si trasfonde plasma fresco congelato.
+C) Quando l’unità è stata irradiata.
+D) Quando il paziente ha uno screening per anticorpi inattesi negativo e nessuna anamnesi di anticorpi clinicamente significativi. *
+E) Quando il donatore è di gruppo 0.
+
+DOMANDA: 128 Che cos’è una prova crociata abbreviata o immediate-spin?
+A) Una prova eseguibile solo a 56 °C con complemento fresco.
+B) Una tecnica riservata alle piastrine da aferesi.
+C) Una prova che sostituisce definitivamente lo screening anticorpale.
+D) Una procedura usata esclusivamente nella HDFN.
+E) Una prova di compatibilità rapida eseguita a temperatura ambiente, utile soprattutto per evidenziare incompatibilità AB0. *
+
+DOMANDA: 129 Quale situazione clinico-immunologica è principalmente espressione di immunità cellulo-mediata?
+A) La protezione immediata conferita da anticorpi materni nel neonato.
+B) La neutralizzazione umorale di una tossina batterica circolante.
+C) L’aumento del titolo di IgG dopo vaccinazione di richiamo.
+D) Il rigetto di un allotrapianto. *
+E) La presenza di anticorpi anti-A e anti-B nel sistema AB0.
+
+DOMANDA: 130 Quale sequenza descrive correttamente le principali fasi della fagocitosi?
+A) Adesione, produzione di anticorpi, chemiotassi, fusione del fagosoma, lisi del complemento.
+B) Chemiotassi, agglutinazione, opsonizzazione, secrezione di IgG, digestione.
+C) Presentazione dell’antigene, adesione, attivazione del complemento, fagocitosi, memoria cellulare.
+D) Inglobamento, chemiotassi, adesione, formazione del fagosoma, sintesi di interferone.
+E) Chemiotassi, adesione, inglobamento, formazione e fusione del fagosoma, digestione e distruzione. *
+
+DOMANDA: 131 Come devono essere conservati gli eritrociti di screening commerciali quando non utilizzati?
+A) A 2-8 °C. *
+B) A 37 °C per mantenerne l’antigenicità.
+C) A -20 °C senza scongelamento.
+D) A temperatura ambiente con agitazione continua.
+E) In incubatore con CO2.
+
+DOMANDA: 132 Che cosa si intende per fenotipizzazione eritrocitaria in ambito pretrasfusionale?
+A) La quantificazione del complemento sierico.
+B) La ricerca di anticorpi nel plasma del donatore.
+C) La determinazione della presenza o assenza di specifici antigeni sugli eritrociti del paziente o del donatore. *
+D) L’analisi del genotipo completo senza dati sierologici.
+E) La determinazione dell’ematocrito dell’unità conservata.
+
+DOMANDA: 133 Perché i panel di cellule selezionate sono utili dopo uno screening anticorpale positivo?
+A) Per aumentare artificialmente il titolo dell’anticorpo del paziente.
+B) Per selezionare automaticamente il crioprecipitato più adatto.
+C) Per chiarire il pattern di reattività e identificare la specificità dell’anticorpo. *
+D) Per inattivare il complemento del campione.
+E) Per stabilire il gruppo Rh del donatore mediante sola osservazione microscopica.
+
+DOMANDA: 134 Quale vantaggio operativo viene attribuito ai sistemi automatizzati di immunoematologia?
+A) Impossibilità di errore preanalitico.
+B) Standardizzazione, miglioramento dei tempi di risposta e riduzione delle procedure manuali. *
+C) Eliminazione della necessità di controlli di qualità.
+D) Possibilità di usare sangue non tipizzato in emergenza.
+E) Superamento definitivo della compatibilità AB0.
+
+DOMANDA: 135 Quale associazione tra classe anticorpale e temperatura di reazione è corretta nei test di agglutinazione?
+A) Le IgA sono reattive a freddo e le IgE reagiscono in modo ottimale a 37 °C.
+B) Le IgG sono reattive solo a 4 °C, mentre le IgM reagiscono meglio a 56 °C.
+C) Gli anticorpi IgM sono tipicamente reattivi a freddo, mentre gli anticorpi IgG reagiscono in modo ottimale a 37 °C. *
+D) Le IgD reagiscono a freddo e le IgM esclusivamente a temperatura corporea.
+E) La temperatura non influenza in alcun modo il legame antigene-anticorpo.
+
+DOMANDA: 136 Quale manovra consente di verificare se un’apparente agglutinazione è dovuta a pseudoagglutinazione?
+A) Aggiungere alcune gocce di soluzione fisiologica, rimiscelare e riesaminare la reazione. *
+B) Portare il campione a ebollizione per dissociare gli immunocomplessi.
+C) Aggiungere glucosio per aumentare la densità del sopranatante.
+D) Centrifugare ad alta velocità per almeno 30 minuti senza risospendere il pellet.
+E) Incubare il campione con interferone per ridurre l’adesione cellulare.
+
+DOMANDA: 137 Quale caratteristica definisce la reazione trasfusionale emolitica acuta?
+A) Una reazione allergica lieve limitata al prurito.
+B) La lisi intravascolare degli eritrociti del donatore da parte di anticorpi preformati nel ricevente. *
+C) La contaminazione batterica del plasma senza emolisi.
+D) Il sovraccarico marziale cronico dopo anni di terapia trasfusionale.
+E) La distruzione extravascolare tardiva di piastrine da aferesi.
+
+DOMANDA: 138 Qual è la causa più comune di reazione trasfusionale emolitica acuta?
+A) La presenza di anti-H in tutti i soggetti di gruppo 0.
+B) L’incompatibilità AB0 tra donatore e ricevente. *
+C) L’alloimmunizzazione contro antigeni HLA piastrinici.
+D) Il D debole del donatore.
+E) La carenza di fattore VIII nel ricevente.
+
+DOMANDA: 139 Quale complicanza trasfusionale è potenzialmente fatale nelle trasfusioni di plasma fresco congelato?
+A) La siderosi acuta da sovraccarico di ferro entro 4 ore.
+B) La policitemia trasfusionale.
+C) La reazione emolitica da anti-D passivo del plasma.
+D) La porpora post-trasfusionale come evento immediato più comune.
+E) La TRALI. *
+
+DOMANDA: 140 Entro quale intervallo temporale può svilupparsi la TRALI?
+A) Solo dopo trasfusioni ripetute per mesi.
+B) Esclusivamente durante la conservazione dell’unità.
+C) Dopo almeno 7 giorni.
+D) Entro 4 ore dalla trasfusione. *
+E) Entro 24 ore soltanto.
+
+DOMANDA: 141 Quale meccanismo è descritto per la TRALI?
+A) Le piastrine attivate liberano fibrinogeno con formazione di emboli ossei.
+B) L’eccesso di albumina nel plasma richiama acqua nel polmone.
+C) Il citrato del plasma chela il calcio e causa edema polmonare osmotico.
+D) Anticorpi anti-eritrocitari del plasma distruggono gli eritrociti del ricevente con emoglobinuria massiva.
+E) Anticorpi antileucocitari nel plasma trasfuso aggregano i leucociti e occludono il microcircolo polmonare causando edema polmonare non cardiogeno. *
+
+DOMANDA: 142 Per quale motivo il plasma destinato alla trasfusione allogenica dovrebbe provenire da soggetti di sesso maschile?
+A) Per ridurre il rischio di TRALI correlata ad anticorpi antileucocitari. *
+B) Perché il plasma maschile contiene meno fattori della coagulazione labili.
+C) Perché le donne non possono mai essere donatrici di plasma.
+D) Perché il plasma femminile è spesso AB0 incompatibile.
+E) Perché il plasma maschile non trasmette alcuna malattia infettiva.
+
+DOMANDA: 143 Che cosa indica l’acronimo TACO nel contesto trasfusionale?
+A) Trasfusione acuta di crioprecipitato obbligatoria.
+B) Coagulopatia acquisita da trasfusione massiva.
+C) Sovraccarico circolatorio associato alla trasfusione. *
+D) Tecnica automatizzata per la compatibilità ombelicale.
+E) Tipizzazione anticorpale computer-assistita obbligatoria.
+
+DOMANDA: 144 Quali sintomi sono indicati per il TACO?
+A) Ittero tardivo dopo 3 mesi.
+B) Dispnea, tachipnea e tosse durante la trasfusione o nelle ore successive. *
+C) Emoglobinuria isolata senza segni respiratori.
+D) Bradicardia con ipotermia e assenza di tosse.
+E) Sola orticaria localizzata senza sintomi sistemici.
+
+DOMANDA: 145 Perché le piastrine sono una causa frequente di reazioni trasfusionali settiche?
+A) Perché non sono mai testate per batteri.
+B) Perché vengono necessariamente irradiate prima dell’uso.
+C) Perché contengono sempre complemento attivato.
+D) Perché sono sempre ABO incompatibili.
+E) Perché devono essere conservate a temperatura ambiente e possono contaminarsi al momento della donazione. *
+
+DOMANDA: 146 Quale complicanza può derivare dall’attecchimento di linfociti funzionali trasfusi?
+A) La sindrome nefrosica post-trasfusionale.
+B) La malattia da trapianto verso ospite trasfusionale (GVHD). *
+C) La sepsi da crioprecipitato.
+D) La TACO.
+E) La porpora trombotica trombocitopenica.
+
+DOMANDA: 147 Quale misura preventiva viene adottata per ridurre il rischio di GVHD trasfusionale in pazienti selezionati?
+A) La congelazione del plasma a -20 °C.
+B) L’aggiunta di citrato in eccesso.
+C) La sola tipizzazione AB0 inversa.
+D) La somministrazione universale di RhIg.
+E) L’irradiazione degli emocomponenti con cesio-137 o cobalto-60. *
+
+DOMANDA: 148 Quale categoria di pazienti è citata tra quelle che possono richiedere sangue irradiato?
+A) Tutti i donatori periodici maschi.
+B) Qualsiasi paziente con microalbuminuria.
+C) Pazienti sottoposti a trapianto di cellule emopoietiche. *
+D) Solo i pazienti con anemia sideropenica.
+E) Solo i soggetti di gruppo 0.
+
+DOMANDA: 149 Quale sistema antigenico è causa più frequente di HDFN (Hemolytic Disease of the Fetus and Newborn)?
+A) Il sistema MNS come causa predominante.
+B) Il sistema Lewis.
+C) Il sistema P.
+D) Il sistema AB0. *
+E) Il sistema Lutheran.
+
+DOMANDA: 150 In che contesto tipico si verifica la HDFN (Hemolytic Disease of the Fetus and Newborn) da sistema AB0?
+A) Madre di gruppo 0 con feto che eredita antigene A o B dal padre. *
+B) Madre AB con feto sempre di gruppo 0.
+C) Madre Bombay con feto Bombay.
+D) Madre Rh positiva con feto Rh negativo in assenza di antigeni AB0.
+E) Madre gruppo A con feto gruppo A.
+
+DOMANDA: 151 Perché il primo figlio è raramente affetto da HDFN (Hemolytic Disease of the Fetus and Newborn) anti-D?
+A) Perché il sistema Rh non è espresso alla nascita.
+B) Perché le IgM anti-D attraversano subito la placenta e proteggono il feto.
+C) Perché la sensibilizzazione materna anti-D in genere si sviluppa dopo l’esposizione agli eritrociti fetali e interessa maggiormente le gravidanze successive. *
+D) Perché il primo feto è sempre Rh negativo.
+E) Perché il padre trasmette D solo dal secondo concepimento in poi.
+
+DOMANDA: 152 A che cosa serve la determinazione del genotipo probabile dei genitori nei casi di possibile HDFN (Hemolytic Disease of the Fetus and Newborn)?
+A) A definire la quantità di fibrinogeno nel liquido amniotico.
+B) A stimare la probabilità che il feto erediti l’antigene responsabile e quindi il rischio di malattia. *
+C) A sostituire il DAT (Direct Antiglobulin Test) sul sangue del cordone.
+D) A stabilire il gruppo Lewis del neonato.
+E) A decidere il volume della sacca di plasma fresco congelato.
+
+DOMANDA: 153 In una coppia con padre eterozigote D/d e madre d/d, quale probabilità teorica ha il feto di essere D positivo?
+A) Il 75%.
+B) Lo 0%.
+C) Il 25%.
+D) Il 50%. *
+E) Il 100%.
+
+DOMANDA: 154 Quale procedura può essere necessaria nei casi di HDFN (Hemolytic Disease of the Fetus and Newborn) grave prima della nascita?
+A) La splenectomia materna.
+B) La trasfusione di plasma fresco congelato alla madre come unica terapia.
+C) La piastrinoaferesi materna terapeutica.
+D) La somministrazione di crioprecipitato al feto.
+E) La trasfusione intrauterina per correggere l’anemia fetale grave. *
+
+DOMANDA: 155 Quale test quantitativo è citato per misurare l’emorragia feto-materna e definire la dose di RhIg?
+A) L’elettroforesi dell’emoglobina del padre.
+B) La conta piastrinica del cordone ombelicale.
+C) Il test di eluizione acida di Kleihauer-Betke, in alternativa alla citometria a flusso. *
+D) La sola tipizzazione inversa AB0.
+E) Il test di Coombs diretto sul siero materno.
+
+DOMANDA: 156 Quale dose standard di immunoglobulina anti-Rh (RhIg) è indicata come sufficiente a prevenire l’immunizzazione nella grande maggioranza delle pazienti?
+A) 100 μg.
+B) 300 μg. *
+C) 600 μg.
+D) 1.000 μg.
+E) 30 μg.
+
+DOMANDA: 157 Quando viene raccomandata la profilassi antepartum con immunoglobulina anti-Rh (RhIg)?
+A) A 36 settimane di gestazione.
+B) A 20 settimane di gestazione.
+C) A 28 settimane di gestazione. *
+D) Solo dopo il parto, mai in gravidanza.
+E) A 12 settimane di gestazione.
+
+DOMANDA: 158 Per quanto tempo può persistere a concentrazioni rilevabili l’anti-D passivo dopo somministrazione di immunoglobulina anti-Rh (RhIg)?
+A) Oltre 2 anni in tutti i casi.
+B) Circa una settimana.
+C) Fino a circa 5 mesi. *
+D) Al massimo un mese.
+E) Solo 24 ore.
+
+DOMANDA: 159 Quale dato fa sospettare immunizzazione attiva materna e fallimento della profilassi con immunoglobulina anti-Rh (RhIg)?
+A) Rilevazione di anti-D oltre 6 mesi dopo il parto. *
+B) Gruppo AB0 materno diverso da quello paterno.
+C) Presenza di HbF nel sangue fetale.
+D) DAT (Direct Antiglobulin Test) negativo sul sangue del cordone.
+E) Assenza di anti-D dopo 12 ore dalla somministrazione di RhIg.
+
+DOMANDA: 160 Quale forma farmaceutica e via di somministrazione vengono riportate per la immunoglobulina anti-Rh (RhIg)?
+A) Sacca da 250 mL per infusione endovenosa continua.
+B) Compressa orale a rilascio ritardato.
+C) Cerotto transdermico a lento rilascio.
+D) Soluzione sterile di circa 1 mL da somministrare per via intramuscolare. *
+E) Aerosol per via inalatoria.

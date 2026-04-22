@@ -1,0 +1,5859 @@
+DOMANDA: 1 A che cosa e' dovuto l'effetto serra?
+A) ad un aumento del biossido di azoto nell'atmosfera
+B) ad un aumento dell'anidride solforica presente nell'atmosfera
+C) ad un aumento dell'anidride solforosa presente nell'atmosfera
+D) ad un aumento del monossido di azoto nell'atmosfera
+E) ad un aumento della anidride carbonica presente nell'atmosfera *
+
+DOMANDA: 2 A che cosa serve il forno Pasteur.
+A) per sterilizzare i terreni di coltura
+B) per sterilizzare la vetreria *
+C) per sterilizzare soluzione di zuccheri
+D) per incubare le colture
+E) per sterilizzare il siero
+
+DOMANDA: 3 A che cosa serve la filtrazione
+A) e' un metodo di sterilizzazione *
+B) e' un metodo di disinfezione
+C) e' un metodo di disinfestazione
+D) e' un metodo per ottenere la coltura pura
+E) e' un metodo di isolamento dei protozoi
+
+DOMANDA: 4 A che cosa serve l'agar
+A) a rendere solido un terreno di coltura *
+B) ad arricchire per i suoi fattori di accrescimento i terreni di coltura
+C) ad evidenziare alcune proprieta' biochimiche dei microrganismi
+D) a consentire lo sviluppo di specie batteriche molto esigenti
+E) ad impedire lo sviluppo di miceti
+
+DOMANDA: 5 A mezzo di quale fra le seguenti prove si saggia la sensibilita' di una persona alla tossina eritrogenica?
+A) prova di Dick *
+B) prova di Schick
+C) prova di Neufeld
+D) prova di Schultz- Dale
+E) prova di Castellani
+
+DOMANDA: 6 A mezzo di quale sostanza la tossina tetanica viene trasformata in anatossina?
+A) idrato di sodio
+B) formaldeide *
+C) acido fenico
+D) acetone
+E) beta-propiolattone
+
+DOMANDA: 7 A quale batterio e' attribuibile la putrefazione verde delle uova
+A) E. coli
+B) V. cholerae
+C) S.typhi
+D) Ps.fluorescens *
+E) S.marcescens
+
+DOMANDA: 8 A quale dei seguenti eventi genetici viene riferito il termine antigenic shift del virus influenzale?
+A) Mutazione puntiforme
+B) Trasformazione
+C) Conversione genica
+D) Ricombinazione *
+E) Reversione
+
+DOMANDA: 9 A quale famiglia appartengono i virus BK e JC?
+A) Herpesvirus
+B) Orthomyxovirus
+C) Poliomavirus *
+D) Retrovirus
+E) Poxvirus
+
+DOMANDA: 10 A quale famiglia appartiene il virus del mollusco contagioso ?
+A) Caliciviridae
+B) Reoviridae
+C) Poxviridae *
+D) Arenaviridae
+E) Filoviridae
+
+DOMANDA: 11 A quale famiglia appartiene il virus dell'epatite C?
+A) Picornavirus
+B) Flavivirus *
+C) Rhabdovirus
+D) Hepadnavirus
+E) Papovavirus
+
+DOMANDA: 12 A quale fenomeno e' da attribuire la variazione stagionale delle caratteristiche antigeniche del virus influenzale A?
+A) Mutazione puntiforme *
+B) Trasformazione
+C) Conversione genica
+D) Ricombinazione genica
+E) Traslocazione
+
+DOMANDA: 13 A quale fine viene usato in batteriologia il dispositivo alla DURHAM?
+A) per mettere in evidenza l'emolisi
+B) per mettere in evidenza la produzione di gas *
+C) per mettere in evidenza la produzione di indolo
+D) per mettere in evidenza la liquefazione della gelatina
+E) per tamponare il p H del terreno
+
+DOMANDA: 14 A quale fra i seguenti generi appartiene l'agente eziologico del carbonchio
+A) Bacillus *
+B) Clostridium
+C) Pseudomonas
+D) Corynebacterium
+E) Vibrio
+
+DOMANDA: 15 A quale fra i seguenti generi appartiene l'agente eziologico della tubercolosi?
+A) Borrelia
+B) Bordetella
+C) Bacillus
+D) Mycobacterium *
+E) Corynebacterium
+
+DOMANDA: 16 A quale fra i seguenti generi appartiene un batterio capace di formare una enterotossina?
+A) Staphylococcus *
+B) Streptococcus
+C) Brucella
+D) Proteus
+E) Neisseria
+
+DOMANDA: 17 A quale fra i seguenti gruppi di virus appartiene il virus della coriomeningite linfocitaria?
+A) poxvirus
+B) parvovirus
+C) paramyxovirus
+D) arenavirus *
+E) coronavirus
+
+DOMANDA: 18 A quale fra i seguenti gruppi di virus appartiene il virus SV40?
+A) poxvirus
+B) herpesvirus
+C) poliomavirus *
+D) lentivirus
+E) retrovirus
+
+DOMANDA: 19 A quale fra i seguenti tipi di ipersensibilita' appartiene il fenomeno di Arthus?
+A) ipersensibilita' immediata
+B) ipersensibilita' citotossica
+C) ipersensibilita' da complessi immuni *
+D) ipersensibilita' di tipo ritardato
+E) ipersensibilita' stimolatoria
+
+DOMANDA: 20 A quale fra i seguenti tipi di ipersensibilita' appartiene la malattia da siero?
+A) ipersensibilita' immediata
+B) ipersensibilita' citotossica
+C) ipersensibilita' da complessi immuni *
+D) ipersensibilita' di tipo ritardato
+E) ipersensibilita' stimolatoria
+
+DOMANDA: 21 A quale fra i seguenti tipi di ipersensibilita' appartiene la reazione tubercolinica?
+A) ipersensibilita' immediata
+B) ipersensibilita' citotossica
+C) ipersensibilita' da complessi immuni
+D) ipersensibilita' di tipo ritardato *
+E) ipersensibilita' stimolatoria
+
+DOMANDA: 22 A quale fra i seguenti tipi di ipersensibilita' appartiene lo Shock anafilattico?
+A) ipersensibilita' immediata *
+B) ipersensibilita' citotossica
+C) ipersensibilita' da complessi immuni
+D) ipersensibilita' di tipo ritardato
+E) ipersensibilita' stimolatoria
+
+DOMANDA: 23 A quale fra le seguenti temperature deve essere sottoposto per un'ora un materiale per essere sterilizzato nella stufa a secco ?
+A) 100 gradi centigradi
+B) 110 gradi centigradi
+C) 120 gradi centigradi
+D) 140 gradi centigradi
+E) 160 gradi centigradi *
+
+DOMANDA: 24 A quale fra questi generi appartiene l'agente eziologico della congiuntivite da inclusi ?
+A) Neisseria
+B) Moraxella
+C) Rickettsia
+D) Mycoplasma
+E) Chlamydia *
+
+DOMANDA: 25 A quale fra questi gruppi di virus appartiene il virus di Epstein- Barr?
+A) Papovavirus
+B) Adenovirus
+C) Herpesvirus *
+D) Parvovirus
+E) Picornavirus
+
+DOMANDA: 26 A quale fra questi gruppi di virus appartiene l'agente eziologico della varicella?
+A) Poxvirus
+B) Herpesvirus *
+C) Adenovirus
+D) Togavirus
+E) Picornavirus
+
+DOMANDA: 27 A quale fra questi gruppi di virus appartiene l'agente eziologico dell'erpangina (faringite follicolare)?
+A) Poxvirus
+B) Herpes virus
+C) Reovirus
+D) Coxsackievirus *
+E) Togavirus
+
+DOMANDA: 28 A quale genere appartiene l'agente della turalemia ?
+A) Pasteurella
+B) Yersinia
+C) Francisella *
+D) Morganella
+E) Haemophilus
+
+DOMANDA: 29 A quale genere appartiene l'agente eziologico del colera?
+A) Vibrio *
+B) Escherichia
+C) Salmonella
+D) Enterobacter
+E) Bacillus
+
+DOMANDA: 30 A quale gruppo di sostanze chimiche appartiene la cefalosporina C
+A) glicidi
+B) glicoproteine
+C) lipoproteine
+D) lipidi
+E) peptidi *
+
+DOMANDA: 31 A quale gruppo di sostanze chimiche appartiene la penicillina
+A) glicidi
+B) glicoproteine
+C) lipoproteine
+D) peptidi *
+E) polisaccaridi
+
+DOMANDA: 32 A quale gruppo di virus appartengono i virus adeno-satelliti?
+A) Picornavirus
+B) Parvovirus *
+C) Calicivirus
+D) Iridovirus
+E) Retrovirus
+
+DOMANDA: 33 A quale gruppo sierologico appartengono gli Streptococchi responsabili di meningiti neonatali ?
+A) A
+B) B *
+C) C
+D) D
+E) G
+
+DOMANDA: 34 A quale temperatura, a quale pressione e per quanto tempo si usa l'autoclave per sterilizzare i terreni di coltura.
+A) 115,5 gradi centigradi - 0,7 atm - 20 min *
+B) 200 gradi centigradi - 4 atm - 1 ora
+C) 60 gradi centigradi - 0,1 atm - 10 min
+D) 180 gradi centigradi - 1 atm - 45 min
+E) 80 gradi centigradi - 1 atm - 15 min
+
+DOMANDA: 35 A quale tipo di attivita' enzimatica dei batteri e' dovuta la liquefazione della gelatina?
+A) saccarolitica
+B) lipolitica
+C) proteolitica *
+D) fosfolipasica
+E) DNA asica
+
+DOMANDA: 36 A quale tipo di reazione antigene-anticorpo e' riportabile il fenomeno di Pfeiffer?
+A) neutralizzazione di una tossina
+B) agglutinazione
+C) precipitazione
+D) batteriolisi *
+E) conglutinazione
+
+DOMANDA: 37 A quali fra i seguenti gruppi di virus appartiene il virus di Friend?
+A) papovavirus
+B) oncornavirus *
+C) parvovirus
+D) coronavirus
+E) togavirus
+
+DOMANDA: 38 A quanto corrisponde un nanometro?
+A) 10 alla -3 metri
+B) 10 alla -6 metri
+C) 10 alla -9 metri *
+D) 10 alla -12 metri
+E) 10 alla -15 metri
+
+DOMANDA: 39 Acanthamoeba castellani è parassita
+A) obbligato
+B) permanente
+C) accidentale
+D) facoltativo ed opportunista *
+E) non è un parassita
+
+DOMANDA: 40 Actinomyces e' un genere di:
+A) funghi anaerobi
+B) batteri anaerobi *
+C) microrganismi con abbondante micelio aereo
+D) microrganismi acido resistenti
+E) agenti di malattie generalizzate
+
+DOMANDA: 41 Al fenomeno L E (cellule specifiche riscontrate nel lupus eritematoso sistemico) partecipano:
+A) i basofili
+B) i T linfociti
+C) i B linfociti
+D) i polimorfonucleati neutrofili *
+E) le piastrine
+
+DOMANDA: 42 All'atto dell'isolamento la S.typhi richiede, nei terreni sintetici, la presenza di:
+A) triptofano *
+B) cisteina
+C) alanina
+D) valina
+E) prolina
+
+DOMANDA: 43 Bagnarsi in acque stagnanti in zona tropicale puo' comportare rischi di contrarre:
+A) Plasmodium falciparum
+B) Taenia saginata
+C) Onchocerca volvulus
+D) Schistosoma mansoni *
+E) Trypanosoma gambiense
+
+DOMANDA: 44 Borrelia burgdorferi è responsabile di quale patologia?
+A) Malattia di Lyme *
+B) Colite pseudomembranosa
+C) Sindrome sistemica acuta
+D) Linfogranuloma venereo
+E) Febbre di Pontiac
+
+DOMANDA: 45 Che cosa e' il 5-bromo-uracile?
+A) analogo della timina *
+B) analogo della citosina
+C) componente dell' RNA
+D) antimicotico
+E) componente del nucleolo
+
+DOMANDA: 46 Che cosa e' il Dalton?
+A) un genetista svedese
+B) la prima cresta mitocondriale batterica
+C) un codone di terminazione
+D) un elemento dell'ottavo gruppo chimico
+E) unita' di peso *
+
+DOMANDA: 47 Che cosa e' il malto, utilizzato per la produzione della birra
+A) semi di grano tostato
+B) semi di orzo tostato
+C) semi di orzo germinato *
+D) farina di mais
+E) farina di grano
+
+DOMANDA: 48 Che cosa e' il peptidoglicano
+A) un componente della parete cellulare *
+B) un componente della membrana citoplasmatica
+C) una sostanza di riserva che si trova nel citoplasma
+D) un componente delle ciglia
+E) un componente della spora
+
+DOMANDA: 49 Che cosa e' il peptidoglicano ?
+A) una glicoproteina che viene sintetizzata dai batteri Gram-negativi al momento della divisione cellulare
+B) componente fondamentale della parete cellulare batterica *
+C) il componente fondamentale della parete cellulare dei soli batteri Gram-positivi
+D) il componente fondamentale della parete cellulare dei soli batteri Gram-negativi
+E) il componente fondamentale della parete cellulare dei citoplasmi
+
+DOMANDA: 50 Che cosa e' il processo di trascrizione?
+A) la traduzione dell' RNA in proteine
+B) la lettura di un antibiogramma
+C) la sintesi proteica
+D) la replicazione del DNA
+E) la sintesi di una sequenza di RNA indotta da DNA *
+
+DOMANDA: 51 Che cosa e' il virus fisso
+A) un virus che e' fissato alla cellula ospite
+B) un virus latente
+C) un virus non infettivo
+D) un virus incapace di riprodursi
+E) un virus della rabbia modificato *
+
+DOMANDA: 52 Che cosa e' l' Elisa test?
+A) un saggio immunoenzimatico *
+B) un test radio immunologica
+C) una prova di emagglutinazione passiva
+D) una colorazione di microscopia elettronica
+E) un metodo per calcolare il titolo virale
+
+DOMANDA: 53 Che cosa e' la cellula di Koch ?
+A) un particolare tipo di cappa a flusso laminare
+B) un recipiente usato per la sterilizzazione a vapore
+C) un particolare del microscopio elettronico
+D) un portaoggetti di vetro con al centro una depressione emisferica *
+E) una piastra usata per l'antibiogramma
+
+DOMANDA: 54 Che cosa e' la colimetria
+A) la ricerca dei batteri lattosio-negativi
+B) la ricerca del numero dei coliformi *
+C) la ricerca del numero degli streptococchi fecali
+D) la determinazione di dimensioni dei coliformi
+E) una colorazione specifica per E. coli
+
+DOMANDA: 55 Che cosa e' la coniugazione?
+A) la fusione di 2 nuclei
+B) la fusione e ricombinazione di 2 citoplasmi
+C) processo di divisione cellulare
+D) passaggio di RNA da una cellula batterica ad un'altra
+E) passagggio di DNA da una cellula batterica ad un'altra *
+
+DOMANDA: 56 Che cosa e' la conversione fagica?
+A) produzione di una sostanza in seguito ad infezione fagica *
+B) mutazione del DNA fagico
+C) replicazione del DNA fagico
+D) delezione del DNA fagico
+E) inizio della lisogenesi
+
+DOMANDA: 57 Che cosa e' la penicillinasi ?
+A) un polisaccaride
+B) una penicillina ad ampio spettro d'azione
+C) un lipide
+D) una penicillina a spettro d'azione specifico
+E) una proteina *
+
+DOMANDA: 58 Che cosa e' la ricombinazione?
+A) l'espressione di un codone
+B) l'apparire nella progenie di un genotipo diverso dai genotipi parentali *
+C) respirazione mitocondriale
+D) una combinazione di geni rarissima
+E) un enzima che lega covalentemente la catena di DNA
+
+DOMANDA: 59 Che cosa e' la selenometionina?
+A) un metallo
+B) un mutageno
+C) un sale
+D) un analogo tossico *
+E) un glicide
+
+DOMANDA: 60 Che cosa e' la trasduzione?
+A) la traduzione del messaggio genetico da parte dell' RNA per la sintesi proteica
+B) il trasferimento di geni batterici da un batterio ad un'altro mediante batteriofago *
+C) un enzima di restrizione
+D) un inibitore della RNA polimerasi
+E) un particolare evento di trasposizione
+
+DOMANDA: 61 Che cosa e' la trasformazione?
+A) l'evoluzione di un batterio a virus
+B) l'evoluzione di un virus a batterio
+C) cambiamento di struttura di una proteina
+D) una modificazione genetica dovuta a incorporazione di DNA in una cellula *
+E) la variazione di RNA transfer a ribosomiale
+
+DOMANDA: 62 Che cosa e' un antibiogramma?
+A) un metodo per la determinazione della crescita batterica
+B) un metodo per la determinazione degli antibiotici piu' diffusi in Italia
+C) un metodo che permette di determinare la sensibilita' dei microrganismi agli antibiotici *
+D) un metodo industriale per la sintesi degli antibiotici
+E) un metodo che permette di identificare i microrganismi
+
+DOMANDA: 63 Che cosa e' un antibiotico?
+A) un disinfettante attivo contro i batteri
+B) una sostanza che facilita la moltiplicazione batterica
+C) un farmaco con attivita' terapeutica a livello dell'apparato enterico
+D) un farmaco con attivita' terapeutica a livello dell'apparato genito - urinario
+E) un farmaco con attivita' antibatterica *
+
+DOMANDA: 64 Che cosa e' un codone
+A) una sequenza di 2 nucleotidi adiacenti che codificano per un aminoacido
+B) una sequenza di 3 nucleotidi adiacenti che codificano per un aminoacido *
+C) una sequenza di 4 nucleotidi adiacenti che codificano per un aminoacido
+D) una sequenza di 5 nucleotidi adiacenti che codificano per un aminoacido
+E) un flagello batterico
+
+DOMANDA: 65 Che cosa e' un enzima di restrizione?
+A) un enzima che riduce la dimensione dei batteri
+B) un enzima che taglia una doppia elica di DNA a sequenze specifiche *
+C) un enzima che taglia una doppia elica di RNA a sequenze specifiche
+D) un enzima del ciclo di Krebs
+E) un enzima della catena respiratoria
+
+DOMANDA: 66 Che cosa e' un fago temperato?
+A) un batterio temperatura sensibile
+B) un virus temperatura sensibile
+C) un tratto di DNA resistente ai farmaci
+D) un virus capace di penetrare nel batterio per fagocitosi
+E) un virus batterico che non esprime attivita' litica *
+
+DOMANDA: 67 Che cosa e' un fattore R?
+A) un fattore che rende le cellule batteriche rugose
+B) un elemento nutrizionale richiesto per la crescita di alcuni batteri
+C) un plasmide che codifica per la resistenza ai farmaci *
+D) un ribosoma
+E) un lisosoma particolare
+
+DOMANDA: 68 Che cosa e' un fermentatore
+A) un iniziatore della crescita batterica
+B) un recipiente in cui avviene il processo fermentativo *
+C) una sostanza nutritiva necessaria a che avvenga il processo fermentativo
+D) un fattore di crescita per batteri anaerobi
+E) una sostanza che facilita la fermentazione del latte
+
+DOMANDA: 69 Che cosa e' un gene soppressore?
+A) un gene che sopprime l'effetto genetico di una mutazione
+B) un gene che sopprime l'effetto fenotipico di mutazioni in altri geni *
+C) un gene che sopprime il batterio
+D) un gene che impedisce la penetrazione fagica
+E) un gene che sopprime tutta la sintesi proteica
+
+DOMANDA: 70 Che cosa e' un nucleotide?
+A) un nucleo piu' piccolo della norma
+B) un estere fosforico di un nucleoside *
+C) un tratto di DNA extracromosomiale
+D) l'enzima che lega le basi del DNA
+E) il nucleo di un protide
+
+DOMANDA: 71 Che cosa e' un operone?
+A) una proteina
+B) un ormone
+C) un gene strutturale
+D) un gene regolatore
+E) un'unita' costituita da geni *
+
+DOMANDA: 72 Che cosa e' un plasmide temperatura sensibile?
+A) un plasmide che si replica a tutte le temperature
+B) un virion virulento
+C) un pezzo di cromosoma sensibile alla temperatura
+D) un plasmide che replica solo a temperature permissive *
+E) un plasmide che richiede la temperatura di 37 gradi centigradi per aumentare il suo volume
+
+DOMANDA: 73 Che cosa e' uno stabulario?
+A) un luogo dove si tengono gli animali per l'esecuzione delle prove biologiche *
+B) un luogo dove si conservano le bilance di precisione
+C) un luogo dove si conservano i campioni per gli esami microbiologici
+D) un apparecchio per l'analisi dei risultati
+E) un raccoglitore per i vetrini colorati
+
+DOMANDA: 74 Che cosa si intende per eutrofizzazione?
+A) presenza di sostanze organiche ed inorganiche nell'ecosistema acquatico
+B) drastica diminuzione della quantita' di ossigeno negli ambienti acquatici
+C) fenomeno che si verifica quando, in eccesso di sostanze nutritive , si ha un'eccessiva crescita di alghe che decomponendos, determinano una drastica riduzione di ossigeno *
+D) fenomeno che si verifica in seguito a cambiamenti climatici (aumento della temperatura media stagionale e dell'umidita' relativa) promuovendo la crescita di alghe
+E) microflora presente nel sedimento del fondo marino
+
+DOMANDA: 75 Che cosa si intende per immunocomplesso
+A) l'insieme delle classi di Ig
+B) il complesso antigene-anticorpo *
+C) proteine sieriche
+D) sostanza che stimola la formazione di anticorpi
+E) l'insieme di antigeni
+
+DOMANDA: 76 Che cosa si intende per omotrapianto
+A) trapianto da una regione all'altra dello stesso individuo
+B) trapianto da un individuo all'altro geneticamente identici
+C) trapianto da un individuo all'altro della medesima specie ma geneticamente identici *
+D) trapianto tra individui di specie diversa
+E) trapianto da un donatore immunizzato ad uno non immune
+
+DOMANDA: 77 Che cosa si intende per spettro d'ospite di un virus ?
+A) la capacita' di un virus di infettare le cellule di una o piu' specie animali *
+B) il tipo di colorazione adoperata per identificare un virus al microscopio ottico
+C) i metodi biochimici usati per fare diagnosi differenziale di una infezione virale rispetto ad un'altra
+D) la separazione di particelle virali su gradienti di saccarosio
+E) l'inibizione della replicazione virale
+
+DOMANDA: 78 Che cosa si intende per virus nudi:
+A) virus privi di acidi nucleici
+B) virus privi di capside
+C) virus privi di involucro pericapsidico *
+D) virus privi di simmetria
+E) virus difettivi
+
+DOMANDA: 79 Che cosa sono i corpi del Negri
+A) inclusioni citoplasmatiche da rabdovirus *
+B) inclusioni nucleari da herpesvirus
+C) particolari alterazioni cromosomiche
+D) effetti tossici indotti da virus
+E) formazioni di sincizi in colture cellulari
+
+DOMANDA: 80 Che cosa sono i pentoni?
+A) capsomeri di capsidi isometrici *
+B) batteriofagi
+C) viroidi
+D) fibre di adenovirus
+E) frammenti di DNA
+
+DOMANDA: 81 Che cosa sono i reovirus ?
+A) sono i virus con genoma costituito da RNA a doppio filamento segmentato *
+B) sono virus a DNA a doppia elica con genoma lineare
+C) sono virus a RNA a singola elica
+D) sono virus che usano la trascrittasi inversa per replicarsi
+E) sono fagi temperati
+
+DOMANDA: 82 Che cosa sono le fimbrie
+A) appendici della cellula batterica deputate al movimento
+B) appendici della cellula batterica che possono intervenire nei fenomeni di coniugazione *
+C) inclusioni citoplasmatiche
+D) organelli deputati alla divisione della sostanza nucleare
+E) organelli interessati nella divisione cellulare
+
+DOMANDA: 83 Che cosa sono le infezioni latenti:
+A) infezioni da virus defettivi
+B) infezioni persistenti a decorso inapparente *
+C) infezioni sub-acute
+D) infezioni precancerose
+E) infezioni da virus lenti
+
+DOMANDA: 84 Che cosa sono le poliproteine?
+A) proteine virioniche che svolgono molteplici funzioni
+B) proteine che facilitano l'automontaggio dei virioni
+C) proteine cellulari codificate da esogenoti tradotti dai fagi
+D) precursori delle proteine mature prodotti per traduzione di messaggeri monocistronici *
+E) proteine virali dotate di attività polimerasica
+
+DOMANDA: 85 Che cos'e' il capside?
+A) e' il rivestimento proteico che racchiude il genoma virale *
+B) e' un recettore di membrana dei linfociti T
+C) e' una glicoproteina del virus dell'epatite A
+D) e' un rivestimento multimerico proprio del virus HIV
+E) il rivestimento lipidico caratteristico dei virus con "envelope"
+
+DOMANDA: 86 Che cos'e' il tropismo di un virus ?
+A) la capacita' di raggiungere un determinato organo e di infettare cellule di un determinato tessuto *
+B) il potere citopatico di un virus
+C) la capacita' di mutare in seguito a pressione selettiva
+D) l'insieme dei meccanismi di evasione dalle difese immunitarie dell'ospite
+E) l'efficenza di replicazione in determinate condizioni ambientali
+
+DOMANDA: 87 Che cos'e' la soluzione fisiologica.
+A) soluzione di Na Cl al 9 per mille *
+B) soluzione di Na Cl al 9 per cento
+C) soluzione di Na Cl al 90 per cento
+D) soluzione di Na OH al 10 per cento
+E) soluzione di Na Cl2 al 10 per cento
+
+DOMANDA: 88 Che cos'e' la trascrittasi inversa ?
+A) e' un enzima caratteristico dei retrovirus *
+B) e' un enzima proprio dei reovirus
+C) un enzima cellulare utilizzato per la replicazione virale
+D) e' un enzima caratteristico dei virus parainfluenzali
+E) e' un enzima presente in tutti i virus tranne che nei retrovirus
+
+DOMANDA: 89 Che cos'e' l'interferon?
+A) un sistema di difesa antivirale operante nelle prime fasi di un'infezione virale *
+B) la stimolazione degli anticorpi antivirali nella infezione primaria
+C) il meccanismo di produzione dei vaccini
+D) un sistema di isolamento virale
+E) un tipo di replicazione virale
+
+DOMANDA: 90 Che cos'e' l'isolamento virale ?
+A) un presidio sanitario applicabile in caso di malattie virali ad alto grado di contagiosita'
+B) un procedimento diagnostico *
+C) un tipo di terapia antivirale
+D) l'effetto della replicazione virale sulla cellula ospite
+E) il meccanismo di trasmissione materno-fetale di un'infezione virale
+
+DOMANDA: 91 Che cos'e' un macrofago
+A) un piccolo linfocita
+B) una plasmacellula
+C) grande cellula ad attivita' fagocitaria *
+D) una cellula che produce anticorpi
+E) una piccola cellula ad attivita' fagocitaria
+
+DOMANDA: 92 Che dimensioni hanno i Picornavirus?
+A) 90 - 190 nm.
+B) 20 - 30 nm. *
+C) 230 - 300 nm.
+D) 60 - 100 nm.
+E) 500 - 800 nm.
+
+DOMANDA: 93 Che dimensioni hanno gli Herpesvirus?
+A) 120 - 200 nm. *
+B) 20 - 30 nm.
+C) 230 - 300 nm.
+D) 60 - 100 nm.
+E) 500 - 800 nm.
+
+DOMANDA: 94 Che tipo di catene pesanti si trovano sulle Ig G
+A) epsilon
+B) delta
+C) gamma *
+D) gamma e delta
+E) gamma ed epsilon
+
+DOMANDA: 95 Che tipo di genoma ha il virus dell'epatite B?
+A) RNA a doppio filamento
+B) DNA circolare parzialmente bicatenario *
+C) DNA segmentato
+D) RNA a filamento negativo
+E) DNA lineare a doppio filamento
+
+DOMANDA: 96 Che tipo di genoma presenta il virus dell'epatite C ?
+A) ha un genoma ad RNA lineare *
+B) ha un genoma ad RNA a doppio filamento
+C) ha un genoma a DNA a doppia elica
+D) ha il genoma tipico dei rabdovirus
+E) ha un genoma distinto in piu' frammenti di RNA
+
+DOMANDA: 97 Che tipo di inclusioni si formano nelle cellule infettate con il virus dell'herpes simplex:
+A) corpi del Negri
+B) granuli di Babes Ernst
+C) granuli di Much
+D) corpi di Lipschutz *
+E) corpi di Guarnieri
+
+DOMANDA: 98 Col nome di ameba si indica:
+A) un germe patogeno
+B) un normale commensale dell'intestino
+C) l'agente della dissenteria
+D) un protozoo dotato di movimento *
+E) un insieme di elementi unicellulari
+
+DOMANDA: 99 Come avviene la penetrazione del fago nel batterio?
+A) per pinocitosi
+B) per fagocitosi
+C) con un processo attivo da parte del fago *
+D) mediante uno shock termico
+E) per viropessi
+
+DOMANDA: 100 Come classifichereste il virus HIV responsabile della sindrome da immunodeficenza acquisita (AIDS) ?
+A) e' un retrovirus con genoma a RNA diploide *
+B) e' un virus a DNA a doppio filamento
+C) e' un virus a DNA a singolo filamento
+D) e' un reovirus
+E) e' un picornavirus
+
+DOMANDA: 101 Com'e' costituito il genoma del virus Delta dell'epatite ?
+A) da una molecola circolare di RNA monocatenario *
+B) da una molecola circolare di DNA bicatenario
+C) da una molecola di DNA circolare parzialmente bicatenario
+D) da una molecola di RNA lineare monocatenario
+E) da una molecola di RNA lineare bicatenario
+
+DOMANDA: 102 Come e' costituito il genoma dei Retrovirus ?
+A) da una molecola di RNA
+B) da due molecole identiche di RNA *
+C) da una molecola di DNA circolare
+D) da una molecola di DNA a singola elica
+E) da una molecola di DNA a doppia elica
+
+DOMANDA: 103 Come e' prodotto un enzima costitutivo?
+A) in seguito ad induzione
+B) senza induzione *
+C) in seguito a shock termico
+D) in condizioni sfavorevoli
+E) in anaerobiosi
+
+DOMANDA: 104 Come si chiama la reazione indotta dal trapianto nell'ospite
+A) Graft- Versus- Host *
+B) agglutinazione
+C) precipitazione
+D) emoagglutinazione
+E) allergia
+
+DOMANDA: 105 Come si chiamano le sostanze capaci di incrementare la risposta immune verso l'antigene con cui vengono inoculate
+A) immunogeni
+B) adiuvanti *
+C) apteni
+D) anticorpi
+E) tossine
+
+DOMANDA: 106 Come si esplica l'azione patogena degli anchilostomi adulti ?
+A) nella formazione di cisti che possono comprimere gli organi interni
+B) nella formazione di noduli sottocutanei
+C) nell'induzione di un'anemia ipocromica microcitica *
+D) nel blocco dei dotti biliari
+E) nella formazione di cisti nei muscoli
+
+DOMANDA: 107 Come si inattiva il complemento
+A) tenendo il siero per 4 ore a 37 gradi centigradi
+B) tenendo il siero per 30' a 56 gradi centigradi *
+C) tenendo il siero per 1 ora a temperatura ambiente
+D) congelando e scongelando il siero
+E) filtrando il siero
+
+DOMANDA: 108 Come si osservano i preparati batterici colorati
+A) con osservazione in campo oscuro
+B) con obiettivo a secco
+C) con obiettivo ad immersione con olio di cedro *
+D) con obiettivo ad immersione con acqua
+E) con illuminazione a contrasto di fase
+
+DOMANDA: 109 Come sono indicati nel genere salmonella gli antigeni somatici O?
+A) con le lettere maiuscole dell'alfabeto
+B) con le lettere minuscole dell'alfabeto
+C) con i numeri arabi *
+D) con i numeri romani
+E) con una lettera e un numero arabo
+
+DOMANDA: 110 Come viene calcolato il potere opsonico di un siero?
+A) calcolando il tempo necessario alla uccisione di un numero noto di batteri
+B) calcolando il tempo necessario alla immobilizzazione di un numero noto di batteri
+C) calcolando il numero totale di leucociti necessari ad uccidere un batterio
+D) calcolando il numero medio di batteri fagocitati per leucociti *
+E) calcolando il numero di batteri sopravvisuti dopo contatto con i leucociti
+
+DOMANDA: 111 Come viene definito un batterio che cresce bene a basse temperature ed e' inibito da temperature superiori a 30 gradi centigradi?
+A) alofilo
+B) barofilo
+C) psicrofilo *
+D) osmofilo
+E) termofilo
+
+DOMANDA: 112 Come viene effettuata la ricerca della tossina botulinica negli alimenti:
+A) con l'inoculazione in topini per via peritoneale *
+B) con l'inoculazione in uova embionate di pollo
+C) con l'inoculazione per via intracerebrale nel coniglio
+D) in criceto neonato
+E) nel pulcino
+
+DOMANDA: 113 Come viene trasmessa la criptosporidiosi ?
+A) per ingestione di oocisti emesse con le feci *
+B) tramite ingestione di un ospite intermedio
+C) tramite la puntura di un insetto ematofago
+D) per contatto sessuale
+E) per penetrazione attraverso la cute
+
+DOMANDA: 114 Compie una parte del ciclo negli epatociti
+A) Enterobius vermicularis
+B) Fasciola hepatica
+C) Plasmodium vivax *
+D) Giardia intestinalis
+E) Leishmania donovani
+
+DOMANDA: 115 Con fattore R si indica:
+A) un fattore della riproduzione
+B) un fattore della replicazione
+C) un fattore di ricombinazione
+D) un fattore di resistenza *
+E) un fattore di richiamo
+
+DOMANDA: 116 Con l'espressione "attivita' sinergica di 2 sostanze antibatteriche" si definisce:
+A) un effetto additivo tra sostanze
+B) il potenziamento dell'attivita' delle 2 sostanze rispetto al semplice effetto additivo *
+C) una diminuzione dell'attivita' complessiva
+D) una modificazione del meccanismo d'azione di 1 delle sostanze
+E) la perdita di attivita' di una delle 2 sostanze in presenza dell'altra
+
+DOMANDA: 117 Con quale apparecchio si effettua la tecnica della sterilizzazione a vapore ?
+A) becco di Bunsen
+B) forno Pasteur
+C) bagnomaria
+D) autoclave *
+E) cappa laminare
+
+DOMANDA: 118 Con quale fra i seguenti batteri fu messo in evidenza il fenomeno di Griffith (trasformazione)?
+A) Staphylococcus aureus
+B) Diplococcus pneumoniae *
+C) Salmonella typhi
+D) Mycobacterium tubercolosis
+E) Spirillum volutans
+
+DOMANDA: 119 Con quale fra le seguenti colorazioni puo' essere osservato il batterio della lebbra?
+A) GRAM
+B) GINS
+C) ZIEHL-NEELSEN *
+D) GIEMSA
+E) JANET
+
+DOMANDA: 120 Con quale fra queste tecniche puo' essere mantenuto in laboratorio un ceppo di Treponemia Pallidum?
+A) coltivazione in agar sangue in anaerobiosi
+B) coltivazione in terreno di Brewer
+C) coltivazione nella cavita' amniotica dell'uovo di pollo fecondato
+D) incoculazione nel testicolo di coniglio *
+E) coltivazione in fibroblasti umani
+
+DOMANDA: 121 Con quale fra questi mezzi viene inattivato il virus rabico nella preparazione del vaccino secondo Semple e Fermi?
+A) calore
+B) raggi UV
+C) formaldeide
+D) acido fenico *
+E) solfato di protamina
+
+DOMANDA: 122 Con quale fra questi trattamenti possono essere rimossi dal siero gli inibitori non anticorpali attivi verso l'emoagglutinazione da virus della rosolia?
+A) RDE
+B) periodato di potassio
+C) destrano solfato- Ca Cl2 *
+D) riscaldamento a 56 gradi
+E) formalina al 4%
+
+DOMANDA: 123 Con quale lettera dell'alfabeto e' designata una proteina presente nella struttura superficiale dello streptococco di gruppo A e sempre presente nei ceppi virulenti?
+A) C
+B) D
+C) H
+D) M *
+E) V
+
+DOMANDA: 124 Con quale tecnica puo' essere studiata la struttura di un virione
+A) con il microscopio ottico in campo oscuro
+B) con studi di diffrazione dei raggi *
+C) con l'ultracentrifugazione
+D) con la cormotografia per affinita'
+E) con l'immunofluorescenza
+
+DOMANDA: 125 Cosa e' una coltura in chemostato?
+A) una coltura irradiata con luce artificiale
+B) una coltura in bagno termostatico
+C) una coltura il cui volume e' tenuto costante mediante l'aggiunta di terreno fresco e contemporanea rimozione di uno stesso volume di coltura *
+D) una coltura raffreddata in ghiaccio
+E) una coltura la cui composizione chimica si mantiene costante mediante una simbiosi tra due batteri
+
+DOMANDA: 126 Cosa si intende con la sigla MIC?
+A) Concentrazione Minima Inibente *
+B) Inefficacia Microbica del Chemioterapico
+C) Metodo di Induzione dei Chemioterapici
+D) Minima concentrazione di inoculo
+E) Metodo di Inclusione Citoplasmatica
+
+DOMANDA: 127 Cosa si intende per adiuvante?
+A) una sostanza che esalta l'azione di una esototossina
+B) una sostanza che aumenta l'attivita' antigenica *
+C) una sostanza che facilita la lisi delle emazie
+D) una sostanza che facilita la diffusione di un antibiotico
+E) una sostanza che esalta l'azione di un chemioterapico
+
+DOMANDA: 128 Cosa si intende per azione battericida di un farmaco antibatterico?
+A) inibizione temporanea della crescita batterica
+B) uccisione dei batteri *
+C) inibizione definitiva e/o temporanea della crescita batterica
+D) nessuna inibizione della crescita batterica
+E) aumento della crescita batterica
+
+DOMANDA: 129 Cosa si intende per azione batteriostatica di un farmaco antibatterico?
+A) inibizione temporanea della crescita batterica *
+B) inibizione definitiva della crescita batterica
+C) inibizione definitiva e/o temporanea della crescita batterica
+D) nessuna inibizione della crescita batterica
+E) aumento della crescita batterica
+
+DOMANDA: 130 Cosa si intende per nitrificazione?
+A) ossidazione di nitrito a nitrato per opera del Nitrobacter
+B) ossidazione dell'ammoniaca a nitrito per opera del Nitrosomonas
+C) ossidazione dell'ammoniaca a nitrato *
+D) ossidazione dell'amoniaca a nitrito per opera del Nitrobacter
+E) nessuna delle risposte citate
+
+DOMANDA: 131 Cosa si intende per produttori primari?
+A) organismi che sintizzano sostanza organica utilizzando la luce solare e l'anidride carbonica *
+B) microrganismi che instaurano un rapporto di associazione con le piante acquatiche o con le alghe
+C) microrganismi acquatici in grado di produrre sostanze a basso peso molecolare
+D) organismi che sintetizzano sostanza organica utilizzando la luce solare
+E) organismi che sintetizzano sostanza organica utilizzando luce solare ed ossigeno
+
+DOMANDA: 132 Cosa si intende per resistenza batterica agli antibiotici?
+A) capacita' di un microrganismo di resistere ad alte temperature
+B) capacita' di un microrganismo di moltiplicarsi anche in presenza di concentrazioni elevate dell'antibiotico *
+C) capacita' di un microrganismo di non moltiplicarsi anche in presenza di concentrazioni inibitorie dell'antibiotico
+D) capacita' dell'antibiotico di resistere ai microrganismi
+E) capacita' di un microorganismo di resistere a variazioni di pH
+
+DOMANDA: 133 Cosa si intende per rizosfera?
+A) popolazione microbica residente nel suolo
+B) interazione tra la popolazione microbica del suolo e quello del suolo
+C) insediamento di una popolazione microbica in una data nicchia ecologioca
+D) la regione in cui il suolo e le radici sono a contatto *
+E) specie microbica potenzialmente patogena residente nel suolo
+
+DOMANDA: 134 Cosa si intende per spettro d'azione di un antibiotico?
+A) gamma di batteri resistenti all'antibiotico considerato
+B) gamma di batteri sensibili all'antibiotico considerato *
+C) la concentrazione inibitoria necessaria ad un antibiotico per per essere efficace
+D) la concentrazione attivante necessaria ad un antibiotico per essere efficace
+E) la lunghezza d'onda con cui viene preparato un antibiotico
+
+DOMANDA: 135 Cosa significa il termine "psicrofilo"?
+A) microrganismo la cui massima rapidita' di moltiplicazione e' compresa tra 15 e 20 gradi centigradi *
+B) rapidita' di crescita maggiore a 37 gradi centigradi
+C) rapidita' di crescita a temperatura piu' bassa di 15 gradi centigradi
+D) microrganismo marino
+E) microrganismo che utilizza il CO2 come fonte di carbonio
+
+DOMANDA: 136 Cosa s'intende per nucleocapside virale
+A) la particella che si libera al termine del ciclo di moltiplicazione virale
+B) il genoma virale
+C) l'involucro lipoproteico presente in alcuni virus
+D) l'insieme del materiale genetico più il contenitore proteico *
+E) il virione maturo
+
+DOMANDA: 137 Cosa sono i corpi inclusi?
+A) un sistema di diagnosi precoce
+B) un metodo di allestimento dei preparati per microscopia
+C) una serie di effetti antivirali
+D) il risultato dell'attacco dei macrofagi alla cellula infetta
+E) depositi intracellulari con particolari affinita' cromatiche, determinati dalla replicazione virale *
+
+DOMANDA: 138 Cosa sono i sulfamidici?
+A) farmaci antibatterici che inibiscono la sintesi del peptidoglicano
+B) farmaci antibatterici che inibiscono la sintesi di RNA
+C) farmaci che provocano una denaturazione delle proteine batteriche
+D) farmaci di origine animale
+E) farmaci antibatterici che inibiscono la sintesi dell'acido folico *
+
+DOMANDA: 139 Da che cosa e' costituito un plasmide ?
+A) RNA messaggero
+B) RNA ribosomiale
+C) RNA transfert
+D) DNA extracromosomiale *
+E) DNA - asi
+
+DOMANDA: 140 Da che cosa e' rappresentato il numero di ingrandimento di un microscopio ottico
+A) dal numero scritto sull'obiettivo
+B) dal numero scritto sull'oculare
+C) dal numero scritto sull'obiettivo moltiplicato per il numero scritto sull'oculare *
+D) dalla lunghezza d'onda della luce usata per l'osservazione
+E) dal tipo di condensatore usato
+
+DOMANDA: 141 Da quale dei seguenti batteri viene estratto il PPD ( Purified Protein Derivative) ?
+A) diplococcus pneumoniae
+B) yersinia pestis
+C) mycobacterium tubercolosis *
+D) bacillus anthracis
+E) brucella melitensis
+
+DOMANDA: 142 Da quale di queste sostanze puo' essere inattivato l'interferone
+A) kanamicina
+B) tripsina *
+C) blu di metilene
+D) fosfolipasi
+E) tianina
+
+DOMANDA: 143 Da quale di questi campioni viene isolato il virus influenzale
+A) feci
+B) sangue
+C) gargarizzato *
+D) essudato pleurico
+E) liquido cefalorachidiano
+
+DOMANDA: 144 Da quale fra questi batteri e' prodotto la leucocidina di Panton-Valentine ?
+A) Staphylococcus aureus *
+B) Streptococcus pyogenes
+C) Corynebacterium diphtheriae
+D) Clostridium tetani
+E) Vibro cholerae
+
+DOMANDA: 145 Da quale tipo di microrganismo e' prodotta la penicillina
+A) da un batterio
+B) da un lievito
+C) da un'alga
+D) da un protozoo
+E) da un fungo *
+
+DOMANDA: 146 Da quanti tipi di catene sono formate le Immunoglobuline
+A) 5
+B) 3
+C) 2 *
+D) 8
+E) 6
+
+DOMANDA: 147 Definizione di pesticidi:
+A) prodotti usati in agricoltura per la protezione delle piante
+B) composti chimici usati nell'igiene pubblica per la lotta contro gli insetti
+C) tutti quei prodotti utilizzati per la protezione delle derrate alimentari immagazzinate
+D) mezzi di lotta contro organismi animali o vegetali che sottraggono alimenti all'uomo *
+E) classe di composti, con determinate caratteristiche chimico-fisiche, dotati di elevata tossicita'
+
+DOMANDA: 148 Di quale fra le seguenti strutture della cellula batterica i mesosomi rappresentano delle invaginazioni?
+A) sostanza nucleare
+B) citoplasma
+C) membrana citoplasmatica *
+D) parete cellulare
+E) capsula
+
+DOMANDA: 149 Di quante catene polipeptidiche e' composta una molecola di Ig G?
+A) due
+B) quattro *
+C) sei
+D) otto
+E) dieci
+
+DOMANDA: 150 Dipende dal cane la trasmissione all'uomo di:
+A) Onchocerca volvulus
+B) Echinococcus granulosus *
+C) Entamoeba histolytica
+D) Ascaris lumbricoides
+E) Schistosoma mansoni
+
+DOMANDA: 151 Dopo quanto tempo si manifestano le reazioni di immunita' cellulare
+A) minuti od ore
+B) uno o piu' giorni *
+C) alcune settimane
+D) alcuni mesi
+E) un anno
+
+DOMANDA: 152 Dopo quanto tempo si manifestano le reazioni di immunita' umorale
+A) minuti od ore *
+B) uno o piu' giorni
+C) alcune settimane
+D) alcuni mesi
+E) un anno
+
+DOMANDA: 153 Dove avviene la differenziazione dei linfociti B negli uccelli
+A) fegato
+B) borsa di Fabrizio *
+C) midollo osseo
+D) timo
+E) milza
+
+DOMANDA: 154 Dove risiede l'informazione genetica dei batteri?
+A) nell'acido ribonucleico
+B) nell'acido desossiribonucleico *
+C) nel peptoglicano
+D) nel citoplasma in genere
+E) nelle proteine
+
+DOMANDA: 155 Dove si effettua l'isolamento di un virus influenzale?
+A) per via intracerebrale nel topino neonato
+B) su cellule BHK21
+C) in cavita' amniotica di uova embrionate di pollo *
+D) su cellula RC37
+E) sulla membrana corioallontoidea di uova embrionate di pollo
+
+DOMANDA: 156 Dove si localizzano le cisti di echinococco nell'ospite intermedio ?
+A) solo nel fegato
+B) solo nel polmone
+C) fegato e polmone
+D) si possono localizzare ovunque *
+E) nei linfonodi
+
+DOMANDA: 157 Dove si replicano gli Herpesvirus
+A) sulla membrana citoplasmatica
+B) nel nucleo *
+C) sulla membrana nucleare
+D) nei mitocondri
+E) nel citoplasma
+
+DOMANDA: 158 Dove si seleziona un prototrofo
+A) su un terreno complesso
+B) su un terreno minimo *
+C) sul legno
+D) sulla plastica
+E) sulla cellulosa
+
+DOMANDA: 159 Durante la sterilizzazione in autoclave, la pressione di 1 atmosfera superiore a quella normale, si raggiunge alla temperatura di:
+A) 100 gradi C
+B) 111 gradi C
+C) 116 gradi C
+D) 121 gradi C *
+E) 135 gradi C
+
+DOMANDA: 160 Echinococcus granulosus
+A) ha distribuzione geografica meno ampia di E. multilocularis
+B) può causare shock anafilattico *
+C) in Italia provoca circa 10 interventi chirurgici/anno
+D) si contrae mediante contatti sessuali
+E) si contrae in seguito a graffio di gatto
+
+DOMANDA: 161 Essere definiti piccoli agenti infettivi e parassiti endocellulari obbligati sta ad indicare:
+A) una prerogativa unica del virus
+B) una proprieta' che i virus hanno in comune con taluni batteri e taluni protozoi *
+C) una prerogativa di tutti i parassiti in genere
+D) una caratteristica dei soli virus animali
+E) una definizione che si adatta unicamente ad alcune specie batteriche
+
+DOMANDA: 162 Fra queste varie specie animali quale e' quella le cui emazie vengono agglutinate dal virus della rosolia?
+A) oca *
+B) ratto
+C) topo
+D) coniglio
+E) pecora
+
+DOMANDA: 163 Fra questi generi quale e' caratterizzato da notevole polimorfismo ?
+A) Klebsiella
+B) Proteus *
+C) Providencia
+D) Serratia
+E) Pseudomonas
+
+DOMANDA: 164 Gli aminoacidi sono presenti nei batteri:
+A) negli acidi nucleici
+B) nei lipidi
+C) nelle proteine *
+D) solo nelle proteine dei Gram-positivi
+E) nei polisaccaridi
+
+DOMANDA: 165 Gli eosinofili modulando reazioni di ipersensibilita' immediata agiscono su:
+A) linfociti T
+B) linfociti B
+C) monociti
+D) basofili e Mastzellen *
+E) polimorfonucleari
+
+DOMANDA: 166 Gli esperimenti di Griffith ed Avery a quale fenomeno genetico si riferiscono ?
+A) trasduzione generalizzata
+B) test di complementazione
+C) conversione lisogenica
+D) trasformazione *
+E) coniugazione
+
+DOMANDA: 167 Gli interferon esercitano la loro azione antivirale
+A) legandosi ai virioni prima che si assorbano alle cellule
+B) agendo direttamente sulle sintesi macromolecolari virali
+C) inducendo nelle cellule esposte all'infezione la sintesi di molecole che a loro volta sono responsabili dell'azione antivirale *
+D) facendo produrre alle cellule antibiotici dotati di potente azione antivirale
+E) inibendo direttamente le polimerasi virali
+
+DOMANDA: 168 Gli interferon sono
+A) proteine o glicoproteine *
+B) lipidi
+C) oligosaccaridi
+D) oligonucleotidi
+E) sfingolipidi
+
+DOMANDA: 169 Gli streptomiceti sono
+A) batteri *
+B) cianoficee
+C) miceti
+D) virus
+E) rickettsie
+
+DOMANDA: 170 Gli zuccheri fermentati della N. meningitidis sono:
+A) glucosio e maltosio *
+B) glucosio e saccarosio
+C) fruttosio e mannitolo
+D) fruttosio e arabinosio
+E) saccarosio e mannitolo
+
+DOMANDA: 171 I batteri peritrichi sono:
+A) batteri che hanno ciglia disposte su tutta la superficie *
+B) batteri che hanno ciglia disposte alle due estremita' della cellula
+C) batteri che possiedono fimbrie
+D) batteri in grado di sporulare
+E) batteri che crescono in anaerobiosi
+
+DOMANDA: 172 I batteri si riproducono per:
+A) schizogonia *
+B) copulazione
+C) coniugazione
+D) gemmazione
+E) variazione
+
+DOMANDA: 173 I ceppi di Escherichia coli definiti uropatogeni sono dotati di
+A) capacità di metabolizzare l'urea
+B) pili di adesione all'epitelio della vescica *
+C) sistemi di acido-resistenza più efficaci
+D) tropismo per le vie genito-urinarie
+E) elevata mobilità nei liquidi a pH debolmente acido come l'urina
+
+DOMANDA: 174 I ceppi ETEC di E.coli hanno proprieta':
+A) enteroinvasive
+B) adesive
+C) emolitiche
+D) enterotossiche *
+E) enteroemorragiche
+
+DOMANDA: 175 I chinoloni agiscono inibendo:
+A) la DNA girasi *
+B) la sintesi di acido folico
+C) la sintesi delle purine
+D) la citocromossidasi
+E) la RNA polimerasi
+
+DOMANDA: 176 I corpi del Negri sono inclusioni citoplasmatiche caratteristiche per quali tra questi virus?
+A) il virus del vaiolo
+B) il virus rabbico *
+C) il virus citomegalico
+D) il virus del morbillo
+E) il virus della rosolia
+
+DOMANDA: 177 I coxackievirus B di quali tra queste manifestazioni patologiche possono essere responsabili ?
+A) gastroenteriti acute
+B) congiuntiviti emorragiche
+C) miocarditi acute *
+D) erpangina
+E) varicella
+
+DOMANDA: 178 I disinfettanti vengono usati per uccidere:
+A) i batteri ma non i funghi
+B) i funghi patogeni ma non i virus
+C) tutti i germi, patogeni e non
+D) le spore
+E) solamente i germi patogeni *
+
+DOMANDA: 179 I farmaci inibitori delle proteasi sono attivi su
+A) tutti i virus che utilizzano una DNA polimerasi virale
+B) tutti i virus che utilizzano una RNA polimerasi virale
+C) i virus che maturano tramite taglio proteolitico delle proteine virioniche *
+D) virus che non posseggono involucro
+E) virus che si replicano nel citoplasma
+
+DOMANDA: 180 I flebotomi (Diptera, Psychodidae) detti anche pappataci trasmettono:
+A) la malaria
+B) l'oncocercosi
+C) la leishmaniosi *
+D) la malattia del sonno
+E) le filariosi
+
+DOMANDA: 181 I funghi sono organismi eucarioti
+A) immobili aerobi eterotrofi *
+B) mobili anaerobi eterotrofi
+C) immobili aerobi, autotrofi
+D) mobili anaerobi autotrofi
+E) mobili aerobi eterotrofi
+
+DOMANDA: 182 I granuli citoplasmatici detti "metacromatici" sono costituiti di:
+A) zolfo
+B) lipidi
+C) poli-metafosfati *
+D) polipeptidi
+E) acido B-ossido-butirrico
+
+DOMANDA: 183 I macro-gametociti dei plasmodi sono:
+A) forme anomale
+B) gameti femminili non maturi *
+C) forme sessuate dell'anopele
+D) forme di sviluppo
+E) zigoti parziali
+
+DOMANDA: 184 I microgametociti dei plasmodi sono:
+A) forme anomale
+B) gameti maschili non maturi *
+C) forme asessuate dell'uomo
+D) forme in divisione
+E) zigoti dell'anopele
+
+DOMANDA: 185 I mutageni sono:
+A) sostanze che diminuiscono la frequenza di mutazione
+B) sostanze che aumentano la frequenza di mutazione *
+C) sostanze che agiscono sullo stesso tratto di DNA
+D) sostanze che agiscono sullo stesso tratto di RNA
+E) sostanze disinfettanti
+
+DOMANDA: 186 I pidocchi (Pediculus humanus, P.capitis, Phthirus pubis) pungono l'uomo solo:
+A) allo stadio larvale
+B) allo stadio ninfale
+C) agli stadi ninfale ed adulto *
+D) allo stadio adulto (le femmine)
+E) allo stadio adulto (le femmine ed i maschi)
+
+DOMANDA: 187 I protozoi sono classificati:
+A) tra i protisti inferiori
+B) tra i protisti superiori *
+C) tra i microrganismi batterici
+D) tra i metazoi unicellulari
+E) tra le clamidie
+
+DOMANDA: 188 I recettori per i virus animali sono
+A) normali molecole cellulari che si trovano sulla superficie cellulare, ove svolgono anche altre funzioni *
+B) molecole virus-codificate
+C) molecole cellulari indotte dal contatto con i virioni
+D) normali molecole cellulari espresse sulla plasmamembrana al solo fine di consentire l'assorbimento dei virioni
+E) proteine cellulari aberranti
+
+DOMANDA: 189 I sulfamidici sono:
+A) antibiotici
+B) chemioterapici *
+C) composti di origine animale
+D) composti di origine vegetale
+E) composti estratti dal terreno
+
+DOMANDA: 190 I terreni a base di agar sangue tellurito di potassio possono essere usati per l'isolamento di:
+A) Vibrio cholerae
+B) Brucella abortus
+C) Corynebacterium diphtheriae *
+D) Salmonella typhi
+E) Yersinia pestis
+
+DOMANDA: 191 I terreni selettivi e differenziali di Mc Leod e Clauberg vengono usati per l'isolamento di quale fra questi batteri:
+A) neisseria meningitidis
+B) salmonella typhi
+C) mycobacterium leprae
+D) coryneabacterium diphtheriae *
+E) yersinia enterocolitica
+
+DOMANDA: 192 I vaccini attenuati sono costituiti da virus
+A) mutanti selezionati per la scarsa azione patogena *
+B) privi di acidi nucleici
+C) incapaci di replicarsi nell'ospite naturale
+D) portatori di sistemi auto catalitici
+E) incapaci di stimolare in maniera efficace la risposta immunitaria a livello mucosale
+
+DOMANDA: 193 I vibrioni del colera si disintegrano quando sono incubati con siero prelevato da animali inoculati precedentemente con questo microrganismo come viene chiamata questa reazione sierologica ?
+A) fenomenao di Pfiffer *
+B) fenomeno di Koch
+C) reazione di Wassermann
+D) fenomeno di Arthus
+E) reazione di Kovacs
+
+DOMANDA: 194 I virus che piu' frequentemente causano malformazioni congenite sono:
+A) Virus dell'influenza
+B) Papovavirus
+C) HIV
+D) Virus della rosolia e CMV *
+E) Virus dell'epatite B
+
+DOMANDA: 195 I virus dell'epatite B e C si differenziano per:
+A) Modalita' di trasmissione
+B) Composizione del genoma *
+C) Spettro d'ospite
+D) Stabilita'
+E) Presenza di pericapside
+
+DOMANDA: 196 I virus hanno una organizzazione:
+A) di tipo eucariotico
+B) di tipo procariotico
+C) tale da permettere loro una replicazione sia endocellulare che extracellulare
+D) che li rende metabolicamente inerti al di fuori della cellula ospite *
+E) fondamentalmente diversa fra i batteriofagi, i virus animali e quelli delle piante
+
+DOMANDA: 197 I virus possono indurre una serie di difese specifiche, tra antivirali e non, cui:
+A) Edema locale
+B) Interferon
+C) Aumento locale della temperatura
+D) Abbassamento locale del pH
+E) Tutti i fenomeni citati *
+
+DOMANDA: 198 Il biofilm è
+A) una comunità microbica incapsulata in una matrice di natura polisaccaridica, adesa ad una superficie inerte *
+B) un modello di comunità batterica organizzata
+C) una rappresentazione schematica batterica
+D) un sistema di adesione batterica ad un substrato polisaccaridico
+E) una categoria di materiali biocompatibili di derivazione microbiologica
+
+DOMANDA: 199 Il CAMP-test e' usato per il riconoscimento di:
+A) Streptococchi di gruppo A
+B) Streptococchi di gruppo B *
+C) Streptococchi di gruppo C
+D) Streptococchi di gruppo D
+E) Streptococchi viridanti
+
+DOMANDA: 200 Il capside di un virus :
+A) Ha sempre struttura icosaedrica
+B) E' sempre circondato da un involucro lipidico
+C) Ha un ruolo nella protezione dell'acido nucleico del virione *
+D) Ha sempre un ruolo nel riconoscimento dei recettori virali sulle cellule bersaglio
+E) Contiene sempre un numero uguale di esameri e pentameri
+
+DOMANDA: 201 Il capside virale:
+A) e' quel componente di tutti i virus che, non rispondendo ad alcuni principio geometrico, determina la multiforme morfologia virale
+B) e' una struttura polisaccaridica accessoria che i virus acquistano unicamente durante l'infezione delle cellule "in vitro"
+C) e' quella struttura delle particelle virali composta di subunita' strutturali costituite da molecole di proteine sintetizzate e organizzate sotto il controllo dei virus *
+D) e' una entita' di natura lipidica che taluni virus posseggono ed altri no
+E) e' una struttura dei soli batteriofagi che per la sua costituzione dipende dall'espressione dell'acido nucleico della cellula batterica
+
+DOMANDA: 202 Il cariosoma e':
+A) una mostruosita' cromosomica
+B) una struttura del nucleo *
+C) un'alterazione del corpo cellulare
+D) un ibrido fra due esseri
+E) una parte del mitocondrio
+
+DOMANDA: 203 Il ceppo standard per il dosaggio microbiologico di un antibiotico deve essere:
+A) resistente all'antibiotico
+B) lisogeno
+C) temperatura sensibile
+D) sensibile all'antibiotico *
+E) dipendente dall'antibiotico
+
+DOMANDA: 204 Il ceppo standard per il dosaggio microbiologico di una vitamina deve essere:
+A) prototrofo
+B) auxotrofo *
+C) antibiotico resistente
+D) lisogeno
+E) temperatura sensibile
+
+DOMANDA: 205 Il cinetoplasto e':
+A) un flagello
+B) un particolare mitocondrio *
+C) un organo di locomozione
+D) una forma di ameba
+E) un flagellato
+
+DOMANDA: 206 Il consumo di verdure crude puo' comportare rischi di contrarre:
+A) Trichinella spiralis
+B) Plasmodium malariae
+C) Ascaris lumbricoides *
+D) Ancylostoma duodenale
+E) Leishmania donovani
+
+DOMANDA: 207 Il dipicolinato di calcio e' presente:
+A) nei virus
+B) nelle rickettsie
+C) nei batteri in forma vegetativa
+D) nelle spore batteriche *
+E) nei micoplasmi
+
+DOMANDA: 208 Il dipicolinato di calcio e' responsabile:
+A) della mobilita' dei batteri
+B) della luminiscenza
+C) della resistenza agli antibiotici
+D) della resistenza al calore *
+E) della germinazione
+
+DOMANDA: 209 Il dispositivo Gas Pack si usa:
+A) per lo sviluppo dei batteri in aerobiosi
+B) per lo sviluppo dei batteri in anaerobiosi *
+C) per uccidere i batteri col gas
+D) per aumentare il volume dei batteri
+E) per concentrare la carica batterica di un campione di urina
+
+DOMANDA: 210 Il DNA e' costituito:
+A) da sole basi puriniche
+B) da sole basi pirimidiniche
+C) solo da aminoacidi
+D) solo da aminozuccheri
+E) da basi puriniche e pirimidiniche *
+
+DOMANDA: 211 Il fattore cordale e' presente nei ceppi di:
+A) Staphylococcus aureus
+B) Streptococcus pyogenes
+C) Neisseriae meningitidis
+D) Bordetella pertussis
+E) Mycobacterium tuberculosis *
+
+DOMANDA: 212 Il fattore cordale e' un prodotto di:
+A) Mycobacterium tuberculosis *
+B) Bacillus anthracis
+C) Brucella melitensis
+D) Staphylococcus aureus
+E) Salmonella paratyphi A
+
+DOMANDA: 213 Il fattore di inibizione, nel terreno selettivo per la ricerca di S. aureus, e' costituito da:
+A) cloruro di sodio *
+B) clorato di potassio
+C) cloruro di magnesio
+D) permanganato di potassio
+E) cloruro di calcio
+
+DOMANDA: 214 Il fattore di virulenza del meningococco e':
+A) endotossina *
+B) esotossina
+C) coagulasi
+D) desossoribonucleasi
+E) capsula
+
+DOMANDA: 215 Il fattore di virulenza di C. tetani e':
+A) la coagulasi
+B) la capsula
+C) un'endotossina
+D) un'esotossina *
+E) la catalasi
+
+DOMANDA: 216 Il fattore più importante nel condizionare il tropismo dei virus è
+A) la presenza di IgA
+B) la resistenza agli interferon
+C) la distribuzione di recettori sui vari tipi cellulari *
+D) la capacità di penetrare attraverso gli endoteli vasali
+E) la presenza di citochine pro-infiammatorie
+
+DOMANDA: 217 Il genere Tripanosoma ha vettori?
+A) no
+B) in genere si *
+C) un doppio tipo di vettore per specie
+D) solo nella fase cistica
+E) solo nella fase ameboide
+
+DOMANDA: 218 Il genoma dell'HIV
+A) Codifica soltanto proteine strutturali
+B) E' difettivo
+C) Contiene geni sa strutturali che regolatiori *
+D) Contiene sequenze trasformanti
+E) Non codifica proteine strutturali
+
+DOMANDA: 219 Il legame di una sostanza antibatterica ai componenti del terreno:
+A) potenzia l'attivita' antibatterica
+B) e' indifferente
+C) riduce l'attivita' antibatterica *
+D) favorisce lo sviluppo batterico
+E) svantaggia lo sviluppo batterico
+
+DOMANDA: 220 Il lievito e':
+A) una sostanza chimica
+B) un enzima
+C) una cellula procariotica
+D) una cellula eucariotica *
+E) una cellula priva di mitocondri
+
+DOMANDA: 221 Il lisozima agisce nei batteri
+A) sugli acidi nucleici
+B) sulla membrana citoplasmatica
+C) sulla parete cellulare *
+D) sulla membrana nucleare
+E) sulla membrana mitocondriale
+
+DOMANDA: 222 Il lisozima e':
+A) un polisaccaride
+B) un lipide
+C) uno sterolo
+D) una proteina *
+E) una base pirimidinica
+
+DOMANDA: 223 Il materiale genetico dei virus e formato da:
+A) solo DNA
+B) solo RNA
+C) DNA e proteine
+D) RNA e proteine
+E) DNA oppure RNA *
+
+DOMANDA: 224 Il meccanismo di azione dell'AZT, usato contro l'infezione da HIV e'
+A) inibizione della sintesi proteica virale
+B) inibizione dell'adsorbimento alle cellule bersaglio
+C) blocco dell'allungamento del DNA provirale nascente *
+D) inibizione della azione della RNA polimerasi DNA-dipendente
+E) inibizione della glicosilazione
+
+DOMANDA: 225 Il nucleotide di Park:
+A) equivale alle inclusioni citoplasmatiche provocate dai Poxvirus
+B) equivale ai corpi del Negri provocati dal virus della rabbia silvestre
+C) e' un metabolita intermedio della sintesi del peptidoglicano *
+D) e' un prodotto intermedio che si forma durante la sintesi del peptidoglicano che viene inibito dalle penicilline e cefalosporine
+E) e' un'inclusione citoplasmatica batterica di derivazione virale che impedisce ulteriori infezioni virali sulla cellula stessa
+
+DOMANDA: 226 Il peptidoglicano e' presente:
+A) nei virus
+B) nelle rickettsiae
+C) nei micoplasmi
+D) nei batteri *
+E) nei miceti
+
+DOMANDA: 227 Il piu' cospicuo dei componenti cellulari batterici e':
+A) il DNA
+B) l'acqua *
+C) gli aminozuccheri
+D) le proteine (sia ribosomiche che non)
+E) i lipidi
+
+DOMANDA: 228 Il plasma di quale fra le seguenti specie animali non puo' essere usato per la dimostrazione della coagulasi stafilococcica?
+A) ratto *
+B) coniglio
+C) maiale
+D) uomo
+E) cavallo
+
+DOMANDA: 229 Il platino dell'ansa, usata p'er il normale lavoro di laboratorio, puo' essere sostituito da quale altro materiale ?
+A) argento
+B) nikelcromo *
+C) rame
+D) acciaio
+E) stagno
+
+DOMANDA: 230 Il prelievo per l'emocoltura deve essere effettuato
+A) durante il picco febbrile
+B) prima del rialzo termico X *
+C) dopo il rialzo termico
+D) è indifferente
+E) di primo mattino, rigorosamente a digiuno
+
+DOMANDA: 231 Il principale pigmento prodotto da Ps. aeruginosa e' di colore:
+A) giallo-arancio
+B) verde azzurro *
+C) marrone brunastro
+D) rosso-magenta
+E) rosa-viola
+
+DOMANDA: 232 Il saggio della sensibilita' all'optochina viene fatto per il riconoscimento di quale fra i seguenti batteri?
+A) Diplococcus pneumoniae *
+B) Streptococcus pyogenes
+C) Staphylococcus aureus
+D) Clostridium tetani
+E) Corynebacterium diphteriae
+
+DOMANDA: 233 Il saggio della TPI e' diagnostico per l'infezione da:
+A) Mycobacterium leprae
+B) Treponema pallidum *
+C) Mycoplasma pneumoniae
+D) Toxoplasma gondii
+E) Trypanosoma cruzi
+
+DOMANDA: 234 Il terreno a base di selenite viene usato per l'arricchimento di quale fra i seguenti generi?
+A) Neisserie
+B) Brucelle
+C) Salmonelle *
+D) Vibrio
+E) Corynebacterium
+
+DOMANDA: 235 Il terreno all'agar di Christensen serve a svelare attivita':
+A) ureasica *
+B) lipasica
+C) DNA-asica
+D) glicosidasica
+E) proteasica
+
+DOMANDA: 236 Il test del Limulus polyphemus e' usato per la messa in evidenza di:
+A) Esotossine batteriche
+B) Lipopolisaccaridi batterici *
+C) Citochine
+D) Trascrittasi inversa
+E) Acidi lipoteicoici
+
+DOMANDA: 237 Il test della catalasi risulta negativo per:
+A) S.aureus
+B) S.pyogenes *
+C) E.coli
+D) P.aeruginosa
+E) Salmonella typhi
+
+DOMANDA: 238 Il test di Mantoux:
+A) e' un test di emoagglutinazione passiva
+B) e' una reazione di deviazione del complemento
+C) e' una reazione di precipitazione
+D) e' una reazione di agglutinazione
+E) e' una prova biologica sull'uomo *
+
+DOMANDA: 239 Il Toxoplasma gondii e':
+A) un ciliato
+B) un parassita endocellulare *
+C) una ameba
+D) un flagellato intestinale dell'uomo
+E) un flagellato intestinale del cane
+
+DOMANDA: 240 Il Trichomonas vaginalis e':
+A) un ciliato parassita
+B) un flagellato parassita *
+C) una monilia
+D) un peritrico
+E) un tricoderma
+
+DOMANDA: 241 Il vaccino antidifeterico e' costituito da:
+A) batteri vivi attenuati
+B) batteri uccisi al calore
+C) batteri uccisi con formalina
+D) anatossina *
+E) polisaccaride capsulare
+
+DOMANDA: 242 Il vaccino antifebbre gialla e' costituito da:
+A) batteri viventi attenuati
+B) batteri uccisi
+C) virus viventi *
+D) virus uccisi con formalina
+E) virus uccisi con beta-propiolattone
+
+DOMANDA: 243 Il vaccino antipertosse e' costituito da:
+A) anatossina
+B) batteri vivi attenuati
+C) batteri uccisi *
+D) polisaccaridi batterici
+E) lipidi capsulari
+
+DOMANDA: 244 Il vaccino antirosolia e' costituito da:
+A) virus viventi attenuati *
+B) virus uccisi con UV
+C) virus uccisi al calore
+D) virus uccisi con beta-propiolattone
+E) virus uccisi con formalina
+
+DOMANDA: 245 Il vaccino antitubercolare e' allestito con:
+A) batteri uccisi
+B) batteri viventi avirulenti *
+C) sostanze estratte dal batterio
+D) tossina privata del potere tossico
+E) virus uccisi
+
+DOMANDA: 246 Il vaccino antivaioloso e' costituito da:
+A) virus vaccinico vivente *
+B) virus vaioloso vivente
+C) virus vaccinico ucciso con formalina
+D) virus vaioloso ucciso con formalina
+E) virus orf
+
+DOMANDA: 247 Il vaccino anti HPV e' costituito da:
+A) Anatossina purificata
+B) virus ucciso
+C) Polisaccaride purificato
+D) proteina del capside purificata *
+E) estratto bruto di virus
+
+DOMANDA: 248 Il valore ottimale di pH per l'arrecchimento del Vibrio cholerae e':
+A) 8,6 *
+B) 7,2
+C) 6,8
+D) 5,5
+E) 10,5
+
+DOMANDA: 249 Il vibrione del colera e':
+A) mobile per un ciuffo di ciglia polari
+B) immobile
+C) dotato di forti movimenti browniani
+D) dotato di ciglia peritriche
+E) mobile per un ciglio polare *
+
+DOMANDA: 250 Il virione e':
+A) un virus di grosse dimensioni
+B) un virus biologicamente inattivo
+C) un sinonimo di virus
+D) una singola particella virale *
+E) una particella virale al di fuori della cellula ospite
+
+DOMANDA: 251 In che ambito di dimensioni si collocano i virioni?
+A) 1 - 5 μm
+B) 0,5 - 1 μm
+C) 20 - 300 nm *
+D) 1 - 5 nm
+E) 4 - 12 μm
+
+DOMANDA: 252 In che concentrazione sierica sono presenti le Ig M
+A) 0,1 - 0,5 mg/ml
+B) 0,5 - 2 mg/ml *
+C) 2 - 10 mg/ml
+D) meno di 0,5 mg/ml
+E) 10 - 20 mg/ml
+
+DOMANDA: 253 In genere, i vaccini antivirali inattivati debbono essere evitati in
+A) gestanti
+B) bambini sotto i 12 mesi
+C) bambini sopra i 12 mesi
+D) pazienti immunocompromessi
+E) nessuna particolare categoria di persone *
+
+DOMANDA: 254 In laboratorio i funghi si coltivano generalmente su terreni di coltura:
+A) complessi contenenti in particolare liquido ascitico (o siero)
+B) complessi contenenti in particolare vitamine
+C) in terreni semplici contenenti proteine e zuccheri *
+D) in terreni ricchi in proteine e poveri di zuccheri
+E) in terreni di coltura " poveri " ma fortemente alcalinizzati
+
+DOMANDA: 255 In laboratorio la coltivazione dei batteri patogeni avviene generalmente a:
+A) 22 gradi centigradi
+B) 37 gradi centigradi *
+C) 30 gradi centigradi
+D) 40 gradi centigradi
+E) a temperatura ambiente
+
+DOMANDA: 256 In pazienti affetti da fibrosi cistica sono frequenti infezioni respiratorie causate da:
+A) P.aeruginosa *
+B) P.pseudomallei
+C) Moraxella lacunata
+D) Mycoplasma hominis
+E) Neisseria catarrhalis
+
+DOMANDA: 257 In quale fra i seguenti batteri e' presente l'acido micolico?
+A) staphylococcus aureus
+B) diplococcus pneumoniae
+C) mycobacterium tubercolosis *
+D) brucella abortus
+E) vibrio cholerae
+
+DOMANDA: 258 In quale fra i seguenti microrganismi il colesterolo e' componente caratteristico della membrana cellulare?
+A) Mycobacterium tubercolosis
+B) Corynebacterium diphteriae
+C) Yersinia pseudotubercolosis
+D) Coxiella burneti
+E) Mycoplasma pneumoniae *
+
+DOMANDA: 259 In quale fra i seguenti virus e' presente un enzima neuraminidasico?
+A) Picornavirus
+B) paramyxovirus *
+C) Parvovirus
+D) Reovirus
+E) Herpesvirus
+
+DOMANDA: 260 In quale fra le seguenti malattie viene usata a scopo diagnostico la reazione di Widal?
+A) influenza
+B) brucellosi
+C) colera
+D) salmonellosi *
+E) difterite
+
+DOMANDA: 261 In quale fra le seguenti reazioni antigeneanticorpo puo' essere osservato il fenomeno della zona muta?
+A) neutralizzazione di una tossina
+B) agglutinazione *
+C) precipitazione
+D) batteriolisi
+E) emolisi
+
+DOMANDA: 262 In quale fra le seguenti reazioni sierologiche per la LUE vengono usati treponemi vivi?
+A) FTA
+B) TPHA
+C) VDRL
+D) TPI *
+E) Wassermann
+
+DOMANDA: 263 In quale fra le seguenti strutture della cellula batterica e' presente l'acido muramico?
+A) sostanza nucleare
+B) citoplasma
+C) membrana citoplasmatica
+D) parete cellulare *
+E) capsula
+
+DOMANDA: 264 In quale fra queste malattie da virus le cellule colpite possono presentare i corpi del Guarnieri?
+A) influenza
+B) rabbia
+C) rosolia
+D) vaiolo *
+E) febbre gialla
+
+DOMANDA: 265 In quale fra queste malattie le cellule colpite possono presentare i corpi del Negri?
+A) vaiolo
+B) influenza
+C) rabbia *
+D) febbre gialla
+E) poliomelite
+
+DOMANDA: 266 In quale fra questi animali e' possibile ottenere un'infezione sperimentale con il batterio della lebbra?
+A) cane
+B) gatto
+C) furetto
+D) maiale
+E) armadillo *
+
+DOMANDA: 267 In quale fra questi gruppi di virus e' presente una RNA-*POLIMERASI DNA dipendente?
+A) Poxvirus *
+B) Orthomyxovirus
+C) Paramyxovirus
+D) Picornavirus
+E) Coronavirus
+
+DOMANDA: 268 In quale fra questi gruppi di virus e' presente una trascrittasi inversa?
+A) Picornavirus
+B) Reovirus
+C) Togavirus
+D) Retrovirus *
+E) Rhabdovirus
+
+DOMANDA: 269 In quale fra questi gruppi di virus il montaggio del nucleocapside avviene nel citoplasma delle cellule infette?
+A) Herpesvirus
+B) Adenovirus
+C) Papovavirus
+D) Parvovirus
+E) Coronavirus *
+
+DOMANDA: 270 In quale fra questi gruppi di virus il montaggio del nucleocapside avviene nel nucleo della cellula infetta?
+A) Poxvirus
+B) Herpesvirus *
+C) Togavirus
+D) Paramyxovirus
+E) Rhabdovirus
+
+DOMANDA: 271 In quale modo possono essere isolati gli adenovirus umani?
+A) su linee continue di cellule carcinomatose umane *
+B) su cellule renali di scimmia
+C) per instillazione intranasale nel furetto
+D) per inoculazione intracerebrale nel topino
+E) nel sacco vitellino dell'uovo di pollo fecondato
+
+DOMANDA: 272 In quale modo possono essere isolati i virus citomegalici umani ?
+A) sulla membrana corion-allantoidea dell'uovo fecondato
+B) nella cavita' amniotica dell'uovo di pollo fecondato
+C) su colture di fibroblasti umani *
+D) su cellule renali di cercopiteco africano
+E) per iniezione intracerebrale nel topino
+
+DOMANDA: 273 In quale organo od apparato del corpo umano avviene la localizzazione primaria di Entamoeba histolytica ?
+A) stomaco
+B) colon *
+C) fegato
+D) cervello
+E) midollo osseo
+
+DOMANDA: 274 In quali cellule puo' essere dimostrata la presenza del virus di Epstein Barr?
+A) fibroblasti
+B) cellula Hela
+C) cellule Vero
+D) cellule nervose
+E) cellule linfoblastoidi *
+
+DOMANDA: 275 In quali fenomeni immunitari intervengono le Ig E
+A) rigetto di trapianti
+B) fenomeno di Koch
+C) allergie *
+D) flogosi
+E) deviazione del complemento
+
+DOMANDA: 276 In quali ribovirus il genoma di RNA può essere direttamente tradotto sui ribosomi?
+A) ribovirus con RNA a polarità positiva *
+B) retrovirus
+C) ribovirus con RNA ambisenso
+D) reovirus
+E) rhabdovirus
+
+DOMANDA: 277 In un soggetto affetto da febbre tifoide durante la prima settimana si esegue l'isolamento di Salmonella typhi da
+A) espettorato
+B) urinocoltura
+C) emocoltura *
+D) coprocoltura
+E) tampone rettale
+
+DOMANDA: 278 In una leishmaniosi cutanea, le cellule infettate sono:
+A) Leucociti neutrofili
+B) Emazie
+C) Macrofagi *
+D) cellule epiteliali
+E) cellule muscolari
+
+DOMANDA: 279 L' Azotioprina agisce principalmente sulla maturazione di:
+A) linfociti T *
+B) linfociti B
+C) macrofagi
+D) eosinofili
+E) neutrofili
+
+DOMANDA: 280 L 'eliminazione di tutte le forme viventi da un oggetto o da una sostanza viene chiamata:
+A) Asepsi
+B) disinfezione
+C) sterilizzazione *
+D) batteriostasi
+E) disinfestazione
+
+DOMANDA: 281 L' Haemophilus ducreyi e' l'agente etiologico di:
+A) pertosse
+B) influenza
+C) ulcera venerea molle *
+D) malattia reumatica
+E) linfogranuloma venereo
+
+DOMANDA: 282 La 5-iodio-2'-deossiuridina agisce su quale virus
+A) poxvirus
+B) virus rabbico
+C) herpesvirus *
+D) togavirus
+E) virus influenzale
+
+DOMANDA: 283 La azidotimidina (AZT) è una sostanza antivirale utilizzata nella terapia della infezione da HIV. Qual è il principale meccanismo con cui agisce?
+A) induce la produzione di interferon
+B) inibisce la sintesi delle proteine tardive virali
+C) inibisce la glicosilazione delle proteine di superficie virali
+D) inibisce la sintesi dell'acido nucleico virale *
+E) inibisce la traduzione degli mRNA virali
+
+DOMANDA: 284 La capsula manca sempre in quale di questi enterobatteri:
+A) klebsiella
+B) enterobacter
+C) citrobacter
+D) salmonella typhi
+E) proteus mirabilis *
+
+DOMANDA: 285 La cellula di Koch viene usata per:
+A) l'esame dei batteri a goccia pendente *
+B) la coltura del batterio tubercolare
+C) la sterilizzazione dei terreni di coltura
+D) la filtrazione di tossine batteriche
+E) la coltivazione di batteri anaerobi
+
+DOMANDA: 286 La chemioterapia antivirale ha spesso come bersaglio specifici enzimi presenti soltanto nelle cellule infette, che metabolizzano la sostanza trasformandola nella loro forma attiva) Per quali delle seguenti sostanze la strategia ha avuto successo?
+A) Azidotimidina
+B) Adenina arabinoside
+C) Aciclovir *
+D) Ganciclovir
+E) Ritonavir
+
+DOMANDA: 287 La colorazione di Gins viene usata per:
+A) colorare i flagelli dei batteri
+B) evidenziare i granuli di volutina *
+C) colorare i miceti
+D) colorare le spore
+E) colorare la capsula batterica
+
+DOMANDA: 288 La colorazione di Zieh-Neelsen viene usataper colorare:
+A) Proteus
+B) Enterobatteri
+C) Stafilococchi
+D) Neisserie
+E) Micobatteri *
+
+DOMANDA: 289 La colorazione specifica per Mycobacterium tubercolosis e' basata sul principio:
+A) della metocromasia
+B) dell'impermeabilita' al Violetto di Nicolle
+C) dell'impregnazione argentica
+D) dell'alcool-acido resistenza *
+E) della non colorabilita' con colori di anilina
+
+DOMANDA: 290 La coniugazione batterica comporta:
+A) fusione della parete delle due cellule
+B) fusione delle membrane esterne
+C) trasferimento di DNA tra le due cellule *
+D) trasferimento di RNA virale
+E) lisi cellulare
+
+DOMANDA: 291 La crescita del Mycobacterium tubercolosis e' favorita dall'aggiunta nel brodo di:
+A) cera
+B) tellurite di potassio
+C) glicerina *
+D) glucosio
+E) sali di ferro
+
+DOMANDA: 292 La diagnosi di laboratorio delle infezioni virali può essere eseguita (indicare l'unica risposta errata)
+A) effettuando l'isolamento virale
+B) su basi epidemiologiche *
+C) su basi sintomatologiche
+D) mediante indagini sierologiche
+E) mediante indagini molecolari
+
+DOMANDA: 293 La disinfezione e' rivolta verso:
+A) i batteri saprofiti
+B) i batteri patogeni *
+C) le sostanze tossiche
+D) i ratti
+E) i batteri resistenti agli antibiotici
+
+DOMANDA: 294 La febbre rappresenta un meccanismo di difesa antivirale in quanto
+A) accelera il metabolismo cellulare
+B) le temperature elevate inibiscono la replicazione della maggior parte dei virus *
+C) provoca la repressione dei recettori virali
+D) rende più attivi gli anticorpi
+E) rende più attivi i linfociti
+
+DOMANDA: 295 La febbre reumatica e' una malattia da:
+A) Neisseria meningitidis
+B) Haemophilus influenzae
+C) Streptococcus pyogenes *
+D) Shigella sonnei
+E) Proteus
+
+DOMANDA: 296 La forma infestante di Toxocara canis è
+A) l'uovo appena emesso con il materiale fecale
+B) la larva presente nelle carni edibili
+C) la larva libera nell'ambiente
+D) la larva inoculata da un vettore
+E) l'uovo contenente la larva maturata in ambiente caldo-umido *
+
+DOMANDA: 297 La Gram - positivita' dipende soprattutto:
+A) dalla assenza di acidi teicoici nella parete cellulare
+B) dall'assenza della componente lipopolisaccarididica (LPS) nella parete cellulare
+C) dalla presenza di acido dipicolinico
+D) dalla diversa composizione chimica della parete cellulare tra Gram-positivi e Gram-negativi *
+E) dalla produzione di esotossine
+
+DOMANDA: 298 La intradermo reazione di Montenegro e':
+A) una prova diagnostica per le amebe
+B) una prova diagnostica per le leishmanie *
+C) una prova diagnostica per i tripanosomi
+D) una prova diagnostica per il Trichomonas
+E) una prova diagnostica per i parassiti intestinali
+
+DOMANDA: 299 La linea cellulare Hela usata per la coltivazione di alcuni virus deriva da:
+A) fibroblasti di pollo
+B) leucociti
+C) rene di cercopiteco
+D) carcinoma umano *
+E) il rene di criceto neonato
+
+DOMANDA: 300 La lisogenia
+A) e' una proprieta' dei batteriofagi portatori di determinate mutazioni
+B) sta ad indicare la lisi della cellula batterica che e' stata sede di replicazione fagica
+C) indica la inattivazione dei batteriofagi sottoposti all'azione mutagena dei raggi ultravioletti
+D) rappresenta il periodo di latenza nella fase iniziale della replicazione dei batteriofagi
+E) e' lo stato dei batteri infettati da batteriofagi, integrati nel cromosoma *
+
+DOMANDA: 301 La M.I.C. indica:
+A) la piu' alta concentrazione di antibiotico che permette lo sviluppo del ceppo saggiato
+B) la concentrazione minima di antibiotico che inibisce lo sviluppo del ceppo saggiato *
+C) la quantita' di antibiotico che uccide il ceppo
+D) la quantita' di antibiotico che favorisce lo sviluppo del ceppo
+E) la minima concentrazione di germi capace di infettare un animale di laboratorio
+
+DOMANDA: 302 La malattia del sonno da tripanosomi e' dovuta a:
+A) liberazione di una potente tossina
+B) conseguenza di lesioni meningo encefalitiche *
+C) liberazione di sostanze ad azione sonnifera
+D) blocco della trasmissione nervosa
+E) paralisi dei nervi cranici
+
+DOMANDA: 303 La malattia di Creuzfeldt-Jacob e' causata da un:
+A) poxvirus
+B) papovavirus
+C) oncornavirus
+D) thabdovirus
+E) prioni *
+
+DOMANDA: 304 La malattia di Lyme e' causata da:
+A) Borrelia recurrentis
+B) Borrelia burgdorferi *
+C) Leptospira biflexa
+D) Treponema pertenue
+E) Rickettsia rickettsii
+
+DOMANDA: 305 La mutazione avviene a carico di:
+A) RNA messaggero
+B) DNA *
+C) RNA transfer
+D) proteine
+E) RNA ribosomiale
+
+DOMANDA: 306 La nutrizione dei protozoi parassiti:
+A) e' di tipo eterotrofo *
+B) e' di tipo autotrofo
+C) non ha alcuna dipendenza dall'ospite parassitato
+D) non avviene nell'ospite parassitato
+E) avviene solo nella fase iniziale dell'infezione
+
+DOMANDA: 307 La nutrizione dei protozoi parassiti:
+A) e' di tipo eterotrofo *
+B) e' di tipo autotrofo
+C) non ha alcuna dipendenza dall'ospite parassitario
+D) non avviene nell'ospite parassitario
+E) avviene solo nella fase iniziale dell'infezione
+
+DOMANDA: 308 La parete cellulare della cellula fungina è costituita da
+A) glucano
+B) peptidoglicano
+C) proteine e chitina
+D) mannano
+E) polisaccaridi e proteine *
+
+DOMANDA: 309 La parete dei batteri Gram+ ha uno spessore che varia da:
+A) 10 - 20 nm
+B) 30 - 100 nm *
+C) 100 - 200 nm
+D) 0.1 - 1 um
+E) 1 - 10 um
+
+DOMANDA: 310 La patologia del colera si basa
+A) sulla alterazione intestinale mediata da meccanismi immunologici
+B) dall'azione dell'LPS
+C) sull'invasione della mucosa intestinale da parte dei vibrioni
+D) sull'azione della tossina prodotta dai vibrioni a livello intestinale *
+E) sulla formazione di pseudo-membrane a livello della parete del colon retto
+
+DOMANDA: 311 La penicillasi agisce nei confronti della penicillina:
+A) sulla catena laterale
+B) sull'anello tiazolitico
+C) sull'anello beta - lattamico *
+D) sull'atomo di zolfo
+E) sui gruppi metilici
+
+DOMANDA: 312 La penicillina agisce sui:
+A) protozoi
+B) virus
+C) batteri *
+D) micoplasmi
+E) miceti
+
+DOMANDA: 313 La penicillina agisce:
+A) sulla sintesi della parete batterica *
+B) sulla sintesi della membrana batterica
+C) sulla sintesi dei ribosomi
+D) sulla sintesi proteica
+E) sulla sintesi dell' RNA
+
+DOMANDA: 314 La penicillina e' un antibiotico:
+A) polisaccaridico
+B) aminoglicosidico
+C) macrolidico
+D) beta-lattamico *
+E) polipeptidico
+
+DOMANDA: 315 La penicillinasi agisce sulla penicillina:
+A) sull'anello tiazolico
+B) sulla catena laterale
+C) sull'anello beta-lattamico *
+D) sui gruppi metilici
+E) sull'atomo di zolfo
+
+DOMANDA: 316 La penicillinasi e':
+A) una penicillina ad ampio spettro
+B) una penicillina a spettro ristretto
+C) un polissaccaride
+D) un lipide
+E) una proteina *
+
+DOMANDA: 317 La presenza di "granuli di volutina" (granuli metacromatici) presenti come inclusioni citoplasmatiche, per quale specie batterica hanno significato diagnostico ?
+A) corynebacterium diphtheriae *
+B) escherichia coli
+C) salmonella typhi
+D) bacillus subtilis
+E) vibrio cholerae
+
+DOMANDA: 318 La presenza di anticorpi contro l'antigene di superficie del virus dell'epatite B (anti HBsAg) indica:
+A) Infezione cronica attiva
+B) Avvenuta vaccinazione *
+C) Primi giorni dopo infezione acuta
+D) Infezione concomitante con il virus dell'epatite delta
+E) Infezione concomitante con il virus dell'epatite C
+
+DOMANDA: 319 La presenza di Ig di superficie caratterizza:
+A) i linfociti B *
+B) i linfociti T
+C) i macrofagi
+D) le emazie
+E) le cellule reticolo-istiocitarie
+
+DOMANDA: 320 La produzione dell'esotossina difterica e' influenzata dalla presenza nel terreno di ioni:
+A) Ca
+B) Fe *
+C) Mg
+D) Cu
+E) Mn
+
+DOMANDA: 321 La produzione di una tossina difterica da parte del corynebcterium diphteriae e' dovuta al fenomeno di:
+A) trasformazione
+B) coniugazione
+C) transduzione ristretta
+D) transduzione generalizzata
+E) conversione *
+
+DOMANDA: 322 La prova biologica nel gattino (Kitten test) viene usata per quale fra queste tossine?
+A) difterica
+B) botulinica
+C) colerica
+D) enterotossina stafilococcica *
+E) tossina eritrogenica
+
+DOMANDA: 323 La prova delle termoprecipitine di Ascoli e' usata per la diagnosi di:
+A) colera
+B) peste
+C) carbonchio *
+D) salmonella
+E) lebbra
+
+DOMANDA: 324 La prova di Dick serve a svelare uno stato immunitario nei confronti della:
+A) difterite
+B) scarlattina *
+C) rosolia
+D) varicella
+E) gonorrea
+
+DOMANDA: 325 La prova di Frei evidenzia una infezione da:
+A) clamidie *
+B) rickttsie
+C) spirochete
+D) micoplasmi
+E) stafilococco
+
+DOMANDA: 326 La reazione del rosso colera di Kovacs indica la produzione di quale fra le seguenti sostanze?
+A) acetil-metil-carbinolo
+B) acido piruvico
+C) esculina
+D) indolo *
+E) tirosina
+
+DOMANDA: 327 La reazione di Dick svela assenza di anticorpi circolanti verso:
+A) la tossina stafilococcica
+B) la tossina difterica
+C) la coagulasi
+D) la tossina eritrogenica *
+E) la tossina epidermolitica
+
+DOMANDA: 328 La reazione di mitsuda viene usata in quale fra le seguenti malattie?
+A) genorrea
+B) lebbra *
+C) tracoma
+D) listeriosi
+E) linfoma di Burkitt
+
+DOMANDA: 329 La reazione di rigonfiamento capsulare (o di Neufeld) viene usato per la tipizzazione di:
+A) Neisseria gonorrhoeae
+B) Streptococcus pneumoniae *
+C) Salmonella typhi
+D) Mycobacterium tuberculosis
+E) Pseudomonas aeruginosa
+
+DOMANDA: 330 La reazione di rigonfiamento capsulare o prova di Neufeld puo' essere usata per tipizzare:
+A) Diplococcus pneumoniae *
+B) Bacillus anthracis
+C) Staphylococcus aureus
+D) Clostridium tetani
+E) Salmonella tiphy
+
+DOMANDA: 331 La reazione di Schick viene eseguita per saggiare il grado di protezione verso:
+A) la tossina tetanica
+B) la tossina difterica *
+C) la tossina eritrogenica dello streptococco
+D) la tossina stafilococcica
+E) la tossina botulinica
+
+DOMANDA: 332 La reazione di Weil-Felix viene usata nella diagnosi di laboratorio di:
+A) Brucellosi
+B) Tifo addominale
+C) Tifo esantematico *
+D) Sifilide
+E) Linfogranuloma venereo
+
+DOMANDA: 333 La reazione sierologica del rigonfiamento della capsula dei pneumococchi si esegue
+A) in provetta
+B) su vetrino *
+C) in gel d'agar
+D) con imminoelettroforesi
+E) con immunodiffusione radiale
+
+DOMANDA: 334 La replicazione del genoma dei picornavirus:
+A) Richiede le funzioni nucleari della cellula
+B) Va avanti anche in presenza di inibitori della sintesi proteica
+C) Provoca la NAD-ribosilazione delle subunita' ribosomiali
+D) Va avanti anche in presenza di inibitori della sintesi di RNA DNA-dipendente *
+E) Richiede desossiribonucleotidi trifosfati
+
+DOMANDA: 335 La replicazione virale:
+A) e' simile a quella batterica
+B) e' simile a quella cellulare
+C) avviene anche durante il ciclo extracellulare
+D) e' rispondente a caratteristiche uniche nel mondo biologico *
+E) e' indipendente dal tipo di acido nucleico della particella virale
+
+DOMANDA: 336 La resistenza delle spore al calore e', almeno in parte, dovuta alla presenza di un sale dell' acido dipicolinico: quale?
+A) sali di Na
+B) sali di K
+C) sali di P
+D) sali di Ca *
+E) sali di Mg
+
+DOMANDA: 337 La ricerca della N.meningitidis nei portatori viene effettuata:
+A) nel liquido cefalorachidiano
+B) nel rinofaringe *
+C) nelle feci
+D) nell'espettorato
+E) nel sangue
+
+DOMANDA: 338 La ricerca dell'attivita' coagulasica serve ad identificare:
+A) Staphylococcus aureus *
+B) Streptococcus pyogenes
+C) Diplococcus pneumoniae
+D) Neisseria gonorrhoeae
+E) Neisseria meningitidis
+
+DOMANDA: 339 La ricerca microbiologica di C. diphtheriae si effettua su:
+A) urine
+B) sangue
+C) tamponi faringei *
+D) feci
+E) liquido cefalorachidiano
+
+DOMANDA: 340 La riproduzione nei funghi può essere
+A) sessuata
+B) asessuata
+C) alternanza di riproduzione sessata e asessuata *
+D) mista
+E) scissione binaria
+
+DOMANDA: 341 La risposta alla Concanavalina A ed alla fitoemagglutinina e' caratteristica di quali cellule.
+A) linfociti T *
+B) linfociti B
+C) macrofagi
+D) plasmacellule
+E) emazie
+
+DOMANDA: 342 La schistosomosi e' una malattia parassitaria da:
+A) trematodi *
+B) cestodi
+C) nematodi
+D) protozoi
+E) ciliati
+
+DOMANDA: 343 La sintesi del peptidoglicano e' influenzata:
+A) dai virus
+B) dalle spirochete
+C) dalla presenza di sangue
+D) dalle penicilline *
+E) dagli steroli
+
+DOMANDA: 344 La specificita' antigenica di antigeni proteici e' legata alla presenza dei cosiddetti determinanti antigenici. Di quanti residui aminoacidi essi sono generalmente composti:
+A) 1-3
+B) 4-6 *
+C) 8-12
+D) 12-20
+E) piu' di 20
+
+DOMANDA: 345 La spora batterica è caratteristica di
+A) alcuni batteri Gram-negativi
+B) tutti i batteri Gram-positivi
+C) alcuni batteri patogeni a trasmissione aerea
+D) alcuni batteri Gram-positivi X *
+E) batteri multiresistenti agli antibiotici
+
+DOMANDA: 346 La sterilizzazione della vetreria di laboratorio viene effettuata mediante:
+A) sterilizzazione frazionata
+B) sterilizzazione in autoclave
+C) raggi ultravioletti
+D) sostanze chimiche
+E) forno " Pasteur " *
+
+DOMANDA: 347 La streptolisina O, prodotta da Streptococcus pyogenes, e' inattivata da:
+A) CO2
+B) ossigeno *
+C) etere
+D) azoto
+E) etilene
+
+DOMANDA: 348 La streptomicina agisce:
+A) sulla sintesi proteica *
+B) sulla formazione della parete
+C) sulla replicazione del DNA batterico
+D) sul ciclo di Krebs
+E) sulla respirazione batterica
+
+DOMANDA: 349 La streptomicina e' un antibiotico
+A) polisaccaridico
+B) aminoglicosidico *
+C) macrolidico
+D) beta-lattamico
+E) polipeptidico
+
+DOMANDA: 350 La struttura della cortex sporale e' simile:
+A) alla parete cellulare dei batteri *
+B) alla membrana citoplasmatica dei batteri
+C) alla capsula batterica
+D) allo strato mucoso batterico
+E) alla membrana nucleare
+
+DOMANDA: 351 La transcrittasi inversa e' un enzima:
+A) che inverte l'attivita' ottica degli zuccheri
+B) che sintetizza un filamento di DNA su uno stampo di RNA *
+C) che sintetizza un filamento di RNA su uno stampo di DNA
+D) che trascrive il DNA in direzione inversa a quella di tutti gli altri enzimi
+E) presente solo nei batteriofagi temperati
+
+DOMANDA: 352 La trichinellosi e' presente:
+A) nei paesi tropicali
+B) in tutto il mondo *
+C) nei paesi in cui vi sono i suini
+D) nelle zone temperate
+E) in zone di montagna
+
+DOMANDA: 353 La viremia plasmatica nella fase asintomatica dell'infezione da HIV
+A) E' sempre assente
+B) E' rilevabile con metodi molecolari *
+C) Non ha alcun rilievo clinico
+D) E' sempre elevata
+E) E' superiore alla fase conclamata
+
+DOMANDA: 354 La zona di inibizione prodotta da un dischetto di antibiotico sull'agar germi e':
+A) quadrata
+B) triangolare
+C) esagonale
+D) ottagonale
+E) circolare *
+
+DOMANDA: 355 La zona di inibizione prodotta da un dischetto di antibiotico sull'agar germi si misura:
+A) col il curvilineo
+B) con lo spettrofotometro
+C) ad occhio
+D) con il calcolatore
+E) con il righello millimetrato *
+
+DOMANDA: 356 L'accrescimento di quale fra i seguenti microrganismi e' rafforzato dalla presenza di sulfamidici?
+A) diplococcus pneumoniae
+B) neisseria meningitidis
+C) mycoplasma pneumoniae
+D) rickettsia prowazeki *
+E) chlamydia trachomatis
+
+DOMANDA: 357 L'acido alfa-amino-adipico e' un precursore della biosintesi di:
+A) triptofano
+B) tetraciclina
+C) penicillina *
+D) asparagina
+E) eritromicina
+
+DOMANDA: 358 L'acido nucleico presente nei virioni può essere (indicare l'unica risposta errata)
+A) costituito da una sola molecola o segmentato
+B) monocatenario o bicatenario
+C) lineare o circolare
+D) costituito in parte da DNA, in parte da RNA *
+E) RNA a polarità positiva o negativa
+
+DOMANDA: 359 L'agar e' un polimero solfonato del:
+A) galattosio *
+B) glucosio
+C) fruttosio
+D) mannosio
+E) ribosio
+
+DOMANDA: 360 L'agente etiologico del tifo petecchiale e':
+A) S. typhi
+B) S.paratyphi
+C) R.prowazeki *
+D) P.vulgaris
+E) E.coli
+
+DOMANDA: 361 L'agente etiologico della congiuntivite da inclusi e':
+A) una clamidia *
+B) una Brucella
+C) una Spirocheta
+D) una Rickettsia
+E) una Neisseria
+
+DOMANDA: 362 L'agente etiologico della febbre ricorrente e' una:
+A) salmonella
+B) pasteurella
+C) shigella
+D) borrelia *
+E) clamidia
+
+DOMANDA: 363 L'agente etiologico della malattia di Weil e':
+A) leptospira *
+B) una Borrelia
+C) una Pasteurella
+D) un Treponema
+E) uno Pseudomonas
+
+DOMANDA: 364 L'agente etiologico della scarlattina e':
+A) Streptococcus viridans
+B) Klebsiella rhinoscleromatis
+C) Brucella melitansis
+D) Edwarsiella Tarda
+E) Streptococcus pyogenes *
+
+DOMANDA: 365 L'agente etiologico dell'eresipela e':
+A) lo Staphylococcus aureus
+B) il Clostridium perfrigens
+C) lo Streptococcus pyogenes *
+D) l' Haemophilus haemoliticus
+E) la Frencisella Tularensis
+
+DOMANDA: 366 L'agente eziologico della febbre ondulante e':
+A) shigella dysenteriae
+B) listeria monocytogenes
+C) legionella pneumophila
+D) proteus mirabilis
+E) brucella melitensis *
+
+DOMANDA: 367 L'agente eziologico della polmonite atipica primaria e':
+A) Diplococcus pneumoniae
+B) Staphylococcus aureus
+C) Haemophilus influenzae
+D) Mycoplasma pneumoniae *
+E) Streptococcus pyogenes
+
+DOMANDA: 368 L'ampicillina e':
+A) una penicillina semisintetica *
+B) una cefalosporina
+C) un antibiotico naturale
+D) una proteina
+E) una base azotata
+
+DOMANDA: 369 L'animale d'elezione per la prova biologica nella ricerca del Mycobacterium bovis e':
+A) la cavia
+B) il coniglio *
+C) il topolino neonato
+D) il criceto
+E) il pulcino
+
+DOMANDA: 370 L'antibiogramma di Mycobacterium tubercolosis viene eseguito in:
+A) uno speciale terreno di coltura minimo
+B) brodo nutritivo
+C) acqua peptonata
+D) agar sangue
+E) uno speciale terreno di coltura ricco *
+
+DOMANDA: 371 L'antibiogramma per gli anaerobi viene eseguito:
+A) in presenza di elevata percentuale di O2
+B) in presenza di elevata percentuale di CO2 *
+C) in presenza di elevata percentuale di H2 S
+D) in presenza di elevata percentuale di vapori di H Cl
+E) in presenza di elevata percentuale di vapori di cloroformio
+
+DOMANDA: 372 L'antibiotico resistenza di Pseudomonas aeruginosa
+A) è costitutiva e può aumentare e/o mutare in corso di terapia *
+B) è acquisita e si sviluppa essenzialmente durante la terapia
+C) si esplica esclusivamente nei confronti dei beta-lattamici
+D) è comunque legata alla produzione di biofilm
+E) si sviluppa solo in pazienti immunocompromessi
+
+DOMANDA: 373 L'antigene cardiolipinico viene usato nella diagnosi di quale fra le seguenti malattie?
+A) tubercolosi
+B) sifilide *
+C) lebbra
+D) rabbia
+E) listeriosi
+
+DOMANDA: 374 L'antigene di gruppo del treponema pallidum:
+A) e' di natura lipidica
+B) e' di natura proteica *
+C) e' di natura polisaccaridica
+D) e' antigene di superficie
+E) e' inattivato dal congelamento a-70
+
+DOMANDA: 375 L'antigene gruppo specifico dello streptococco b emolitico di gruppo A:
+A) e' di natura lipidica
+B) e' di natura proteica
+C) e' di natura polisaccaridica *
+D) e' antigene citoplasmatico
+E) e' antigene di sostanza nucleare
+
+DOMANDA: 376 L'arricchimento come tappa del procedimento della coprocoltura e' importante per la ricerca di
+A) corynebacterium diphtheriae
+B) brucella abortus
+C) salmonella- Shigella *
+D) streptococcus pyogenes
+E) escherichia coli
+
+DOMANDA: 377 Le betalattamasi sono enzimi attivi:
+A) sulla penicillina *
+B) sulla streptomicina
+C) sull'oleandomicina
+D) sul cloramfenicolo
+E) sulla rifampicina
+
+DOMANDA: 378 Le cellule fungine possono essere
+A) pluricellulari e monocellulari *
+B) monocellulari
+C) pluricellulari
+D) bicellulari
+E) pseudoife
+
+DOMANDA: 379 Le cellule helper e suppressor sono:
+A) linfociti B
+B) linfociti T *
+C) plasmacellule
+D) macrofagi
+E) emazie
+
+DOMANDA: 380 Le cisti dei protozoi possono essere uccise dopo breve trattamento alla temperatura minima di:
+A) 32 gradi centigradi
+B) 36 gradi centigradi
+C) 39 gradi centigradi
+D) 65 gradi centigradi *
+E) 121 gradi centigradi
+
+DOMANDA: 381 Le colonie dei microrganismi del genere Proteus tendono a:
+A) sciamare sulla superficie dell'agar *
+B) assumere forma a "pan di zucchero"
+C) affondarsi nello spessore dell'agar
+D) assumere forma ombelicata
+E) essere fortemente mucose
+
+DOMANDA: 382 Le dimensioni delle cellule fungine sono
+A) > cellula batterica, > cellula animale
+B) < cellula batterica, < cellula animale
+C) > cellula batterica, < cellula animale *
+D) uguali alla cellula batterica
+E) uguali alla cellula animale
+
+DOMANDA: 383 Le endotossine batteriche sono capaci di gelificare un lisato di amebociti provenienti da:
+A) dasypus novemcinctus
+B) anopheles maculepennis
+C) limulus poliphemus *
+D) entamoeba hystolitica
+E) trypanosoma brucei
+
+DOMANDA: 384 Le forme L derivano da
+A) batteri gram-negativi
+B) batteri gram-positivi
+C) batteri sporigeni
+D) batteri gram-positivi e gram-negativi *
+E) batteri acido-alcool resistenti
+
+DOMANDA: 385 Le granulazioni di Schuffner sono:
+A) granuli delle amebe
+B) granulazioni degli eritrociti parassitari da plasmodium vivax *
+C) granulazioni degli eritrociti parassitari da plasmodium falciparum
+D) granulazioni dei tripanosomi
+E) granulazioni delle leishmanie
+
+DOMANDA: 386 Le infezioni microbiche che accompagnano la progressione verso AIDS sono
+A) dovute ad agenti altamente patogeni
+B) dovute ad agenti solitamente non patogeni, largamente diffusi nell'uomo *
+C) dovute ad agenti virali rari
+D) sostenute da batteri gram negativi
+E) dovute ad agenti rari incontrati occasionalmente
+
+DOMANDA: 387 Le infezioni nosocomiali più frequenti sono da
+A) ferita chirurgica
+B) batteremie
+C) infezioni urinarie *
+D) infezioni respiratorie
+E) infezioni intestinali
+
+DOMANDA: 388 Le proteine virali vengono sintetizzate nel
+A) citoplasma, come le proteine cellulari *
+B) citoplasma o nel nucleo a seconda della sede di replicazione del virus
+C) citoplasma per i virus a RNA e nel nucleo per i virus a DNA
+D) citoplasma, tranne quella dei retrovirus
+E) citoplasma per i virus a DNA e nel nucleo per i virus a RNA
+
+DOMANDA: 389 Le Rickettsie si coltivano in:
+A) uova embrionate *
+B) agar ascite
+C) agar sangue
+D) sabouraud
+E) agar cioccolato
+
+DOMANDA: 390 Le spore fungine:
+A) sono l'equivalente delle spore batteriche
+B) differiscono essenzialmente dalle spore batteriche per l'assenza di acido dipicolinico
+C) non sono cellule procariotiche *
+D) differiscono da quelle batteriche per la scarsita' di sostanza di riserva
+E) differiscono da quelle batteriche perche' sono sempre pigmentate
+
+DOMANDA: 391 Le uova di Enterobius vermicularis perdono il loro potere infettante:
+A) dopo 2 settimane a temperatura ambiente e ambiente umido
+B) in pochi minuti a temperatura ambiente
+C) in pochi minuti in acqua a 60 gradi *
+D) dopo un mese a temperatura ambiente
+E) dopo 5 giorni a temperatura ambiente
+
+DOMANDA: 392 Le zanzare potenzialmente importanti dal punto di vista sanitario (come vettori di malaria, virosi e filariosi) hanno distribuzione geografica
+A) limitata alle zone tropicali
+B) prevalente nelle zone tropicali ma estesa anche alle zone temperate *
+C) limitata esclusivamente all'Africa equatoriale
+D) limitata esclusivamente all'estremo oriente
+E) limitata alle zone temperate
+
+DOMANDA: 393 L'effetto citopatico
+A) si verifica sia in vitro che nei tessuti infettati in vivo *
+B) è provocato da tutti i virus
+C) è visibile solo su cellule fissate e colorate
+D) consegue alla cristallizzazione delle proteine virali
+E) si verifica soltanto nei tessuti infettati in vivo
+
+DOMANDA: 394 L'emoagglutinazione virale:
+A) e' una delle piu' usate prove per la determinazione dei gruppi sanguigni
+B) e' un particolare tipo di replicazione virale
+C) e' un fenomeno che non ha nulla a che vedere con l'emoadsorbimento
+D) e' una reazione di difesa della cellula infetta
+E) e' una interazione virus-eritrocita *
+
+DOMANDA: 395 L'emocultura si esegue:
+A) diluendo il sangue in brodo e incubando a 37 gradi centigradi *
+B) incubando direttamente il sangue a 37 gradi centigradi
+C) diluendo il sangue in soluzione fisiologica e incubando a 37 gradi centigradi
+D) incubando il sangue diluito in soluzione fisiologica a 4 gradi centigradi per impedire la lisi delle emazie
+E) seminando il materiale sull'agar sangue
+
+DOMANDA: 396 L'emzima lisina-decarbossilasi manca nella:
+A) salmonella typhi
+B) salmonella paratyphi A *
+C) salmonella paratyphi B
+D) salmonella paratyphi C
+E) salmonella typhimurium
+
+DOMANDA: 397 L'endotossina batterica è
+A) una tossina prodotta nel citoplasma della cellula batterica
+B) una tossina secreta dal batterio nel tratto gastro-intestinale dell'ospite
+C) un componente strutturale della parete cellulare dei batteri Gram-positivi
+D) un componente strutturale della membrana esterna dei batteri Gram-negativi *
+E) una tossina che agisce unicamente sugli organi endocrini
+
+DOMANDA: 398 L'Entamoeba histolytica e':
+A) un ciliato
+B) un parassita della classe dei rizopodi *
+C) un flagellato
+D) un plasmodio intestinale
+E) un parassita endocellulare
+
+DOMANDA: 399 L'enterobiosi è una parassitosi che, nel mondo, colpisce circa
+A) 1.000 persone
+B) 10.000 persone
+C) 100.000 persone
+D) 1 milione di persone
+E) 1 miliardo di persone *
+
+DOMANDA: 400 L'epatite B evolve verso forme croniche preferenzialmente quando:
+A) Viene trasmessa per via sessuale
+B) Colpisce soggetti precedentemente immunizzati
+C) Viene acquisita in eta' neonatale *
+D) Non viene diagnosticata tempestivamente
+E) Viene acquisita in eta' adulta
+
+DOMANDA: 401 L'erpangina o faringite follicolare e' la manifestazione clinica piu' frequente provocata da quale tra questi virus ?
+A) virus parainfluenzali
+B) virus dell'influenza C
+C) echovirus
+D) coxsackievirus A *
+E) rhinovirus
+
+DOMANDA: 402 L'esame microscopico del sangue e' utilizzato per la diagnosi di:
+A) Wuchereria bancrofti *
+B) Dracunculus medinensis
+C) Schistosoma mansoni
+D) Hymenolepis nana
+E) Ascaris lumbricoides
+
+DOMANDA: 403 L'esame microscopico delle feci umane si utilizza nella diagnosi di:
+A) Onchocerca volvulus
+B) Trichuris trichiura *
+C) Leishmania tropica
+D) Echinococcus granulosus
+E) Loa loa
+
+DOMANDA: 404 L'etere abolisce la capacita' infettante di quali tra questi virus?
+A) papovavirus
+B) picornavirus
+C) adenovirus
+D) herpesvirus *
+E) parvovirus
+
+DOMANDA: 405 L'HIV appartiene alla famiglia dei
+A) Reovirus
+B) Picornavirus
+C) Retrovirus *
+D) Adenovirus
+E) Flavivirus
+
+DOMANDA: 406 L'HIV e' l'agente eziologico di
+A) Sindrome da immunodeficienza congenita
+B) encefalite postvirale
+C) Sindrome da immunodeficienza acquisita *
+D) Sarcoma di Kaposi
+E) Leucoplachia orale villosa
+
+DOMANDA: 407 L'immunita' acquisita artificiale attiva viene conferita da:
+A) lipidi
+B) vaccini *
+C) emazie
+D) sieri
+E) glucidi
+
+DOMANDA: 408 L'immunita' acquisita artificiale passiva viene conferita da:
+A) lipidi
+B) vaccini
+C) emazie
+D) sieri *
+E) glucidi
+
+DOMANDA: 409 L'immunità innata contro i virus è conferita all'organismo da un sistema di meccanismi che sono
+A) preesistenti all'infezione o indotti dall'infezione *
+B) attivi solo contro i virus
+C) presenti esclusivamente solo dopo l'infezione virale
+D) indotti dalla attivazione dei linfociti T
+E) indotti dalla attivazione dei linfociti B
+
+DOMANDA: 410 L'immunodeficienza che accompagna l'infezione da HIV e' dovuta a:
+A) progressiva diminuzione delle immunoglobuline
+B) progressiva perdita dei linfociti helper *
+C) distruzione del midollo osseo
+D) agenti di infezioni opportuniste
+E) attivazione B policlonale
+
+DOMANDA: 411 L'indicatore presente nel terreno di Chapmann e':
+A) il rosso fenolo *
+B) il rosso neutro
+C) il rosso metile
+D) la tintura di tornasole
+E) il blu di bromotimolo
+
+DOMANDA: 412 L'inoculazione per via endovenosa di un antigene solubile in un animale sensibilizzato puo' determinare, nello spazio di 3-4 minuti, una reazione detta:
+A) malattia da siero
+B) fenomeno di Arthus
+C) anafilassi cutanea
+D) anafilassi sistematica o generalizzata *
+E) incompatibilita' dei globuli rossi
+
+DOMANDA: 413 L'inoculo per l'antibiogramma deve essere di:
+A) > 10^10 batteri
+B) circa 10^9 batteri
+C) circa 10^2 batteri
+D) circa 10^4 batteri *
+E) 1 batterio
+
+DOMANDA: 414 L'inoculo per l'antibiogramma e' costituito da germi:
+A) uccisi
+B) in fase di latenza
+C) in fase stazionaria
+D) in fase esponenziale *
+E) in fase di mortalita' accellerata
+
+DOMANDA: 415 L'interferenza virale:
+A) e' un fenomeno di reazione all'infezione virale mediata dalla produzione di anticorpi
+B) e' una definizione generica di blocco di una infezione virale che puo' essere causato da fattori diversi *
+C) e' una proprieta' virale alla base della preparazione dei piu' efficienti vaccini antivirali
+D) indica lo stato di sofferenza cellulare a seguito della infezione virale
+E) e' una proprieta' dei virus trasformati
+
+DOMANDA: 416 L'involuzione timica inizia:
+A) nel primo decennio di vita
+B) all'epoca della piena maturita' sessuale *
+C) nel terzo decennio di vita
+D) nel quarto decennio di vita
+E) nel quinto decennio di vita
+
+DOMANDA: 417 Lo spettro di antibiotico resistenza di un batterio e':
+A) il gruppo di sostanze che uccidono il germe
+B) il tipo di sostanza a cui il germe e' sensibile
+C) il comportamento di un ceppo nei confronti di varie concentrazioni dello stesso antibiotico
+D) il comportamento di vari batteri nei confronti dello stesso antibiotico
+E) le sostanze a cui il germe e' resistente *
+
+DOMANDA: 418 Lo zucchero fermentato dalla N. gonorrhoeae e':
+A) maltosio
+B) saccarosio
+C) glucosio *
+D) trialosio
+E) arabinosio
+
+DOMANDA: 419 L'osservazione a goccia pendente si usa:
+A) per vedere le reali dimensioni dei batteri
+B) per vedere il movimento delle cellule batteriche *
+C) per contare le ciglia dei batteri
+D) per osservare i fenomeni di coniugazione batterica
+E) per l'osservazione di un preparato colorato
+
+DOMANDA: 420 L'RNA nudo di quale tra i seguenti virus puo' produrre un'infezione produttiva nelle cellule:
+A) Virus della rabbia
+B) Virus dell'influenza
+C) Virus della poliomielite *
+D) Retrovirus
+E) Herpesvirus
+
+DOMANDA: 421 Morfologicamente le colonie del Mycoplasma pneumoniae si presentano:
+A) a caput medusae
+B) a uovo fritto *
+C) ombelicate
+D) lobate
+E) rugose
+
+DOMANDA: 422 Nel metodo di Ziehl- Neelsen la decolorazione con acido viene fatta con:
+A) acido cromico al 20%
+B) acido solforico al 20% *
+C) acido acetico al 20%
+D) acido formico al 20%
+E) acido citrico al 20%
+
+DOMANDA: 423 Nel microscopio ottico l'immagine dell'oggetto che si forma dopo l'azione delle lenti che compongono l'obiettivo o sistema obiettivo e':
+A) reale capovolta ingrandita *
+B) virtuale diritta
+C) reale diritta ingrandita
+D) virtuale capovolta ingrandita
+E) reale diritta rimpicciolita
+
+DOMANDA: 424 Nel vaccino BCG i batteri sono:
+A) vivi *
+B) uccisi dal calore
+C) uccisi con formalina
+D) uccisi con acetone
+E) uccisi con raggi UV
+
+DOMANDA: 425 Nella fermentazione alcolica per la produzione della birra si usano:
+A) candida albicans
+B) aspergillus niger
+C) penicillium notatum
+D) cryptococcus
+E) saccharomyces cerevisiae *
+
+DOMANDA: 426 Nella fermentazione:
+A) l'ossigeno e' l'accettore terminale di elettroni
+B) l'azoto e' l'accettore terminale di elettroni
+C) la produzione di ATP e' piu' elevata che nella respirazione
+D) l'accettore di elettroni e' un prodotto organico *
+E) il prodotto termianle e' uno zucchero a 6 atomi di carbonio
+
+DOMANDA: 427 Nella leishmaniosi cutanea, le cellule infettate sono
+A) leucociti neutrofili
+B) emazie
+C) macrofagi *
+D) cellule epiteliali
+E) cellule adipose
+
+DOMANDA: 428 Nella via classica dell'attivazione del complemento quale componente interviene nella reazione dopo C1 ?
+A) C2
+B) C3
+C) C4 *
+D) C5
+E) C6
+
+DOMANDA: 429 Nell'ambito di quale fra i seguenti generi di batteri possono essere distinte delle specie foto-cromogene e scotocromogene?
+A) Brucella
+B) Salmonella
+C) Corynebacterium
+D) Vibrio
+E) Mycobacterium *
+
+DOMANDA: 430 Nelle colorazioni istologiche il PAS e' specifico per:
+A) i nuclei ei nucleoli
+B) per i ribosomi fungini
+C) per i polisaccaridi *
+D) per la chitina
+E) per il citoplasma delle cellule fungine
+
+DOMANDA: 431 Nelle endospore batteriche quale e' la formazione piu' esterna fra le seguenti?
+A) parete cellulare
+B) rivestimento esterno
+C) rivestimento interno
+D) esosporio *
+E) cortex
+
+DOMANDA: 432 Nelle urine di pazienti con patologie fungine puo' ritrovarsi:
+A) Trichophyton
+B) Candida *
+C) Pityrosporum
+D) Mucor
+E) Rhizopus
+
+DOMANDA: 433 Ogni tipo di virus si replica in particolari tipi di cellule; questo spettro d'ospite e' determinato essenzialmente:
+A) da proprieta' del capside virale e da semplici ricettori della superficie cellulare *
+B) solo dalla diversa morfologia dei diversi tipi di virus
+C) unicamente dal tipo di simmetria virale
+D) da eventi casuali
+E) da enzimi che si trovano differentemente distribuiti dentro le cellule ospite
+
+DOMANDA: 434 Oltre al termometro, quale altro strumento di misura deve avere una autoclave?
+A) flussometro
+B) p Hmetro
+C) barometro
+D) manometro *
+E) vacuometro
+
+DOMANDA: 435 Per germinazione si intende:
+A) un tipo di divisione cellulare
+B) il passaggio di una forma sporale alla corrispondente forma vegetativa *
+C) la divisione della sostanza nucleare senza divisione cellulare
+D) la formazione di ife
+E) la trasformazine di un batterio in spora
+
+DOMANDA: 436 Per la coltura di quale fra i seguenti batteri viene usato il terreno di Dubos?
+A) Diplococcus pneumoniae
+B) Corynebacterium diphtheriae
+C) Mycobacterium tubercolosis *
+D) Clostridium tetani
+E) Neisseria meningitidis
+
+DOMANDA: 437 Per la diagnosi di laboratorio dei papillomavirus quale tra queste ricerche viene effettuate ?
+A) la ricerca dei corpi del Negri nelle cellule infette
+B) la ricerca degli acidi nucleici virali mediante PCR sul DNA estratto dalle lesioni *
+C) la ricerca degli anticorpi specifici con la reazione di emmagglutinoinibizione
+D) l'isolamento del virus dalle lesioni in cellule Vero
+E) l'isolamento del virus sulla cornea del coniglio
+
+DOMANDA: 438 Per la diagnosi di quale fra le seguenti malattie puo' essere usata la reazione di Frei?
+A) lebbra
+B) tularemia
+C) linfogranuloma venereo *
+D) brucellosi
+E) febbre ricorrente
+
+DOMANDA: 439 Per la diagnosi di quale fra le seguenti malattie puo' essere usata la reazione di Weil- Felix?
+A) colera
+B) peste
+C) febbre gialla
+D) lebbra
+E) tifo esantematico *
+
+DOMANDA: 440 Per la diagnosi di quale fra le seguenti malattie si usa la reazione di Wright ?
+A) carbonchio
+B) tetano
+C) difterite
+D) brucellosi *
+E) colera
+
+DOMANDA: 441 Per la diagnosi di quale malattia puo' essere usato il test di Nelson e Mayer?
+A) tubercolosi
+B) sifilide *
+C) carbonchio
+D) rabbia
+E) rosolia
+
+DOMANDA: 442 Per la diagnosi di quale malattia si puo' usare la microflocculazione VDRL?
+A) tubercolosi
+B) sifilide *
+C) blenorragia
+D) lebbra
+E) epatite da siero
+
+DOMANDA: 443 Per la preparzione del vaccino antinfluenzale, allestito nelle uova di pollo embrionate, quale tipo di inoculazione viene affettuata:
+A) in cavita' amniotica
+B) in cavita' allantoidea *
+C) nel sacco del tuorlo
+D) sulla membrana corioallantoidea
+E) per via intravenosa
+
+DOMANDA: 444 Per l'identificazione di quale fra i seguenti batteri viene usato il metodo di Ziehl- Neelsen?
+A) batterio del tifo
+B) batterio della tubercolosi *
+C) batterio del carbonchio
+D) batterio della peste
+E) vibrione del colera
+
+DOMANDA: 445 Per l'identificazione di quale fra questi batteri viene usato il metodo di Gins?
+A) Neisseria meningitidis
+B) Bacillus anthracis
+C) Brucella melitensis
+D) Corynebacterium diphtheriae *
+E) Mycobacterium leprae
+
+DOMANDA: 446 Per l'isolamento di quale batterio viene usato il terreno di Monsur ?
+A) Mycobacterium tuberculosis
+B) Corynebacterium diphtheriae
+C) Bordetella pertussis
+D) Vibrio cholerae *
+E) Brucella abortus
+
+DOMANDA: 447 Per l'isolamento di quale fra i seguenti batteri viene usato il terreno di Chapman contenente mannite e cloruro sodico al 7,5%?
+A) Staphylococcus aureus *
+B) Streptococcus pyogenes
+C) Diplococcus pneumoniae
+D) Vibrio cholerae
+E) Yersinia enterocolitica
+
+DOMANDA: 448 Per l'isolamento di quale fra i seguenti batteri viene usato il terreno TBCS ( Tiosofato, bile, citrato, saccarosio) ?
+A) staphylococcus aureus
+B) brucella abortus
+C) salmonella typhi
+D) vibrio cholerae *
+E) bacillus anthracis
+
+DOMANDA: 449 Per l'isolamento di quale fra i seguenti microrganismi possono essere usati terreni addizionati di acetato di tallio?
+A) Diplococcus pneumoniae
+B) Streptococcus pyogenes
+C) Haemophilus influenzae
+D) Mycoplasma pneumoniae *
+E) Chlamidia psittaci
+
+DOMANDA: 450 Per l'isolamento di quale fra questi batteri viene usato il terreno di Monsur?
+A) corynebacterium diphteriae
+B) mycobacterium tuberculosis
+C) vibrio cholerae *
+D) listeria monocytogenes
+E) yersinia pestis
+
+DOMANDA: 451 Per l'isolamento di quale fra questi virus viene usata l'inoculazione nel topino neonato?
+A) Coxsackievirus *
+B) Reovirus
+C) Orthomyxovirus
+D) Rhinovirus
+E) Adenovirus
+
+DOMANDA: 452 Per l'osservazione microscopica di quale fra i seguenti microrganismi puo' essere usata la colorazione di Janet ?
+A) neisseria gonorrhoeae *
+B) diplococcus pneumoniae
+C) corynebacterium diphtheriae
+D) mycobacterium tubercolosis
+E) candida albicans
+
+DOMANDA: 453 Per quale delle seguenti diagnosi si sfrutta la reazione di deviazione del complemento
+A) sierodiagnosi di Wassermann *
+B) reazione alla tubercolina
+C) malaria
+D) tifo
+E) brucellosi
+
+DOMANDA: 454 Per quale di questi gruppi di virus a DNA la replicazione avviene nel citoplasma:
+A) poxvirus *
+B) herpesvirus
+C) adenovirus
+D) papovavirus
+E) parvovirus
+
+DOMANDA: 455 Per quale fra i seguenti batteri e' utile, ai fini dell'isolamento, la conservazione per un certo tempo in frigorifero prima della semina su adatti terreni colturali?
+A) Clostridium tetani
+B) Neisseria gonorrhoeae
+C) Mycobacterium tubercolosis
+D) Listeria monocytogenes *
+E) Vibrio cholerae
+
+DOMANDA: 456 Per quale fra i seguenti gruppi di virus l'amantadina inibisce la penetrazione nelle cellule sensibili?
+A) poxvirus
+B) herpesvirus
+C) adenovirus
+D) influenza A *
+E) influenza B
+
+DOMANDA: 457 Per quale fra le seguenti vaccinazioni viene usato il BCG ?
+A) vaccinazione anticarbonchiosa
+B) vaccinazione antitubercolare *
+C) vaccinazione antipestosa
+D) vaccinazione anticolerica
+E) vaccinazione antimeningococcica
+
+DOMANDA: 458 Per quale malattia e' possibile dimostrare la risposta anticorpale mediante la prova di inibizione dell'emagglutinazione?
+A) la tubercolosi
+B) il morbillo *
+C) la varicella
+D) la mononucleosi infettiva
+E) la poliomielite
+
+DOMANDA: 459 Per quale via viene somministrato il vaccino antimorbillo?
+A) via orale
+B) via inalatoria
+C) via sottocutanea *
+D) via intravenosa
+E) via sottodurale
+
+DOMANDA: 460 Per quale via viene somministrato il vaccino antipolio tipo Sabin?
+A) via orale *
+B) via inalatoria
+C) via percutanea
+D) via intradermica
+E) via sottocutanea
+
+DOMANDA: 461 Per quali delle seguenti funzioni i virus ad RNA non dipendono dalla cellula ospite?
+A) Produzione di energia per mantenere il metabolismo della cellula ospite
+B) Apparato di traduzione per la produzione di proteine virali
+C) Trascrizione di RNA per la formazione dei genomi della progenie *
+D) Enzimi glicosilanti per l'elaborazione di glicoproteine di superficie
+E) Produzione di nucleotidi trifosfati per la replicazione del genoma
+
+DOMANDA: 462 Pseudomonas aeruginosa e':
+A) ossidasi positivo *
+B) coagulasi positivo
+C) indolo positivo
+D) catalasi negativo
+E) H2S positivo
+
+DOMANDA: 463 Puo' integrarsi un episoma nel cromosoma batterico?
+A) si *
+B) no
+C) solo se la cellula e' Rec
+D) solo se vi e' l'aiuto di un batteriofago insito nel batterio
+E) solo in presenza di insulina
+
+DOMANDA: 464 Qual e' il metodo migliore per osservare al microscopio il movimento dei batteri mobili
+A) osservazione con cellula di Koch (goccia pendente) *
+B) osservazione di un preparato a fresco con materiale posto tra vetrino portaoggetto e vetrino coprioggetto
+C) osservazione con colorazione di Gram
+D) osservazione al microscopio elettronico
+E) osservazione del preparato fissato al calore
+
+DOMANDA: 465 Qual e' la concentrazione normale delle Ig E
+A) fino a 1 mg/ml
+B) fino a 0,01 mg/ml
+C) fino a 0,005 mg/ml *
+D) 0,05 mg/ml
+E) fino a 3 mg/ml
+
+DOMANDA: 466 Qual e' la concentrazione sierica di Ig A
+A) 1-4 mg/ml *
+B) 5-10 mg/ml
+C) 0,1-0,5 mg/ml
+D) meno di 0,1 mg/ml
+E) meno di 0,01 mg/ml
+
+DOMANDA: 467 Qual e' la costante di sedimentazione dei ribosomi batterici e quella delle loro subunita' ?
+A) 80S; 40S; e 50S
+B) 70S; 30S; e 40S
+C) 70S; 30S; e 50S *
+D) 80S; 50S; e 40S
+E) 80S; 40S; e 40S
+
+DOMANDA: 468 Qual e' la definizione di aptene
+A) antigene incompleto *
+B) antigene completo
+C) gene che codifica per gli anticorpi
+D) anticorpo
+E) determinante antigenico
+
+DOMANDA: 469 Qual e' la morfologia tipica delle Neisserie?
+A) cocchi a catena
+B) cocchi a grappolo
+C) diplococchi a chicco di caffe' *
+D) bastoncelli con spora terminale
+E) diplococchi a punta di lancia
+
+DOMANDA: 470 Qual e' la natura chimica dominanti degli anticorpi
+A) lipidica
+B) glucidica
+C) protidica *
+D) glico-proteica
+E) lipopolisaccaridica
+
+DOMANDA: 471 Qual e' la natura di un gene ?
+A) Polipeptidica
+B) Lipopolisaccaridica
+C) Nucleotidica *
+D) Enzimatica
+E) Glicoproteica
+
+DOMANDA: 472 Qual e' l'agente etiologico della panencefalite subacuta sclerosante?
+A) il virus della parotite
+B) il virus del morbillo *
+C) Treponema pallidum
+D) Clamydia psittaci
+E) il virus della rabbia
+
+DOMANDA: 473 Qual e' l'agente fisico che si usa per sterilizzare i terreni di coltura
+A) la pressione
+B) raggi X
+C) acidi
+D) calore sotto pressione *
+E) fiamma diretta del becco Bunsen
+
+DOMANDA: 474 Qual e' l'effetto a livello cellulare di un'infezione virale ?
+A) si ha sempre la comparsa di effetto citopatico
+B) si ha sempre la formazione di sincizi cellulari
+C) si ha in ogni caso la lisi della cellula entro poche ore
+D) la cellula puo' presentare in superficie antigeni virali *
+E) si ha una degenerazione del nucleo cellulare
+
+DOMANDA: 475 Qual è l'indice di batteriuria significativa?
+A) = 105 UFC/mL di urina *
+B) < 103 UFC/mL di urina
+C) = 109 UFC/mL di urina
+D) = 103 UFC/mL di urina
+E) = 106 UFC/mL di urina
+
+DOMANDA: 476 Qual e' l'uso del componente paraboloide
+A) nel microscopio elettronico
+B) nel microscopio a scansione
+C) nel microscopio ottico per l'osservazione a contrasto di fase
+D) nel miscroscopio ottico per l'osservazione a campo oscuro *
+E) nel miscoscopio ottico per mettere in evidenza le ciglia batteriche
+
+DOMANDA: 477 Quale agente infettivo puo' essere veicolato dalle carni:
+A) gonococco
+B) carbonchio *
+C) meningococco
+D) virus del polioma
+E) virus della febbre gialla
+
+DOMANDA: 478 Quale antibiotico e' prodotto da Streptomyces eritreus
+A) penicillina
+B) cloramfenicolo
+C) eritromicina *
+D) gentamicina
+E) tetraciclina
+
+DOMANDA: 479 Quale colorante e' contenuto nel terreno di Drigalski- Conradi?
+A) violetto di genziana
+B) cristalvioletto *
+C) rosso metile
+D) crisoidina
+E) verde di malachite
+
+DOMANDA: 480 Quale dei seguenti batteri da' nelle colture per infissione in gelatina il tipico aspetto ad "abete capovolto" ?
+A) Diplococcus pneumoniae
+B) Bacillus anthracis *
+C) Corynebacterium diphtheriae
+D) Clostridium tetani
+E) Clostridium botulinum
+
+DOMANDA: 481 Quale dei seguenti componenti non è presente nella costituzione del pericapside virale?
+A) proteine virus-codificate
+B) glicoproteine virus-codificate
+C) glicoproteine della superficie cellulare
+D) acidi nucleici virali *
+E) fosfolipidi della superficie cellulare
+
+DOMANDA: 482 Quale dei seguenti microrganismi produce coagulasi
+A) Streptococcus pneumoniae
+B) Staphylococcus aureus *
+C) Streptococcus agalactiae
+D) Streptococcus pyogenes
+E) Staphylococcus epidermidis
+
+DOMANDA: 483 Quale delle seguenti frasi descrive meglio la natura dei virus?
+A) Cellule procariotiche parassiti intracellulari obbligati
+B) Parassiti intracellulari obbligati *
+C) Agenti infettivi costantemente patogeni
+D) Microrganismi con spiccata affinità per il nucleo delle cellule ospiti
+E) Organismi unicellulari patogeni
+
+DOMANDA: 484 Quale delle seguenti proprieta' riguarda i virus oncogeni ?
+A) sono esclusivamente virus a DNA
+B) sono esclusivamente virus a RNA
+C) possono essere sia virus a RNA che a DNA *
+D) sono virus che infettano solo l'uomo
+E) sono virus che infettano solo gli animali
+
+DOMANDA: 485 Quale delle seguenti Rickettsie viene trasmessa anche per via alimentare:
+A) R. prowazeki
+B) R.typhi
+C) R.orientalis
+D) C.burneti *
+E) R.rickettsi
+
+DOMANDA: 486 Quale di questi batteri da' caratteristiche infezioni intrauterine:
+A) Corynebacterium diphteriae
+B) Listeria monocytogenes *
+C) Pseudomonas mallei
+D) Proteus rettgeri
+E) Neisseria gonorrhoeae
+
+DOMANDA: 487 Quale di questi batteri ha forma lanceolata ?
+A) Streptococcus pneumoniae *
+B) Bordetella pertussis
+C) Vibrio cholerae
+D) Neisseria meningitidis
+E) Yersinia pestis
+
+DOMANDA: 488 Quale di questi donatori di elettroni definisce un microrganismo "chemolitotrofo"?
+A) H2 *
+B) glucosio
+C) O2
+D) SO-4
+E) CO2
+
+DOMANDA: 489 Quale di questi gruppi di virus ha come acido nucleico il DNA:
+A) picornavirus
+B) reovirus
+C) herpesvirus *
+D) togavirus
+E) paramyxovirus
+
+DOMANDA: 490 Quale di questi gruppi di virus possiede RNA a doppia elica:
+A) reovirus *
+B) rhabdovirus
+C) paramyxovirus
+D) ortomyxovirus
+E) picornavirus
+
+DOMANDA: 491 Quale di questi meccanismi puo' essere coinvolto nella replicazione virale?
+A) scissione binaria
+B) formazione di conidi
+C) utilizzo di tRNA o di proteine come primer *
+D) formazione di artrospore
+E) sintesi di peptidoglicano
+
+DOMANDA: 492 Quale di questi processi di fermentazione industriale e' aerobico
+A) produzione di alcool etilico
+B) produzione di metano
+C) produzione di acido acetico *
+D) produzione di acido lattico
+E) produzione di acetone e butanolo
+
+DOMANDA: 493 Quale di questi schizomiceti e' privo di ciglia e quindi e' immobile:
+A) Yersinia pestis *
+B) Yersinia enterocolitica
+C) Pseudomonas aeruginosa
+D) Proteus mirabilis
+E) Escherichia coli
+
+DOMANDA: 494 Quale di questi schizomiceti nel suo metabolismo non produce indolo?
+A) escherichia coli
+B) proteus mirabilis *
+C) proteus vulgaris
+D) vibrio cholerae
+E) edwarsiella tarda
+
+DOMANDA: 495 Quale di questi schizomiceti non coagula mai il plasma citratato:
+A) staphylococcus aureus
+B) escherichia coli
+C) pseudomonas aeruginosa
+D) streptococcus faecalis
+E) diplococcus pneumoniae *
+
+DOMANDA: 496 Quale di questi schizomiceti non produce l'enzima catalasi?
+A) corynebacterium diphteriae
+B) listeria monocytogenes
+C) staphylococcus aureus
+D) streptococcus fecalis *
+E) brucella melitensis
+
+DOMANDA: 497 Quale di questi virus ha simmetria cubica:
+A) myxovirus
+B) paramyxovirus
+C) poxvirus
+D) rhabdovirus
+E) enterovirus *
+
+DOMANDA: 498 Quale di questi virus non possiede ne la proprieta' emagglutinante ne quella emolitica:
+A) virus influenzale
+B) virus del morbillo
+C) virus sendai
+D) virus respiratorio sinciziale *
+E) virus del vaiolo
+
+DOMANDA: 499 Quale di questi virus non presenta l'involucro (envelope)
+A) rhinovirus *
+B) rhabdovirus
+C) paramyxovirus
+D) togavirus
+E) ortomyxovirus
+
+DOMANDA: 500 Quale di questi virus puo' essere visibile al microscopio
+A) il virus del vaiolo *
+B) il virus influenzale
+C) il virus rabbico
+D) gli enterovirus
+E) il virus della febbre gialla
+
+DOMANDA: 501 Quale e' fra i seguenti microrganismi l'agente eziologico dell'ulcera molle?
+A) Haemophilus ducrey *
+B) Mycobacterium ulcerans
+C) Corynebacterium ulcerans
+D) Clostrium septicum
+E) Vibrio parahemolyticus
+
+DOMANDA: 502 Quale è il fattore di virulenza di Streptococcus pneumoniae?
+A) Proteina C reattiva
+B) Bacitracina
+C) Lipopolisaccaride endotossico
+D) Polisaccaride capsulare *
+E) Coagulasi
+
+DOMANDA: 503 Quale e' la costante di sedimentazione delle Ig M?
+A) 4 S
+B) 7 S
+C) 11 S
+D) 15 S
+E) 19 S *
+
+DOMANDA: 504 Quale e' la differenza tra antibiotici e chemioterapici?
+A) gli antibiotici sono prodotti da microrganismi uccisi, i chemioterapici da microrganismi vivi
+B) gli antibiotici sono di origine naturale, i chemioterapici di origine sintetica *
+C) gli antibiotici sono prodotti industrialmente, i chemioterapici chimicamente
+D) sono la stessa cosa
+E) e' diversa l'utilizzazione terapeutica
+
+DOMANDA: 505 Quale e' la fase della curva di crescita in cui una cellula batterica si duplica in un tempo minore?
+A) fase di latenza
+B) fase di crescita accelerata
+C) fase logaritmica *
+D) fase di crescita decelerata
+E) fase stazionaria
+
+DOMANDA: 506 Quale e' la forma caratteristica dei Rhabdovirus?
+A) sferica
+B) filamentosa
+C) a mattone
+D) a proiettile *
+E) a bacchetta di tamburo
+
+DOMANDA: 507 Quale e' la natura chimica degli inibitori aspecifici presenti nei sieri umani ed attivi verso l'emoagglutinazione del virus della rosolia?
+A) glicoproteine
+B) alfa 2-macroglobuline
+C) lipoproteine a bassa densita' *
+D) fibrinogeno
+E) zuccheri neutri
+
+DOMANDA: 508 Quale e' la natura chimica dell'emagglutinina dei Rhabdovirus?
+A) fosfolipidica
+B) proteica
+C) glicolipidica
+D) lipoproteica
+E) glicoproteica *
+
+DOMANDA: 509 Quale e' la percentuale dei componenti lipidici negli orthomyxovirus
+A) 50% circa
+B) 2% circa
+C) 38% circa
+D) 92% circa
+E) 18% circa *
+
+DOMANDA: 510 Quale e' la temperatura ottimale di crescita dei rhinovirus ?
+A) 33 gradi C - 34 gradi C *
+B) 36 gradi C - 37 gradi C
+C) 25 gradi C
+D) 38 gradi C
+E) 45 gradi C
+
+DOMANDA: 511 Quale e' l'agente eziologico della malattia del mollusco contagioso?
+A) un poxvirus *
+B) una streptococco
+C) una rickttsia
+D) un adenovirus
+E) un herpesvirus
+
+DOMANDA: 512 Quale fra i componenti del complemento e' costituito da tre subnita' distinte con le lettere q, r, s ?
+A) C1 *
+B) C2
+C) C3
+D) C4
+E) C5
+
+DOMANDA: 513 Quale fra i seguenti antibiotici inibisce la sintesi del peptidoglicano
+A) cefalosporine *
+B) polimixine
+C) novobiocina
+D) rifamicina
+E) kanamicina
+
+DOMANDA: 514 Quale fra i seguenti antibiotici inibisce la sintesi di RNA?
+A) penicillina
+B) cefalosporine
+C) polimixine
+D) rifampicina *
+E) tetracicline
+
+DOMANDA: 515 Quale fra i seguenti antibiotici inibisce la sintesi proteica?
+A) cefalosporine
+B) bacitracina
+C) polimixina
+D) tetraciclina *
+E) rifamicina
+
+DOMANDA: 516 Quale fra i seguenti batteri appartiene al genere Clostridium?
+A) batterio della lebbra
+B) batterio del tetano *
+C) batterio del tifo
+D) batterio della tubercolosi
+E) batterio del carbonchio
+
+DOMANDA: 517 Quale fra i seguenti batteri e' gram positivo?
+A) Diplococcus pneumoniae *
+B) Pseudomonas aeruginosa
+C) Brucella abortus
+D) Proteus vulgaris
+E) Vibrio cholerae
+
+DOMANDA: 518 Quale fra i seguenti batteri e' gram-negativo?
+A) Diplococcus pneumoniae
+B) Brucella melitensis *
+C) Listeria monocytogenes
+D) Clostridium tetani
+E) Corynebacterium diphtheriae
+
+DOMANDA: 519 Quale fra i seguenti batteri e' lisato dai sali biliari?
+A) Streptococcus faecalis
+B) Diplococcus pneumoniae *
+C) Salmonella typhimurium
+D) Shigella sonnei
+E) Proteus mirabilis
+
+DOMANDA: 520 Quale fra i seguenti batteri non produce una emolisina ossigeno-labile?
+A) streptococcus pyogenes
+B) diplococcus pneumoniae
+C) clostridium tetani
+D) mycobacterium tubercolosis *
+E) clostridium welchii
+
+DOMANDA: 521 Quale fra i seguenti batteri patogeni presenta dei granuli metacromatici
+A) Mycobacterium tubercolosis
+B) Yersinia pestis
+C) Corynebacterium diphteriae *
+D) Salmonella typhi
+E) Vibrio cholerae
+
+DOMANDA: 522 Quale fra i seguenti batteri patogeni puo' essere coltivato in acqua peptonata?
+A) Corynebacterium diphtheriae
+B) Streptococcus pyogenes
+C) Vibrio cholerae *
+D) Bordetella pertussis
+E) Brucella melitensis
+
+DOMANDA: 523 Quale fra i seguenti batteri patogeni puo' essere isolato dal paziente mediante la coprocoltura?
+A) Corynebacterium diphtheriae
+B) Neisseria meningitidis
+C) Diplococcus pneumoniae
+D) Shigella sonnei *
+E) Bacillus anthracis
+
+DOMANDA: 524 Quale fra i seguenti batteri patogeni puo' essere isolato dal paziente mediante l'emocoltura?
+A) Vibrio cholerae
+B) Clostridium tetani
+C) Brucellla melitensis *
+D) Corynebacterium diphtheriae
+E) Clostridum botulinum
+
+DOMANDA: 525 Quale fra i seguenti batteri patogeni puo' essere isolato su terreni ad elevata alcalinita' (anche p H 9) ?
+A) Mycobacterium tubercolosis
+B) Yersinia pestis
+C) Brucella abortus
+D) Salmonella typhi
+E) Vibrio cholerae *
+
+DOMANDA: 526 Quale fra i seguenti batteri patogeni puo' presentare forme clavate?
+A) Salmonella typhi
+B) Vibrio cholerae
+C) Bacillus anthracis
+D) Corynebacterium diphteriae *
+E) Yersinia pestis
+
+DOMANDA: 527 Quale fra i seguenti batteri presenta su terreni solidi colonie a " CAPUT" MEDUSAE"?
+A) Mycobacterium tubercolosis
+B) Vibrio cholerae
+C) Corynebacterium diphtheriae
+D) Bacillus anthracis *
+E) Clostridium tetani
+
+DOMANDA: 528 Quale fra i seguenti batteri presenta una capsula di natura polipeptidica?
+A) Neisseria meningitidis
+B) Diplococcus pneumoniae
+C) Staphylococcus aureus
+D) Clostridium tetani
+E) Bacillus anthracis *
+
+DOMANDA: 529 Quale fra i seguenti batteri produce una emolisina ossigeno-labile?
+A) clostridium tetani *
+B) bacillus anthracis
+C) corynebacterium diphtheriae
+D) brucella melitensis
+E) neisseria meningitidis
+
+DOMANDA: 530 Quale fra i seguenti batteri produce una enterotossina che agisce attraverso una esaltazione dell'adenilciclasi?
+A) salmonella typhi
+B) salmonella paratyphi A
+C) salmonella paratyphi B
+D) shigella sonnei
+E) vibrio cholerae *
+
+DOMANDA: 531 Quale fra i seguenti batteri produce una tossina ad elevato neurotropismo?
+A) staphylococcus aureus
+B) streptococcus pyogenes
+C) bacillus anthracis
+D) clostridium tetani *
+E) bordetella pertussis
+
+DOMANDA: 532 Quale fra i seguenti batteri produce, fra gli altri fattori di virulenza, un fattore dell'edema?
+A) Yersinia pestis
+B) Corynebacterium diphtheriae
+C) Bacillus anthracis *
+D) Clostridium tetani
+E) Listeria monocytogenes
+
+DOMANDA: 533 Quale fra i seguenti batteri puo' produrre una tossina eritrogenica?
+A) Staphylococcus aurens
+B) Streptococcus pyogenes *
+C) Diplococcus pneumoniae
+D) Corynebacterium diphteriae
+E) Clostridium tetani
+
+DOMANDA: 534 Quale fra i seguenti batteri resiste al riscaldamento a 60 gradi centigradi per 30 minuti?
+A) Staphylococcus aureus
+B) Streptococcus pyogenes
+C) Streptococcus faecalis *
+D) Diplococcus pneumoniae
+E) Neisseria meningitidis
+
+DOMANDA: 535 Quale fra i seguenti batteri richiede per l'isolamento una certa tensione di CO2?
+A) Salmonella typhi
+B) Diplococcus pneumoniae
+C) Brucella abortus *
+D) Corynebacterium diphtheriae
+E) Mycobacterium tubercolosis
+
+DOMANDA: 536 Quale fra i seguenti coloranti puo' essere usato nel primo tempo della colorazine del GRAM?
+A) bleu di metilene
+B) cristalvioletto *
+C) saffranina
+D) tionina
+E) fucsina
+
+DOMANDA: 537 Quale fra i seguenti coloranti puo' essere usato nell'ultimo tempo della colorazione del GRAM?
+A) fucsina *
+B) bleu di metilene
+C) violetto di genziana
+D) verde brillante
+E) verde di malachite
+
+DOMANDA: 538 Quale fra i seguenti coloranti puo' essere usato nell'ultimo tempo della colorazione di GINS?
+A) bleu di metilene
+B) cristalvioletto
+C) violetto di genziana
+D) crisoidina *
+E) fucsina
+
+DOMANDA: 539 Quale fra i seguenti costituenti della cellula batterica puo' mancare in un batterio senza pregiudicarne la sopravvivenza?
+A) sostanza nucleare
+B) citoplasma
+C) membrana citoplasmatica
+D) capsula *
+E) parete cellulare
+
+DOMANDA: 540 Quale fra i seguenti generi e' produttore di ureasi?
+A) Escherichia
+B) Shigella
+C) Salmonella
+D) Proteus *
+E) Providencia
+
+DOMANDA: 541 Quale fra i seguenti generi e' sprovvisto di ciglia?
+A) Salmonella
+B) Shigella *
+C) Enterobacter
+D) Serratia
+E) Proteus
+
+DOMANDA: 542 Quale fra i seguenti generi fermenta il lattosio?
+A) Escherichia *
+B) Shigella
+C) Salmonella
+D) Proteus
+E) Providencia
+
+DOMANDA: 543 Quale fra i seguenti generi presenta il caratteristico sciamaggio sulla superficie dei terreni di coltura solidi?
+A) Escherichia
+B) Shigella
+C) Salmonella
+D) Proteus *
+E) Klesiella
+
+DOMANDA: 544 Quale fra i seguenti gruppi di virus possiede DNA a singola elica?
+A) iridovirus
+B) herpesvirus
+C) adenovirus
+D) parvovirus *
+E) papovavirus
+
+DOMANDA: 545 Quale fra i seguenti gruppi di virus possiede un RNA a doppia elica?
+A) poliovirus
+B) togavirus
+C) reovirus *
+D) paramyxovirus
+E) rabdovirus
+
+DOMANDA: 546 Quale fra i seguenti gruppi di virus possiede una capside formata da 162 capsomeri ?
+A) herpesvirus *
+B) adenovirus
+C) togavirus
+D) reovirus
+E) picornavirus
+
+DOMANDA: 547 Quale fra i seguenti gruppi di virus possiede una capside formata da 32 capsomeri?
+A) iridovirus
+B) herpesvirus
+C) adenovirus
+D) papovavirus
+E) picornavirus *
+
+DOMANDA: 548 Quale fra i seguenti gruppi di virus raggiunge e supera, come dimensioni, il limite di risoluzione del microscopio ottico?
+A) Poxvirus *
+B) Adenovirus
+C) Paramyxovirus
+D) Togavirus
+E) Retrovirus
+
+DOMANDA: 549 Quale fra i seguenti microrganismi e' l'agente eziologico della febbre Q?
+A) Mycoplasma hominis
+B) Bartonella bacilliformis
+C) Coxiella burneti *
+D) Borrelia recurrentis
+E) Leptospira autumnalis
+
+DOMANDA: 550 Quale fra i seguenti microrganismi e' l'agente eziologico di una affezione polmonare nell'uomo durante la quale compaiono anticorpi verso lo streptococco M G?
+A) Staphylococcus aureus
+B) Streptococcus pyogenes
+C) Klebsiella pneumoniae
+D) Mycoplasma pneumoniae *
+E) Pneumocystis carinii
+
+DOMANDA: 551 Quale fra i seguenti microrganismi no utilizza i carboidrati in coltura?
+A) escherichia coli
+B) salmonella typhi
+C) corynebacterium diphtheriae
+D) neisseria meningitidis
+E) legionella pneumophilia *
+
+DOMANDA: 552 Quale fra i seguenti terreni risulta solido dopo la sterilizzazione?
+A) brodo-siero
+B) brodo-ascite
+C) siero di Loeffler *
+D) terreno di Dubos
+E) terreno di Koser
+
+DOMANDA: 553 Quale fra i seguenti vaccini antivirali attualmente in commercio in Italia contiene virus uccisi?
+A) vaccino antivaioloso
+B) vaccino antinfluenzale *
+C) vaccino antipolio secondo Sabin
+D) vaccino antimorbillo
+E) vaccino antirosolia
+
+DOMANDA: 554 Quale fra i seguenti vaccini e' preparato con il ceppo attenuato 17 D ?
+A) vaccino antipolio
+B) vaccino antivaioloso
+C) vaccino antirabico
+D) vaccino anti febbre gialla *
+E) vaccino antirosolia
+
+DOMANDA: 555 Quale fra i seguenti virus determina nelle cellule colpite la produzione di una emoagglutinina "solubile", non legata cioe' alle particelle virali ?
+A) virus vaioloso *
+B) virus influenzale
+C) virus sendai
+D) virus del morbillo
+E) virus respiratorio sinciziale
+
+DOMANDA: 556 Quale fra i seguenti virus non e' coltivabile nell'uovo fecondato ?
+A) virus del vaiolo
+B) virus dell' Herpes simplex
+C) virus dell' Herpes zoster *
+D) virus influenzale
+E) virus rabico
+
+DOMANDA: 557 Quale fra i seguenti virus oncogeni e' un virus a RNA ?
+A) virus del mixoma
+B) virus di Epstein- Barr
+C) virus del papilloma
+D) virus del polioma
+E) virus del sarcoma di Rous *
+
+DOMANDA: 558 Quale fra i seguenti virus puo' essere coltivato sulla membrana corionallantoidea dell'uovo di pollo fecondato?
+A) virus del vaiolo *
+B) adenovirus tipo 12
+C) virus respiratorio sincinziale
+D) virus Coxsackie
+E) virus di Epstein- Barr
+
+DOMANDA: 559 Quale fra le seguenti emolisine e' caratteristicamente inibita dal colesterolo?
+A) S-streptolisina
+B) O-streptolisina *
+C) alfa-emolisina stafilococcica
+D) beta-emolisina stafilococcica
+E) delta-emolisina stafilococcica
+
+DOMANDA: 560 Quale fra le seguenti esotossine inibisce la transferasi II nelle cellule sensibili?
+A) esotossina tetanica
+B) esotossina difterica *
+C) esotossina botulinica
+D) esotossina stafilococcica
+E) esotossina streptococcica
+
+DOMANDA: 561 Quale fra le seguenti esotossine produce nella cavia una caratteristica necrosi emorragica dei surreni?
+A) tossina botulinica
+B) tossina difterica *
+C) tossina tetanica
+D) tossina eritrogenica
+E) tossina colerica
+
+DOMANDA: 562 Quale fra le seguenti immunoglobuline contiene un frammento secretorio?
+A) Ig A *
+B) Ig D
+C) Ig E
+D) Ig G
+E) Ig M
+
+DOMANDA: 563 Quale fra le seguenti interazioni fra virus riguarda il genoma virale (interazione genetica)?
+A) mescolamento fenotipico
+B) mescolamento genotipico
+C) riattivazione crociata *
+D) interferenza
+E) complementazione
+
+DOMANDA: 564 Quale fra le seguenti rickettsie e' l'agente della febbre delle Montagne Rocciose?
+A) rickettsia prowazeki
+B) rickettsia mooseri
+C) rickettsia rickettsii *
+D) rickettsia conori
+E) rickettsia australis
+
+DOMANDA: 565 Quale fra le seguenti rickettsie e' trasmessa dal pidocchio all'uomo?
+A) rickettsia rickettsi
+B) rickettsia prowazeki *
+C) rickettsia orientalis
+D) rickettsia mooseri
+E) rickettsia akari
+
+DOMANDA: 566 Quale fra le seguenti sostanze e' usata per la preparazione del terreno di Petragnani?
+A) olio di cocco
+B) tuorlo d'uovo *
+C) farina di soia
+D) olio di vaselina
+E) liquido ascitico
+
+DOMANDA: 567 Quale fra le seguenti specie animali e' ospite naturale del virus visna?
+A) uomo
+B) topo
+C) pecora *
+D) pipistrello
+E) macaco
+
+DOMANDA: 568 Quale fra le seguenti specie batteriche ad habitat intestinale e' anaerobio ?
+A) escherichia coli
+B) proteus vulgaris
+C) bacteroides fragilis *
+D) streptococcus faecalis
+E) salmonella typhi
+
+DOMANDA: 569 Quale fra le seguenti specie batteriche produce un caratteristico pigmento rosso ?
+A) staphylococcus aureus
+B) streptococcus pyogenes
+C) pseudomonas aeruginosa
+D) serratia marcescens *
+E) proteus mirabilis
+
+DOMANDA: 570 Quale fra le seguenti specie batteriche produce un pigmento verdastro ?
+A) serratia marcescens
+B) pseudomonas aeruginosa *
+C) mycobacterium tubercolosis
+D) clostridium botulinum
+E) proteus mirabilis
+
+DOMANDA: 571 Quale fra le seguenti strutture della cellula batterica puo' essere messa in evidenza dalla plasmolisi?
+A) sostanza nucleare
+B) citoplasma
+C) membrana citoplasmatica
+D) parete cellulare *
+E) capsula
+
+DOMANDA: 572 Quale fra le seguenti vitamine annulla competitivamente l'azione antibatterica dei sulfamidici?
+A) acido ascorbico
+B) acido para-amino-benzoico *
+C) riboflavina
+D) nicotinamide
+E) tocoferolo
+
+DOMANDA: 573 Quale fra queste attivita' svolge la coagulasi stafilococcica ?
+A) coagula la gelatina
+B) coagula il latte
+C) coagula il sangue
+D) coagula il siero
+E) coagula il plasma *
+
+DOMANDA: 574 Quale fra queste malattie virali dell'uomo NON e' dovuta ad un virus?
+A) Erpangina
+B) Malattia di Bornholm
+C) Dengue
+D) Kuru *
+E) Rabbia
+
+DOMANDA: 575 Quale fra queste sostanze e' un analogo tossico della metionina
+A) acido glutammico
+B) asparagina
+C) adenina
+D) etionina *
+E) cisteina
+
+DOMANDA: 576 Quale fra queste tossine batteriche e' da identificare con un enzima fosfolipasico
+A) tossina botulinica
+B) tossina tetanica
+C) tossina difterica
+D) alfa-tossina di Clostridium welchii *
+E) tossina colerica
+
+DOMANDA: 577 Quale fra queste tossine e' termoresistente ?
+A) tossina botulinica
+B) tossina tetanica
+C) tossina difterica
+D) enterotossina stafilococcica *
+E) tossina colerica
+
+DOMANDA: 578 Quale fra questi antibiotici e' attivo nei confronti del genere Candida?
+A) penicillina
+B) streptomicina
+C) tetraciclina
+D) nistatina *
+E) polimixina
+
+DOMANDA: 579 Quale fra questi batteri e' mobile ?
+A) Staphylococcus aureus
+B) Neisseria meningitidis
+C) Brucella melitensis
+D) Clostridium tetani *
+E) Yersinia pestis
+
+DOMANDA: 580 Quale fra questi generi e' caratterizzato da notevole polimorfismo?
+A) Klebsiella
+B) Proteus *
+C) Providencia
+D) Serratia
+E) Pseudomonas
+
+DOMANDA: 581 Quale fra questi gruppi di virus contiene DNA?
+A) Adenovirus *
+B) Coronavirus
+C) Reovirus
+D) Rhabdovirus
+E) Retrovirus
+
+DOMANDA: 582 Quale fra questi gruppi di virus contiene RNA?
+A) Adenovirus
+B) Parvovirus
+C) Herpesvirus
+D) Coronavirus *
+E) Poxvirus
+
+DOMANDA: 583 Quale fra questi gruppi di virus e' sprovvisto di involucro?
+A) Poxvirus
+B) Herpesvirus
+C) Adenovirus *
+D) Coronavirus
+E) Rhabdovirus
+
+DOMANDA: 584 Quale fra questi gruppi di virus ha la capside a simmetria elicoidale?
+A) Herpesvirus
+B) Adenovirus
+C) Papovavirus
+D) Rhabdovirus *
+E) Reovirus
+
+DOMANDA: 585 Quale fra questi gruppi di virus ha la capside a simmetria icosaerdica?
+A) Orthomyxovirus
+B) Paramyxovirus
+C) Rhabdovirus
+D) Retrovirus
+E) Togavirus *
+
+DOMANDA: 586 Quale fra questi gruppi di virus ha un genoma distinto in 8 frammenti di RNA?
+A) Orthomixovirus *
+B) Paramyxovirus
+C) Picornavirus
+D) Retrovirus
+E) Togavirus
+
+DOMANDA: 587 Quale fra questi gruppi di virus ha una tipica forma a "mattone"?
+A) Picornavirus
+B) Retrovirus
+C) Herpesvirus
+D) Papovavirus
+E) Poxvirus *
+
+DOMANDA: 588 Quale fra questi gruppi di virus ha una tipica forma a proiettile?
+A) Parvovirus
+B) Adenovirus
+C) Picornavirus
+D) Rhabdovirus *
+E) Reovirus
+
+DOMANDA: 589 Quale fra questi gruppi di virus possiede un involucro?
+A) Herpesvirus *
+B) Adenovirus
+C) Papovavirus
+D) Reovirus
+E) Picornavirus
+
+DOMANDA: 590 Quale fra questi microrganismi produce colonie "ad uovo fritto"?
+A) Mycobacterium tubercolosis
+B) Haemophilus influenzae
+C) Mycoplasma pneumoniae *
+D) Campylobacter jejuni
+E) Helicobacter pylori
+
+DOMANDA: 591 Quale fra questi vaccini antivirali e' un vaccino polivalente?
+A) antivaioloso
+B) antipoliomelitico *
+C) antirabico
+D) anti-morbillo
+E) anti-rosolia
+
+DOMANDA: 592 Quale fra questi virus presenta il fenomeno dell'emoadsorbimento?
+A) virus parainfluenzali *
+B) virus erpetici
+C) virus poliomelitici
+D) Rhinovirus
+E) Retrovirus
+
+DOMANDA: 593 Quale funzione ha la piridossina nel metabolismo?
+A) ossidazione delle aldeidi ad acidi carbossilici
+B) ossidazione degli alcoli primari ad aldeidi
+C) decarbossilazione degli aminoacidi *
+D) decarbossilazione degli acidi grassi
+E) decarbossilazione dei chetoacidi
+
+DOMANDA: 594 Quale microrganismo puo' determinare una alterazione degli alimenti dovuta alla comparsa di colo- razione rossa:
+A) escherichia Coli
+B) serratia marcescens *
+C) micoplasmi
+D) streptococco fecale
+E) flavobacterium
+
+DOMANDA: 595 Quale prodotto chimico tipico si origina dalla decomposizione microbica del pesce
+A) trimetilamina *
+B) alcool metilico
+C) acido ascorbico
+D) emoglobina
+E) ossido di alluminio
+
+DOMANDA: 596 Quale sostanza si usa per studiare il potere proteolitico dei microrganismi
+A) gelatina *
+B) glucosio
+C) lisina
+D) arginina
+E) urea
+
+DOMANDA: 597 Quale struttura cellulare e' caratteristicamente alterata nelle forme L?
+A) sostanza nucleare
+B) citoplasma
+C) membrana citoplasmatica
+D) mesosomi
+E) parete cellulare *
+
+DOMANDA: 598 Quale struttura della cellula batterica si colora a mezzo della reazione di Feulgen?
+A) sostanza nucleare *
+B) citoplasma
+C) membrana citoplasmatica
+D) parete cellulare
+E) capsula
+
+DOMANDA: 599 Quale struttura e' attaccata, nei batteri sensibili, dal lisozima?
+A) la capsula
+B) la parete cellulare *
+C) la membrana citoplasmatica
+D) il citoplasma
+E) la sostanza nucleare
+
+DOMANDA: 600 Quale test sierologico si usa per la diagnosi della salmonellosi ?
+A) Sierodiagnosi di Widal *
+B) reazione di Wassermann
+C) test di Coombs
+D) reazione di Kolmer
+E) reazione di Kovacs
+
+DOMANDA: 601 Quale tipo di genoma virale non e' mai stato riscontrato ?
+A) ibrido RNA-DNA *
+B) DNA a singola elica
+C) RNA a doppia elica
+D) DNA circolare a doppia elica
+E) RNA a singola elica
+
+DOMANDA: 602 Quale tra i seguenti composti è peculiare della spora batterica?
+A) Lipopolisaccaride
+B) Permanganato di potassio
+C) Ossalato di calcio
+D) Dipicolinato di calcio *
+E) Carbonato di calcio
+
+DOMANDA: 603 Quale tra i seguenti microrganismi non è responsabile di malattie veneree
+A) Chlamydia trachomatis
+B) Neisseria gonorrhoeae
+C) Treponema pallidum
+D) Virus Herpes simplex, Tipo 2
+E) Haemophilus influenzae *
+
+DOMANDA: 604 Quale tra i seguenti virus si replica nelle zanzare e negli esseri umani:
+A) Virus della rabbia
+B) Virus della febbre gialla *
+C) Virus della rosolia
+D) Coronavirus
+E) Nessuno dei virus citati
+
+DOMANDA: 605 Quale tra le seguenti e' una colorazione semplice ?
+A) Gram
+B) Janet *
+C) Gins
+D) Ziehl-Neelsen
+E) Fontana-Tribondeau
+
+DOMANDA: 606 Quale tra queste famiglie di virus determina l'instaurarsi di infezioni tipicamente ricorrenti ?
+A) Poxviridae
+B) Adenoviridae
+C) Herpesviridae *
+D) Togaviridae
+E) Parvoviridae
+
+DOMANDA: 607 Quale tra queste tossine agisce come superantigene?
+A) streptolisina S
+B) TSST-1 prodotta da Staphylococcus aureus *
+C) lipopolisaccaride dei Gram-negativi
+D) tossina difterica
+E) esotossina Ptx prodotta da Bordetella pertussis
+
+DOMANDA: 608 Quale tra questi antibiotici puo' avere azione sui protozoi:
+A) penicillina
+B) streptomicina
+C) gentamicina
+D) anfotericina *
+E) neomicina
+
+DOMANDA: 609 Quale tra questi enzimi e' presente nei paramyxovirus
+A) beta-galattosidasi
+B) RNA asi
+C) tripsina
+D) fosfolipasi C
+E) neuraminidasi *
+
+DOMANDA: 610 Quale tra questi generi di funghi possiede la capsula ?
+A) Histoplasma
+B) Candida
+C) Malassezia
+D) Geotrichum
+E) Cryptococcus *
+
+DOMANDA: 611 Quale tra questi generi e' il fungo maggiormente coinvolto in a llergie respiratorie:
+A) Microsporum
+B) Trichosporum
+C) Cryptococcus
+D) Aspergillus *
+E) Histoplasma
+
+DOMANDA: 612 Quale tra questi virus e' l'agente causale dell'eritema infettivo o quinta malattia ?
+A) coxackievirus B3
+B) echovirus 6
+C) virus del Norwalk
+D) parvovirus B19 *
+E) adenovirus 41
+
+DOMANDA: 613 Quale tra questi virus puo' presentare un sistema contrattile?
+A) il virus influenzale
+B) il batteriofago *
+C) il virus BK
+D) il virus del polioma
+E) il virus della stomatite vescicolare
+
+DOMANDA: 614 Quale tra questi virus si puo' coltivare sulla membrana corioallantoidea dell'uovo embrionato di pollo?
+A) il virus dell'herpes simplex *
+B) il virus del morbillo
+C) il virus respiratorio sinciziale
+D) il virus della febbre gialla
+E) il virus del polioma
+
+DOMANDA: 615 Quale tra questi virus trasforma in vitro cellule di scimmia e di uomo ?
+A) il virus respiratorio sinciziale
+B) il virus della rosolia
+C) il virus di Marburg
+D) il virus BK *
+E) il virus dell'epatite A
+
+DOMANDA: 616 Quale via preferenziale percorre il virus della rabbia per raggiungere il SNC?
+A) Ematica
+B) Linfatica
+C) Neuronale *
+D) Mucosale
+E) Superficiale
+
+DOMANDA: 617 Quale virus viene usato per preparare il vaccino antirabbico per uso umano
+A) virus da strada inattivato
+B) virus da strada vivente
+C) virus fisso vivente attenuato
+D) virus della stomatite vescicolare
+E) virus fisso inattivato *
+
+DOMANDA: 618 Quali agenti virali possono invadere il sistema nervoso centrale?
+A) Enterovirus *
+B) Virus influenzale
+C) Virus del mollusco contagioso
+D) Papillomavirus
+E) Rinovirus
+
+DOMANDA: 619 Quali cellule agiscono formando rosette E con emazie di montone
+A) linfociti T suppressor
+B) macrofagi
+C) linfociti T *
+D) linfociti B
+E) linfociti T e B
+
+DOMANDA: 620 Quali cellule mediano le reazioni di ipersensibilita' umorale
+A) globuli rossi
+B) macrofagi
+C) plasmacellule
+D) linfociti B
+E) linfociti T *
+
+DOMANDA: 621 Quali cellule producono linfochine
+A) linfociti B
+B) linfociti T *
+C) macrofagi
+D) plasmacellule
+E) emazie
+
+DOMANDA: 622 Quali cellule sono il besraglio preferenziale dell'HIV?
+A) Le cellule epiteliali delle mucose
+B) Le cellule nervose
+C) I linfociti CD4 positivi *
+D) Gli epatociti
+E) Le cellule degli epiteli ghiandolari
+
+DOMANDA: 623 Quali cellule sono principalmente responsabili del trasporto dei virus attraverso la barriera ematoencefalica?
+A) I neutrofili
+B) I linfociti
+C) I macrofagi *
+D) Le cellule NK
+E) Le emazie
+
+DOMANDA: 624 Quali dei seguenti organi linfatici e' un organo linfatico primario
+A) milza
+B) linfonodi
+C) placche del Payer
+D) tonsille
+E) timo *
+
+DOMANDA: 625 Quali di queste sostanze e' un chemioterapico
+A) cefalosporina
+B) sulfamidico *
+C) tetraciclina
+D) cloruro di sodio
+E) bacitracina
+
+DOMANDA: 626 Quali di questi virus puo' essere riattivato in caso di debilitazione organica
+A) togavirus
+B) virus influenzale
+C) virus del morbillo
+D) citomegalovirus *
+E) rhinovirus
+
+DOMANDA: 627 Quali enzimi microbici determinano la putrefazione degli alimenti:
+A) neuraminidasi
+B) glicosidasi
+C) colesterolo esterasi
+D) proteasi e peptidasi *
+E) lipasi
+
+DOMANDA: 628 Quali fra i seguenti virus hanno una capside comprendente 240 esoni e 12 pentoni ?
+A) Herpesvirus
+B) Adenovirus *
+C) Picornavirus
+D) Coronavirus
+E) Retrovirus
+
+DOMANDA: 629 Quali fra le seguenti esotossine di staphylococcus aureus e' caratterizzata da un'azione "caldo-freddo" (messa in evidenza prima coll'incuba-zione a 37 gradi centigradi e poi in frigorifero)?
+A) alfa-emolisina
+B) beta-emolisina *
+C) gamma-emolisina
+D) delta-emolisina
+E) enterotossina
+
+DOMANDA: 630 Quali fra le seguenti rickettsie e' filtrabile?
+A) Rickettsia prowazeki
+B) Rickettsia rickettsi
+C) Rickettsia orientalis
+D) Coxiella burneti *
+E) Rickettsia sennetsu
+
+DOMANDA: 631 Quali fra questi virus possiedono una simmetria del capside icosaedrico?
+A) poxvirus
+B) rhabdovirus
+C) orthomyxovirus
+D) reovirus *
+E) coronavirus
+
+DOMANDA: 632 Quali immunoglobuline intervengono nella risposta ai parassiti
+A) Ig M
+B) Ig E *
+C) Ig A
+D) Ig G
+E) Ig D
+
+DOMANDA: 633 Quali immunoglobuline possono attraversare la placenta
+A) Ig A
+B) Ig M
+C) Ig G *
+D) Ig D
+E) Ig E
+
+DOMANDA: 634 Quali sono gli agenti fungini delle tigne ?
+A) tutti i funghi microscopici
+B) tutti i funghi incapaci di provocare infezioni profonde
+C) quei funghi che interferiscono con la sintesi della melanina
+D) i funghi che parassitano specificamente gli annessi cutanei *
+E) alcune specie di leviti patogeni
+
+DOMANDA: 635 Quali sono i criteri attraverso i quali viene condotta una diagnosi virologica ?
+A) e' sempre sufficiente la dimostrazione di anticorpi antivirali
+B) la diagnosi puo' essere basata su dati sierologici, ma puo' anche essere richiesta la dimostrazione degli antigeni e talvolta l'isolamento dell'agente *
+C) sono ricercati esclusivamente gli antigeni virali
+D) viene titolato l'IFN prodotto dalle cellule infette dal virus
+E) e' sufficiente un esame microscopico delle cellule infette dal virus
+
+DOMANDA: 636 Quali sono i fattori che determinano l'assorbimento di un virus a una cellula ospite ?
+A) la temperatura
+B) la presenza di strutture sulla membrana cellulare (recettori) in grado di legare strutture corrispondenti sulla particella virale *
+C) la disponibilita' di fonti di energia
+D) l'attivita' fagocitaria delle cellule presenti nel sito di ingresso del virus nell'organismo
+E) la presenza di enzimi proteolitici
+
+DOMANDA: 637 Quali sono le cellule che formano rosette EAC
+A) macrofagi
+B) linfociti T
+C) linfociti B *
+D) linfociti T e B
+E) granulociti neutrofili
+
+DOMANDA: 638 Quali sono le fonti della contaminazione da fosforo?
+A) metabolica (deiezioni) e di origine naturale
+B) detersivi
+C) agricoltura e zootecnia
+D) industriale
+E) tutte le citate *
+
+DOMANDA: 639 Quali sostanze devono essere allontanate dal siero prima di titolare gli anticorpi antiinfluenzale mediante l'emagglutino-inibizione
+A) l'albumina
+B) le glicoproteine contenenti acido sialico *
+C) i lipidi contenenti colesterolo
+D) gli anticorpi
+E) i lipidi
+
+DOMANDA: 640 Quali tra i seguenti virus sono tra gli agenti etiologici delle diarree infantili ?
+A) togavirus
+B) rotavirus *
+C) polyomavirus
+D) paramyxovirus
+E) rytomegalovirus
+
+DOMANDA: 641 Quali tra questi antibiotici hanno azione battericida ?
+A) Tetracicline
+B) Cloramfenicolo e derivati
+C) Nirofurani
+D) Beta - lattamine *
+E) Ossichinoline
+
+DOMANDA: 642 Quali tra questi antibiotici hanno il nucleo Beta-lattamico ?
+A) cefalosporine *
+B) streptomicine
+C) cicloserine
+D) tetracicline
+E) cloramfenicolo e derivati
+
+DOMANDA: 643 Quali tra questi batteri è un gram-positivo?
+A) Escherichia coli
+B) Pseudomonas
+C) Gonococco
+D) Meningococco
+E) Enterococco *
+
+DOMANDA: 644 Quali tra questi batteri vengono uccisi con la pasteurizzazione del latte:
+A) i batteri termofili
+B) tutti i microrganismi presenti
+C) brucelle e micobatteri *
+D) i batteri sporigeni
+E) il Cl. perfrigens
+
+DOMANDA: 645 Quali tra questi generi di funghi possiede la capsula ?
+A) Histoplasma
+B) Candida
+C) Malassezia
+D) Geotrichum
+E) Cryptococcus *
+
+DOMANDA: 646 Quali tra questi virus possiedono un genoma costituito da DNA a singola elica?
+A) reovirus
+B) orthomyxovirus
+C) parvovirus *
+D) rhabdovirus
+E) picornavirus
+
+DOMANDA: 647 Quali virus sono ritenuti coinvolti in malformazioni fetali ?
+A) il virus della Rosolia ed il Citomegalovirus *
+B) il virus dell'Epatite B
+C) i virus influenzali
+D) il virus della Poliomelite
+E) i virus del Papilloma
+
+DOMANDA: 648 Quando un batterio viene definito lofotrico?
+A) se non ha ciglia
+B) se ha un solo ciglio
+C) se ha un ciuffo di ciglia *
+D) se ha un ciglio a ciascun polo
+E) se ha ciglia tutt'intorno alla cellula
+
+DOMANDA: 649 Quando viene usato un colorante ad azione battericida
+A) per l'allestimento di un terreno selettivo *
+B) per l'allestimento di un terreno elettivo
+C) per fare colorazione di preparati batteriologici
+D) per colorare i leucociti
+E) per consentire lo sviluppo di colture cellulari
+
+DOMANDA: 650 Quante classi di Immunoglobuline umane sono state identificate
+A) 10
+B) 15
+C) 5 *
+D) 2
+E) 4
+
+DOMANDA: 651 Quante DML di tossina difterica sono neutralizzate da una unita' antitossica di siero antidifterico?
+A) 1 DML
+B) 10 DML
+C) 100 DML *
+D) 1000 DML
+E) 10.000 DML
+
+DOMANDA: 652 Quante proteine diverse puo' codificare il genoma dei poxvirus?
+A) 160 circa *
+B) 1500 circa
+C) 35 circa
+D) 12 circa
+E) 27.000 circa
+
+DOMANDA: 653 Quante soluzioni vengono impiegate nella colorazione di Gins per i granuli metacromatici?
+A) 1
+B) 2
+C) 3 *
+D) 4
+E) 5
+
+DOMANDA: 654 Quante volte la circonferenza del DNA batterico e' maggiore del diametro della cellula stessa?
+A) 10 volte
+B) 20 volte
+C) 50 volte
+D) 100 volte
+E) 1000 volte *
+
+DOMANDA: 655 Quanti sono i componenti del complemento, indicati con una C maiuscola seguita da un numero arabo?
+A) quattro
+B) cinque
+C) sei
+D) nove *
+E) dodici
+
+DOMANDA: 656 Quanti sono i principali sottotipi dell'antigene di superficie del virus dell'epatite B conosciuti ?
+A) 3
+B) 24
+C) 8 *
+D) 16
+E) 110
+
+DOMANDA: 657 Quanti sono i tipi antigenici di tossina botulinica conosciuti?
+A) due
+B) tre
+C) quattro
+D) cinque
+E) sei *
+
+DOMANDA: 658 Quanti sono i tipi antigenici di virus polio presenti nel vaccino di Sabin?
+A) due
+B) tre *
+C) quattro
+D) cinque
+E) piu' di dieci
+
+DOMANDA: 659 Quanti tipi antigenici di virus sono inclusi nel vaccino antirosolia ?
+A) 1 *
+B) 2
+C) 3
+D) 4
+E) 5
+
+DOMANDA: 660 Se una cellula si divide in 1/2 ora, quante cellule si saranno formate dopo 3 ore?
+A) 16
+B) 32
+C) 64 *
+D) 128
+E) 256
+
+DOMANDA: 661 Si definisce progressione geometrica una serie di numeri nella quale
+A) ogni numero e' uguale al precedente aumentato di un valore costante
+B) ogni numero e' uguale al doppio del numero che lo precede
+C) ogni numero e' uguale al precedente elevato ad una potenza costante
+D) ogni numero e' uguale al precedente moltiplicato per un valore costante *
+E) ogni numero e' uguale a 3 volte il numero che lo precede
+
+DOMANDA: 662 Si devono neutralizzare 10 cm3 di una soluzione di Na OH di concentrazione 0,1 moli per litro. Che volume di H2 SO4 di concentrazione 1/2 della soda sara' necessario impiegare.
+A) 5 cm3
+B) 20 cm3
+C) 15 cm3
+D) 2,5 cm3
+E) 10 cm3 *
+
+DOMANDA: 663 Si devono preparare 100 cm3 di una soluzione che contenga 10 micromoli di KH2 PO4 per ogni cm3 ( Massa Molare del sale = 132 g mol-1). Quanto fosfato occorrera' pesare ?
+A) 13,2 mg
+B) 1,32 mg
+C) 132 mg *
+D) 1320 mg
+E) 0,132 mg
+
+DOMANDA: 664 Si ha maggiore produzione di ATP:
+A) nella fermentazione alcolica
+B) nel processo respiratorio aerobico *
+C) nella fermentazione lattica
+D) nella produzione di metano
+E) nella fermentazione butirrica
+
+DOMANDA: 665 Si localizza nel sangue allo stadio di verme adulto:
+A) Enterobius vermicularis
+B) Ancylostoma duodenale
+C) Taenia solium
+D) Schistosoma mansoni *
+E) Entamoeba histolytica
+
+DOMANDA: 666 Significato di "metabolismo endogeno" nei batteri
+A) demolizioni e resintesi delle proteine cellulari
+B) ossidazione delle riserve di energia in assenza di fonti esterne *
+C) l'energia necessaria al mantenimento delle strutture cellulari
+D) accumulo di materiale di riserva
+E) eliminazione dei prodotti di rifiuto dovuti al catabolismo
+
+DOMANDA: 667 Su quale cromosoma umano e' presente il complesso di geni dell'istocompatibilita'
+A) 5
+B) 6 *
+C) 7
+D) 21
+E) 17
+
+DOMANDA: 668 Su quali cellule agiscono i fattori timici
+A) macrofagi
+B) linfociti T *
+C) plasmacellule
+D) linfociti B
+E) mastcellule
+
+DOMANDA: 669 Su quali cellule si legano le Ig E
+A) neutrofili
+B) linfociti B
+C) mastcellule e basofili circolanti *
+D) linfociti T e B
+E) macrofagi
+
+DOMANDA: 670 Su quali cellule si trovano i recettori per ilvirus di Epstein- Barr
+A) linfociti T
+B) linfociti B *
+C) linfociti T e B
+D) macrofagi
+E) linfociti B e macrofagi
+
+DOMANDA: 671 Toxoplasma gondii si riproduce per endoduogenia cioe' per:
+A) moltiplicazione sessuata
+B) frammentazione cellulare
+C) divisione binaria
+D) formazione di piccole uova
+E) gemmazione interna *
+
+DOMANDA: 672 Tra i microorganismi elencati quale produce cisti:
+A) trichomonas
+B) leishmanie
+C) ameba *
+D) plasmodio
+E) tripanosoma
+
+DOMANDA: 673 Trasmissione dell'infezione da Ascaris lumbricoides:
+A) penetrazione diretta
+B) per via orale *
+C) con intervento di vettori
+D) per contatto sessuale
+E) per penetrazione attraverso la cute
+
+DOMANDA: 674 Trypanosoma cruzi infetta l'uomo tramite le triatomine che sono:
+A) cimici *
+B) zecche
+C) pulci
+D) zanzare
+E) pidocchi
+
+DOMANDA: 675 Tutti i virus a DNA si replicano nel nucleo ?
+A) si poiche' tutti necessariamente sfruttano gli enzimi cellulari per replicare il proprio acido nucleico
+B) no: i poxvirus si replicano nel citoplasma *
+C) dipende dallo stato del ciclo cellulare in cui si trova la cellula infetta
+D) no, perche' hanno le stesse esigenze enzimatiche e di precursori dei virus a RNA
+E) no: solo quelli con involucro esterno
+
+DOMANDA: 676 Un antibiotico agisce:
+A) sulle piante
+B) sui mammiferi
+C) sui pesci
+D) sui virus
+E) sui microrganismi *
+
+DOMANDA: 677 Un antibiotico viene prodotta da:
+A) fagi
+B) virus
+C) piante
+D) rickettsie
+E) microrganismi *
+
+DOMANDA: 678 Un batterio penicillino-sensibile:
+A) e' molto mobile
+B) e' poco mobile
+C) e' di grandi dimensioni
+D) e' inibito dalla penicillina *
+E) e' stimolato a crescere dalla penicillina
+
+DOMANDA: 679 Un batterio si definisce capnofilo se richiede:
+A) anidride carbonica *
+B) azoto
+C) solfato
+D) cloruro di calcio
+E) citrato di ferro
+
+DOMANDA: 680 Un disco per antibiogramma e':
+A) metallico
+B) di vetro
+C) di plastica
+D) di carta *
+E) di porcellana
+
+DOMANDA: 681 Un fago temperato e':
+A) un virus a temperatura sensibile
+B) un batterio non fagocitabile
+C) un batterio fagocitabile a 30 gradi
+D) un virus che non lisa la cellula batterica *
+E) un virus fagocitabile a 30 gradi
+
+DOMANDA: 682 Un fermentatore pilota e':
+A) un piccolo fermentatore sperimentale *
+B) un apparecchio che controlla alcuni parametri durante una fermentazione
+C) un operaio addetto al fermentatore
+D) un ceppo batterico standard utilizzato per una fermentazione
+E) un indicatore di p H
+
+DOMANDA: 683 Un kilogrammo a quanti microgrammi corrisponde?
+A) 10 alla 6
+B) 10 alla 7
+C) 10 alla 8
+D) 10 alla 9 *
+E) 10 alla 10
+
+DOMANDA: 684 Un plasmide e' costituito da:
+A) RNA messaggero
+B) RNA transfert
+C) proteine mitocondriali
+D) DNA extracromosomiale *
+E) RNA ribosomiale
+
+DOMANDA: 685 Un superantigene è
+A) un antigene in grado di resistere al sistema immunitario
+B) una esotossina che potenzia l'effetto di altre tossine
+C) una molecola di natura peptidica in grado di stimolare una intensa risposta immunitaria *
+D) una endotossina pirogenica
+E) un antigene che viene riconosciuto solo da pochi anticorpi
+
+DOMANDA: 686 Una capsula Petri e':
+A) una protesi dentaria
+B) un recipiente a tenuta stagna
+C) uno strumento per sterilizzare
+D) l'involucro di un medicinale
+E) un contenitore per colture batteriche *
+
+DOMANDA: 687 Una cellula batterica si replica per fissione binaria. Dopo 1 generazione una cellula madre origina 2 cellule figlie. Quante cellule si formeranno dopo cinque generazioni a partire da 5 cellule madri ?
+A) 25
+B) 275
+C) 80
+D) 125
+E) 160 *
+
+DOMANDA: 688 Un'infezione virale persistente si dice latente allorché
+A) non è accompagnata da manifestazioni cliniche evidenti
+B) il virus è difettivo
+C) il virus non si replica o si replica in misura indimostrabile *
+D) si ha una continua produzione di virioni che rimangono intracellulari
+E) l'infezione non può riattivarsi
+
+DOMANDA: 689 I gamma-proteobatteri
+A) comprendono i batteri del genere Streptococcus
+B) comprendono i batteri del genere Bacillus
+C) comprendono Aeromonas, Legionella, Vibrio e la grande famiglia Enterobacteriaceae *
+D) comprendono i batteri del genere Enterococcus
+E) comprendono i batteri del genere Clostridium
+
+DOMANDA: 690 Quali dei seguenti generi sono in grado di dar luogo alle spore?
+A) Streptococcus
+B) Bacillus *
+C) Mycobacterium
+D) Legionella
+E) Staphylococcus
+
+DOMANDA: 691 Attraverso quale di questi metodi è possibile dimostrare la presenza del genoma batterico in campioni clinici?
+A) Immunofluorescenza diretta
+B) Reazione polimerasica a catena (PCR) *
+C) Immunofluorescenza indiretta
+D) Emoagglutinazione
+E) Fissazione del complemento
+
+DOMANDA: 692 Ceftarolina e ceftobiprolo sono esempi di cefalosporine di quinta generazione specificamente sviluppate per rimanere attive nei confronti di:
+A) Enterobatteri produttori di beta-lattamasi a spettro esteso (ESBL)
+B) Enterococchi vancomicino-resistenti (VRE)
+C) Pseudomonas aeruginosa produttore di carbapenemasi
+D) Staphylococcus aureus meticillino-resistente (MRSA) *
+E) Staphylococcus aureus vancomicino-resistente (VRSA)
+
+DOMANDA: 693 Le infezioni da P. aeruginosa nei pazienti con fibrosi cistica:
+A) interessano principalmente le vie urinarie
+B) vengono sempre trattate con successo con antibiotici carbapenemici
+C) tendono a diventare croniche e recalcitranti alla terapia antibiotica *
+D) tutte le risposte sono corrette
+E) sono solitamente le prime infezioni che si manifestano in questi pazienti in età infantile
+
+DOMANDA: 694 In quali campioni biologici viene solitamente effettuata la ricerca degli emofili?
+A) nel sangue e negli essudati
+B) nella saliva e nelle feci
+C) nei tamponi naso-faringei, nel pus, nel sangue e nel liquor *
+D) negli espettorati
+E) nelle urine
+
+DOMANDA: 695 Qual è la specie di Bordetella più importante per l'uomo?
+A) B. abortus
+B) B. holmesii
+C) B. parapertussis
+D) B. bronchiseptica
+E) B. pertussis *
+
+DOMANDA: 696 I batteri anaerobi obbligati sono batteri:
+A) che possono crescere sia in assenza che in presenza di aria
+B) nessuna delle risposte è corretta
+C) che possono vivere solo in presenza di aria
+D) che possono vivere solo in assenza di aria *
+E) che possono vivere solo in presenza di metano
+
+DOMANDA: 697 I batteri sono microrganismi:
+A) aerobi facoltativi
+B) anaerobi
+C) microaerofili
+D) tutte le risposte sono corrette *
+E) aerobi
+
+DOMANDA: 698 Un terreno di trasporto è:
+A) un terreno che permette la moltiplicazione batt
+B) un terreno di arricchimento
+C) un terreno che mantiene i microrganismi vivi, ne previene l'essiccamento e permette la loro moltiplicazione
+D) un terreno selettivo
+E) un terreno che mantiene i microrganismi vivi, ne previene l'essiccamento ma non ne permette la moltiplicazione *
+
+DOMANDA: 699 I batteri possono essere identificati:
+A) tutte le risposte sono corrette *
+B) in base alle caratteristiche antigeniche
+C) in base alle caratteristiche morfologiche e tintoriali
+D) In base alle caratteristiche biochimiche
+E) in base al profilo proteico di origine microbica
+
+DOMANDA: 700 Quale fra i seguenti batteri patogeni può essere isolato dal paziente mediante coprocoltura?
+A) Salmonella enterica *
+B) Neisseria gonorrhoeae
+C) Neisseria meningitidis
+D) Streptococcus pneumoniae
+E) Corynebacterium diphtheriae
+
+DOMANDA: 701 La principale fonte di infezione per le gastroenteriti da Campylobacter è rappresentata da:
+A) latte non pastorizzato
+B) pollame *
+C) nessuna delle risposte è corretta
+D) crostacei e molluschi crudi
+E) pesce crudo
+
+DOMANDA: 702 Qual è il terreno di coltura che viene solitamente utilizzato per l'isolamento dei batteri del genere Haemophilus?
+A) agar cioccolato addizionato di ampicillina e cefalosporine
+B) agar contenente cristalvioletto, sali biliari e lattosio
+C) agar normale contenente bacitracina
+D) agar contenente uovo, fecola di patate e glicerolo
+E) agar cioccolato addizionato di emoglobina e vitamine *
+
+DOMANDA: 703 Qual è la specie di Haemophilus che si ritrova nella placca dentale ed è associato a malattie parodontali?
+A) H. parainfluenzae *
+B) H. haemolyticus
+C) H. ducreyi
+D) H. aegyptius
+E) H. influenzae di tipo b
+
+DOMANDA: 704 Qual è il componente principale del vaccino gliconiugato contro l'Haemophilus influenzae di tipo b?
+A) i polisaccaridi della parete cellulare
+B) i polisaccaridi della parete cellulare coniugati a una proteina carrier
+C) il polisaccaride capsulare (PRP)
+D) il polisaccaride capsulare (PRP) coniugato a una proteina carrier *
+E) la tossina emolitica detossificata chimicamente
+
+DOMANDA: 705 Per fare diagnosi di neurosifilide con test sierologici su campioni di liquor si raccomanda:
+A) Tutte le risposte sono corrette
+B) Nessuna delle risposte è corretta
+C) il test sierologico treponemico FTA-ABS è l'unico metodo indicato.
+D) l'utilizzo del test di flocculazione non treponemico VDRL per l'alta specificità. *
+E) l'utilizzo dell'immunofluorescenza diretta per la ricerca del microrganismo.
+
+DOMANDA: 706 I micoplasmi sono sempre resistenti:
+A) agli antibiotici beta lattamici *
+B) alla gentamicina
+C) alle cefalosporine
+D) alle tetracicline
+E) ai chinolonici
+
+DOMANDA: 707 Le infezioni da micoplasmi:
+A) sono tipiche di paesi in via di sviluppo del sud-est asiatico
+B) sono diffuse in tutto il mondo *
+C) colpiscono solo individui anziani
+D) sono tipiche di paesi in via di sviluppo del continente africano
+E) sono tipiche dei paesi industrializzati
+
+DOMANDA: 708 La metodica MALDI-TOF:
+A) esamina gruppi di proteine tramite ionizzazione laser *
+B) esamina il genoma microbico tramite ionizzazione laser
+C) caratterizza reazioni biochimiche
+D) evidenzia le caratteristiche morfologiche dei microrganismi
+E) evidenzia la presenza di fattori esocellulari
+
+DOMANDA: 709 Il cromosoma batterico è:
+A) mai circolare
+B) sempre lineare
+C) sempre circolare
+D) generalmente circolare *
+E) nessuna delle risposte è corretta
+
+DOMANDA: 710 Quali fattori influiscono sulla crescita batterica?
+A) Tutte le risposte sono corrette *
+B) pH
+C) Sostanze nutritive
+D) Temperatura
+E) Ossigeno
+
+DOMANDA: 711 Cosa si intende per "disbiosi" del microbiota?
+A) Mantenimento dell'equilibrio
+B) Mantenimento della struttura
+C) Alterazioni nella struttura
+D) Alterazioni nella struttura e composizione *
+E) Alterazioni nella composizione
+
+DOMANDA: 712 Che cosa si intende, negli streptococchi, per emolisi gamma?
+A) L'assenza di emolisi intorno alle colonie cresciute su agar sangue *
+B) La produzione di una colorazione verdognola intorno alle colonie
+C) L'emolisi incompleta che si osserva su agar sangue intorno alle colonie
+D) L'emolisi che si manifesta su agar sangue intorno alle colonie trattandole con gamma globuline
+E) L'emolisi completa che si osserva su agar sangue intorno alle colonie
+
+DOMANDA: 713 I Campylobacter patogeni per l'uomo sono:
+A) nessuna risposta è corretta
+B) bacilli Gram-positivi
+C) cocchi Gram-negativi e microaerofili
+D) bacilli incurvati Gram-negativi e microaerofili *
+E) batteri psicrofili
+
+DOMANDA: 714 Quali di queste patologie è causata da batteri del genere Brucella?
+A) La febbre mediterranea
+B) La febbre quartana
+C) La febbre bottonosa
+D) La febbre maltese *
+E) La febbre terzana
+
+DOMANDA: 715 Dove sono localizzati gli acidi micolici nei micobatteri?
+A) Micomembrana *
+B) Capsula
+C) Citoplasma
+D) Spazio periplasmico
+E) Membrana plasmatica
+
+DOMANDA: 716 Quale affermazione riguardante l'esame microscopico per la ricerca di micobatteri non è vera?
+A) È un test semplice
+B) È un test rapido
+C) È un test poco costoso
+D) Non è un test specie-specifico
+E) È un test altamente sensibile *
+
+DOMANDA: 717 Quale è l'algoritmo diagnostico raccomandato per confermare la diagnosi di malattia di Lyme?
+A) Test di biologia molecolare per identificare acidi nucleici specifici su liquor
+B) PCR su liquido cerebrospinale
+C) Test sierologico sensibile, come ad esempio il metodo EIA o il test IFA, accoppiato a Western blot *
+D) Il solo utilizzo del Western blot
+E) L'esame microscopico in campo oscuro accoppiato al saggio immunoenzimatico
+
+DOMANDA: 718 Le tecnologie NGS che permettono di riconoscere DNA metilato sono:
+A) PacBio e Nanopore
+B) Ion Torrent e Illumina
+C) PacBio e Ion Proton
+D) Illumina e 454 *
+E) tutte le risposte sono corrette
+
+DOMANDA: 719 Quale tecnologia NGS identifica le basi grazie alla variazione di pH?
+A) Ion Proton *
+B) Nanopore
+C) Illumina
+D) PacBio
+E) nessuna tecnologia NGS
+
+DOMANDA: 720 Gli elementi genetici trasponibili:
+A) permettono ai plasmidi di segregare
+B) traspongono mediante ricombinazione omologa
+C) includono i trasposoni, gli elementi integrativi e coniugativi, gli integroni, le sequenze di inserzione *
+D) sono molecole di DNA capaci di autoreplicarsi
+E) tutte le risposte sono corrette
+
+DOMANDA: 721 La valutazione della carica batterica è essenziale per la diagnosi microbiologica di:
+A) endocardite
+B) infezione urinaria *
+C) polmonite
+D) meningite
+E) tifo addominale
+
+DOMANDA: 722 Quali sono le misure di controllo più efficaci nei confronti delle infezioni da Brucella?
+A) La pastorizzazione del latte, la vaccinazione degli animali d'allevamento e l'abbattimento dei capi infetti *
+B) La depurazione delle acque e il controllo delle reti fognarie destinate alla raccolta e allo smaltimento dei liquami negli allevamenti
+C) Evitare il consumo di carni crude o poco cotte
+D) Evitare il consumo frequente di formaggi freschi, anche se prodotti con latte pastorizzato
+E) Non consumare latte proveniente da aziende non sottoposte a controlli rigorosi
+
+DOMANDA: 723 Neisseria meningitidis è uno dei principali agenti eziologici di:
+A) meningite cerebrospinale *
+B) faringo-tonsillite
+C) blenorragia
+D) gonorrea
+E) polmonite
+
+DOMANDA: 724 Se colorati con una colorazione di Gram, i micoplasmi sono:
+A) Sono colorabili solo i micoplasmi uro-genitali
+B) Si colorano in maniera parziale sia come Gram negativi sia come Gram positivi
+C) Gram positivi
+D) Gram negativi
+E) Non si colorano con la colorazione di Gram *
+
+DOMANDA: 725 Quale tra queste patologie non è correlata all'infezione da Helicobacter pylori?
+A) Ulcera duodenale
+B) Diarrea *
+C) Ulcera peptica
+D) Gastrite
+E) Carcinoma gastrico
+
+DOMANDA: 726 Quale di questi enzimi contribuisce alla colonizzazione da parte di Helicobacter pylori?
+A) Ureasi *
+B) Emolisina
+C) Catalasi
+D) Ialuronidasi
+E) Lipasi
+
+DOMANDA: 727 Quali dei seguenti metodi possono essere utilizzati in laboratorio per la diagnosi di infezione da Helicobacter pylori?
+A) Tutte le risposte sono corrette *
+B) Esame istologico su biopsia gastrica
+C) Urea breath test
+D) Esame colturale su biopsia gastrica
+E) PCR su biopsia gastrica
+
+DOMANDA: 728 Il terreno utilizzato per l'isolamento di Legionella spp. è:
+A) Agar cioccolato
+B) MacConkey agar
+C) CNA-agar sangue
+D) Agar sangue
+E) BCYE agar *
+
+DOMANDA: 729 In quale delle seguenti fasi della curva di crescita batterica il numero di batteri è costante nel tempo?
+A) Fase di morte
+B) Fase stazionaria *
+C) Fase di replicazione
+D) Fase esponenziale
+E) Fase di latenza
+
+DOMANDA: 730 Qual è l'esame più idoneo per diagnosticare una setticemia?
+A) Emocoltura *
+B) Conta batterica
+C) Urinocoltura
+D) Conta linfocitaria
+E) Indagine sierologica
+
+DOMANDA: 731 Quale delle seguenti è la definizione più calzante di capside?
+A) Un apparato utilizzato dai virus per danneggiare le membrane cellulari
+B) Un rivestimento proteico a organizzazione multimerica che riveste l'acido nucleico virale *
+C) Un organo di locomozione dei virus
+D) Un rivestimento costituito da un'unica grande proteina che racchiude l'acido nucleico virale
+E) Un rivestimento di natura lipoproteica che racchiude l'acido nucleico virale
+
+DOMANDA: 732 Che cosa s'intende per virulenza virale?
+A) L'attitudine di un virus a indurre seri danni al sistema nervoso centrale
+B) La capacità di un virus di determinare una malattia valutabile clinicamente
+C) La capacità del virus di uccidere animali di laboratorio, se privi di difese immunitarie
+D) La capacità di un virus di infettare sia cellule di origine umana sia animale
+E) La capacità di un virus, valutata come quantità dello stesso, in grado di determinare uno specifico evento sia in vivo sia in vitro *
+
+DOMANDA: 733 Quale dei seguenti virus è stato associato al sarcoma di Kaposi?
+A) HCV
+B) HHV-8 *
+C) Virus B19
+D) VZV
+E) HTLV-I
+
+DOMANDA: 734 Per quali virus viene utilizzata la determinazione del genotipo (genotipizzazione?)
+A) Per nessuno dei virus proposti
+B) HPV e HCV *
+C) CMV e VZV
+D) Adenovirus
+E) Morbillivirus
+
+DOMANDA: 735 l genoma dei Poliomavirus è costituito da:
+A) RNA a polarità positiva
+B) DNA lineare a doppia elica
+C) RNA a polarità negative
+D) RNA lineare a doppia elica
+E) DNA circolare a doppia elica *
+
+DOMANDA: 736 Quale delle seguenti infezioni da Paramyxovirus può essere prevenuta usando un vaccino vivo attenuato?
+A) Parainfluenza
+B) Bronchiolite
+C) Croup
+D) Morbillo *
+E) Faringite
+
+DOMANDA: 737 Il virus West Nile è trasmesso da specie aviarie
+A) che vivono in contatto con i pipistrelli
+B) presenti soltanto in alcune specifiche aree dell'Egitto
+C) che migrano in autunno
+D) Nessuna delle risposte è corretta
+E) molto diffuse, anche ai paesi europei e al nord America *
+
+DOMANDA: 738 Epidemiologia dei norovirus:
+A) le epidemie si manifestano esclusivamente in pazienti pediatrici
+B) nei bambini piccoli e nei neonati i norovirus possono associarsi a manifestazioni neurologiche quali convulsioni
+C) i norovirus si trasmettono prevalentemente per via aerea, ma può anche avvenire attraverso il consumo di cibi e acqua contaminati
+D) le epidemie si manifestano esclusivamente in pazienti adulti
+E) i norovirus sono ubiquitari, responsabili di casi sporadici e di un'elevata percentuale di casi epidemici *
+
+DOMANDA: 739 Diagnosi di infezione da norovirus:
+A) per la diagnosi non sono disponibili saggi rapidi, quali i test in immunocromatografia
+B) la diagnosi può avvalersi di tecniche molecolari su campioni ematici
+C) può essere anche solo clinica, in quanto i sintomi sono molto caratteristici
+D) la diagnosi clinica non è sufficiente per porre una diagnosi eziologica della diarrea *
+E) la diagnosi sierologica è utile per conoscere la suscettibilità all'infezione e rappresenta uno dei cardini diagnostici
+
+DOMANDA: 740 Quale delle affermazioni sulla trasmissione di HIV-1 è errata?
+A) avviene mediante trasfusioni di sangue
+B) non avviene mai per trasmissione verticale, dalla madre infetta al figlio *
+C) avviene mediante rapporti eterosessuali
+D) avviene mediante rapporti omosessuali
+E) avviene per scambio di siringhe con ago infettato, tra consumatori di droghe
+
+DOMANDA: 741 Per la diagnosi dell'infezione da HIV-1 e HIV-2 si possono usare varie metodiche, ma non:
+A) misura degli antigeni virali (p24 circolante)
+B) determinazione sierologica degli anticorpi antivirali specifici (test ELISA)
+C) sequenziamento del DNA virale *
+D) isolamento virale (generalmente dai leucociti del sangue periferico e dalle secrezioni genitali)
+E) ricerca qualitativa del DNA provirale o dell'RNA virale
+
+DOMANDA: 742 Fattore di rischio più importante per lo sviluppo del carcinoma della cervice uterina è:
+A) l'endocervicite cronica
+B) l'infezione da HPV6-11
+C) l'uso di contraccettivi orali
+D) l'infezione da HPV 16-18 *
+E) l'infezione da HSV
+
+DOMANDA: 743 La diagnosi d'infezione da TTV (Torque teno virus) si effettua di regola attraverso:
+A) la ricerca di specifiche IgM
+B) nessuna delle risposte è corretta
+C) la ricerca dell'effetto citopatico su colture cellulari
+D) la ricerca del genoma *
+E) la ricerca degli antigeni virali
+
+DOMANDA: 744 TTV (Torque teno virus) è un virus:
+A) patogeno solo a livello dell'apparato genito-urinario
+B) nessuna delle risposte è corretta
+C) orfano di patologia *
+D) patogeno
+E) patogeno solo quando presente ad alto titolo
+
+DOMANDA: 745 Alla famiglia Pneumoviridae appartiene:
+A) metapneumovirus *
+B) virus del morbillo
+C) virus della parotite
+D) Nipah virus
+E) virus parainfluenzale di tipo 3
+
+DOMANDA: 746 SARS-CoV è un virus appartenente alla famiglia Coronaviridae
+A) originato, attraverso una mutazione, da un virus del maiale
+B) trasmesso alla specie umana dal dromedario
+C) che è stato recentemente trasmesso all'uomo attraverso animali selvatici infettati a loro volta da un Coronavirus presente nei pipistrelli *
+D) che infetta la specie umana da oltre dieci secoli, ma in specifiche regioni orientali
+E) nessuna delle risposte è corretta
+
+DOMANDA: 747 Quale di queste affermazioni riguardanti il virus dell'epatite A è vera?
+A) Tutti gli episodi di infezione hanno rilevanza clinica
+B) Esiste un vaccino a virus inattivato *
+C) Nessuna di queste risposte è corretta
+D) Ne esistono tre sierotipi
+E) L'infezione umana avviene esclusivamente per via alimentare
+
+DOMANDA: 748 Durante la terapia, se la carica virale nel plasma risale sono disponibili test di resistenza per valutare la suscettibilità di HIV ai farmaci antiretrovirali. A tal proposito possiamo dire che:
+A) Nessuna risposta è esatta
+B) saggi genotipici non vengono mai usati per lo studio della comparsa di varianti farmaco-resistenti di HIV
+C) saggi genotipici misurano la suscettibilità del virus ai vari farmaci in sistemi di coltura di tessuto
+D) saggi genotipici rilevano mutazioni nel genoma che sono note essere associate a resistenza *
+E) saggi fenotipici rilevano mutazioni nel genoma che sono note essere associate a resistenza
+
+DOMANDA: 749 Il vaccino contro l'HBV è oggi costituito da
+A) HBcAg ricombinante
+B) una miscela di tutte le proteine dell'envelope virale (pre-S1, pre-S2 e HBsAg)
+C) HBsAg ottenuto da plasma di portatori cronici
+D) nessuna delle risposte è corretta
+E) HBsAg ricombinante *
+
+DOMANDA: 750 Il virione è:
+A) un virus biologicamente inattivo
+B) un sinonimo di virus
+C) una particella virale matura *
+D) un virus di grandi dimensioni
+E) un virus a DNA
+
+DOMANDA: 751 Gli Herpesvirus presentano un ciclo di replicazione che prevede:
+A) la formazione di strutture a forcina
+B) la sintesi in tre tempi di distinti gruppi di RNA *
+C) una fase di retrotrascrizione
+D) la formazione di RNA genomici e sub genomici
+E) la sintesi del DNA virale mediante DNA polimerasi cellulare
+
+DOMANDA: 752 Quale delle seguenti affermazioni riguardo la prevenzione e il trattamento dell'influenza è corretta?
+A) I farmaci che inibiscono la neuraminidasi sono attivi solo contro l'influenza A.
+B) Il vaccino per l'influenza contiene diversi sierotipi di virus. *
+C) La dose di richiamo del vaccino non è raccomandata.
+D) I ceppi virali nel vaccino influenzale non possono variare di anno in anno.
+E) Il vaccino a subunità molto spesso non è protettivo.
+
+DOMANDA: 753 L'influenza aviaria ad alta patogenicità H5N1 (HPA1) può infettare l'uomo con un alto tasso di mortalità, ma non ha ancora causato una pandemia. Le seguenti affermazioni sono caratteristiche di HPA1, tranne una. Quale?
+A) Presenza di geni dell'influenza aviaria
+B) Efficiente infezione del pollame
+C) L'infezione è altamente patogena per l'uomo
+D) Efficiente trasmissione uomo-uomo *
+E) Contiene un genoma a RNA segmentato
+
+DOMANDA: 754 Quale affermazione è corretta per i Paramyxovirus?
+A) Sono virus trasmessi per via aerea *
+B) Tutti e tre i virus di rilevanza clinica, il morbillo, la parotite e RSV causano infezioni esantematiche
+C) La proteina G del virus respiratorio sinciziale contiene attività neuraminidasica
+D) Sono virus trasmessi per via parenterale
+E) Il genoma a RNA positivo del virus della parotite viene direttamente tradotto in proteina producendo così la RNA replicasi necessaria per la replica del virus
+
+DOMANDA: 755 Gli Astrovirus sono virus a:
+A) DNA
+B) RNA a doppia elica
+C) RNA a singola elica a polarità positiva *
+D) nessuna risposta corretta
+E) RNA a singola elica a polarità negativa
+
+DOMANDA: 756 Di norma, la terapia applicata ai pazienti (bambini o gli adulti) affetti da grave gastroenterite è:
+A) la vaccinazione
+B) l'immunizzazione passiva
+C) nessun intervento
+D) l'alimentazione forzata
+E) la reintegrazione di liquidi orale o per via endovenosa per evitare la disidratazione *
+
+DOMANDA: 757 Nel ciclo di replicazione di HIV-1 si parla di integrazione quando:
+A) il genoma virale dal citoplasma penetra nel nucleo della cellula ospite
+B) il genoma virale penetra nella cellula dopo la fusione
+C) il DNA virale si integra nel genoma della cellula ospite ad opera della integrasi *
+D) l'RNA virale si integra nel genoma della cellula ospite ad opera della integrasi
+E) l'RNA virale dei soli ceppi M-tropici si integra nel genoma della cellula ospite ad opera dell'integrasi
+
+DOMANDA: 758 HDV si trasmette:
+A) per via parenterale e parenterale inapparente *
+B) attraverso punture di insetti
+C) per via aerogena
+D) per via fecale-orale
+E) tutte le risposte sono corrette
+
+DOMANDA: 759 L'infezione da HDV:
+A) è trasmessa facilmente da madre positiva a feto
+B) è sempre di tipo acuto e non evolve mai in forme croniche
+C) riduce il rischio di evoluzione in cirrosi dell'epatite da HBV
+D) è una co-infezione correlata all'infezione primaria da HBV *
+E) nessuna risposta è corretta
+
+DOMANDA: 760 Il meccanismo d'azione antivirale degli IFN prevede:
+A) l'innesco della trasduzione del segnale con la successiva lisi cellulare in seguito al legame dell'IFN ad un generico recettore cellulare
+B) l'innesco del ciclo cellulare ed espressione di geni virali
+C) l'innesco della trasduzione del segnale con la successiva espressione di geni cellulari in seguito al legame dell'IFN a un specifico recettore cellulare *
+D) l'innesco della trasduzione del segnale con la successiva lisi cellulare in seguito al legame al genoma cellulare
+E) la sintesi di intermedi ad RNA ad azione antivirale
+
+DOMANDA: 761 Il genoma di HDV è costituito da:
+A) DNA a doppio filamento
+B) RNA a doppio filamento, segmentato
+C) DNA a singolo filamento
+D) RNA a singolo filamento *
+E) Ibrido DNA:RNA
+
+DOMANDA: 762 I ribovirus a genoma positivo:
+A) presentano sempre una fase nucleare
+B) presentano un RNA che funziona da messaggero *
+C) hanno associato all'RNA una RpRd per la trascrizione in mRNA
+D) sono caratterizzati da un'elevata stabilità genetica
+E) necessitano di una trascrittasi inversa per essere replicati
+
+DOMANDA: 763 La struttura del virione degli adenovirus è costituita da:
+A) capside icosaedrico nudo *
+B) capside icosaedrico rivestito di pericapside
+C) capside icosaedrico rivestito di tegumento e pericapside
+D) capside icosaedrico rivestito di matrice e pericapside
+E) capside a simmetria complessa nudo
+
+DOMANDA: 764 I Poliomavirus hanno un capside:
+A) pleiomorfo, con struttura variabile
+B) elicoidale nudo
+C) icosaedrico con inviluppo
+D) elicoidale con inviluppo
+E) icosaedrico nudo *
+
+DOMANDA: 765 MERS-CoV è un virus appartenente alla famiglia Coronaviridae
+A) si tratta di un virus trasmesso da carne cruda o poco cotta
+B) generatosi attraverso una mutazione di SARS-CoV
+C) molto simile al coronavirus IBV del pollo
+D) probabilmente trasmesso da pipistrelli al dromedario e da questo all'uomo *
+E) nessuna delle risposte è corretta
+
+DOMANDA: 766 Quale delle seguenti caratteristiche è comune ai Poliovirus e ai Coxackievirus?
+A) Si replicano nell'intestino e poi diffondono per via ematica *
+B) Sono zoonosi
+C) Riconoscono gli stessi recettori
+D) Infettano comunemente la popolazione infantile
+E) Esiste un vaccino
+
+DOMANDA: 767 Quale dei seguenti fattori differenzia il virus dell'epatite A dal virus dell'epatite B e C?
+A) Nessuna di queste risposte è corretta
+B) Tropismo per le cellule epatiche
+C) Modalità di trasmissione *
+D) Diffusione tramite viremia
+E) Tropismo per il sistema nervoso
+
+DOMANDA: 768 Il virus della rabbia:
+A) è un virus ad RNA a polarità positiva non segmentato, dotato di envelope
+B) è un virus a DNA circolare di piccole dimensioni, privo di envelope
+C) è un virus a DNA a doppia elica, dotato di envelope
+D) è un virus ad RNA a polarità negativa non segmentato, dotato di envelope *
+E) è un virus ad RNA a polarità negativa segmentato, privo di envelope
+
+DOMANDA: 769 Quale fra le seguenti affermazioni è vera relativamente al vaccino anti-HAV attualmente in uso?
+A) È un vaccino a virus attenuato
+B) È un vaccino ricombinante
+C) È un vaccino a virus inattivato *
+D) È il primo vaccino epitope-based disponibile
+E) È un vaccino a subunità
+
+DOMANDA: 770 Dove avviene la replicazione dei virus con simmetria icosaedrica?
+A) Nei lisosomi
+B) Dipende dal tipo di acido nucleico virale *
+C) Nei mitocondri
+D) Nel citoplasma
+E) Nel nucleo
+
+DOMANDA: 771 Quali di queste metodiche viene più frequentemente utilizzata per la determinazione quantitativa dei genomi virali?
+A) Real Time PCR *
+B) PCR end point
+C) PCR competitiva
+D) Sequenziamento
+E) bDNA
+
+DOMANDA: 772 L'agente più comunemente responsabile di bronchiolite nei bambini sotto ai 2 anni è:
+A) metapneumovirus
+B) adenovirus
+C) virus influenzale
+D) virus del morbillo
+E) virus respiratorio sinciziale *
+
+DOMANDA: 773 I prioni sono responsabili di quali malattie neurologiche?
+A) Malattia di Creutzfeldt-Jakob e Sindrome di Gerstmann-Sträussler-Scheinker *
+B) Narcolessia
+C) Epilessia mioclonica
+D) Sclerosi multipla
+E) tutte le risposte sono corrette
+
+DOMANDA: 774 Quale fra le seguenti affermazioni è vera riguardo al vaccino anti-HBV attualmente in uso?
+A) Ha come obiettivo la stimolazione di anticorpi protettivi diretti contro l'antigene C del virus
+B) Nessuna risposta è corretta
+C) È un vaccino non somministrabile ai neonati
+D) È un vaccino ottenuto con tecniche del DNA ricombinante *
+E) È un vaccino a virus attenuato
+
+DOMANDA: 775 Quando è indispensabile la diagnosi virologica di laboratorio?
+A) Quando il quadro clinico può essere sostenuto da più virus non correlati (ad es. infezioni respiratorie, forme esantematiche, forme enteriche acute *
+B) Quando si riscontra un esantema da morbillo
+C) Quando si è di fronte ad una polmonite batterica
+D) Quando si sospetta una forma di meningite batterica
+E) Quando il quadro clinico è chiaro
+
+DOMANDA: 776 Quale di questi approcci si avvale della ricerca degli antigeni virali?
+A) Analitico
+B) Indiretto
+C) Diretto *
+D) Molecolare
+E) Indiretto e diretto insieme
+
+DOMANDA: 777 Quali reagenti vengono utilizzati per la ricerca degli antigeni virali in un campione clinico?
+A) Sonde molecolari
+B) Terreni di coltura
+C) Enzimi litici
+D) Antisieri (anticorpi) *
+E) Primers
+
+DOMANDA: 778 Il virus della rabbia si replica
+A) nel corpo dei neuroni *
+B) nelle cellule epiteliali
+C) nel nucleo dei neuroni
+D) nelle cellule muscolari striate
+E) nei monociti
+
+DOMANDA: 779 Quale forma di malattia da prioni dell'uomo è più frequente?
+A) Insonnia fatale familiare
+B) Malattia di Creutzfeldt-Jakob sporadica *
+C) Malattia di Creutzfeldt-Jakob variante
+D) Malattia di Creutzfeldt-Jakob iatrogena
+E) Malattia di Creutzfeldt-Jakob genetica
+
+DOMANDA: 780 Quale fra le seguenti affermazioni è vera relativamente ai vaccini a virus inattivato?
+A) Non possono essere somministrati ai neonati
+B) Non hanno effetti collaterali
+C) Non possono essere somministrati agli anziani
+D) Non necessitano solitamente di richiami
+E) Sono più sicuri rispetto a quelli a patogeno attenuato *
+
+DOMANDA: 781 La specie di protozoi intestinali che provoca ulcere intestinali ed ascessi in diversi organi è:
+A) tutte le amebe
+B) Entamoeba coli
+C) Cryptosporidium parvum
+D) Entamoeba histolytica *
+E) Giardia duodenalis
+
+DOMANDA: 782 Nella malattia del sonno, il parassita Trypanosoma brucei invade preferenzialmente:
+A) il sistema linfatico (linfonodi e vasi)
+B) il sistema circolatorio (macrofagi)
+C) le cellule dell'epitelio intestinale
+D) il sistema circolatorio (globuli rossi) *
+E) il sistema nervoso centrale (liquido cefalorachidiano)
+
+DOMANDA: 783 Nella leishmaniosi, il parassita invade preferenzialmente:
+A) il sistema reticoloendoteliale (macrofagi) *
+B) il sistema linfatico (linfonodi e vasi)
+C) le cellule dell'epitelio intestinale
+D) il sistema nervoso centrale (liquido cefalorachidiano)
+E) il sistema circolatorio (globuli rossi)
+
+DOMANDA: 784 Quale vantaggio è rappresentato dall'utilizzo dei sistemi in multiplex?
+A) Permettono la determinazione di un solo virus ma con elevata specificità
+B) Vengono utilizzati per rilevare patogeni esclusivamente nel siero
+C) Nessuno
+D) Sono sistemi obsoleti
+E) Permettono la rilevazione simultanea di più patogeni contemporaneamente *
+
+DOMANDA: 785 Cosa si ricerca principalmente con la sierodiagnosi?
+A) Gli anticorpi della classe IgM e un incremento di almeno 4 volte del titolo (quantità) delle IgG in due sieri prelevati a distanza (fase acuta e fase convalescente). *
+B) Un incremento di almeno 4 volte del titolo (quantità) delle IgG in due sieri prelevati a distanza (fase acuta e fase convalescente)
+C) Gli anticorpi della classe IgG in un singolo campione
+D) La ricerca degli anticorpi fissanti il complemento
+E) Gli anticorpi della classe IgM
+
+DOMANDA: 786 Il citoplasma dei batteri è diverso da quello delle cellule eucariotiche perché:
+A) non è presente il Golgi ma un complesso sistema di strutture lamellari
+B) nessuna delle risposte è corretta
+C) non è presente il Golgi ma è presente il reticolo endoplasmatico
+D) i ribosomi sono legati alla membrana citoplasmatica
+E) non sono presenti strutture isolate delimitate da membrane *
+
+DOMANDA: 787 Qual è la costante di sedimentazione dei ribosomi batterici e delle loro due subunità?
+A) 80S-30S-50S
+B) 90S-40S-50S
+C) 70S-30S-40S
+D) 100S-40S-60S
+E) 70S-30S-50S *
+
+DOMANDA: 788 La competenza per la trasformazione genetica è:
+A) regolata da un sistema di quorum-sensing *
+B) necessaria per l'assemblaggio dei fagi
+C) una caratteristica di tutte le specie batteriche
+D) uno stato fisiologico della cellula batterica che permette la coniugazione
+E) nessuna risposta è corretta
+
+DOMANDA: 789 Quali sono le principali tossine prodotte da Staphylococcus aureus?
+A) Leucocidina
+B) Tossina della sindrome dello shock tossico
+C) Tossine esfolianti A e B
+D) Tutte le risposte sono corrette *
+E) Enterotossine
+
+DOMANDA: 790 Per diagnosi "indiretta" d'infezione si intende:
+A) la ricerca microscopica dell'agente infettante
+B) la ricerca di tossine
+C) la ricerca di antigeni microbici nel
+D) l'esame colturale de
+E) la ricerca di anticorpi specifi *
+
+DOMANDA: 791 Nei casi di sospetto botulismo alimentare la terapia prevede:
+A) la somministrazione di antibiotici
+B) la somministrazione di sieri anti-tossina *
+C) la somministrazione di be
+D) non esistono possibilità terapeutiche
+E) non esistono possibilità terapeutiche
+
+DOMANDA: 792 Quale delle seguenti affermazioni relative ad E. coli non è corretta?
+A) È il maggior responsabile di gastroenteriti nei paesi a elevato standard economico-sociale *
+B) È il bacillo Gram negativo più frequentemente causa di sepsi
+C) È responsabile di meningiti neonatali
+D) È responsabile di più dell'80% delle infezioni urinarie acquisite in comunità
+E) È responsabile di circa il 50% delle infezioni urinarie nosocomiali
+
+DOMANDA: 793 Qual è/quali sono le modalità di infezione con Vibrio cholerae?
+A) Per via parenterale
+B) Per via inalatoria e parenterale
+C) Per ingestione di acque o alimenti contaminati *
+D) Nessuna delle risposte è corretta
+E) Per via inalatoria
+
+DOMANDA: 794 Le infezioni da Campylobacter si contraggono generalmente:
+A) per ingestione di alimenti contaminati *
+B) tutte le risposte sono corrette
+C) per puntura di zanzare Anopheles
+D) per via inalatoria
+E) per puntura di zecche Ixodes
+
+DOMANDA: 795 Nella febbre ricorrente epidemica causata da Borrelia recurrentis, quali sono i serbatoi naturali?
+A) Roditori e cervi
+B) Tutti e le risposte sono corrette
+C) Roditori
+D) Roditori, animali domestici, bestiame
+E) L'uomo è l'unico serbatoio naturale *
+
+DOMANDA: 796 L'identificazione dei micoplasmi è normalmente basata:
+A) sull'uso di colorazioni specifiche
+B) sull'uso di colture cellulari di mammifero
+C) sull'osservazione microscopica diretta del campione
+D) sull'uso di tecniche proteomiche
+E) sull'uso di tecniche di identificazione molecolari *
+
+DOMANDA: 797 Il batterio Rickettsia conorii è la causa di quali fra le seguenti malattie?
+A) Febbre maculosa
+B) Febbre delle montagne rocciose
+C) Febbre bottonosa del mediterraneo *
+D) Tifo esantematico
+E) Salmonellosi
+
+DOMANDA: 798 Quali sono i phyla maggiormente presenti a livello intestinale?
+A) Actinobacteria e Bacteroidetes
+B) Firmicutes e Bacteroidetes *
+C) Firmicutes e Proteobacteria
+D) Proteobacteria e Actinobacteria
+E) Actinobacteria e Firmicutes
+
+DOMANDA: 799 La vaccinazione antitetanica viene effettuata con:
+A) un ceppo di Clostridium tetani inattivato/ucciso
+B) tutte le risposte sono corrette
+C) un ceppo di Clostridium tetani ricombinante
+D) anatossina o tossoide tetanico *
+E) un ceppo di Clostridium tetani attenuato
+
+DOMANDA: 800 Il botulismo alimentare nell'adulto sano prevede la:
+A) ingestione della neurotossina botulinica con gli alimenti *
+B) moltiplicazione di C. botulinum nello stomaco
+C) germinazione di C. botulinum nell'intestino
+D) ingestione delle forme vegetative di C. botulinum
+E) ingestione delle spore di C. botulinum
+
+DOMANDA: 801 Quale dei seguenti generi di enterobatteri non causa patologie gastrointestinali?
+A) Klebsiella *
+B) Yersinia
+C) Shigella
+D) Escherichia
+E) Salmonella
+
+DOMANDA: 802 Cosa si intende per microbiota umano?
+A) Le comunità micotiche (micoma) colonizzanti l'uomo
+B) Una rara malattia infettiva
+C) La moltitudine di microrganismi patogeni colonizzanti l'uomo
+D) L'insieme di microrganismi assemblati in complesse comunità colonizzanti l'uomo *
+E) Le comunità virali (viroma) colonizzanti l'uomo
+
+DOMANDA: 803 I geni che codificano per la tossina carbonchiosa sono:
+A) Nessuna delle risposte è corretta
+B) presenti su un trasposone
+C) presenti su un plasmide *
+D) presenti su elementi genetici virali
+E) presenti sul cromosoma batterico
+
+DOMANDA: 804 In presenza di bicarbonato e di un'atmosfera contenente il 5% di CO2, le colonie di Bacillus anthracis appaiono:
+A) convesse e rugose
+B) emolitiche
+C) piatte e opache
+D) lisce e brillanti *
+E) a "caput medusae"
+
+DOMANDA: 805 La membrana citoplasmatica dei batteri
+A) è composta da lipidi complessati a mucopolissacaridi
+B) non contiene proteine
+C) è generalmente priva di steroli *
+D) ha un solo strato di lipidi
+E) ha due strati di lipidi alternati separati da uno strato di proteine
+
+DOMANDA: 806 I pili sono:
+A) appendici di natura prevalentemente lipidica con rigidità variabile in funzione della specie
+B) appendici capaci di dare moto attivo alle cellule
+C) appendici glicoproteiche non rigide
+D) appendici con la sola funzione antigenica
+E) appendici proteiche *
+
+DOMANDA: 807 Qual è il test convenzionalmente usato per distinguere Staphylococcus aureus dalle altre specie stafilococciche umane?
+A) Voges-Proskauer
+B) coagulasi *
+C) PYR test
+D) fermentazione del lattosio
+E) catalasi
+
+DOMANDA: 808 Quale, tra le seguenti affermazioni relative alle Enterobacteriaceae è corretta?
+A) Tutti i membri della famiglia sono mobili
+B) Tutti i membri della famiglia sono ossidasi positivi
+C) Tutti i membri della famiglia fermentano il glucosio *
+D) Tutti i membri della famiglia fermentano il lattosio
+E) Tutti i membri della famiglia sono beta-emolitici
+
+DOMANDA: 809 I virus a DNA si replicano principalmente:
+A) sulla membrana
+B) nel nucleo *
+C) nel citoplasma
+D) nel reticolo endoplasmatico
+E) nel nucleolo
+
+DOMANDA: 810 Quale delle seguenti fasi della replicazione virale dipende solo ed esclusivamente dalla cellula ospite?
+A) Fase di liberazione dalla cellula
+B) Penetrazione
+C) Sintesi dell'acido nucleico
+D) Retrotrascrizione
+E) Traduzione delle proteine *
+
+DOMANDA: 811 Quale dei seguenti meccanismi d'azione è riferibile agli azoli?
+A) Inibizione della conversione del lanosterolo in ergosterolo *
+B) Inibizione della sintesi dello squalene
+C) Inibizione della conversione dello squalene a lanosterolo
+D) Nessuna risposta è corretta
+E) Formazione di pori nella membrana citoplasmatica
+
+DOMANDA: 812 Quale farmaco antifungino influenza la sintesi degli acidi nucleici
+A) Isovuconazolo
+B) Anidulafungina
+C) 5-fluorocitosina *
+D) Nessuna risposta è corretta
+E) Amfotericina B
+
+DOMANDA: 813 Quale tra i seguenti miceti è causa d'infezione endogena nell'individuo immunocompromesso?
+A) Rhizopus arrhizus
+B) Aspergillus fumigatus
+C) Fusarium solani
+D) Candida albicans *
+E) Cryptococcus neoformans
+
+DOMANDA: 814 La sterilizzazione a vapore sotto pressione si effettua con:
+A) Nessuna delle risposte è corretta
+B) pentola di Koch
+C) pentola di Koch
+D) forno Pasteur
+E) autoclave *
+
+DOMANDA: 815 Nella sterilizzazione con autoclave, qual è l'agente germicida?
+A) Nessuna delle risposte è corretta
+B) Pressione
+C) Temperatura *
+D) Vapore
+E) Vuoto
+
+DOMANDA: 816 Nella tindalizzazione o sterilizzazione frazionata, qual è la massima temperatura raggiunta?
+A) 60 °C
+B) 180 °C
+C) Nessuna delle risposte è corretta
+D) 37 °C
+E) 85 °C *
+
+DOMANDA: 817 Possiamo dire che il processo di pastorizzazione garantisce una sterilizzazione completa?
+A) Nessuna delle risposte è corretta
+B) No, perché i miceti sono resistenti ad alte temperature
+C) Sì
+D) Sì, ma solo se in seguito si controlla l'avvenuta eliminazione di virus presenti
+E) No, perché la temperatura raggiunta non consente l'eliminazione delle endospore *
+
+DOMANDA: 818 A quale dei seguenti componenti della parete cellulare fungina può essere attribuita la rigidità della parete stessa, che sarebbe indipendente dalla sua quantità?
+A) Mannani
+B) β-1,3 glucani
+C) α-1,3 glucani
+D) β-1,6 glucani
+E) Chitina *
+
+DOMANDA: 819 Qual è il limite della filtrazione?
+A) Nessuna delle risposte è corretta
+B) I virus passano facilmente attraverso il filtro *
+C) Le forme vegetative di batteri e miceti possono attraversare il filtro
+D) Nessun limite. Il filtro è impermeabile ai microrganismi
+E) Le spore di batteri e miceti possono attraversare il filtro
+
+DOMANDA: 820 Si definisce antisettico una sostanza usata nella disinfezione di:
+A) vetreria
+B) oggetti inanimati
+C) Nessuna delle risposte è corretta
+D) materiale monouso in plastica
+E) tessuti vivi *
+
+DOMANDA: 821 Quale è la differenza principale tra la membrana citoplasmatica dei funghi e quella dei batteri riguardo alla composizione/struttura?
+A) Presenza di pompe di efflusso
+B) Presenza di fosfolipidi
+C) Presenza di ergosterolo *
+D) Assenza di steroli
+E) Presenza di proteine integrali di membrana
+
+DOMANDA: 822 Quale tra questi disinfettanti appartiene al livello più basso di disinfezione?
+A) Formaldeide
+B) Ossido di etilene
+C) Perossido di idrogeno
+D) Nessuna delle risposte è corretta
+E) Cetrimide *
+
+DOMANDA: 823 Le zanzare sono ectoparassiti ematofagi e vettori:
+A) del plasmodio della malaria, delle filarie e di arbovirus *
+B) soltanto del plasmodio della malaria
+C) soltanto di arbovirus
+D) soltanto di filarie
+E) del plasmodio della malaria, della leishmania e di arbovirus
+
+DOMANDA: 824 In che cosa differisce principalmente la composizione della parete cellulare dei funghi rispetto a quella dei batteri?
+A) Presenza di polimeri di N-acetilglucosamina
+B) Assenza di peptidi dell'acido N-acetilmuramico
+C) Presenza di legami tra proteine, glucani e mannani
+D) Tutte le risposte sono corrette *
+E) Presenza di polimeri del glucosio e del mannosio
+
+DOMANDA: 825 La cisticercosi è una patologia:
+A) causata da ingestione di carne cruda contenente il cisticerco di Taenia solium
+B) causata da infestazione con uova di Taenia saginata
+C) trasmessa da zanzare vettrici
+D) causata da ingestione di uova di Taenia solium *
+E) causata da ingestione di carne cruda contenente il cisticerco di Taenia saginata
+
+DOMANDA: 826 Dopo aver mangiato un hamburger poco cotto in un fast food, quali sono i due generi che possono causare colite emorragica?
+A) Salmonella e Klebsiella
+B) Salmonella e Shigella
+C) Tutte le risposte sono corrette
+D) Proteus e Citrobacter
+E) Escherichia e Shigella *
+
+DOMANDA: 827 Il chemostato è utilizzato per:
+A) mantenere le colture batteriche in fase esponenziale *
+B) mantenere costante nel tempo il numero dei batteri
+C) identificare i metaboliti prodotti dai batteri
+D) rallentare la crescita batterica
+E) mantenere le colture batteriche in condizioni di aerobiosi
+
+DOMANDA: 828 Che cosa si intende per microbiota?
+A) Crescita di microrganismi patogeni nei tessuti dell'ospite
+B) Presenza di microrganismi nel circolo ematico
+C) Flora normale di microrganismi normalmente presenti nei tessuti corporei sani *
+D) Moltiplicazione di microrganismi dopo la penetrazione nei tessuti dell'ospite
+E) L'insieme di microrganismi dannosi per l'ospite
+
+DOMANDA: 829 L'habitat naturale degli stafilococchi è costituito da
+A) cute dei mammiferi *
+B) tutte le mucose più facilmente accessibili dall'esterno
+C) intestino tenue dei mammiferi
+D) acque stagnanti
+E) preparati alimentari, soprattutto zuccherini
+
+DOMANDA: 830 Attraverso quale meccanismo la tossina della pertosse (PT) svolge la sua azione tossica?
+A) inibendo il rilascio di neurotrasmettitori eccitatori
+B) diminuendo la concentrazione di cGMP all'interno delle cellule
+C) inibendo la sintesi proteica cellulare
+D) aumentando il contenuto intracellulare di AMP ciclico *
+E) formando pori sulla membrana delle cellule bersaglio
+
+DOMANDA: 831 Quale delle seguenti affermazioni sulla capsula batterica è errata?
+A) è sempre di natura proteica *
+B) agisce come barriera per le molecole idrofobiche
+C) favorisce l'adesione
+D) è generalmente di natura polisaccaridica
+E) ha attività antifagocitaria
+
+DOMANDA: 832 Il bocavirus è un virus:
+A) patogeno a livello dell'apparato respiratorio *
+B) orfano di patologia
+C) nessuna delle risposte è corretta
+D) patogeno ma solo a livello del distretto genito-urinario
+E) associato a patologie del sistema nervoso centrale
+
+DOMANDA: 833 La sterilizzazione è un processo che porta all'eliminazione di:
+A) batteri e virus
+B) ogni forma vivente *
+C) Nessuna delle risposte è corretta
+D) microrganismi procarioti
+E) microrganismi eucarioti
+
+DOMANDA: 834 Perché la sterilizzazione a vapore fluente non può essere considerata una sterilizzazione vera e propria?
+A) Elimina soltanto i virus lipofili
+B) Non elimina microrganismi con elevata carica
+C) Nessuna delle risposte è corretta
+D) Non è in grado di eliminare batteri e miceti
+E) Non elimina le endospore *
+
+DOMANDA: 835 Perché i raggi UV hanno un potere germicida?
+A) Nessuna delle risposte è corretta
+B) Ossidano i gruppi sulfidrilici delle proteine
+C) Hanno un'azione diretta sulla RNA polimerasi
+D) Danneggiano il DNA inducendo dimeri di timina *
+E) Elevano la temperatura nell'ambiente irradiato
+
+DOMANDA: 836 Quali tra questi disinfettanti è attivo sulle endospore?
+A) Nessuna delle risposte è corretta
+B) Acido ipocloroso
+C) Glutaraldeide *
+D) Alcol isopropilico
+E) Cloruro di benzalconio
+
+DOMANDA: 837 Quale fra le seguenti definizione meglio descrive l'andamento dell'infezione da virus influenzali?
+A) Infezione latente
+B) Infezione acuta *
+C) Infezione cronica
+D) Infezione cronica seguita da latenza
+E) Infezione acuta seguita da infezione cronica
+
